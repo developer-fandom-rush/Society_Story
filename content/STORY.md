@@ -639,11 +639,13 @@ NAME-DROP ONLY in Ep1 — no onstage scenes, no sexual beats:
 
 ---
 
-# Society Wives — Episode 1 — Ankita Part A (Grok + GPT Inserts)
+# Society Wives — Episode 1 — Story (Grok + GPT Inserts)
 
-> **Draft note:** Original Grok prose preserved; new editorial content is explicitly marked **GPT INSERT**. This is a reviewed draft, not a modification of the Master Pack.
+> **Editorial provenance:** Original Grok text is retained in sequence; all added material is identified inline as **GPT INSERT**. This is a *reading chapter*. The Episode 1 Master Pack remains separately available as the writing specification. New reviewed parts will be appended here, not created as new chapters.
 
-## Ankita — Part A (06:55–08:45)
+## Ankita
+
+### Part A — Morning (06:55–08:45)
 
 Subah 6:55. Ankita mirror ke saamne khadi thi. Pastel pink saree ki pleats ek-ek karke seedhi kar rahi thi, pallu ko left shoulder pe set karte hue wohi chhoti si safety pin lagayi — college ke pehle saal se yeh aadat thi. Blouse snug tha, soft full breasts ke upar fabric thoda tight baith raha tha, cup ke upar halka sa swell dikh raha tha. Mirror mein talc ki halki mitti-si smell, sindoor ki line bilkul seedhi, aankhon ke neeche thakan ka halka nishan. Woh apne aap ko dekh rahi thi — Assistant Professor, Physics, private college, Cyber City road. Respectable. Control.
 
@@ -685,11 +687,9 @@ Woh corridor mein ghus hi rahi thi, bag shoulder pe, pallu set, jab ek colleague
 
 “Lab ki backup key nahi mil rahi.”
 
-# Society Wives — Episode 1 — Ankita Part B (Grok + GPT Inserts)
+### Part B — Missing Lab Key (08:50–12:10)
 
-> **Editorial status:** Grok prose preserved verbatim. Passages labeled **GPT INSERT** are non-graphic editorial additions; original Master Pack unchanged. **Flag for review:** Vivan's refusal to maintain distance after a direct instruction is not explicitly required by the prompt.
-
-## Ankita — Part B (08:50–12:10)
+> **Audit note:** The Grok passage in which Vivan does not follow Ankita's instruction to keep his distance remains flagged as an unsupported escalation. This audit note is not part of the narrative.
 
 08:50. Physics department ka corridor thoda gunguna raha tha. Ankita staffroom mein bag rakh kar Lab 2 ki taraf chal di. Pastel pink saree abhi bhi seedhi thi, pallu left shoulder pe, safety pin tight. Blouse ke peeche halka sa sweat shuru ho chuka tha — college AC kabhi kabhi fail ho jata tha. Chalk box haath mein, register dusre haath mein.
 
