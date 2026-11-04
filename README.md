@@ -1,6 +1,6 @@
 # Society Wives — Story Library
 
-A mobile-friendly reader built from the original **Prologue** and **Society Wives — Episode 3 Master Pack** Google Doc tabs. Both source texts live in one editable GitHub file.
+A mobile-friendly reader built from the original **Prologue**, **Episode 1 Master Pack**, **Episode 2 Master Pack**, and **Episode 3 Master Pack** Google Doc tabs. All four source texts live in one editable GitHub file.
 
 ## The ONE file you edit
 
@@ -8,11 +8,11 @@ A mobile-friendly reader built from the original **Prologue** and **Society Wive
 
 1. Open **content/STORY.md** on GitHub.
 2. Click **Edit this file** (pencil icon).
-3. Modify the Prologue or Episode 3 text, or scroll to the end to add a new episode.
+3. Modify the Prologue or any existing episode text, or scroll to the end to add another chapter.
 4. Click **Commit changes** to save.
 5. Refresh the website after GitHub Pages finishes publishing. The reader loads the latest content file on every visit.
 
-### Adding Episode 4 (no programming required)
+### Adding Episode 4 or a later chapter (no programming required)
 
 At the end of content/STORY.md, append:
 
@@ -63,7 +63,7 @@ Publishing may take a couple of minutes. The same URL updates when content/STORY
 ## Features
 
 - Full Prologue with five expandable character introduction cards
-- Full Episode 3 Master Pack, including headings, timeline, sections and Parts A–F per character
+- Complete Episode 1, Episode 2, and Episode 3 Master Packs, including headings, timeline, sections and per-character Parts
 - Automatic navigation for newly added chapters
 - In-chapter table of contents and links
 - Search the open chapter (press /)
@@ -76,6 +76,8 @@ Publishing may take a couple of minutes. The same URL updates when content/STORY
 Google Doc: **Yeh revised Ep1 pack hai — pehle wale clone se alag**.
 
 - Prologue tab: 0 — Prologue (Dhika-style), ID t.hybe3sy4qfjc.
+- Episode 1 tab: Society Wives — Episode 1 Master Pack, ID t.0.
+- Episode 2 tab: Society Wives — Episode 2 Master Pack, ID t.7lxosvxlb7bm.
 - Episode 3 tab: Society Wives — Episode 3 Master Pack, ID t.fyz7ytl1vbhn.
 
 Wording was retained, with Markdown formatting for headings. Other tabs were not imported.
