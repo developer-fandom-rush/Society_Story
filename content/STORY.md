@@ -639,6 +639,52 @@ NAME-DROP ONLY in Ep1 — no onstage scenes, no sexual beats:
 
 ---
 
+# Society Wives — Episode 1 — Ankita Part A (Grok + GPT Inserts)
+
+> **Draft note:** Original Grok prose preserved; new editorial content is explicitly marked **GPT INSERT**. This is a reviewed draft, not a modification of the Master Pack.
+
+## Ankita — Part A (06:55–08:45)
+
+Subah 6:55. Ankita mirror ke saamne khadi thi. Pastel pink saree ki pleats ek-ek karke seedhi kar rahi thi, pallu ko left shoulder pe set karte hue wohi chhoti si safety pin lagayi — college ke pehle saal se yeh aadat thi. Blouse snug tha, soft full breasts ke upar fabric thoda tight baith raha tha, cup ke upar halka sa swell dikh raha tha. Mirror mein talc ki halki mitti-si smell, sindoor ki line bilkul seedhi, aankhon ke neeche thakan ka halka nishan. Woh apne aap ko dekh rahi thi — Assistant Professor, Physics, private college, Cyber City road. Respectable. Control.
+
+**GPT INSERT 01 — Morning pacing:** Ankita ne pleats ke kinare par haath phera, phir pin ki jagah dobara dekhi. Subah ki is chhoti si checking se use lagta tha ki din par uska control hai. Mirror se hatne se pehle usne apni expression ko waise hi set kiya jaise class mein karti thi.
+
+Bathroom ke hook pe kal ki cotton panty abhi bhi latki hui thi. Soft, thodi si crumpled, gusset pe dried mark. Usne notice kiya, ek second ruki. “Baad mein,” socha, aur door band kar diya. Bittu kitchen mein thermos bhar raha tha, doodh garam karne ki awaaz aa rahi thi.
+
+“Bittu, 1:30 pe doodh le aana. Thermos ready rakhna. Aur laundry basket mat chhedna, samjha? Mat chhedna.”
+
+“Haan, Ma’am. Samajh gaya.”
+
+Rohan already gone tha. Sirf ek missed call aur text screen pe — *Client meeting, late aaunga.* Ankita ne phone side pe rakh diya, bag uthaya, door lock kiya. Lift ka button dabaya. Corridor ki halki si thandi hawa blouse ke peeche se chhui.
+
+**GPT INSERT 02 — Transition:** Rohan ka message woh dobara nahi padhna chahti thi. Ghar se nikalte waqt har cheez routine ke mutabik thi: instructions de di gayi thi, door lock tha, bag kandhe par tha. Phir bhi usne ek baar rukkar saans normal ki aur lift ka intezaar kiya.
+
+Landing pe Harish Mama khade the. Retired army, 62, hamesha subah yahin. Kurta pressed, smile ready. “Beta, late mat nikal. Traffic badh gaya hai aaj.” Unki aankhein ek second ke liye neckline pe ruki — blouse ka soft curve, pallu ka edge. Ankita ne register kiya. Ignore kiya. Hamesha ignore karti thi. “Haan Mama, nikal rahi hoon,” bola aur lift mein ghus gayi.
+
+*Angel: Tu shaadi-shuda hai. Respect dikha. Ignore kar.*  
+*Devil: Ek second extra… aur tujhe pata chal gaya ki usne dekha. Aur tujhe pasand aaya.*
+
+Scooter start hui basement se. Wind pallu mein ghusi, thighs ke beech heat badhne lagi. Cyber City road pe traffic, scooter ka vibration uski body mein utar raha tha, petticoat ke neeche thighs pressed together. Safety pin chest pe thoda press kar rahi thi har jolt pe. Woh soch rahi thi ki aaj ka din normal hoga — lab practical, students, chalk.
+
+Parking mein scooter khadi ki, helmet utara, pallu set kiya. Vivan peeche se aaya — 22, sharp tongue, hamesha thoda zyada bold. “Looking very pretty, Ma’am… jaise kal… aur usse pehle bhi.” Usne smile kiya, aankhein thodi der ruki. Reyansh uske side mein tha, shy, aankhein neeche. Low voice mein bola, “Saree… soft lag rahi hai.” Uske words dheeme the, lekin seedhe.
+
+Vivan ne pallu ko dekhte hue ek baar aur push kiya. “Aaj toh classroom bhi alag lagega, Ma’am. Yeh colour… aapke upar.”
+
+**GPT INSERT 03 — Pallu-specific follow-up:** Vivan ne phir seedha pallu ki taraf ishara kiya. “Pin bilkul perfect hai, Ma’am; aap har detail notice karti hain.” Ankita ne uske lafzon ke peeche chhupa familiar teasing tone pehchan liya, isliye jawab chhota rakha.
+
+Ankita ne cut kiya, voice firm. “Classroom. Abhi. Dono.”
+
+Woh dono peeche reh gaye. Ankita corridor ki taraf chal di. Boys ka deodorant abhi bhi air mein tha — sharp, young. Safety pin chest pe thoda aur press kar rahi thi. Uski saans thodi teez thi, lekin face composed.
+
+**GPT INSERT 04 — Emotional continuity:** Lift ke andar usne Harish ki nazar ko yaad kiya tha, aur ab parking ki baat bhi wahi bechaini jaga rahi thi. Dono jagah usne apni awaaz sambhali; dono jagah use class shuru hone ka khayal pakad kar rakhna pada.
+
+*Angel: Yeh students hain. Professional reh. Blush mat.*  
+*Devil: Shy wala zyada chhoota hai andar se. Uske words soft the, lekin deep. Aur tu har subah iska wait karti hai — admit kar.*
+
+Woh corridor mein ghus hi rahi thi, bag shoulder pe, pallu set, jab ek colleague ki awaaz aayi, lab wale door ke paas se, thodi si pareshan:
+
+“Lab ki backup key nahi mil rahi.”
+
 # Society Wives — Episode 2 Master Pack (Hybrid Plot + Grok Writing Bible)
 
 > GPT Option-A public spines kept | Fetish heat restored (Dhika Ep2 ladder) | Paste prompts for Grok part-wise
