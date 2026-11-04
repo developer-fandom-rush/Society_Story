@@ -141,7 +141,7 @@ function render(){
  const ch=chapters[active],isPro=/prologue/i.test(ch.title);
  $('crumb').textContent=shortTitle(ch);document.title=shortTitle(ch)+' · Society Wives';
  const wc=getCount(ch.body),reading=Math.max(1,Math.ceil(wc/205));
- $('hero').innerHTML='<div class="eyebrow">'+(isPro?'The beginning':'The working master pack')+'</div><h1>'+esc(isPro?'Before the Hooks':ch.title)+'</h1><p>'+(isPro?'One building. Five women. Five distinct lives. Begin with their character introductions and the original opening.':'The full original Episode 3 Master Pack—every section, timeline, character-specific prompt and continuity note in one reading view.')+'</p><div class="hero-meta"><span class="meta-pill"><strong>'+wc.toLocaleString()+'</strong> words</span><span class="meta-pill">~'+reading+' min read</span><span class="meta-pill">Editable in GitHub</span></div>';
+ $('hero').innerHTML='<div class="eyebrow">'+(isPro?'The beginning':'The working master pack')+'</div><h1>'+esc(isPro?'Before the Hooks':ch.title)+'</h1><p>'+(isPro?'One building. Five women. Five distinct lives. Begin with their character introductions and the original opening.':'The full original '+esc(shortTitle(ch))+' Master Pack—source-locked sections, timeline, character prompts and continuity notes.')+'</p><div class="hero-meta"><span class="meta-pill"><strong>'+wc.toLocaleString()+'</strong> words</span><span class="meta-pill">~'+reading+' min read</span><span class="meta-pill">Editable in GitHub</span></div>';
  $('castArea').innerHTML=introCards(ch);
  makeNav();makeBottom();
  const q=$('search').value.trim();
