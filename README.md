@@ -1,6 +1,6 @@
 # Society Wives — Story Library
 
-A mobile-friendly reader built from the original **Prologue**, **Episode 1 Master Pack**, **Episode 2 Master Pack**, and **Episode 3 Master Pack** Google Doc tabs. All four source texts live in one editable GitHub file.
+A mobile-friendly reader built from the original **Prologue**, **Episode 1 Master Pack**, **Episode 2 Master Pack**, **Episode 3 Master Pack**, and **Episode 4 Master Pack** Google Doc tabs. All five source texts live in one editable GitHub file.
 
 ## Writing Studio — prompts and draft workflow
 
@@ -11,6 +11,12 @@ Open **[Writing Studio](studio.html)** (or `https://developer-fandom-rush.github
 Paste each Grok result into its matching draft field. Checkmarks and drafts are saved **only in that browser**; use **Download this draft** or **Download all drafts** before changing devices. These drafts do not update GitHub automatically. To publish, add reviewed prose to `content/STORY.md` and commit.
 
 The current [Story Library reader](index.html) remains separate from the Writing Studio. No existing chapter text is overwritten by opening or using the studio.
+
+## Episode 4 reader and writing workflow
+
+Episode 4 — **The Gentlemen's Secret** — is now available in the [Story Library](index.html) as the fifth chapter and in the [Episode 04 Writing Studio](episode4.html) with 25 parts (five women × Parts A–E), plus the Master System. The Episode 4 prompts are imported from the Google Doc **Episode 4 Master Pack** tab; the Revised Multi-Uncle Plot remains a reference, not a second competing canon chapter.
+
+Both writing studios save their drafts locally in separate browser keys, so Episode 1 drafts are not overwritten. The GitHub content is a **one-time sync snapshot**, not a live Google Docs integration. To refresh future Doc edits, sync/import again.
 
 ## The ONE file you edit
 
@@ -73,7 +79,8 @@ Publishing may take a couple of minutes. The same URL updates when content/STORY
 ## Features
 
 - Full Prologue with five expandable character introduction cards
-- Complete Episode 1, Episode 2, and Episode 3 Master Packs, including headings, timeline, sections and per-character Parts
+- Complete Episode 1–4 Master Packs, including headings, timelines, sections and per-character Parts
+- Separate Episode 4 writing studio, 25 character prompts and draft downloads
 - Automatic navigation for newly added chapters
 - In-chapter table of contents and links
 - Search the open chapter (press /)
@@ -89,6 +96,8 @@ Google Doc: **Yeh revised Ep1 pack hai — pehle wale clone se alag**.
 - Episode 1 tab: Society Wives — Episode 1 Master Pack, ID t.0.
 - Episode 2 tab: Society Wives — Episode 2 Master Pack, ID t.7lxosvxlb7bm.
 - Episode 3 tab: Society Wives — Episode 3 Master Pack, ID t.fyz7ytl1vbhn.
+- Episode 4 tab: Society Wives — Episode 4 Master Pack, ID t.xux6qy3fxewz.
+- Episode 4 plot reference: Ep4 Plot (Revised Multi-Uncle), ID t.pc1az85aocbt.
 
 Wording was retained, with Markdown formatting for headings. Other tabs were not imported.
 
