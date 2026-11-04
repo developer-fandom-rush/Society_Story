@@ -2,6 +2,16 @@
 
 A mobile-friendly reader built from the original **Prologue**, **Episode 1 Master Pack**, **Episode 2 Master Pack**, and **Episode 3 Master Pack** Google Doc tabs. All four source texts live in one editable GitHub file.
 
+## Writing Studio — prompts and draft workflow
+
+Open **[Writing Studio](studio.html)** (or `https://developer-fandom-rush.github.io/Society_Story/studio.html`) to prepare Episode 1 with Grok. The studio reads the existing Episode 1 Master Pack from `content/STORY.md` instead of maintaining a second copy of the prompts. It includes the Master System, the existing Prologue as a reference, the optional Shared Prologue rewrite prompt, and all 25 character Parts (A–E for each wife) with one-click copy.
+
+**First Grok paste:** Section 1 — MASTER SYSTEM, in a fresh chat. The Prologue already exists in the linked source tab. Use it as context or optionally rewrite it; then write **Ankita Part A**, followed by Ankita B–E and the other four heroines in order.
+
+Paste each Grok result into its matching draft field. Checkmarks and drafts are saved **only in that browser**; use **Download this draft** or **Download all drafts** before changing devices. These drafts do not update GitHub automatically. To publish, add reviewed prose to `content/STORY.md` and commit.
+
+The current [Story Library reader](index.html) remains separate from the Writing Studio. No existing chapter text is overwritten by opening or using the studio.
+
 ## The ONE file you edit
 
 **[content/STORY.md](content/STORY.md)** — this is the source of truth for the reader.
