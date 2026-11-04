@@ -685,6 +685,68 @@ Woh corridor mein ghus hi rahi thi, bag shoulder pe, pallu set, jab ek colleague
 
 “Lab ki backup key nahi mil rahi.”
 
+# Society Wives — Episode 1 — Ankita Part B (Grok + GPT Inserts)
+
+> **Editorial status:** Grok prose preserved verbatim. Passages labeled **GPT INSERT** are non-graphic editorial additions; original Master Pack unchanged. **Flag for review:** Vivan's refusal to maintain distance after a direct instruction is not explicitly required by the prompt.
+
+## Ankita — Part B (08:50–12:10)
+
+08:50. Physics department ka corridor thoda gunguna raha tha. Ankita staffroom mein bag rakh kar Lab 2 ki taraf chal di. Pastel pink saree abhi bhi seedhi thi, pallu left shoulder pe, safety pin tight. Blouse ke peeche halka sa sweat shuru ho chuka tha — college AC kabhi kabhi fail ho jata tha. Chalk box haath mein, register dusre haath mein.
+
+**GPT INSERT 01 — Public stakes:** Assessment ka timetable uske dimaag mein already set tha. Agar key record par doubt hua, toh sirf ek class nahi, poore practical ka schedule disturb hoga. Ankita ne register ke cover ko seedha kiya aur khud ko yaad dilaya ki aaj har observation theek se document karni hai.
+
+Lab attendant peeche se nikal kar bola, “Ma’am, aaj practical ke liye sab ready hai… bas key.” Ankita ne nod kiya aur andar ghus gayi. Vivan aur Reyansh pehle se Lab 2 mein the. Vivan bench pe lean karke khada tha, Reyansh register ke paas silent.
+
+10:15. Practical start hone wala tha. Ankita ne key drawer khola — backup lab key missing. Primary key lock mein thi, lekin assessed practical ke liye backup zaroori tha. Lab attendant ne scramble kiya, drawers khole, shelves check kiye. “Ma’am, kal toh yahin thi…”
+
+**GPT INSERT 02 — Missing-key clarity:** Drawer ka label wahi tha, jagah bhi wahi. Problem ek khoi hui cheez se badhkar record ki reliability ki thi. Ankita ne bina kisi par shaq thope abhi sirf itna note kiya ki key physically nahi mili aur attendant ki kal wali yaad register se verify karni hogi.
+
+Vivan turant aage aaya. Narrow lab aisle mein woh Ankita ke bilkul close aa gaya. “Ma’am, main dhoondh deta hoon. Aap bas wahin khadi rahiye.” Uske eyes uske waist pe the, jahan pallu thoda slip ho raha tha. “Main sambhal lunga.” Usne smile kiya, thoda zyada confident. Ankita ne step back liya, lekin space kam tha.
+
+“Vivan, distance maintain karo,” usne kaha, voice controlled.
+
+Woh nahi hata. “Ma’am, aap tension mat lo. Main dekh leta hoon.” Usne aisles ke beech se guzarte hue uske saree ke edge ko almost touch kar diya. “Yeh saree aaj bahut soft lag rahi hai… jaise aap khud demonstration ho physics ki. Sabse achhi.”
+
+*Angel: Yeh students hain. Professional reh. Line draw kar.*  
+*Devil: Dono ko pata hai tu sun rahi hai. Aur tu ruk bhi nahi rahi.*
+
+Reyansh quietly aaya. Usne key register khola aur Ankita ko dikhaya. Yesterday’s entry overwritten thi — black pen se naya naam, purana cut. Reyansh ne kuch nahi bola, bas aankhein uthayi, phir neeche. Jab Ankita board pe formula likhne lagi, chalk dust uski ungliyon pe chipak gaya, usne uske blouse ke back pe stare kiya — deep, silent, almost measuring. Soft curve, pallu ka fall, sweat ka halka patch small of her back pe.
+
+**GPT INSERT 03 — Register and agency:** Overwritten entry dekhkar Ankita ka pehla reaction kisi ko accuse karna nahi tha. Usne purani aur nayi writing ko alag-alag samajhne ki koshish ki. Kiski handwriting thi, is par koi final conclusion nikalna jaldi hota. Uske liye yeh pehle college ka administrative issue tha, aur woh isi line par rehna chahti thi.
+
+Ankita ne chalk rakh diya. “Practical postpone. Students ko inform karo.”
+
+**GPT INSERT 04 — HOD-cabin transition:** HOD cabin ki taraf jaate hue usne practical ka time aur key register ki entry apne notes mein likhi. Darwaze ke bahar kuch pal khadi rehkar usne sequence dobara milaya: kal ki entry, subah ki missing key, aur assessment ka slot. Bina verification kisi ka naam lena use theek nahi laga.
+
+11:00 tak HOD cabin se formal order aa gaya. Assessed practical next week. Ankita free after lunch.
+
+**GPT INSERT 05 — Consequence and pacing:** Formal postponement se immediate pressure kam hua, lekin sawal wahi raha: entry kisne badli thi? Ankita ne apne notes band kiye. Next week ka naya slot students tak pahunchana zaroori tha; usse pehle kisi rumour ko fact banne dena woh nahi chahti thi.
+
+Staffroom laut kar woh pani pi rahi thi jab phone buzz hua.
+
+Harish Mama. 11:30.
+
+“Beta, sunna hai lab ki key ka issue hai? Society gate pe kisi ne baat ki. Main security office se help karwa deta hoon agar chaho.”
+
+Ankita ruk gayi. Puzzled. “Mama, aapko kaise pata? Yeh college matter hai.”
+
+“Beta, log baat karte hain. Main bas help offer kar raha hoon. Security wale mujhe jaante hain.”
+
+Usne politely decline kiya. “Nahi Mama, college handle kar lega. Tension mat lo.” Call cut. Uski saans thodi teez thi. Kal ki cotton panty abhi bhi ghar pe bathroom hook pe latki hui thi — uska khayal achanak aa gaya. Soft, worn, uski.
+
+**GPT INSERT 06 — Phone-call reaction:** Call ke baad usne screen ko ek baar phir dekha. Society gate aur college ki lab key ke beech connection samajh nahi aa raha tha. Shayad koi baat ghoomkar pahunchi thi; shayad nahi. Ankita ne is uncertainty ko uncertainty hi rakha aur bina proof kisi wajah ko sach maan lene se bachne ki koshish ki.
+
+Lab corridor mein wapas jaate hue Vivan ne phir se catch kiya. “Ma’am, key mil bhi jaaye toh aapko tension nahi leni chahiye. Aap jab bench pe jhukti ho… theory clear ho jati hai sabki.” Usne low voice mein kaha, eyes waist pe. “Physics ki sabse achhi demonstration aap ho.”
+
+Reyansh peeche khada tha, silent, aankhein blouse ke back pe again. Chalk dust Ankita ki ungliyon pe, sweat small of her back pe ab clear tha. Pallu thoda aur slip ho gaya tha.
+
+*Angel: Professional reh. Yeh galat hai.*  
+*Devil: Dono dekh rahe hain. Tu sun rahi hai. Aur tujhe pata hai ki ghar pe woh panty abhi bhi hook pe hai — kisi ke liye waiting.*
+
+Ankita ne unhe ignore karke staffroom ki taraf chal di. Door ke paas pahunchte hi Jasvindar ne uska wrist catch kar liya — childhood friend, English dept, sleeveless shrug, aankhein serious.
+
+“Anku, ek favour chahiye. Lunch pe baat karte hain.”
+
 # Society Wives — Episode 2 Master Pack (Hybrid Plot + Grok Writing Bible)
 
 > GPT Option-A public spines kept | Fetish heat restored (Dhika Ep2 ladder) | Paste prompts for Grok part-wise
