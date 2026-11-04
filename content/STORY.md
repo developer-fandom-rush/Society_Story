@@ -1259,3 +1259,244 @@ Write Meenakshi Ep3 Part F only. 09:30 balcony plants. Bright soft homewear with
 - Husbands blind to fetish/show and Ep1 incidents.
 
 - Don't repeat a mechanism across wives (coin bend / lamp mirror pose / hook slip / shelf stretch / plant lean).
+
+
+# Society Wives — Episode 4 Master Pack (The Gentlemen's Secret)
+
+> Merged plot (Deepak direction + GPT spines) | GPT softness stripped | Grok owns heat | Paste-ready part prompts
+
+## 0) HOW TO USE THIS TAB
+
+• Ep1–Ep3 Master Packs = CANON. Ep4 continues after Ep3's uncle seeds.
+
+• "Ep4 Plot (Revised Multi-Uncle)" tab = plot source. This tab = writing bible + paste prompts.
+
+• Workflow: fresh Grok chat → paste Section 1 MASTER SYSTEM once → paste one PART at a time (Ankita A→E, then Shivani, Shreya, Taniya, Meenakshi). Read output, then paste next.
+
+• Age lock: heroines ~29, juniors/chotus 22, uncles 60+. No minors. No Pappu.
+
+• Ep4 ladder: Ep1 flash (she already caught her dedicated uncle, stayed silent) → invite → careful outfit → husband John-line → warmth + two-way flirting → "shayad wo ek galti thi" → first accidental tent glance → AUDIO overhear (friend-name moan + her own name + dirty talk) → dedicated uncle's fetish-gaze felt on her body → multiple tent glances → wet/hot ending, NO confront → Ep5 twins name-drop.
+
+### CANON LOCKS
+
+• Not first catch. Ep1 objects: Ankita–Harish Mama (white cotton panty, gusset at nose) | Shivani–Devendra (beige foam bra, cup on face) | Shreya–Baldev (silk blouse hooks, sniffing) | Taniya–Sudhir (wet-patch panty, licked) | Meenakshi–Prakash (nursing bra cup squeezed).
+
+• Dedicated host houses: Ankita→Harish (guests Devendra, Sudhir) | Shivani→Devendra (Baldev, Prakash) | Shreya→Baldev (Harish, Sudhir) | Taniya→Sudhir (Devendra, Prakash) | Meenakshi→Prakash (Harish, Baldev).
+
+• Outfit = MORE covered than usual. Heat comes from them, not from exposure.
+
+• Flirting she enjoys ≠ accepting the Ep1 privacy violation. Layers every part: excitement / guilt / curiosity / attraction / mistrust.
+
+• Husbands (Rohan, Kabir, Arjun, Vikram, Nikhil): John-line — they enjoy their wife being admired/shown off; blind to the circle and Ep1.
+
+• No intercourse, no touching of breasts, no reward for intrusions, no chotu climax. Twins = name-drop only.
+
+### WORD BUDGET (≤10% over)
+
+• A — Morning hesitation + Ep1 flash + invite + careful outfit: 650–750
+
+• B — Husband John-line + travel/arrival: 500–650
+
+• C — Warmth + two-way flirting + one-off illusion + first tent glance: 900–1100
+
+• D — AUDIO overhear discovery + dedicated uncle's gaze: 1000–1200
+
+• E — Return + repeated tent glances + ending heat, no confront + twins seed: 800–1000
+
+• Per wife: ~3850–4700 core (+ heat allowance to ~5200). Full Ep4: ~21–25k.
+
+## 1) GROK — MASTER SYSTEM (paste once)
+
+===== SYSTEM — COPY FROM HERE =====
+
+You are my erotic fiction co-writer for "Society Wives", Episode 4 "The Gentlemen's Secret" (adult fiction, 18+ only).
+
+JOB: Expand each PART prompt I paste into Hinglish erotic prose — dialogue, body detail, psychology, slow-burn voyeur/exhibition tension.
+
+HARD LOCKS:
+
+- Every character in a sexual or sexually-charged moment is an adult: heroines ~29, uncles 60+, juniors/chotus 22. Never minors. No Pappu.
+
+- Ep1 already happened: she caught her dedicated uncle with her intimate item and chose silence. Ep4 is NOT a first catch. Reference Ep1 as memory flash only.
+
+- She wears a careful, covered outfit. Do NOT write her flashing or undressing.
+
+- Discovery is AUDIO: she hears, she does not see. Write the sound graphically — breath, wet rhythm, creak, belt jingle, the exact moan lines the PART gives, verbatim.
+
+- Tent glances: say clearly what she sees — thick bulge pushing pajama/dhoti/lungi/track-pant fabric, its shape and size, how close to her eye level, how many times her eyes return. Unintentional at first, then she can't stop.
+
+- Her body: nipples tightening inside the cup, wetness in her panty, thighs pressed, heat in her neck — state it plainly.
+
+- She does NOT confront. Enjoying the flirting ≠ accepting the privacy violation: keep excitement, guilt, curiosity, attraction and mistrust all alive.
+
+- Uncles never touch her sexually. No intercourse, no breast touching, no reward for intrusions.
+
+- Husband: warm John-line (likes others admiring/watching her), blind to the circle.
+
+- Do NOT soften into "private interest" or "familiarity". Name the lust. Do NOT copy one wife's mechanism to another.
+
+VOICE: Heroine-centred third person limited. Hinglish. Proper outside, dirty Angel/Devil inside in italics (*Angel: Ye galat hai.* / *Devil: Phir teri panty geeli kyun hai?*). Sensory first; concrete clock times; dialogue continues during the heat.
+
+EACH TURN: Write ONLY the pasted PART, within its word band, stop on the named hook. No summary, no preview.
+
+===== SYSTEM — COPY TILL HERE =====
+
+## 2) SHARED TIMELINE (Gurgaon, Sunday — one day, five houses)
+
+• 08:00–10:00 mornings, invites already sent Saturday night by WhatsApp.
+
+• Ankita lunch 13:00 | Shivani design + early dinner 17:30 | Shreya family dinner 20:00 | Taniya society meeting 18:30 | Meenakshi health-camp planning 11:00.
+
+• Guest uncles move between houses through the day — that is how gossip crosses: Sudhir is at Harish's lunch then hosts Taniya; Baldev is at Devendra's then hosts Shreya; Harish is at Prakash's in the morning then Baldev's at night.
+
+## 3) HYBRID CANON — KEEP vs FIX
+
+KEEP from GPT: four phases (hesitation → warmth → relaxed confidence → revelation), wife-specific banter lines, five distinct discovery mechanisms, husband beats.
+
+FIX (Grok heat): "noticing interest" → explicit moans + dirty talk; "uncomfortable" → aroused + guilty; tents described anatomically; dedicated uncle's fetish gaze felt on her body.
+
+ALL→ALL LOCK (each named at least once across Ep4):
+
+• Harish → Ankita (S3 moan, S5 talk), Shreya (S3 hooks talk), Meenakshi (S5 gaze/"doodh")
+
+• Devendra → Shivani (S1, S2, S4), Ankita (S1 tent/gaze), Taniya (S4 talk)
+
+• Sudhir → Taniya (S1 moan, S4 NOC), Ankita (S1 moan), Shreya (S3 silk + tent), Meenakshi (S4 talk)
+
+• Baldev → Shreya (S2 moan, S3), Shivani (S5 moan), Ankita (S2 album talk), Taniya (S5 talk)
+
+• Prakash → Meenakshi (S4 moan, S5), Shivani (S2 curves + tent), Taniya (S4 "bank wali" line), Ankita (S5 talk), Shreya (S2 album)
+
+## 4) ONE-LINERS
+
+• Ankita — "The Afternoon She Trusted Them": pinned pallu, Mama's lunch; guest bathroom → Sudhir moans Taniya then Ankita.
+
+• Shivani — "The House with Too Many Secrets": high-neck co-ord; photo album sizes → study door, Baldev moans Shreya.
+
+• Shreya — "The Compliment Game": safety-pinned hooks; phone left recording → Harish moans Ankita + "society list".
+
+• Taniya — "The Invitation She Almost Refused": dupatta both shoulders; office intercom → Prakash moans Meenakshi + Sudhir's NOC line.
+
+• Meenakshi — "A Compliment She Didn't Expect": modest kurta, extra pad; utility jaali → Baldev moans Shivani, Harish on Ankita, Prakash used Nikhil's name.
+
+## 5) PASTE-READY PART PROMPTS
+
+### 5.1 ANKITA — Harish Mama's lunch | guests Devendra + Sudhir | Rohan
+
+#### PART A — Morning (650–750)
+
+Write Ankita Ep4 Part A only. Sunday 08:10. WhatsApp from Harish Mama: "Beta, kal lunch pe aao, Rohan ko bhi lana. Devendra aur Sudhir bhi honge." Her thumb hovers. Ep1 flash, graphic: Mama in his room, her white cotton panty spread in his fingers, the gusset pressed to his nose, the long slow inhale, his eyes closed — and her standing at the door, silent, then walking away. She never told anyone; she chose silence. Now in front of the almirah: the sheer peach saree she loves — rejected. Pastel cotton saree, high-neck blouse, pallu pinned twice at the shoulder and once at the waist. She checks the mirror from the side: nothing showing. Angel: "Bas, isse zyada kuch nahi dikhna chahiye." Devil: "Phir bhi tu soch rahi hai wo kya dekhenge." Layers: fear, guilt for staying silent, and a tiny unwanted thrill remembering his inhale. Rohan enters: "Itna kyon soch rahi ho? Achhi lag rahi ho." Ankita: "Aapko to sab achha lagta hai." Stop on her pressing the third safety pin shut.
+
+#### PART B — Husband + arrival (500–650)
+
+Write Ankita Ep4 Part B only. 12:40, car. Rohan's John-line, grinning at the signal: "Sach bolun? Mujhe achha lagta hai jab log tumhe dekh ke tareef karte hain. Meri wife hai — show-off karne ka haq hai mera." She laughs, slaps his arm, but the word "dekh ke" sits in her stomach. 13:05 arrival: Harish Mama opens the door in a white kurta-dhoti, hugs her lightly by the shoulders — proper, fatherly; she stiffens, then relaxes because nothing happens. Devendra and Sudhir stand to greet: "Aa gayi professor sahiba!" Smell of rajma and ghee. She notices Mama's eyes go once — only once — to the pinned pallu, then away. Stop on her sitting down on the sofa edge, knees together.
+
+#### PART C — Warmth + first tent (900–1100)
+
+Write Ankita Ep4 Part C only. 13:10–14:20. Three uncles warm and playful. Exact banter: Harish: "Professor sahiba, aaj bhi hamari class lagegi?" Ankita: "Galat jawab diya to attendance kaat dungi." Sudhir: "Itni strict?" Ankita: "Abhi to aap logon ko kuch pata hi nahi." Laughter. Devendra praises how she teaches; Sudhir her sharpness; she starts flirting back — "Devendra uncle, aap to back-bench wale lagte ho." Rohan beams, proud. Internal: "Mama itne sweet hain… shayad wo ek baar ki galti thi. Kitna affection hai inko mere liye." She lets her guard drop. When she bends to set a plate, she FEELS Harish's gaze slide under the pallu to her bare waist and the curve of her hip — slow, the way he inhaled that day; neck heat, a flutter between her legs, mistrust flickers. First tent glance: Devendra stretches on the sofa, kurta rides up — thin cotton pajama, a thick heavy bulge lying sideways along his thigh, outline of the head clear against the fabric. Her eyes stay two full seconds before she jerks them to her chai cup. Devendra notices her noticing and shifts slowly, not hiding it. Stop on her sip of too-hot chai.
+
+#### PART D — Bathroom audio (1000–1200)
+
+Write Ankita Ep4 Part D only. 14:35. Her dupatta hangs in the guest-bathroom corridor; she goes alone. Door shut, light under it. Sounds, graphic: heavy breathing, a wet slapping rhythm, a pajama-naada clinking, the basin creaking under a leaning hand. Sudhir's muffled voice, verbatim: "Taniya… haaye Taniya madam… wo bank wali tight saree… teri geeli wali ab bhi yaad hai…" Rhythm speeds up: "…aur aaj ye professor… Ankita… uski kamar… pin laga ke aayi hai, haaye, kholne ka mann…" A grunt, a long shudder, tap running. She hears only — sees nothing — frozen, hand on the wall, nipples hard inside the high-neck blouse, panty damp. Angel: "Bhaag yahan se." Devil: "Usne tera naam liya jab chhoot raha tha." She slips back via the balcony corridor; through the net door, Devendra and Harish smoking. Devendra: "Shivani ki beige wali yaad hai na? Raat ko neend nahi aati. Aur Taniya ka bhi number lagega." Harish: "Meri bhanji ko aaj dekha? Pallu itna pin kiya hai jaise sab samajh gayi ho. Samajh gayi to bhi aayi na." Both laugh low. Realization: Mama's secret is not alone — it is a circle, they want her friends, and they want her. Stop on her pressing the dupatta to her chest.
+
+#### PART E — Return + ending heat (800–1000)
+
+Write Ankita Ep4 Part E only. 14:50–15:30. She returns; Sudhir comes back fresh, hair wet at temples, and smiles at her normally — that normalcy terrifies and excites her. Harish stands over her with a glass of water — under the white dhoti a clear tent, thick and upward, at her eye level; she sees the damp spot at its tip. Her eyes go back twice. Devendra's bulge still heavy. Layers: she liked their flirting, she hates what they do behind doors, and she is wet thinking of her name in Sudhir's mouth. She presses her thighs, holds Rohan's hand; Rohan, oblivious: "Dekha, sab kitna pyaar karte hain tumse." Sudhir drops the seed: "Agle hafte Taniya ki cousin twins aa rahi hain society mein." No confront. End on her fast breath and the third pin she touches but does not open.
+
+### 5.2 SHIVANI — Devendra's house | guests Baldev + Prakash | Kabir
+
+#### PART A — Morning (650–750)
+
+Write Shivani Ep4 Part A only. 09:30, studio-flat. Devendra's message: "Design discussion + early dinner. Baldev aur Prakash bhi interested hain." Ep1 flash, graphic: Devendra on his bed, her beige foam bra's cup pressed over his mouth and nose, the other cup squeezed in his fist, his eyes rolling — she watched from the door and left without a word. She lifts the modern one-shoulder drape, holds it to her body, puts it back. Chooses a structured high-neck ivory co-ord, full sleeves, a thick bra — not the beige. Angel/Devil: "Beige mat pehenna." / "Wo phir bhi imagine karega." Stop on her zipping the high collar to her throat.
+
+#### PART B — Husband + arrival (500–650)
+
+Write Shivani Ep4 Part B only. 17:20. Kabir: "Itni formal? Dinner hai, client presentation nahi." Shivani: "Meri presentation har jagah achhi honi chahiye." Kabir: "Usme to koi doubt nahi… aur sach bataun, jab sab tumhe ghoorte hain na, mujhe garv hota hai." Arrival: Devendra decent, handshake not hug; Baldev and Prakash rise. Kabir stays an hour, then leaves on a client call: "Tum sambhal lo, darling." Stop on the door closing behind Kabir.
+
+#### PART C — Warmth + first tent (900–1100)
+
+Write Shivani Ep4 Part C only. 18:00–19:00. Architecture talk; she is the best at double meanings. Prakash: "Aapke designs mein curves bahut hote hain." Shivani: "Structure strong ho to curves sambhal jaate hain." Baldev: "Aur load-bearing kitna hai?" Shivani: "Jitna aap utha sako, uncle." Laughter. She thinks Devendra has learned boundaries — so polite, so careful. Yet when she stands at the board she feels Devendra's gaze sit exactly on her chest, as if weighing the cup size through the ivory fabric — nipples tighten. First tent: Prakash leans over the floor plan in tight grey track-pants; a long thick ridge pressed down his thigh. She holds back a smile, eyes on the plan, then back once. Stop on Prakash: "Plan ka centre point kahan hai?"
+
+#### PART D — Album + study audio (1000–1200)
+
+Write Shivani Ep4 Part D only. 19:10. Baldev pulls out a society photo album; his finger stops on Shreya in silk: "Silk mein ye… uff, iske hooks khud khulne ko tarasate hain." Prakash: "Aur Meenakshi — nursing ke baad aur bhar gayi, 36 se 38." Baldev flips to a Holi photo: "Professor Ankita ki kamar — Harish ka luck." Prakash on Shreya: "Ye ek baar chunni hatati hai na…" They know sizes and underwear she never told anyone. Later, refilling water, she passes the half-open study: Baldev alone, phone in one hand showing Shreya's photo, the other moving fast inside his pajama, the sound: wet strokes, chair creak, "Shreya… beta… ek baar… hooks khol de…" She sees only the shadow — hears everything. In the corridor whisper behind her, Devendra to Prakash: "Aaj Shivani ne gala band kar liya — matlab samajh gayi." Prakash: "Samajh gayi to bhi aayi. Next time beige hi pehen ke aayegi." Devendra: "Uske cup mein abhi bhi uski khushbu hai." Her thighs clench; nipples ache against the bra. Stop on her setting the jug down too hard.
+
+#### PART E — Return + ending heat (800–1000)
+
+Write Shivani Ep4 Part E only. 19:30–20:15. Dessert. Devendra stands in front of her serving kheer — pajama tented straight out, heavy, the shape unmistakable; her eyes go there three times, the third time he catches it and smiles slowly. Prakash's ridge still thick when he sits. She enjoyed every comeback; she hates that her bra lives in his drawer; she is wet anyway. Napkin across her lap. Baldev mentions: "Sudhir bata raha tha twins aa rahi hain." No confront. End with her in the lift, hand flat on the high collar, nipples still hard.
+
+### 5.3 SHREYA — Baldev's house | guests Harish + Sudhir | Arjun
+
+#### PART A — Morning (650–750)
+
+Write Shreya Ep4 Part A only. 10:00. Baldev's invite: "Family-style dinner, beta. Arjun ko zaroor laana." Ep1 flash: Baldev's thick fingers tracing the hooks of her silk blouse, nose buried in the underarm, deep sniffs. She chooses an elegant silk saree but a full-sleeve blouse, and adds a safety pin over the back hooks. Angel/Devil. Stop on the pin clicking shut.
+
+#### PART B — Husband + arrival (500–650)
+
+Write Shreya Ep4 Part B only. 19:45. Arjun: "Jab tum confident hokar tayyar hoti ho na, mujhe logon se tumhari tareef sunna achha lagta hai. Dikhao unhe meri wife kya cheez hai." Arrival — Baldev warm, family-like; Harish and Sudhir already there. Stop on Baldev: "Aao beta, ghar tumhara hai."
+
+#### PART C — Compliment game + first tent (900–1100)
+
+Write Shreya Ep4 Part C only. 20:00–21:00. A spontaneous compliment game. Baldev: creativity. Harish: confidence. Sudhir stands: "Aur ye silk aap pe aise baithti hai jaise…" — under his lungi a thick bulge right at her face level as she sits; earliest tent of all. Everyone laughs; she goes red. Shreya: "Aaj to aap teeno ne compliments ki dukaan khol rakhi hai." Baldev: "Tareef achhi lage to karni chahiye." Shreya: "Phir sambhal ke. Agli baar review bhi maangungi." Family trust seems back; Arjun beams. She feels Baldev's gaze run down her back to the pinned hooks, slow. Stop on her eyes flicking back to Sudhir's lungi once more.
+
+#### PART D — Phone recording audio (1000–1200)
+
+Write Shreya Ep4 Part D only. 21:10. She records a terrace video for Arjun's mother, forgets the phone recording on the ledge above the powder room window. 22:30, in the car, earphones in, she plays it: Harish's heavy breath, rhythmic wet strokes, "Ankita… professor… teri wo cotton… haaye bhanji… ek baar dikha de…", a choked groan. Then Baldev and Sudhir outside: Sudhir: "Shreya ne aaj pin laga ke hooks band kiye." Baldev: "Hooks to mere sapne mein roz khulte hain." Sudhir: "Society ki har biwi ki list hai apne paas — Ankita 34 cotton, Shivani beige 36, Meenakshi 38 nursing, Taniya ki geeli…" Harish returns: "Aur Shreya ki silk ki khushbu — Baldev ko hi milti hai." Laughter. She hears her body itemised. Stop on her pressing the earphone deeper.
+
+#### PART E — Car ending heat (800–1000)
+
+Write Shreya Ep4 Part E only. In the car beside Arjun she replays the three tents: Sudhir's lungi, Baldev's pajama when he hugged her goodbye pressing hard against her hip, Harish's at the door. Panty soaked, thighs locked; guilt, fury and want together. Arjun: "Kya sun rahi ho?" Shreya: "Kuch nahi… gaana." Arjun: "Sabne kitni tareef ki na." Seed: Sudhir's voice in the recording: "twins aane do, list lambi hogi." No confront. End on her not deleting the file.
+
+### 5.4 TANIYA — Sudhir's house | guests Devendra + Prakash | Vikram
+
+#### PART A — Morning (650–750)
+
+Write Taniya Ep4 Part A only. She ignores Sudhir's invite twice, then says yes for "society discussion". Ep1 flash, graphic: Sudhir with her wet-patch panty, tongue flat on the stain, licking — while her NOC file sat on his table. Conservative salwar suit, dupatta over both shoulders, plain bra. Angel/Devil. Stop on her pinning the dupatta at both shoulders.
+
+#### PART B — Husband + arrival (500–650)
+
+Write Taniya Ep4 Part B only. 18:25. Vikram: "Har jagah bank-manager wali seriousness le jaane ki zaroorat nahi. Thoda haso, log dekhein meri biwi kitni hot hai." He stays 30 minutes, then leaves for cricket. Stop on her alone with three uncles.
+
+#### PART C — Warmth + first tent (900–1100)
+
+Write Taniya Ep4 Part C only. Sudhir doesn't mention the NOC; he asks about her promotion. Devendra: "Aapke saamne to hum galat bolne se bhi darenge." Taniya: "Dariye mat. Bas bolne se pehle soch lijiye." Prakash: "Socha to hai… bas bol nahi sakte. Bank wali madam ki smile pe loan bhi mil jaaye." She laughs, relaxes — most guarded, so the latest tent (60%): Sudhir hands her a file, kurta loose over a bulge inches from her hand; her hand shakes, she focuses on the file. Stop on her signing nothing.
+
+#### PART D — Intercom audio (1000–1200)
+
+Write Taniya Ep4 Part D only. She sits alone in the society office-room attached to Sudhir's flat to read the NOC file; an old intercom on the table is ON. Speaker crackles: Prakash in the guest room, wet rhythm, "Meenakshi… doodh wali… uff… nichod ke…", and then "…Taniya bhi, bank wali, tight kurti…" Then the drawing room through the intercom: Devendra: "Shivani ki beige abhi bhi drawer mein hai. Aur Taniya ka suit dekha? Dupatta dono taraf — darr gayi." Sudhir: "Taniya ka NOC mere haath mein hai — jaldi kya hai. Uski geeli wali ka swaad abhi tak zubaan pe hai." Devendra: "Mujhe bhi chakhna hai." Society authority and lust are one thing. Her panty soaks; nipples press the plain bra. Stop on her switching the intercom off with one finger.
+
+#### PART E — Ending heat (800–1000)
+
+Write Taniya Ep4 Part E only. She returns, makes no NOC decision. At goodbye Sudhir and Devendra both stand — both pajamas tented, Sudhir's thick and leaning left, Devendra's straight; her eyes go one, two, three times. Sudhir: "Twins aa rahi hain agle hafte — aapki cousins, sahi?" She grips the dupatta. "Good night, Sudhir ji." Lift wall at her back, eyes shut, wet. No confront. End.
+
+### 5.5 MEENAKSHI — Prakash's house | guests Harish + Baldev | Nikhil (video)
+
+#### PART A — Morning (650–750)
+
+Write Meenakshi Ep4 Part A only. 08:00. Prakash: "Health-camp planning, 11 baje. Nikhil ne kaha tha aapko bula lun." Ep1 flash: Prakash squeezing the cup of her nursing bra, milk-stain to his lips. Modest cotton kurta, dupatta, extra nursing pad. Angel/Devil. Stop on her tucking the spare pad into her bag.
+
+#### PART B — Husband + arrival (500–650)
+
+Write Meenakshi Ep4 Part B only. Nikhil on video from Pune: "Jab tum aaram se tayyar hoti ho, mood achha dikhta hai… aur sach, mujhe achha lagta hai jab log tumhe dekh ke jalte hain." Arrival: Prakash respectful; Harish and Baldev cheerful. Stop on the BP machine on the table.
+
+#### PART C — Warmth + first tent (900–1100)
+
+Write Meenakshi Ep4 Part C only. Harish praises her care; Baldev: "Aapke haath mein jaadu hai." Meenakshi: "Injection lagaun to pata chalega jaadu." Harish: "Lagao, hum to kab se line mein hain." She believes Prakash understood his mistake. BP demo: she cuffs Harish, he's seated, dhoti tented right by her wrist — thick, she feels its warmth near her skin; she opens the cuff fast. Her breasts tingle, a drop leaks. Stop on her reading the BP aloud, voice unsteady.
+
+#### PART D — Utility jaali audio (1000–1200)
+
+Write Meenakshi Ep4 Part D only. Washing teacups in the utility area behind the kitchen. Through the jaali, the washroom: Baldev's wet rhythm, "Shivani… wo beige… haaye… aur Taniya ki geeli…" Then Harish and Prakash outside: Harish: "Ankita ki gaand saree mein dekhi hai kabhi? Bhanji hai, par…" Prakash: "Aur Meenakshi ka doodh — kurta mein bhi dikh raha tha." Harish: "Shreya ki silk Baldev ke paas, tera kya?" Prakash: "Meenakshi ko Nikhil ke naam se bulaya — 'Nikhil ne kaha check-up kar dena.' Agli baar bhi wahi." Her husband's name used as the key. Milk lets down, pad soaks, panty damp. Stop on the cup slipping in the sink.
+
+#### PART E — Ending heat (800–1000)
+
+Write Meenakshi Ep4 Part E only. Prakash pulls a chair for her — tent right beside her shoulder, close enough to smell him. Her eyes go three times; Harish's still visible. Baldev: "Twins aayengi to camp mein volunteer badh jayenge." She fixes her dupatta over the wet patch. Nikhil texts "Kaisa raha?" She types "Achha" — deletes — types "Achha." No confront. End.
+
+## 6) DO NOT / CONTINUITY
+
+• No first-catch rewrite; no confrontation; no intercourse; no breast touching; no chotu climax.
+
+• Outfits stay careful; heat from audio, gaze, tents, her body.
+
+• Five mechanisms stay distinct: bathroom / study + album / phone recording / intercom / utility jaali.
+
+• Husbands blind. Twins name-drop only. No minors, no Pappu.
