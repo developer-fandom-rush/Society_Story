@@ -90,7 +90,7 @@ try{const d=JSON.parse(localStorage.getItem(STORE)||'{}');data={drafts:d.drafts|
 function store(){try{localStorage.setItem(STORE,JSON.stringify(data));return true;}catch(e){return false;}}
 function esc(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
 function toast(msg){$('toast').textContent=msg;$('toast').style.display='block';clearTimeout(noticeTimer);noticeTimer=setTimeout(()=>{$('toast').style.display='none';},2200);}
-function chapter(source,name){const at=source.indexOf('# '+name);if(at<0)throw Error('Missing '+name+' in STORY.md');let end=source.indexOf('\n# ',at+2);if(end<0)end=source.length;return source.slice(at,end).trim();}
+function chapter(source,name){const at=source.indexOf('\n# '+name);if(at<0)throw Error('Missing '+name+' in STORY.md');const start=at+1;let end=source.indexOf('\n# ',start+2);if(end<0)end=source.length;return source.slice(start,end).trim();}
 function getSteps(source){
  const pack=chapter(source,'Society Wives — Episode 1 Master Pack');
  const prologue=chapter(source,'Prologue');
