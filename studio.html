@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#101820">
+<meta name="description" content="Society Wives writing studio: source-linked Episode 1 prompts, progress and draft organisation.">
+<title>Writing Studio · Society Wives</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Libre+Baskerville:wght@400;700&display=swap');
+:root{color-scheme:dark;--bg:#0b1118;--sidebar:#111b25;--panel:#17232e;--panel2:#1c2c37;--line:#30404b;--ink:#f5eee3;--muted:#a4b1b8;--accent:#e9c08c;--accentsoft:#e9c08c1b;--green:#a7d5b7}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--ink);font-family:'DM Sans',system-ui,sans-serif;line-height:1.6}a{color:inherit}button,textarea{font:inherit}button{cursor:pointer}button:focus-visible,a:focus-visible,textarea:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.layout{display:grid;grid-template-columns:268px minmax(0,1fr) 260px;min-height:100vh}
+.side{background:var(--sidebar);border-right:1px solid var(--line);position:sticky;top:0;height:100vh;overflow-y:auto;padding:27px 18px;display:flex;flex-direction:column}
+.logo{display:flex;align-items:center;gap:13px;text-decoration:none;margin:0 9px 27px}.mark{display:grid;place-items:center;width:42px;height:42px;border:1px solid var(--accent);color:var(--accent);border-radius:12px;font-family:Georgia;font-size:21px}.logo-name{font:700 19px/1.1 Georgia,serif;letter-spacing:.01em}.logo small{display:block;color:var(--muted);letter-spacing:.2em;text-transform:uppercase;font:700 10px 'DM Sans';margin-top:5px}
+.side-caption{color:var(--muted);font:800 10px 'DM Sans';letter-spacing:.22em;text-transform:uppercase;margin:17px 12px 11px}
+.group-btn{display:flex;align-items:center;gap:11px;width:100%;padding:13px;border:1px solid transparent;background:transparent;color:var(--muted);border-radius:11px;text-align:left;font-size:13px;font-weight:700;margin:2px 0}
+.group-btn:hover,.group-btn.active{color:var(--ink);background:var(--panel);border-color:var(--line)}.group-num{width:27px;color:var(--accent);font:16px Georgia,serif}.group-btn span:nth-child(2){flex:1}.count{font-size:11px;font-weight:500;color:var(--muted)}
+.side-footer{margin-top:auto;padding:25px 12px 0;font-size:11px;color:var(--muted)}.side-footer a{color:var(--accent);text-decoration:none}
+.main{min-width:0}.top{padding:19px clamp(20px,4vw,56px);height:76px;display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid var(--line);gap:15px}.crumb{font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.16em;font-weight:800}.crumb strong{color:var(--accent)}.toplinks{display:flex;gap:10px}.linkbutton,.pillbutton,.button{border-radius:11px;text-decoration:none;padding:11px 15px;font-size:12px;font-weight:800;white-space:nowrap;display:inline-flex;align-items:center;justify-content:center;gap:7px}
+.linkbutton,.pillbutton{color:var(--ink);background:var(--panel);border:1px solid var(--line)}.button{border:1px solid var(--accent);color:#17202a;background:var(--accent)}.button:hover{filter:brightness(1.08)}.pillbutton:hover,.linkbutton:hover{border-color:var(--accent)}.pillbutton:disabled,.button:disabled{opacity:.45;cursor:not-allowed}
+.content{padding:0 clamp(20px,4vw,56px) 70px;max-width:1060px;margin:auto}.hero{padding:46px 0 30px;border-bottom:1px solid var(--line)}.eyebrow{font-size:10px;text-transform:uppercase;letter-spacing:.25em;color:var(--accent);font-weight:800}.hero h1{font-family:'Libre Baskerville',Georgia,serif;font-size:clamp(28px,3.5vw,42px);line-height:1.24;margin:13px 0 15px}.hero p{max-width:700px;color:var(--muted);margin:0}.stats{display:flex;gap:12px;flex-wrap:wrap;margin-top:24px}.stat{border:1px solid var(--line);border-radius:9px;padding:8px 12px;font-size:11px;color:var(--muted)}.stat strong{color:var(--ink);font-size:14px}
+.notice{margin:26px 0;background:var(--accentsoft);border-left:3px solid var(--accent);border-radius:8px;padding:14px 17px;font-size:13px;line-height:1.7}.notice strong{color:var(--accent)}.notice a{color:var(--accent)}
+.sectionlabel{font-size:11px;letter-spacing:.21em;color:var(--muted);font-weight:800;text-transform:uppercase;margin:33px 0 14px}
+.step-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:11px}.step{padding:14px 16px;border:1px solid var(--line);border-radius:12px;background:var(--panel);display:flex;justify-content:space-between;gap:12px;align-items:center;text-align:left;color:var(--ink)}.step.active{border-color:var(--accent);background:var(--accentsoft)}.step .step-index{color:var(--accent);font:15px Georgia,serif;min-width:24px}.step .step-title{font-size:12px;font-weight:700;flex:1;line-height:1.45}.step .step-state{font-size:11px;color:var(--muted)}
+.workspace{margin-top:24px;background:var(--panel);border:1px solid var(--line);border-radius:18px;overflow:hidden}.workspace-head{padding:25px 28px;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;gap:13px;align-items:flex-start}.workspace-head h2{font:700 23px/1.3 Georgia,serif;margin:8px 0}.small{font-size:12px;color:var(--muted);line-height:1.7}.tag{padding:5px 10px;border:1px solid var(--line);border-radius:999px;color:var(--accent);font-size:11px;font-weight:800;white-space:nowrap}.workbody{padding:23px 28px}.actions{display:flex;flex-wrap:wrap;gap:9px;margin-bottom:17px}.prompt{background:#09121a;border:1px solid var(--line);border-radius:11px;padding:20px;white-space:pre-wrap;overflow-wrap:anywhere;max-height:430px;overflow-y:auto;font-size:12px;line-height:1.85;color:#ebdfcb;font-family:ui-monospace,SFMono-Regular,Consolas,monospace;margin:0}
+.draftbox{margin-top:26px}.draftbox h3{font:700 17px Georgia;margin:0 0 7px}.draftbox textarea{display:block;width:100%;height:210px;min-height:140px;resize:vertical;background:var(--bg);border:1px solid var(--line);border-radius:11px;padding:16px;color:var(--ink);line-height:1.75;font-size:13px;margin-top:15px}.draft-footer{display:flex;justify-content:space-between;gap:10px;align-items:center;flex-wrap:wrap;margin-top:12px}.draft-actions{display:flex;gap:9px;flex-wrap:wrap}
+.bottom{display:flex;justify-content:space-between;gap:10px;margin-top:20px}.aside{padding:30px 19px;border-left:1px solid var(--line);background:var(--sidebar);height:100vh;position:sticky;top:0;overflow-y:auto}.aside h3{font-family:Georgia;font-size:17px;margin:8px 0 16px}.meter{height:8px;overflow:hidden;border-radius:100px;background:var(--line)}.fill{height:100%;width:0;background:var(--accent);transition:width .2s}.aside p,.aside li{font-size:12px;color:var(--muted);line-height:1.8}.aside ol{padding-left:19px}.aside a{color:var(--accent);text-decoration:none}.aside a:hover{text-decoration:underline}.asideblock{border-top:1px solid var(--line);padding-top:20px;margin-top:22px}.muted{color:var(--muted)}.hidden{display:none!important}.mobile-menu{display:none}.backdrop{display:none}.toast{position:fixed;bottom:25px;left:50%;transform:translateX(-50%);z-index:100;background:#e9c08c;color:#13202b;padding:10px 18px;border-radius:10px;font-size:13px;font-weight:800;box-shadow:0 10px 35px #0008;display:none}
+@media(max-width:1150px){.layout{grid-template-columns:248px minmax(0,1fr)}.aside{display:none}}
+@media(max-width:740px){.layout{display:block}.side{position:fixed;z-index:40;left:0;width:min(85vw,300px);transform:translateX(-105%);transition:transform .25s}.side.open{transform:translateX(0)}.backdrop.show{display:block;position:fixed;inset:0;background:#000a;z-index:30}.mobile-menu{display:inline-flex}.top{height:68px;padding:12px 17px}.toplinks .linkbutton:nth-child(2){display:none}.content{padding:0 17px 60px}.hero{padding-top:30px}.step-grid{grid-template-columns:1fr}.workspace-head,.workbody{padding:18px}.toplinks{gap:5px}.linkbutton{padding:9px;font-size:11px}.crumb{letter-spacing:.06em}.hero h1{font-size:27px}.stats{gap:6px}.actions .button,.actions .pillbutton{flex:1}.prompt{max-height:360px}.bottom{flex-wrap:wrap}.bottom button{flex:1}}
+</style>
+</head>
+<body>
+<div id="backdrop" class="backdrop"></div>
+<div class="layout">
+<aside id="side" class="side" aria-label="Writing studio navigation">
+<a href="./index.html" class="logo"><div class="mark">SW</div><div><div class="logo-name">Society Wives</div><small>Writing Studio</small></div></div></a>
+<div class="side-caption">Your workflow</div>
+<nav id="groups"></nav>
+<div class="side-footer"><p>Prompts are extracted live from <a target="_blank" rel="noopener" href="https://github.com/developer-fandom-rush/Society_Story/blob/main/content/STORY.md">content/STORY.md</a>.</p><p>Drafts and checkmarks stay in this browser, not in GitHub.</p></div>
+</aside>
+<main class="main">
+<header class="top">
+ <div style="display:flex;align-items:center;gap:12px;min-width:0"><button class="pillbutton mobile-menu" id="menu" aria-label="Open navigation">☰</button><div class="crumb">Society Wives / <strong>Episode 01 · Writing Studio</strong></div></div>
+ <div class="toplinks"><a href="./index.html" class="linkbutton">← Reader</a><a href="https://grok.com" class="linkbutton" target="_blank" rel="noopener noreferrer">Open Grok ↗</a></div>
+</header>
+<div class="content">
+<section class="hero">
+<div class="eyebrow">Source-locked · one part at a time</div>
+<h1>From master pack to finished episode.</h1>
+<p>Choose a step, copy its exact source prompt into Grok, then paste the result back as a local draft. The existing story and master packs remain untouched.</p>
+<div class="stats"><span class="stat"><strong id="totalPrompts">—</strong> prompt steps</span><span class="stat"><strong id="doneCount">0</strong> marked complete</span><span class="stat"><strong id="draftCount">0</strong> saved drafts</span></div>
+</section>
+<div class="notice" id="startNotice"><strong>Start here.</strong> In a fresh Grok chat, copy <b>Master System</b> first. The linked Prologue is already written, so you may use it as a reference instead of generating it again. The first new heroine scene is <b>Ankita — Part A</b>.</div>
+<div class="sectionlabel" id="groupLabel">Loading source steps…</div>
+<div class="step-grid" id="steps"><div class="small">Reading the existing Master Pack…</div></div>
+<section class="workspace" id="workspace">
+ <div class="workspace-head"><div><div class="eyebrow" id="selectedGroup">Starting sequence</div><h2 id="stepTitle">Loading...</h2><div id="stepHint" class="small"></div></div><span class="tag" id="sourceTag">From source</span></div>
+ <div class="workbody">
+   <div class="actions"><button class="button" type="button" id="copyPrompt">Copy exact prompt</button><button class="pillbutton" type="button" id="markDone">Mark complete</button><a class="pillbutton" id="sourceLink" target="_blank" rel="noopener noreferrer" href="https://docs.google.com/document/d/1e5iAz4ifROPNrmpxNdGIAfEy2bTlCjNqSjmEuhQnXw8/edit?tab=t.0">View source ↗</a></div>
+   <pre class="prompt" id="promptText">Loading source…</pre>
+   <div class="draftbox"><h3>Grok output — local draft</h3><div class="small">Paste the generated text here to keep it beside this prompt. It saves locally in this browser only; use Download to back it up. It is NOT automatically published.</div>
+     <textarea id="draftText" aria-label="Paste Grok output" placeholder="Paste the completed scene from Grok here…"></textarea>
+     <div class="draft-footer"><span class="small" id="savedInfo">Nothing saved yet</span><div class="draft-actions"><button class="pillbutton" type="button" id="download">Download this draft</button><button class="pillbutton" type="button" id="downloadAll">Download all drafts</button></div></div>
+   </div>
+   <div class="bottom"><button id="previous" type="button" class="pillbutton">← Previous</button><button id="next" type="button" class="button">Next step →</button></div>
+ </div>
+</section>
+</div>
+</main>
+<aside class="aside">
+<div class="eyebrow">Episode 01 · Field guide</div><h3>Writing order</h3>
+<ol><li>Paste Master System once in a new Grok chat.</li><li>Use the existing Prologue as the opening reference; re-generate only if desired.</li><li>Start new Episode 1 scenes with Ankita Part A.</li><li>Continue Ankita A–E, then Shivani, Shreya, Taniya, Meenakshi.</li><li>Review each output before proceeding.</li></ol>
+<div class="asideblock"><div class="small">Local completion</div><h3 id="progressText">0 / 0</h3><div class="meter"><div class="fill" id="progressFill"></div></div><p>Checkmarks are your local workflow tracker, not proof of published content.</p></div>
+<div class="asideblock"><div class="small">Original material</div><p><a href="https://docs.google.com/document/d/1e5iAz4ifROPNrmpxNdGIAfEy2bTlCjNqSjmEuhQnXw8/edit?tab=t.hybe3sy4qfjc" target="_blank" rel="noopener">0 — Prologue (Dhika-style)</a></p><p><a href="https://docs.google.com/document/d/1e5iAz4ifROPNrmpxNdGIAfEy2bTlCjNqSjmEuhQnXw8/edit?tab=t.0" target="_blank" rel="noopener">Episode 1 Master Pack</a></p><p><a href="https://github.com/developer-fandom-rush/Society_Story/edit/main/content/STORY.md" target="_blank" rel="noopener">Edit story in GitHub ↗</a></p></div>
+</aside>
+</div>
+<div class="toast" id="toast" role="status"></div>
+<script>
+(function(){
+'use strict';
+const SOURCE='./content/STORY.md';
+const DOC='https://docs.google.com/document/d/1e5iAz4ifROPNrmpxNdGIAfEy2bTlCjNqSjmEuhQnXw8/edit?tab=t.0';
+const PROLOGUE_DOC='https://docs.google.com/document/d/1e5iAz4ifROPNrmpxNdGIAfEy2bTlCjNqSjmEuhQnXw8/edit?tab=t.hybe3sy4qfjc';
+const GROUPS=['Start here','Ankita','Shivani','Shreya','Taniya','Meenakshi'];
+const STORE='sw-writing-studio-v1';
+const $=id=>document.getElementById(id);
+let items=[],chosen=0,group='Start here',data={drafts:{},done:{}},noticeTimer;
+try{const d=JSON.parse(localStorage.getItem(STORE)||'{}');data={drafts:d.drafts||{},done:d.done||{}};}catch(e){/* private browsing or stale data */}
+function store(){try{localStorage.setItem(STORE,JSON.stringify(data));return true;}catch(e){return false;}}
+function esc(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+function toast(msg){$('toast').textContent=msg;$('toast').style.display='block';clearTimeout(noticeTimer);noticeTimer=setTimeout(()=>{$('toast').style.display='none';},2200);}
+function chapter(source,name){const at=source.indexOf('# '+name);if(at<0)throw Error('Missing '+name+' in STORY.md');let end=source.indexOf('\n# ',at+2);if(end<0)end=source.length;return source.slice(at,end).trim();}
+function getSteps(source){
+ const pack=chapter(source,'Society Wives — Episode 1 Master Pack');
+ const prologue=chapter(source,'Prologue');
+ const a=pack.indexOf('===== SYSTEM — COPY FROM HERE ====='),b=pack.indexOf('===== SYSTEM — COPY TILL HERE =====',a);
+ if(a<0||b<0)throw Error('Master System markers missing');
+ const system=pack.slice(a+'===== SYSTEM — COPY FROM HERE ====='.length,b).trim();
+ const built=[{id:'system',group:'Start here',title:'Master System · paste first',text:system,source:DOC,hint:'Open a NEW Grok chat. Paste this once, before any part-specific instruction.',kind:'Required first step'}];
+ const re=/^#### GROK PROMPT — (.*)$/gm;
+ let match;
+ const found=[];
+ while((match=re.exec(pack))){const rest=pack.slice(re.lastIndex);const stop=rest.search(/^#{2,4}\s/m);found.push({title:match[1],text:(stop<0?rest:rest.slice(0,stop)).trim()});}
+ const opener=found.find(x=>/Shared Prologue/.test(x.title));
+ if(!opener)throw Error('Shared Prologue prompt missing');
+ built.push({id:'prologue-prompt',group:'Start here',title:'Shared Prologue · optional rewrite',text:opener.text,source:DOC,hint:'Optional: your Prologue already exists. Use this only if you want Grok to rewrite it.',kind:'Optional'});
+ built.push({id:'prologue-reference',group:'Start here',title:'Before the Hooks · existing prose',text:prologue,source:PROLOGUE_DOC,hint:'This is the EXISTING prologue text, not a new prompt. You can paste it as context before Ankita Part A.',kind:'Reference'});
+ for(const x of found){
+   const m=x.title.match(/^(Ankita|Shivani|Shreya|Taniya|Meenakshi)\s+Part\s+([A-E])\b/i);
+   if(!m)continue;
+   built.push({id:m[1].toLowerCase()+'-'+m[2].toLowerCase(),group:m[1],title:m[1]+' · Part '+m[2],text:x.text,source:DOC,hint:x.title+' · paste ONLY this part after the previous output has been reviewed.',kind:'Part '+m[2]});
+ }
+ if(built.length!==28)throw Error('Expected 25 heroine parts plus 3 starting steps; found '+built.length+' total.');
+ return built;
+}
+function groupSelect(name){group=name;let first=items.findIndex(x=>x.group===name);if(first<0)return;chosen=first;render();closeMenu();}
+function select(i){if(!items[i])return;chosen=i;group=items[i].group;render();closeMenu();window.scrollTo({top:0,behavior:'smooth'});}
+function nav(){
+ $('groups').innerHTML=GROUPS.map((g,i)=>{const a=items.filter(x=>x.group===g);const done=a.filter(x=>data.done[x.id]).length;return '<button type="button" class="group-btn '+(g===group?'active':'')+'" data-group="'+esc(g)+'"><span class="group-num">'+(i===0?'✦':'0'+i)+'</span><span>'+esc(g)+'</span><span class="count">'+done+'/'+a.length+'</span></button>';}).join('');
+ $('groups').querySelectorAll('[data-group]').forEach(b=>b.onclick=()=>groupSelect(b.dataset.group));
+}
+function stats(){
+ const n=items.filter(x=>data.done[x.id]).length;
+ $('doneCount').textContent=n;$('totalPrompts').textContent=items.length;
+ $('draftCount').textContent=Object.values(data.drafts).filter(Boolean).length;
+ $('progressText').textContent=n+' / '+items.length;
+ $('progressFill').style.width=(n/items.length*100)+'%';
+}
+function render(){
+ if(!items.length)return;nav();stats();
+ const visible=items.map((x,i)=>({x,i})).filter(q=>q.x.group===group);
+ $('groupLabel').textContent=group==='Start here'?'STARTING SEQUENCE · FOLLOW IN ORDER':group.toUpperCase()+' · ALL FIVE PARTS';
+ $('steps').innerHTML=visible.map(({x,i})=>'<button type="button" class="step '+(i===chosen?'active':'')+'" data-step="'+i+'"><span class="step-index">'+(group==='Start here'?String(i+1).padStart(2,'0'):x.kind.split(' ')[1])+'</span><span class="step-title">'+esc(x.title)+'</span><span class="step-state">'+(data.done[x.id]?'✓ Done':'Open')+'</span></button>').join('');
+ $('steps').querySelectorAll('[data-step]').forEach(b=>b.onclick=()=>select(Number(b.dataset.step)));
+ const x=items[chosen];
+ $('selectedGroup').textContent=x.group+' · '+x.kind;
+ $('stepTitle').textContent=x.title;
+ $('stepHint').textContent=x.hint;
+ $('sourceTag').textContent=x.id==='prologue-reference'?'Existing prose':'Exact source prompt';
+ $('promptText').textContent=x.text;
+ $('sourceLink').href=x.source;
+ $('copyPrompt').textContent=x.id==='prologue-reference'?'Copy existing prose':'Copy exact prompt';
+ $('markDone').textContent=data.done[x.id]?'✓ Marked complete':'Mark complete';
+ $('draftText').value=data.drafts[x.id]||'';
+ $('savedInfo').textContent=data.drafts[x.id]?'Saved locally in this browser':'No local draft yet';
+ $('previous').disabled=chosen===0;$('next').disabled=chosen===items.length-1;
+}
+async function copy(s){
+ try{await navigator.clipboard.writeText(s);toast('Copied to clipboard');}
+ catch(err){const tmp=document.createElement('textarea');tmp.value=s;tmp.style.position='fixed';tmp.style.opacity='0';document.body.appendChild(tmp);tmp.select();try{document.execCommand('copy');toast('Copied to clipboard');}catch(e){toast('Clipboard blocked — select and copy manually');}tmp.remove();}
+}
+function download(name,text){
+ const blob=new Blob([text],{type:'text/markdown;charset=utf-8'});const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download=name;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),1000);
+}
+$('copyPrompt').onclick=()=>copy(items[chosen].text);
+$('markDone').onclick=()=>{const k=items[chosen].id;data.done[k]=!data.done[k];store();render();toast(data.done[k]?'Marked complete':'Marked incomplete');};
+$('draftText').addEventListener('input',()=>{const x=items[chosen];data.drafts[x.id]=$('draftText').value;const ok=store();$('savedInfo').textContent=ok?'Saved locally · '+(data.drafts[x.id].trim().split(/\s+/).filter(Boolean).length)+' words':'Local storage unavailable — download your draft';stats();});
+$('download').onclick=()=>{const x=items[chosen],text=data.drafts[x.id]||'';if(!text.trim()){toast('Paste a draft first');return;}download('society-wives-'+x.id+'.md','# '+x.title+'\n\n'+text);toast('Draft downloaded');};
+$('downloadAll').onclick=()=>{const have=items.filter(x=>data.drafts[x.id]&&data.drafts[x.id].trim());if(!have.length){toast('No drafts to export');return;}const all=have.map(x=>'# '+x.title+'\n\n'+data.drafts[x.id].trim()).join('\n\n---\n\n');download('society-wives-episode-01-drafts.md',all);toast(have.length+' drafts downloaded');};
+$('previous').onclick=()=>select(chosen-1);$('next').onclick=()=>select(chosen+1);
+function closeMenu(){$('side').classList.remove('open');$('backdrop').classList.remove('show');}
+$('menu').onclick=()=>{$('side').classList.toggle('open');$('backdrop').classList.toggle('show');};
+$('backdrop').onclick=closeMenu;
+fetch(SOURCE,{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.text();}).then(s=>{items=getSteps(s);render();}).catch(err=>{$('steps').innerHTML='<div class="notice"><strong>Source unavailable.</strong> Could not extract writing prompts from content/STORY.md. '+esc(err.message)+'</div>';$('workspace').classList.add('hidden');$('groupLabel').textContent='Source error';});
+})();
+</script>
+</body>
+</html>
