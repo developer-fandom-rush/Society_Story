@@ -143,11 +143,16 @@ function md(source){
 function shortTitle(ch){if(/prologue/i.test(ch.title))return 'Prologue';const m=ch.title.match(/Episode\s+0?(\d+)([A-C]?)/i);if(!m)return ch.title.slice(0,42);const kind=/\bMaster Pack\b/i.test(ch.title)?' · Master Pack':/\bStory\b/i.test(ch.title)?' · Story':'';return 'Episode '+String(m[1]).padStart(2,'0')+(m[2]||'').toUpperCase()+kind;}
 function chapterNumber(ch){const m=ch.title.match(/Episode\s+0?(\d+)([A-C]?)/i);return m?String(m[1]).padStart(2,'0')+(m[2]||'').toUpperCase():'✦';}
 function resolveLegacyChapter(id){
- const target='society-wives-episode-06-master-pack-a-b-c-ep3-corrections';
  if(!id)return id;
- // Keep previously shared Episode 06A/B/C and overview links working after consolidation.
- if(/^society-wives-episode-06(?:a|b|c)?-master-pack(?:-|$)/.test(id))return target;
- return id;
+ // Preserve old links while allowing distinct Episode 06A, 06B and 06C pages.
+ const map={
+  'society-wives-episode-06-master-pack-a-b-c-ep3-corrections':'society-wives-episode-06a-master-pack-shared-timeline-household-helpers',
+  'society-wives-episode-06-master-pack-overview-ep3-corrections':'society-wives-episode-06a-master-pack-shared-timeline-household-helpers',
+  'society-wives-episode-06a-master-pack-household-helpers-kiss-paths':'society-wives-episode-06a-master-pack-shared-timeline-household-helpers',
+  'society-wives-episode-06b-master-pack-society-twins-second-accident':'society-wives-episode-06b-master-pack-society-twins',
+  'society-wives-episode-06c-master-pack-office-society-outer':'society-wives-episode-06c-master-pack-office-society'
+ };
+ return map[id]||id;
 }
 function pickCollection(){
  const params=new URLSearchParams(location.search), requested=params.get('view'),wanted=resolveLegacyChapter(params.get('chapter'));
@@ -166,7 +171,7 @@ function updateViewControls(){
  $('showPrompts').setAttribute('aria-pressed',String(!isStory));
  $('sectionExplainer').textContent=isStory
   ? 'Actual reading prose only. Prologue and the published Episode 01 story are here; later stories will appear after you add them.'
-  : 'Source-locked writing instructions only. Episode 01–04, Episode 05A/B/C and the combined Episode 06 (06A/B/C + Ep3 corrections) Master Pack are here; these are writing specifications, not published story prose.';
+  : 'Writing Master Packs, separate from the published story: Episode 03 includes approved corrections; Episode 06A (shared week timeline), 06B (twins) and 06C (office/society) are separate entries.';
  $('editActive').href='https://github.com/developer-fandom-rush/Society_Story/edit/main/content/'+(isStory?'STORY.md':'PROMPTS.md');
 }
 function navigateView(next){
