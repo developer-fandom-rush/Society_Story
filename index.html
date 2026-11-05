@@ -142,8 +142,15 @@ function md(source){
 }
 function shortTitle(ch){if(/prologue/i.test(ch.title))return 'Prologue';const m=ch.title.match(/Episode\s+0?(\d+)([A-C]?)/i);if(!m)return ch.title.slice(0,42);const kind=/\bMaster Pack\b/i.test(ch.title)?' · Master Pack':/\bStory\b/i.test(ch.title)?' · Story':'';return 'Episode '+String(m[1]).padStart(2,'0')+(m[2]||'').toUpperCase()+kind;}
 function chapterNumber(ch){const m=ch.title.match(/Episode\s+0?(\d+)([A-C]?)/i);return m?String(m[1]).padStart(2,'0')+(m[2]||'').toUpperCase():'✦';}
+function resolveLegacyChapter(id){
+ const target='society-wives-episode-06-master-pack-a-b-c-ep3-corrections';
+ if(!id)return id;
+ // Keep previously shared Episode 06A/B/C and overview links working after consolidation.
+ if(/^society-wives-episode-06(?:a|b|c)?-master-pack(?:-|$)/.test(id))return target;
+ return id;
+}
 function pickCollection(){
- const params=new URLSearchParams(location.search), requested=params.get('view'),wanted=params.get('chapter');
+ const params=new URLSearchParams(location.search), requested=params.get('view'),wanted=resolveLegacyChapter(params.get('chapter'));
  let next=requested==='prompts'?'prompts':'story';
  const primary=next==='prompts'?promptChapters:storyChapters;
  const secondary=next==='prompts'?storyChapters:promptChapters;
@@ -159,7 +166,7 @@ function updateViewControls(){
  $('showPrompts').setAttribute('aria-pressed',String(!isStory));
  $('sectionExplainer').textContent=isStory
   ? 'Actual reading prose only. Prologue and the published Episode 01 story are here; later stories will appear after you add them.'
-  : 'Source-locked writing instructions only. Episode 01–04, Episode 05A/B/C and Episode 06/06A/B/C Master Packs are here; these are NOT published story chapters.';
+  : 'Source-locked writing instructions only. Episode 01–04, Episode 05A/B/C and the combined Episode 06 (06A/B/C + Ep3 corrections) Master Pack are here; these are writing specifications, not published story prose.';
  $('editActive').href='https://github.com/developer-fandom-rush/Society_Story/edit/main/content/'+(isStory?'STORY.md':'PROMPTS.md');
 }
 function navigateView(next){
@@ -169,7 +176,7 @@ function navigateView(next){
  u.hash='';history.pushState({},'',u.toString());
  $('search').value='';closeMenu();render();window.scrollTo({top:0,behavior:'instant'});
 }
-function which(){const param=new URLSearchParams(location.search).get('chapter');const idx=chapters.findIndex(ch=>ch.id===param);return idx===-1?0:idx;}
+function which(){const param=resolveLegacyChapter(new URLSearchParams(location.search).get('chapter'));const idx=chapters.findIndex(ch=>ch.id===param);return idx===-1?0:idx;}
 function makeNav(){
  $('chapters').innerHTML=chapters.map((ch,i)=>'<button class="nav-chapter '+(i===active?'active':'')+'" data-chapter="'+i+'" type="button"><span class="num">'+chapterNumber(ch)+'</span><span class="nav-name">'+esc(shortTitle(ch))+'</span><span class="nav-arrow">'+(i===active?'•':'›')+'</span></button>').join('');
  $('chapters').querySelectorAll('[data-chapter]').forEach(btn=>btn.addEventListener('click',()=>navigate(Number(btn.dataset.chapter))));
