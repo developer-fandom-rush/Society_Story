@@ -301,3 +301,77 @@ Ankita ne uska haath hataaya, lekin smile rok nahi paayi.
 Usne phone nikala aur Bittu ko text kiya — *Ghar aa rahi hoon. Doodh le aaya?*  
 
 Koi reply nahi aaya.
+
+### Part D — Arrival & Bathroom Incident (13:40–14:10)
+
+> **Source:** Grok Part D (1/2) and (2/2), submitted in chat. Original wording preserved; existing dialogue only receives speaker labels.
+>
+> **Editorial audit (not narrative):** Repeated actions and interior reactions across the 1/2→2/2 boundary; check clothing/body-position consistency. Ending timing and Bittu arrival align with the Part D prompt. No plot edits applied.
+
+#### Part D (1/2) — 13:40 onward
+
+13:40. Ankita ne door quietly push kiya. Latch lagi thi, lock nahi. Bag side pe rakh diya, sandals utaare. Bedroom mein seedha gayi. Saree ki pin nikaali, pallu khola, blouse ke hooks peeche se khole — soft full breasts free hue, fabric open. Petticoat abhi bhi pehna hua tha. Woh mirror ke saamne khadi thi, saans thodi teez, jab knock hua.
+
+
+
+**HARISH:** “Ankita beta? Security office wala key matter… aur Rohan ka ek parcel bhi hai.”
+
+Harish Mama ki awaaz. Ankita freeze ho gayi. Blouse open, petticoat on, half-dressed. Usne jawab nahi diya. Heartbeat teez ho gaya.
+
+Door click hua. Harish andar aa gaya. Parcel table pe rakh diya. 
+
+**HARISH:** “Beta? Ankita?” Ek baar aur bulaya. Koi jawab nahi. Phir uske footsteps passage ki taraf badhe — bathroom ki taraf.
+
+Ankita ne bedroom door thoda sa aur khola, bas itna ki dekh sake. Harish bathroom mein ruk gaya. Hook pe kal ki cotton panty latki hui thi — soft, crumpled, worn. Usne usse dekha. Haath aage badha.
+
+Slowly lift kiya. Turn kiya inside out. Gusset ko pehle nose ke paas laya, phir lips pe. Usne deep saans li. Thumb dried wet-patch pe rub kiya, slow, circular. 
+
+**HARISH:** “Beti…” mutter kiya under his breath.
+
+Ankita ki heartbeat itni zor se chal rahi thi ki usko apne kaan mein sunayi de rahi thi. Woh smell — uski khud ki, thodi si salty, intimate — air mein fail gayi. Open blouse ke against uske nipples tight ho gaye, instantly. Shame aur heat ek saath aaye. Woh hili nahi.
+
+*Angel: Bahar nikal! Rok usko!*  
+*Devil: Dekh… yeh tere liye pagal hai. Ruk.*
+
+Harish ne panty ko dono haathon mein pakda. Gusset ko lips pe press kiya, phir nose pe wapas. Saans uski bhaari thi, thodi si unregular. 
+
+**HARISH:** “Itni soft… itni… beti, tu jaanti bhi nahi.” Usne thumb se wet-patch ko phir se feel kiya, jaise confirm kar raha ho. Fabric ko face pe rub kiya, eyes half-closed.
+
+Ankita door ke peeche, blouse open, petticoat ke neeche thighs tight. Uski nipples ab bilkul hard the, fabric ke against scrape kar rahe the. Woh dekh rahi thi — apni khud ki panty uske moonh pe, uski smell uske saans mein. Shame garam thi, lekin uske neeche kuch aur bhi tha. Twitch. Jo woh pretend kar rahi thi ki feel nahi ho raha.
+
+Harish ne soft voice mein fabric se baat ki, jaise woh Ankita se baat kar raha ho. 
+
+**HARISH:** “Roz subah nikalti hai… itni seedhi… aur yeh yahan… tera secret.” Usne panty ko phir se inside out kiya, gusset ko lips pe seal kiya, deep inhale. Saans uski audibly heavy thi ab.
+
+Ankita ka haath wall pe press tha. Heartbeat aur teez. Woh nahi hili. Nahi boli. Sirf dekh rahi thi.
+
+#### Part D (2/2) — 13:42–14:10
+
+Harish Mama ka thumb ab bhi gusset pe slow circles bana raha tha. Cotton thodi si stiff thi, kal raat ki dried wetness uske touch se soft ho rahi thi. Usne panty ko poora face ke against press kiya — nose gusset ke beech, lips fabric pe. Saans uski andar-bahar ja rahi thi, heavy, almost shaky. 
+
+**HARISH:** “Beti… itni…” mutter kiya, voice low, almost broken. 
+
+**HARISH:** “Roz itni seedhi dikhti hai… aur yeh…”
+
+Ankita door ke peeche thi, blouse bilkul open, petticoat ke neeche thighs ab ek doosre se chipki hui. Uski nipples open fabric ke against hard the, har saans pe scrape kar rahe the. Heartbeat itni teez thi ki usko lag raha tha bathroom tak sunayi de rahi hogi. Woh smell — uski khud ki, thodi si salty, intimate, thodi si sweet — bathroom se bahar aa rahi thi. Shame uske cheeks pe garam thi, lekin uske neeche petticoat ke andar kuch aur bhi chal raha tha. Ek soft twitch. Woh jaanti thi kya hai, lekin admit nahi kar rahi thi.
+
+*Angel: Abhi nikal! Chilaa! Uske haath se chheen le!*  
+*Devil: Ruk. Dekh kaise uske lips tujh pe hain. Yeh tere liye pagal hai. Bas dekh.*
+
+Harish ne panty ko dono haathon se khol ke spread kiya. Gusset ko phir se lips pe seal kiya, deep inhale li. Uske shoulders thode se hile. 
+
+**HARISH:** “Soft hai… tera… secret.” Voice almost whisper thi ab. Thumb dried patch pe press karke rub kiya, jaise uske andar kuch feel karna chahta ho. Saans uski irregular ho gayi thi — short, then long. Ankita dekh rahi thi, open blouse ke through her own chest rising-falling. Nipples ab bilkul tight the, almost painful. Heat aur shame ek hi waqt uske stomach mein baith gaye the.
+
+Phir society ka parcel bell sharply baj utha. Door pe. Harish jhatka kha ke seedha hua. Panty uske haathon se slip ho gayi, bathroom floor pe gir gayi. Usne kurta straight kiya, haath se face wipe kiya, jaise kuch nahi hua. 
+
+**HARISH:** “Parcel… security office…” mutter kiya, voice normal banane ki koshish. Footsteps teez hue. Bedroom door ke saamne se guzra, Ankita bilkul still. Door khola, bahar nikla, latch lagaya, stairs utar gaya.
+
+Ankita ne saans chhodi. Blouse open, petticoat on, wall pe peeth. Heartbeat ab bhi zor se chal rahi thi. Bathroom ki taraf dekha — panty floor pe padi thi, gusset side up. Uski smell ab bhi air mein thi. Usne haath apne stomach pe flat press kiya, neeche. Kuch nahi kiya. Bas press kiya. Legs thodi si weak, woh dheere se wall ke saath slide hui, floor pe baith gayi. Petticoat uske thighs pe chadha hua tha. Nipples ab bhi hard the open blouse ke against. Shame garam thi, heat bhi. Woh dono ko feel kar rahi thi, ek saath.
+
+Bahar stairs pe Bittu milk ke packets ke saath upar aa raha tha. Harish Mama ko dekh ke ruka. 
+
+**BITTU:** “Mama ji?” Harish ne sir hila diya, 
+
+**HARISH:** “Parcel tha beta. Ankita nahi mili.” Bittu ne kuch nahi kaha. Door ke saamne aaya, knock kiya. Andar Ankita abhi bhi floor pe thi, haath stomach pe, saans control karne ki koshish kar rahi thi. Koi jawab nahi diya.
+
+Clock 14:10. Ankita akeli thi. Blouse open, petticoat on, wall ke saath baithi. Haath stomach pe flat. Heartbeat dheere ho raha tha, lekin heat nahi. Smell ab bhi uske around thi. Woh nahi uthi. Nahi boli. Bas baithi rahi.
