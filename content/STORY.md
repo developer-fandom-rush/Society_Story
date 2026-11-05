@@ -1371,6 +1371,8 @@ Write Meenakshi Ep3 Part F only. 09:30 balcony plants. Bright soft homewear with
 
 # Society Wives — Episode 4 Master Pack (The Gentlemen's Secret)
 
+> MCANON NOTE (Nov 4, 2026): Ep4 intentionally ends at Part E (no confront). The husband hard-sex Night Coda moved to the "Episode 5 Master Pack" tab as Ep5 Part A. Twins = Option B five male pairs (22) — see Ep5 tab; old shared Bantu/Bobby lock retired. Seed lines here are name-drop only.
+
 > Merged plot (Deepak direction + GPT spines) | GPT softness stripped | Grok owns heat | Paste-ready part prompts
 
 ## 0) HOW TO USE THIS TAB
