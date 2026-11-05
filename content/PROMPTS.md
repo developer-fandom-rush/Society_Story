@@ -1,3 +1,96 @@
+# Character Bible — Society Wives (Episodes 01–06)
+
+> **Reference purpose:** One consolidated cast index extracted from the existing Episode 01–06 Master Packs, especially Episode 05A/B/C and Episode 06A/B/C. No new character has been invented. **LOCKED** means established in the later source-locked cast; **WORKING/PROPOSED** means present in planning but not approved for silent retroactive insertion.
+>
+> **Naming policy:** Five family twin pairs are NOT the ten workplace juniors. Household helpers are separate from both. Older society men are separate again. Do not merge names or roles across these lanes.
+
+## 1. Locked core family and household cast
+
+| Main character | Husband | Household helper (22 in later locks) | Society older man | Main setting |
+|---|---|---|---|---|
+| Ankita | Rohan | Bittu | Harish Mama (62) | Physics department / college |
+| Shivani | Kabir | Monu | Devendra (61) | Architecture studio |
+| Shreya | Arjun | Guddu | Baldev (63) | Luxury saree boutique |
+| Taniya | Vikram | Lucky | Sudhir (64) | Private bank |
+| Meenakshi | Nikhil | Chintu | Prakash (62) | Clinic / nursing work |
+
+All five main women are approximately 29 in the referenced packs. All five helpers are explicitly 22 in later Episode 02–06 locks. Earlier Episode 01 age conflicts are recorded below rather than silently rewritten.
+
+## 2. Locked workplace juniors (never society twins)
+
+| Woman | Workplace junior 1 | Workplace junior 2 | Known friend / confidante | Professional supporting woman |
+|---|---|---|---|---|
+| Ankita | Vivan (22) | Reyansh (22) | Jasvindar (English department; childhood friend) | Neha / Dr Neha Bansal (physics-lab coordinator) |
+| Shivani | Ayaan (22) | Armaan (22) | Aditi (studio colleague; childhood friend) | Maya / Maya Sethi (project operations) |
+| Shreya | Veer (22) | Om (22) | Shruti (family/styling; relationship detail flagged) | Farah / Farah Mirza (quality/alterations) |
+| Taniya | Devansh (22) | Harsh (22) | Soniya (branch; relationship detail flagged) | Ritika / Ritika Mehra (compliance) |
+| Meenakshi | Vihaan (22) | Ishan (22) | Sakshi (pharmacy / sister-figure) | Nidhi / Nidhi Thomas (OPD operations) |
+
+The ten juniors are the professional lane. New Episode 05B support-staff ideas must not rename them.
+
+## 3. Locked Society / family twin pairs — Option B (all adults, 22)
+
+| Household | Twin 1 | Twin 2 | Family connection |
+|---|---|---|---|
+| Ankita and Rohan | Naman | Nakul | Rohan's mausi's sons |
+| Shivani and Kabir | Yash | Yug | Kabir's bua's sons |
+| Shreya and Arjun | Karan | Aman | Arjun's mausi's sons |
+| Taniya and Vikram | Aarav | Arnav | Taniya's own mausi's sons |
+| Meenakshi and Nikhil | Ritvik | Raghav | Nikhil's bua's sons |
+
+**Retired names:** Bantu and Bobby belonged to an older shared-twins version and are **NOT** substitutes for any of the above ten Option B twins. Keep the family relation exactly as documented; do not silently alter it.
+
+## 4. Episode 05B additional workplace supports — PROPOSED, NOT CORE JUNIORS
+
+| Woman | Proposed names and roles |
+|---|---|
+| Ankita | Arvind Rao (college administration), Suresh Pal (campus security), Mohit Sen (faculty transport) |
+| Shivani | Ritesh Oberoi (senior design manager), Danish Ali (plotter/production), Hitesh Malik (cab driver) |
+| Shreya | Aditya Sehgal (store operations), Imran Khan (inventory logistics), Jatin Kapoor (retail security) |
+| Taniya | Kunal Ahuja (bank operations), Pradeep Chawla (entrance security), Sameer Dutt (corporate accounts) |
+| Meenakshi | Akash Bedi (facility/guest services), Ravi Yadav (clinic security), Dr Aftab Mir (medical consultant) |
+
+These are source-documented **proposals**, not proof that the characters appeared in published story prose. Sameer Dutt is **not** a sixth husband or a replacement for Nikhil. Imran Khan (Shreya office contractor) is not Imran Mirza (Zoya's spouse).
+
+## 5. Episode 05C Society world — WORKING / PROPOSED names
+
+| Group | Names and distinguishing roles |
+|---|---|
+| Society security / logistics | Mahipal Singh (security supervisor), Iqbal Ansari (milk delivery), Raghu Yadav (parcel/delivery desk) |
+| Residents' association | Reena Rawat (events coordinator), Tara Joshi (accounts volunteer) |
+| Gym / travel | Gautam Mehra (gym trainer), Zubin Contractor (visiting gym coach), Deepak Rana (ride-share driver) |
+| Proposed adult neighbours | Ira Sethi (landscape consultant), Ajay Sethi (Ira's husband), Naina Malik (fitness-content producer), Zoya Mirza (chef / community events), Imran Mirza (Zoya's husband) |
+| Other draft names requiring role resolution | Raju (Ep1 society doorbell staffer; later also labeled milkman), Vik and Sam (gym trainers in later draft), Iqbal (milk delivery in another Society plan) |
+
+These names originate in Society World plans and are **not all locked as published appearances**. Background people who were not named remain unnamed: e.g., Ankita's lab attendant, the Part A colleague, miscellaneous residents or customers. No children are canonically assigned to the five wives by these source packs.
+
+## 6. Continuity / name-and-role conflict ledger — FLAGGED ONLY, NO RETCONS
+
+| ID | Location | Conflict | Editorial action |
+|---|---|---|---|
+| C01 | Episode 01 cast cards vs Episode 01 Part prompts and Episodes 02–06 | Helpers Bittu/Monu/Lucky appear as 19 and Guddu/Chintu as 20 in early Ep1 cast descriptions, but later locks consistently set all five to 22 | FLAG ONLY; do not silently edit Episode 01 |
+| C02 | Episode 04 / old twins references vs Episode 05–06 | Old common Bantu/Bobby concept is retired; Option B specifies five separate pairs | KEEP RETIRED; verify legacy mentions before editing |
+| C03 | Episode 01 vs Episode 05A/B/C | Shreya is sometimes described as boutique owner, elsewhere floor lead/buyer | Role needs user confirmation; do not infer ownership |
+| C04 | Episode 01 friend cards vs Episode 05C cast list | Shruti appears as Shreya's childhood friend/supplier contact in early material but as sister/family confidante in later material | Confirm relationship, keep name |
+| C05 | Episode 01 friend cards vs Episode 05C cast list | Soniya appears as Taniya's childhood friend/branch colleague earlier, and as sister/branch colleague later | Confirm relationship, keep name |
+| C06 | Episode 05B early draft vs later locked junior list | An early Shreya office note says "Kabir-jr (rename: Om)" and a Meenakshi note calls a junior "Harsh" even though Harsh belongs to Taniya's office | Treat as superseded draft names; do NOT overwrite Veer/Om or Vihaan/Ishan |
+| C07 | Episode 05B office overlay | Ankita's draft mentions a junior "Varun" while her locked pair is Vivan/Reyansh | Varun is not a replacement unless explicitly approved |
+| C08 | Episode 05C Society World | Raju is an Ep1 society doorbell staffer and later a milkman; another plan uses Iqbal Ansari as regular milk delivery operator | Distinct identities or role replacement NOT ESTABLISHED; ask before changing |
+| C09 | Episode 05C society draft | "Husbands notice" lists Sameer as the fifth husband instead of Nikhil; Sameer Dutt is separately proposed as a bank professional | Flag incorrect husband reference; no silent replacement |
+| C10 | Episode 05B / Episode 05C supporting-role references | Suresh appears as an Ankita-campus security name but is also referenced in a Shivani scene; shared staff assignment is not verified | Check location/identity before writing |
+| C11 | Episode 05C proposals and later 06 source | Proposed office / society staff appear beside established names; status is not necessarily canon promotion | Keep proposed until user approves appearance and role |
+
+## 7. Working continuity protocol for future Grok outputs
+
+- **Name-first check:** For each dialogue turn, identify the speaker from the approved cast. If ambiguous, mark SPEAKER UNCERTAIN; do not guess.
+- **Lane check:** Workplace juniors, society twins, household helpers, and older society men must remain separate.
+- **Status check:** Do not treat a PROPOSED role or a retired name as established without a user-approved canon change.
+- **Chronology:** Episodic prompts remain in their original place; unresolved name conflicts should be flagged and reviewed before changing any older episode.
+- **Draft handling:** Only add speaker labels and paragraph breaks to supplied Grok prose; preserve its words and sequence unless rewriting is explicitly requested.
+- **Change approval:** After highlighting conflicting names, obtain approval for the exact intended correction. This registry does **not** revise Episodes 01–06 by itself.
+
+---
+
 <!-- SOCIETY WIVES — WRITING PROMPTS / MASTER PACKS
 Episode 01–06 planning Master Packs (including 05A/B/C and 06A/B/C); no finished prose here.
 Every "# " heading becomes a prompt entry in the Writing Prompts UI.
