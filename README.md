@@ -1,111 +1,116 @@
-# Society Wives — Story Library
+# Society Wives — Story Reader & Writing Prompts
 
-A mobile-friendly reader built from the original **Prologue**, **Episode 1 Master Pack**, **Episode 2 Master Pack**, **Episode 3 Master Pack**, and **Episode 4 Master Pack** Google Doc tabs. All five source texts live in one editable GitHub file.
+[Open the website](https://developer-fandom-rush.github.io/Society_Story/) · [GitHub repository](https://github.com/developer-fandom-rush/Society_Story)
 
-## Writing Studio — prompts and draft workflow
+## The two separate sections
 
-Open **[Writing Studio](studio.html)** (or `https://developer-fandom-rush.github.io/Society_Story/studio.html`) to prepare Episode 1 with Grok. The studio reads the existing Episode 1 Master Pack from `content/STORY.md` instead of maintaining a second copy of the prompts. It includes the Master System, the existing Prologue as a reference, the optional Shared Prologue rewrite prompt, and all 25 character Parts (A–E for each wife) with one-click copy.
+The website has two clearly labeled reading modes:
 
-**First Grok paste:** Section 1 — MASTER SYSTEM, in a fresh chat. The Prologue already exists in the linked source tab. Use it as context or optionally rewrite it; then write **Ankita Part A**, followed by Ankita B–E and the other four heroines in order.
+| Actual Story | Writing Prompts |
+| --- | --- |
+| **Prologue** and the existing **Episode 01 — Story (Grok + GPT Inserts)** | **Episode 01–04 Master Packs** |
+| Source: [content/STORY.md](content/STORY.md) | Source: [content/PROMPTS.md](content/PROMPTS.md) |
+| Real reading prose, edited/published manually | Plans, source-locked writing instructions, episode parts, continuity |
+| New finalized Episode 02, 03, etc. go here | Future prompt packs go here; NOT the finished story |
 
-Paste each Grok result into its matching draft field. Checkmarks and drafts are saved **only in that browser**; use **Download this draft** or **Download all drafts** before changing devices. These drafts do not update GitHub automatically. To publish, add reviewed prose to `content/STORY.md` and commit.
+**Important:** The existing Episode 01 reading chapter is the version already in the repository. Its heading indicates **Grok + GPT Inserts**. If you have a different approved/final Episode 01, replace that chapter's text in **STORY.md**; it is not automatically synced from Google Docs or writing drafts.
 
-The current [Story Library reader](index.html) remains separate from the Writing Studio. No existing chapter text is overwritten by opening or using the studio.
+The **Episode 04 Master Pack is not the final Episode 04 story**. It is available in **Writing Prompts**, and its 25 part-writing steps are also accessible in [Episode 04 Writing Studio](episode4.html).
 
-## Episode 4 reader and writing workflow
+## Manually edit the existing Episode 01 Story
 
-Episode 4 — **The Gentlemen's Secret** — is now available in the [Story Library](index.html) as the fifth chapter and in the [Episode 04 Writing Studio](episode4.html) with 25 parts (five women × Parts A–E), plus the Master System. The Episode 4 prompts are imported from the Google Doc **Episode 4 Master Pack** tab; the Revised Multi-Uncle Plot remains a reference, not a second competing canon chapter.
+1. Go to **[content/STORY.md on GitHub](https://github.com/developer-fandom-rush/Society_Story/blob/main/content/STORY.md)** and sign in to your GitHub account.
+2. Click the **pencil (Edit this file)**. If the pencil is hidden, use the file's **…** menu.
+3. Find the existing heading:
 
-Both writing studios save their drafts locally in separate browser keys, so Episode 1 drafts are not overwritten. The GitHub content is a **one-time sync snapshot**, not a live Google Docs integration. To refresh future Doc edits, sync/import again.
+       # Society Wives — Episode 1 — Story (Grok + GPT Inserts)
 
-## The ONE file you edit
+4. Edit or replace the prose **under that heading** with your approved Episode 01 reading content. Keep the Prologue unchanged unless you expressly want to revise it. Do **not** add a duplicate Episode 01 chapter.
+5. Click **Commit changes**, add a short commit message, and commit to `main` (or open and merge a pull request if GitHub requires it).
+6. Check [Actions](https://github.com/developer-fandom-rush/Society_Story/actions). Once the GitHub Pages build finishes, open the [Actual Story view](https://developer-fandom-rush.github.io/Society_Story/?view=story) and refresh.
 
-**[content/STORY.md](content/STORY.md)** — this is the source of truth for the reader.
+## Manually add finalized Episode 02 (and later episodes)
 
-1. Open **content/STORY.md** on GitHub.
-2. Click **Edit this file** (pencil icon).
-3. Modify the Prologue or any existing episode text, or scroll to the end to add another chapter.
-4. Click **Commit changes** to save.
-5. Refresh the website after GitHub Pages finishes publishing. The reader loads the latest content file on every visit.
+1. Open [content/STORY.md](https://github.com/developer-fandom-rush/Society_Story/blob/main/content/STORY.md).
+2. Click **Edit this file**.
+3. Go to the bottom, after the existing Episode 01 story. Add a new top-level heading `#` followed by the **finalized reading prose**, for example:
 
-### Adding Episode 4 or a later chapter (no programming required)
+```md
+# Society Wives — Episode 02 — Story
 
-At the end of content/STORY.md, append:
+## Ankita
+Paste Ankita's finalized scene prose here.
 
-    # Society Wives — Episode 04
+## Shivani
+Paste Shivani's finalized scene prose here.
 
-    ## Episode 04 — Introduction
+## Shreya
+Paste Shreya's finalized scene prose here.
 
-    Paste your new content here.
+## Taniya
+Paste Taniya's finalized scene prose here.
 
-    ## Ankita
+## Meenakshi
+Paste Meenakshi's finalized scene prose here.
+```
 
-    Paste Ankita's episode content here.
+4. Click **Commit changes** and wait for GitHub Pages to deploy. Refresh **Actual Story**. No HTML editing is needed.
+5. For Episode 03 and later, repeat using a new `# Society Wives — Episode 03 — Story`, etc. Keep episodes ordered.
 
-    ## Shivani
+**Heading rules:** `# ` creates a new episode/chapter; `## ` creates a section or character scene; `### ` creates a smaller subpart. Never paste Master Pack prompts into the Story file.
 
-    Paste Shivani's episode content here.
+## Manually update or add writing prompts
 
-    ## Shreya
+1. Open [content/PROMPTS.md](https://github.com/developer-fandom-rush/Society_Story/blob/main/content/PROMPTS.md).
+2. Click the pencil icon.
+3. Find the applicable `# Society Wives — Episode 04 Master Pack ...` heading to revise that prompt, or append `# Society Wives — Episode 05 Master Pack` to introduce a new prompt chapter.
+4. **Commit changes** and refresh [Writing Prompts](https://developer-fandom-rush.github.io/Society_Story/?view=prompts).
 
-    Paste Shreya's episode content here.
+Both sections use GitHub files, not Google Docs live synchronization. Any edits you make in Google Docs must be deliberately transferred into the correct file before they appear on the site.
 
-    ## Taniya
+## Writing Studios
 
-    Paste Taniya's episode content here.
+- [Episode 01 Writing Studio](studio.html): extracts the Episode 01 Master System, optional Shared Prologue rewrite prompt and 25 heroine part prompts from **PROMPTS.md**. It reads the existing Prologue from **STORY.md**, as a separate reference.
+- [Episode 04 Writing Studio](episode4.html): extracts the Episode 04 Master System and 25 heroine part prompts from **PROMPTS.md**.
+- Completed checkboxes and draft text are stored **locally in that browser only**; they are **not** published. Use each studio's download buttons to export drafts, review and finalize the prose, then paste it manually into **STORY.md**.
 
-    ## Meenakshi
+## Reader features
 
-    Paste Meenakshi's episode content here.
+- Separate **Actual Story** and **Writing Prompts** selectors, with chapter-specific navigation.
+- Prologue character-introduction cards, in-chapter section contents and chapter search (/).
+- Dark/light modes, adjustable font size, responsive desktop/mobile layout.
+- The reader immediately renders a built-in chapter snapshot and then refreshes from the two GitHub Markdown files; an unavailable Markdown request should not blank the reader. GitHub Pages must deploy each change for the public URL to update.
+- Old links to a prompt chapter using `?chapter=...` still open the matching prompt section.
 
-Every first-level Markdown heading beginning with a hash and space (# ) becomes a NEW chapter automatically in the site's navigation. Use two hashes (## ) for section headings and three hashes (### ) for subsections. You never have to edit the HTML or a manifest.
+## GitHub Pages publishing
 
-Keep the first chapter named **Prologue** if you want the Prologue's automatic five-character introduction cards. They are drawn from paragraphs that begin with Ankita, Shivani, Shreya, Taniya, and "Aur Meenakshi". Change those paragraphs to change the cards.
+GitHub Pages is deployed from the repository. To check it: **Settings → Pages**, and **Actions** for the latest build. The public address stays:
 
-## Publishing once with GitHub Pages
+https://developer-fandom-rush.github.io/Society_Story/
 
-This repository was initially empty, so GitHub Pages might not yet be enabled.
+A committed change may take a minute or more to publish. Refresh the page after the build finishes. You do not need a new public link for every episode.
 
-1. Open this repository on GitHub.
-2. Go to **Settings → Pages**.
-3. Under **Build and deployment**, set **Source: Deploy from a branch**.
-4. Choose **Branch: main**, folder **/ (root)**, then **Save**.
-5. Wait for GitHub Pages to publish. The expected site URL is:
+## Source provenance
 
-   https://developer-fandom-rush.github.io/Society_Story/
+The planning prompts were originally copied from the multi-tab Google Doc (Master Pack tabs Episode 01–04). They are a **one-time copy**, not automatically updated when the Doc changes.
 
-Publishing may take a couple of minutes. The same URL updates when content/STORY.md changes on the main branch. No new URL is needed.
+- Episode 01 Master Pack tab: `t.0`
+- Episode 02 Master Pack tab: `t.7lxosvxlb7bm`
+- Episode 03 Master Pack tab: `t.fyz7ytl1vbhn`
+- Episode 04 Master Pack tab: `t.xux6qy3fxewz`
+- Prologue: `t.hybe3sy4qfjc`
 
-## Features
+**Privacy:** This repository is public; anything you commit to it can be read by other people. Do not add personal data or text you do not intend to publish.
 
-- Full Prologue with five expandable character introduction cards
-- Complete Episode 1–4 Master Packs, including headings, timelines, sections and per-character Parts
-- Separate Episode 4 writing studio, 25 character prompts and draft downloads
-- Automatic navigation for newly added chapters
-- In-chapter table of contents and links
-- Search the open chapter (press /)
-- Dark/light themes and adjustable font size
-- Responsive mobile/desktop reading UI
-- No build step, database, or content-management service required
+## Repository structure
 
-## Provenance
-
-Google Doc: **Yeh revised Ep1 pack hai — pehle wale clone se alag**.
-
-- Prologue tab: 0 — Prologue (Dhika-style), ID t.hybe3sy4qfjc.
-- Episode 1 tab: Society Wives — Episode 1 Master Pack, ID t.0.
-- Episode 2 tab: Society Wives — Episode 2 Master Pack, ID t.7lxosvxlb7bm.
-- Episode 3 tab: Society Wives — Episode 3 Master Pack, ID t.fyz7ytl1vbhn.
-- Episode 4 tab: Society Wives — Episode 4 Master Pack, ID t.xux6qy3fxewz.
-- Episode 4 plot reference: Ep4 Plot (Revised Multi-Uncle), ID t.pc1az85aocbt.
-
-Wording was retained, with Markdown formatting for headings. Other tabs were not imported.
-
-**Privacy:** This GitHub repository is public, so the uploaded story text is publicly accessible. If the text should not be public, use a private repository and hosting arrangement instead.
-
-## Structure
-
-    index.html         Website UI
-    content/STORY.md   Single file to edit
-    .nojekyll          Pages compatibility
-    README.md          Instructions
+```
+index.html          Story/Prompts reader UI + GitHub editing guide
+content/
+  STORY.md          Prologue + published episode prose
+  PROMPTS.md        Episode 01–04 planning Master Packs
+studio.html         Episode 01 Writing Studio
+episode4.html       Episode 04 Writing Studio
+.nojekyll           GitHub Pages compatibility
+README.md           These instructions
+```
