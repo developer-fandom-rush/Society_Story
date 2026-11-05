@@ -8,7 +8,7 @@ The website has two clearly labeled reading modes:
 
 | Actual Story | Writing Prompts |
 | --- | --- |
-| **Prologue** and the existing **Episode 01 — Story (Grok + GPT Inserts)** | **Episode 01–04 Master Packs** |
+| **Prologue** and the existing **Episode 01 — Story (Grok + GPT Inserts)** | **Episode 01–04, 05A/B/C, and 06/06A/06B/06C Master Packs** |
 | Source: [content/STORY.md](content/STORY.md) | Source: [content/PROMPTS.md](content/PROMPTS.md) |
 | Real reading prose, edited/published manually | Plans, source-locked writing instructions, episode parts, continuity |
 | New finalized Episode 02, 03, etc. go here | Future prompt packs go here; NOT the finished story |
@@ -92,7 +92,7 @@ A committed change may take a minute or more to publish. Refresh the page after 
 
 ## Source provenance
 
-The planning prompts were originally copied from the multi-tab Google Doc (Master Pack tabs Episode 01–04). They are a **one-time copy**, not automatically updated when the Doc changes.
+The original Episode 01–04 planning prompts were copied from the multi-tab Google Doc. Episode 06 was added from the approved [Episode 06 Master Pack (A/B/C) + Ep3 Corrections](https://docs.google.com/document/d/1M3asHCA7UmHF2KiARwlaPfBsNkHdRDc6idPHyzYYOio/edit), split into four UI chapters (overview, 06A, 06B, 06C). These are **one-time copies**, not automatically synced from Google Docs.
 
 - Episode 01 Master Pack tab: `t.0`
 - Episode 02 Master Pack tab: `t.7lxosvxlb7bm`
@@ -108,7 +108,7 @@ The planning prompts were originally copied from the multi-tab Google Doc (Maste
 index.html          Story/Prompts reader UI + GitHub editing guide
 content/
   STORY.md          Prologue + published episode prose
-  PROMPTS.md        Episode 01–04 planning Master Packs
+  PROMPTS.md        Episode 01–06 planning Master Packs (05A/B/C and 06A/B/C)
 studio.html         Episode 01 Writing Studio
 episode4.html       Episode 04 Writing Studio
 .nojekyll           GitHub Pages compatibility
