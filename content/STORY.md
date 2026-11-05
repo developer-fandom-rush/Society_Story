@@ -58,28 +58,46 @@ Subah 6:55. Ankita mirror ke saamne khadi thi. Pastel pink saree ki pleats ek-ek
 
 Bathroom ke hook pe kal ki cotton panty abhi bhi latki hui thi. Soft, thodi si crumpled, gusset pe dried mark. Usne notice kiya, ek second ruki. “Baad mein,” socha, aur door band kar diya. Bittu kitchen mein thermos bhar raha tha, doodh garam karne ki awaaz aa rahi thi.
 
-“Bittu, 1:30 pe doodh le aana. Thermos ready rakhna. Aur laundry basket mat chhedna, samjha? Mat chhedna.”
 
-“Haan, Ma’am. Samajh gaya.”
+
+**ANKITA:** “Bittu, 1:30 pe doodh le aana. Thermos ready rakhna. Aur laundry basket mat chhedna, samjha? Mat chhedna.”
+
+
+
+**BITTU:** “Haan, Ma’am. Samajh gaya.”
 
 Rohan already gone tha. Sirf ek missed call aur text screen pe — *Client meeting, late aaunga.* Ankita ne phone side pe rakh diya, bag uthaya, door lock kiya. Lift ka button dabaya. Corridor ki halki si thandi hawa blouse ke peeche se chhui.
 
 **GPT INSERT 02 — Transition:** Rohan ka message woh dobara nahi padhna chahti thi. Ghar se nikalte waqt har cheez routine ke mutabik thi: instructions de di gayi thi, door lock tha, bag kandhe par tha. Phir bhi usne ek baar rukkar saans normal ki aur lift ka intezaar kiya.
 
-Landing pe Harish Mama khade the. Retired army, 62, hamesha subah yahin. Kurta pressed, smile ready. “Beta, late mat nikal. Traffic badh gaya hai aaj.” Unki aankhein ek second ke liye neckline pe ruki — blouse ka soft curve, pallu ka edge. Ankita ne register kiya. Ignore kiya. Hamesha ignore karti thi. “Haan Mama, nikal rahi hoon,” bola aur lift mein ghus gayi.
+Landing pe Harish Mama khade the. Retired army, 62, hamesha subah yahin. Kurta pressed, smile ready. 
+
+**HARISH:** “Beta, late mat nikal. Traffic badh gaya hai aaj.” Unki aankhein ek second ke liye neckline pe ruki — blouse ka soft curve, pallu ka edge. Ankita ne register kiya. Ignore kiya. Hamesha ignore karti thi. 
+
+**ANKITA:** “Haan Mama, nikal rahi hoon,” bola aur lift mein ghus gayi.
 
 *Angel: Tu shaadi-shuda hai. Respect dikha. Ignore kar.*  
 *Devil: Ek second extra… aur tujhe pata chal gaya ki usne dekha. Aur tujhe pasand aaya.*
 
 Scooter start hui basement se. Wind pallu mein ghusi, thighs ke beech heat badhne lagi. Cyber City road pe traffic, scooter ka vibration uski body mein utar raha tha, petticoat ke neeche thighs pressed together. Safety pin chest pe thoda press kar rahi thi har jolt pe. Woh soch rahi thi ki aaj ka din normal hoga — lab practical, students, chalk.
 
-Parking mein scooter khadi ki, helmet utara, pallu set kiya. Vivan peeche se aaya — 22, sharp tongue, hamesha thoda zyada bold. “Looking very pretty, Ma’am… jaise kal… aur usse pehle bhi.” Usne smile kiya, aankhein thodi der ruki. Reyansh uske side mein tha, shy, aankhein neeche. Low voice mein bola, “Saree… soft lag rahi hai.” Uske words dheeme the, lekin seedhe.
+Parking mein scooter khadi ki, helmet utara, pallu set kiya. Vivan peeche se aaya — 22, sharp tongue, hamesha thoda zyada bold. 
 
-Vivan ne pallu ko dekhte hue ek baar aur push kiya. “Aaj toh classroom bhi alag lagega, Ma’am. Yeh colour… aapke upar.”
+**VIVAN:** “Looking very pretty, Ma’am… jaise kal… aur usse pehle bhi.” Usne smile kiya, aankhein thodi der ruki. Reyansh uske side mein tha, shy, aankhein neeche. Low voice mein bola, 
 
-**GPT INSERT 03 — Pallu-specific follow-up:** Vivan ne phir seedha pallu ki taraf ishara kiya. “Pin bilkul perfect hai, Ma’am; aap har detail notice karti hain.” Ankita ne uske lafzon ke peeche chhupa familiar teasing tone pehchan liya, isliye jawab chhota rakha.
+**REYANSH:** “Saree… soft lag rahi hai.” Uske words dheeme the, lekin seedhe.
 
-Ankita ne cut kiya, voice firm. “Classroom. Abhi. Dono.”
+Vivan ne pallu ko dekhte hue ek baar aur push kiya. 
+
+**VIVAN:** “Aaj toh classroom bhi alag lagega, Ma’am. Yeh colour… aapke upar.”
+
+**GPT INSERT 03 — Pallu-specific follow-up:** Vivan ne phir seedha pallu ki taraf ishara kiya. 
+
+**VIVAN:** “Pin bilkul perfect hai, Ma’am; aap har detail notice karti hain.” Ankita ne uske lafzon ke peeche chhupa familiar teasing tone pehchan liya, isliye jawab chhota rakha.
+
+Ankita ne cut kiya, voice firm. 
+
+**ANKITA:** “Classroom. Abhi. Dono.”
 
 Woh dono peeche reh gaye. Ankita corridor ki taraf chal di. Boys ka deodorant abhi bhi air mein tha — sharp, young. Safety pin chest pe thoda aur press kar rahi thi. Uski saans thodi teez thi, lekin face composed.
 
@@ -90,7 +108,9 @@ Woh dono peeche reh gaye. Ankita corridor ki taraf chal di. Boys ka deodorant ab
 
 Woh corridor mein ghus hi rahi thi, bag shoulder pe, pallu set, jab ek colleague ki awaaz aayi, lab wale door ke paas se, thodi si pareshan:
 
-“Lab ki backup key nahi mil rahi.”
+
+
+**UNNAMED COLLEAGUE:** “Lab ki backup key nahi mil rahi.”
 
 ### Part B — Missing Lab Key (08:50–12:10)
 
@@ -100,17 +120,31 @@ Woh corridor mein ghus hi rahi thi, bag shoulder pe, pallu set, jab ek colleague
 
 **GPT INSERT 01 — Public stakes:** Assessment ka timetable uske dimaag mein already set tha. Agar key record par doubt hua, toh sirf ek class nahi, poore practical ka schedule disturb hoga. Ankita ne register ke cover ko seedha kiya aur khud ko yaad dilaya ki aaj har observation theek se document karni hai.
 
-Lab attendant peeche se nikal kar bola, “Ma’am, aaj practical ke liye sab ready hai… bas key.” Ankita ne nod kiya aur andar ghus gayi. Vivan aur Reyansh pehle se Lab 2 mein the. Vivan bench pe lean karke khada tha, Reyansh register ke paas silent.
+Lab attendant peeche se nikal kar bola, 
 
-10:15. Practical start hone wala tha. Ankita ne key drawer khola — backup lab key missing. Primary key lock mein thi, lekin assessed practical ke liye backup zaroori tha. Lab attendant ne scramble kiya, drawers khole, shelves check kiye. “Ma’am, kal toh yahin thi…”
+**LAB ATTENDANT:** “Ma’am, aaj practical ke liye sab ready hai… bas key.” Ankita ne nod kiya aur andar ghus gayi. Vivan aur Reyansh pehle se Lab 2 mein the. Vivan bench pe lean karke khada tha, Reyansh register ke paas silent.
+
+10:15. Practical start hone wala tha. Ankita ne key drawer khola — backup lab key missing. Primary key lock mein thi, lekin assessed practical ke liye backup zaroori tha. Lab attendant ne scramble kiya, drawers khole, shelves check kiye. 
+
+**LAB ATTENDANT:** “Ma’am, kal toh yahin thi…”
 
 **GPT INSERT 02 — Missing-key clarity:** Drawer ka label wahi tha, jagah bhi wahi. Problem ek khoi hui cheez se badhkar record ki reliability ki thi. Ankita ne bina kisi par shaq thope abhi sirf itna note kiya ki key physically nahi mili aur attendant ki kal wali yaad register se verify karni hogi.
 
-Vivan turant aage aaya. Narrow lab aisle mein woh Ankita ke bilkul close aa gaya. “Ma’am, main dhoondh deta hoon. Aap bas wahin khadi rahiye.” Uske eyes uske waist pe the, jahan pallu thoda slip ho raha tha. “Main sambhal lunga.” Usne smile kiya, thoda zyada confident. Ankita ne step back liya, lekin space kam tha.
+Vivan turant aage aaya. Narrow lab aisle mein woh Ankita ke bilkul close aa gaya. 
 
-“Vivan, distance maintain karo,” usne kaha, voice controlled.
+**VIVAN:** “Ma’am, main dhoondh deta hoon. Aap bas wahin khadi rahiye.” Uske eyes uske waist pe the, jahan pallu thoda slip ho raha tha. 
 
-Woh nahi hata. “Ma’am, aap tension mat lo. Main dekh leta hoon.” Usne aisles ke beech se guzarte hue uske saree ke edge ko almost touch kar diya. “Yeh saree aaj bahut soft lag rahi hai… jaise aap khud demonstration ho physics ki. Sabse achhi.”
+**VIVAN:** “Main sambhal lunga.” Usne smile kiya, thoda zyada confident. Ankita ne step back liya, lekin space kam tha.
+
+
+
+**ANKITA:** “Vivan, distance maintain karo,” usne kaha, voice controlled.
+
+Woh nahi hata. 
+
+**VIVAN:** “Ma’am, aap tension mat lo. Main dekh leta hoon.” Usne aisles ke beech se guzarte hue uske saree ke edge ko almost touch kar diya. 
+
+**VIVAN:** “Yeh saree aaj bahut soft lag rahi hai… jaise aap khud demonstration ho physics ki. Sabse achhi.”
 
 *Angel: Yeh students hain. Professional reh. Line draw kar.*  
 *Devil: Dono ko pata hai tu sun rahi hai. Aur tu ruk bhi nahi rahi.*
@@ -119,7 +153,9 @@ Reyansh quietly aaya. Usne key register khola aur Ankita ko dikhaya. Yesterday�
 
 **GPT INSERT 03 — Register and agency:** Overwritten entry dekhkar Ankita ka pehla reaction kisi ko accuse karna nahi tha. Usne purani aur nayi writing ko alag-alag samajhne ki koshish ki. Kiski handwriting thi, is par koi final conclusion nikalna jaldi hota. Uske liye yeh pehle college ka administrative issue tha, aur woh isi line par rehna chahti thi.
 
-Ankita ne chalk rakh diya. “Practical postpone. Students ko inform karo.”
+Ankita ne chalk rakh diya. 
+
+**ANKITA:** “Practical postpone. Students ko inform karo.”
 
 **GPT INSERT 04 — HOD-cabin transition:** HOD cabin ki taraf jaate hue usne practical ka time aur key register ki entry apne notes mein likhi. Darwaze ke bahar kuch pal khadi rehkar usne sequence dobara milaya: kal ki entry, subah ki missing key, aur assessment ka slot. Bina verification kisi ka naam lena use theek nahi laga.
 
@@ -131,17 +167,29 @@ Staffroom laut kar woh pani pi rahi thi jab phone buzz hua.
 
 Harish Mama. 11:30.
 
-“Beta, sunna hai lab ki key ka issue hai? Society gate pe kisi ne baat ki. Main security office se help karwa deta hoon agar chaho.”
 
-Ankita ruk gayi. Puzzled. “Mama, aapko kaise pata? Yeh college matter hai.”
 
-“Beta, log baat karte hain. Main bas help offer kar raha hoon. Security wale mujhe jaante hain.”
+**HARISH:** “Beta, sunna hai lab ki key ka issue hai? Society gate pe kisi ne baat ki. Main security office se help karwa deta hoon agar chaho.”
 
-Usne politely decline kiya. “Nahi Mama, college handle kar lega. Tension mat lo.” Call cut. Uski saans thodi teez thi. Kal ki cotton panty abhi bhi ghar pe bathroom hook pe latki hui thi — uska khayal achanak aa gaya. Soft, worn, uski.
+Ankita ruk gayi. Puzzled. 
+
+**ANKITA:** “Mama, aapko kaise pata? Yeh college matter hai.”
+
+
+
+**HARISH:** “Beta, log baat karte hain. Main bas help offer kar raha hoon. Security wale mujhe jaante hain.”
+
+Usne politely decline kiya. 
+
+**ANKITA:** “Nahi Mama, college handle kar lega. Tension mat lo.” Call cut. Uski saans thodi teez thi. Kal ki cotton panty abhi bhi ghar pe bathroom hook pe latki hui thi — uska khayal achanak aa gaya. Soft, worn, uski.
 
 **GPT INSERT 06 — Phone-call reaction:** Call ke baad usne screen ko ek baar phir dekha. Society gate aur college ki lab key ke beech connection samajh nahi aa raha tha. Shayad koi baat ghoomkar pahunchi thi; shayad nahi. Ankita ne is uncertainty ko uncertainty hi rakha aur bina proof kisi wajah ko sach maan lene se bachne ki koshish ki.
 
-Lab corridor mein wapas jaate hue Vivan ne phir se catch kiya. “Ma’am, key mil bhi jaaye toh aapko tension nahi leni chahiye. Aap jab bench pe jhukti ho… theory clear ho jati hai sabki.” Usne low voice mein kaha, eyes waist pe. “Physics ki sabse achhi demonstration aap ho.”
+Lab corridor mein wapas jaate hue Vivan ne phir se catch kiya. 
+
+**VIVAN:** “Ma’am, key mil bhi jaaye toh aapko tension nahi leni chahiye. Aap jab bench pe jhukti ho… theory clear ho jati hai sabki.” Usne low voice mein kaha, eyes waist pe. 
+
+**VIVAN:** “Physics ki sabse achhi demonstration aap ho.”
 
 Reyansh peeche khada tha, silent, aankhein blouse ke back pe again. Chalk dust Ankita ki ungliyon pe, sweat small of her back pe ab clear tha. Pallu thoda aur slip ho gaya tha.
 
@@ -150,4 +198,106 @@ Reyansh peeche khada tha, silent, aankhein blouse ke back pe again. Chalk dust A
 
 Ankita ne unhe ignore karke staffroom ki taraf chal di. Door ke paas pahunchte hi Jasvindar ne uska wrist catch kar liya — childhood friend, English dept, sleeveless shrug, aankhein serious.
 
-“Anku, ek favour chahiye. Lunch pe baat karte hain.”
+
+
+**JASVINDAR:** “Anku, ek favour chahiye. Lunch pe baat karte hain.”
+
+
+### Part C — Staffroom Conversation (12:50–13:20)
+
+> **PART C AUDIT FLAGS — original prose preserved (no corrections applied):** The source prompt requires Ankita's exact hard-stop dialogue beginning “Practical cancel hai...” but the draft reverses the wording; Jasvindar's statement about observing Lab 2 from the staffroom is not spatially established; the specific prior husband/photo story is not verified in the supplied Part C prompt. **No speaker or plot facts were invented to resolve these.**
+
+12:50. Staffroom ka corner empty tha. AC ki slow humming, baaki log lunch pe nikal chuke the. Ankita table pe baithi thi, pani ka glass haath mein, jab Jasvindar aayi — sleeveless shrug, hair loose.
+
+Woh opposite baith gayi. 
+
+**JASVINDAR:** “Anku, ek favour chahiye.”
+
+Ankita ne glass rakh diya. 
+
+**ANKITA:** “Bol.”
+
+
+
+**JASVINDAR:** “Lab ki backup key wali baat… ek din ke liye chup rehna. Lab attendant mera cousin ka husband hai. Agar HOD ko pata chal gaya ki register overwrite hua, toh uska job chala jayega. Please.”
+
+Ankita ne aankh uthayi. 
+
+**ANKITA:** “Jassi, aaj practical postpone hua hai. Yeh serious matter hai.”
+
+
+
+**JASVINDAR:** “Bas ek din. Main handle kar lungi. Promise.” Jasvindar ne uska haath pakda. 
+
+**JASVINDAR:** “Main nahi chahti uska ghar barbaad ho.”
+
+Ankita thodi der chup rahi, phir nod kiya. 
+
+**ANKITA:** “Theek hai. Ek din. Uske baad main kuch nahi jaanti.”
+
+Jasvindar ne haath chhoda, phir smile aayi. Usne Ankita ki waist pinch ki. 
+
+**JASVINDAR:** “Ab serious baat khatam. Sach bol — lab mein dono ladke tujhe kya measure kar rahe the?”
+
+Ankita ne uska haath hataaya. 
+
+**ANKITA:** “Kya bakwaas kar rahi hai?”
+
+
+
+**JASVINDAR:** “Vivan toh seedha bol raha tha tere saree ke baare mein. ‘Soft lag rahi hai, Ma’am.’ Aur Reyansh? Usne blouse ke back pe itna stare kiya ki main staffroom se dekh sakti thi. Kal stairs pe bhi teri **panty line** clear dikh rahi thi jab pallu hata.”
+
+Ankita ki aankhein thodi si teez ho gayi. 
+
+**ANKITA:** “Tu bhi notice karti hai yeh sab?”
+
+
+
+**JASVINDAR:** “Dosti hai na.” Jasvindar lean in hui. 
+
+**JASVINDAR:** “Mere se badi cheez hai tere paas… **cups** aur yeh quiet face. Dono dekh ke soch rahe the **neeche kya hoga**.”
+
+Ankita ne counter kiya. 
+
+**ANKITA:** “Aur tera husband? Last month jab usne tera photo phone pe save kiya tha ‘for reference’ bol ke? Tu uske saamne bhi red ho jati hai.”
+
+Jasvindar hasi. 
+
+**JASVINDAR:** “Kam se kam mera notice karta hai. Tera Rohan toh clients mein itna dooba rehta hai ki tu naya blouse pehen ke bhi usko farak nahi padta. Sach bol — jab Vivan aisle mein itna close aaya tha, tujhe thoda sa **achha** nahi laga?”
+
+Ankita ne thighs ke beech pressure feel kiya. 
+
+**ANKITA:** “Professional rehna padta hai.”
+
+
+
+**JASVINDAR:** “Professional?” Jasvindar ne knee pe haath rakha. 
+
+**JASVINDAR:** “Kal **panty line**, aaj lab mein **measure**. Tu jaanti hai woh dekh rahe hain. Aur tu ignore karti hai, lekin andar se—”
+
+*Angel: Yeh band kar.*  
+*Devil: Cotton wali abhi bhi ghar pe hook pe latki hui hai. **Kisi ne dekh liya toh?***
+
+Ankita ki saans thodi unregular hui. Usne glass uthaya. Jasvindar ne notice kiya.
+
+
+
+**JASVINDAR:** “Face laal ho gaya, Anku. **Cups** ke saath yeh quiet face dangerous combination hai. Dono married hain, lekin baatein toh ho sakti hain.”
+
+Ankita ne uska haath hataaya, lekin smile rok nahi paayi. 
+
+**ANKITA:** “Tu bahut zyada bolti hai.”
+
+
+
+**JASVINDAR:** “Isliye toh dosti hai.” Jasvindar ne lean back kiya. 
+
+**JASVINDAR:** “Ab ja. Ghar jaake change kar. Practical cancel hai aaj.”
+
+13:15. Ankita khadi hui. 
+
+**ANKITA:** “Haan. Main ghar jaa rahi hoon change karne.”
+
+Usne phone nikala aur Bittu ko text kiya — *Ghar aa rahi hoon. Doodh le aaya?*  
+
+Koi reply nahi aaya.
