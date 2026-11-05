@@ -512,3 +512,86 @@ Woh glass meeting room ki taraf nikal rahi thi jab Aditi glass door pe dikhi. Aa
 
 
 **ADITI:** “Shivu… lunch pe aa. Mujhe kuch batana hai.”
+
+### Part C — Rooftop Café (13:20–13:50)
+
+> **Editorial audit — original prose unchanged:** 376 words against the 450–550 target. Core Part C beats and final client-cancellation/work-from-home stop are present. Flag for review: the transition from Aditi admitting a serious professional issue to “Ab serious baat khatam” is abrupt; “fainta” appears to be a typo. No plot or wording changes applied.
+
+13:20. Rooftop café near the studio. Hawa thodi tez thi, umbrella ke neeche do cups coffee. Shivani arms cross karke baithi thi. Aditi opposite, aankhein thodi guilty.
+
+
+
+**SHIVANI:** “Bol,” Shivani ne kaha.
+
+Aditi ne saans li. 
+
+**ADITI:** “Main jaanti thi. Client ne informal request bheji thi plan change karne ki. Main ne kuch nahi kaha. Sorry, Shivu.”
+
+Shivani ki jaw tight hui. 
+
+**SHIVANI:** “Tu jaanti thi aur chup rahi? Mera approved drawing overwrite ho gaya.”
+
+
+
+**ADITI:** “Main soch rahi thi yeh chhota issue hai. Galat kiya.” Aditi ne haath aage badhaya. 
+
+**ADITI:** “Maaf kar.”
+
+Shivani thodi der chup rahi, phir shoulders drop kiye. 
+
+**SHIVANI:** “Agla baar seedha bol. Chup mat reh.”
+
+Aditi ne relax kiya, phir smile aayi. Usne lean in kiya. 
+
+**ADITI:** “Ab serious baat khatam. Sach bol — Ayaan tujhe aise dekhta hai jaise drawing nahi, tujhe plot kar raha ho.”
+
+Shivani ne aankh uthayi. 
+
+**SHIVANI:** “Tu bhi?”
+
+
+
+**ADITI:** “Armaan toh silent rehta hai, lekin uski nazar clear hai.” Aditi ne Shivani ke kurta ka neckline lightly tug kiya aur peek kiya. 
+
+**ADITI:** “Beige? Itni boring bra aur itna hot kurta? Contradiction hai yeh.”
+
+Shivani ne uska haath hataaya, lekin hasi rok nahi paayi. 
+
+**SHIVANI:** “Professional bra hai.”
+
+
+
+**ADITI:** “Professional?” Aditi lean closer hui. 
+
+**ADITI:** “Cup size toh bata. Kabir notice bhi karta hai kya? Ya usko sirf launch ke slides dikhte hain?”
+
+Shivani ne coffee uthayi. 
+
+**SHIVANI:** “Woh busy rehta hai.”
+
+
+
+**ADITI:** “Busy.” Aditi ne air quote maara. 
+
+**ADITI:** “Ayaan fainta pehle, ya Armaan? Ayaan toh bolta bhi hai. Armaan sirf dekhta hai. Dono mein se kaun zyada dangerous hai?”
+
+Shivani ne pretend scold kiya. 
+
+**SHIVANI:** “Tu junior ke baare mein itna mat soch. Main senior hoon.”
+
+
+
+**ADITI:** “Senior ke nipples tight hain abhi,” Aditi ne soft voice mein kaha. Shivani ne feel kiya — beige T-shirt bra ke neeche nipples clearly hard the. Heat aa gayi thi.
+
+*Angel: Line draw kar.*  
+*Devil: Subah Devendra ki aankhein lift pe… aur kal raat wali bra abhi bhi bedroom chair pe padi hai.*
+
+Shivani ne thighs shift kiye. Aditi hasi. 
+
+**ADITI:** “Dekh, face thoda sa change hua. Admit kar, tujhe pasand hai jab woh dekhte hain.”
+
+Shivani ne coffee finish ki. Phone buzz hua — client call cancelled. Text clear tha.
+
+Usne bag uthaya. 
+
+**SHIVANI:** “Main ghar jaa rahi hoon. Shower lene ke baad work from home. Monu ko bol deti hoon chai bana de.”
