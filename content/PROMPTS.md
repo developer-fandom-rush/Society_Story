@@ -2866,7 +2866,7 @@ Ep5 finalize → then Episode 06 Second Accident (~55–65%) + chotu-kiss tease 
 
 <!-- Episode 06 imported from approved Google Doc; four navigable chapters. -->
 
-# Society Wives — Episode 06 Master Pack — Overview + Ep3 Corrections
+# Society Wives — Episode 06 Master Pack (A/B/C) + Ep3 Corrections
 
 > **Source:** [Episode 06 Master Pack (A/B/C) + Ep3 Corrections](https://docs.google.com/document/d/1M3asHCA7UmHF2KiARwlaPfBsNkHdRDc6idPHyzYYOio/edit) — approved working prompt pack, not finished Story prose.
 >
@@ -2968,8 +2968,6 @@ Three interlocking tracks (staggered days):
 - Never minor language. All adults.
 ---
 
-
-# Society Wives — Episode 06A Master Pack — Household Helpers / Kiss Paths
 
 ## SECTION 3 — 06A Master Pack (KISS ONLY)
 > **Mark:** Kiss-only path. Cock-twitch **PAUSED**. Twins/office OFF in this section. Copied from locked `/workspace/ep06a-master-pack.md` so one Doc holds A+B+C.
@@ -3181,8 +3179,6 @@ Grok updated this from the Deepak New Work Doc tabs (06A sequence + Ep3 fixes). 
 ---
 
 
-# Society Wives — Episode 06B Master Pack — Society Twins / Second Accident
-
 ## SECTION 4 — 06B Master Pack — Society Twins Second Accident (~55–65%)
 **Title concept:** "Second Accident" / society track.
 **Show lock (all five):** ~55–65% soft upper mass + deep cleavage, ~2–4 sec, **nipple still covered**. Ep5 was ~33%. Earn the jump via dress choice + prior heat + agency.
@@ -3390,8 +3386,6 @@ Ritvik mid-laugh cuts silent. Raghav picks kit without looking, then: "Bua ke gh
 15. **MEENAKSHI:** *(night)* "Normalize… aur milk… dono saath."
 ---
 
-
-# Society Wives — Episode 06C Master Pack — Office + Society Outer
 
 ## SECTION 5 — 06C Master Pack — Office + Society Outer
 **Still NO workplace breast show/sex.** Ep6 office = compare / almost-ask / body-hum notice — she uses office eyes as *fuel* after society second show.
