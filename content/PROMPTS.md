@@ -1464,3 +1464,1403 @@ Write Meenakshi Ep4 Part E only. Prakash pulls a chair for her — tent right be
 • Five mechanisms stay distinct: bathroom / study + album / phone recording / intercom / utility jaali.
 
 • Husbands blind. Twins name-drop only. No minors, no Pappu.
+
+
+# Society Wives — Episode 05A Master Pack — Home & Twins
+
+> DEVELOPMENT SOURCE — Episode 05A | Google Doc tab: https://docs.google.com/document/d/11X45b2wMxjORV3AveGDAyqXUpNRMXox7r8c5YOCfjqo/edit?tab=t.0
+
+> Working Grok / GPT planning pack. Not published final story prose. Source text below retained in the same order; Markdown heading levels adjusted only for UI navigation.
+
+GROK EROTIC HEAT LOCK — 05A (2026-11-05)
+Rewritten against Deepak's instruction tab (t.vjem8cvlqsru). All characters are 22+ adults. Planning lock, not final prose. GPT material below is reference only; where it conflicts, this lock and Deepak's tab win.
+Global rules
+• Part A for every wife = the EP04 uncle-circle aftermath. Actions, order and intensity can move up or down, but it must not be replaced with a professional/soft plot. GPT's Taniya and Meenakshi Part A suggestions are REJECTED. Meenakshi's Part A must restore the Prakash encounter link. Shreya's Part A selection is REJECTED: it turns the erotica into adult drama.
+• All five wives get a first twins show of about one-third of the breasts in Ep5 (upper swell plus cleavage; nipple edge covered). Exceptions are flagged below: Taniya's alternate tear is back-only, and Meenakshi's door show is a body-cling show.
+• Every entry stays DIFFERENT: Ankita = morning arrival; Shivani = straight out of the shower; Shreya = slow bond first; Taniya = loose nightwear at the door; Meenakshi = post-shower nightie.
+• Flirting must be FULL devar-bhabhi conversations, long blocks for every wife, not 2–3 lines. No twin sex in Ep5. No Pappu.
+• GPT editorial lines like "not a spectacle", "no body-scanning" and "should not linger on her body" are REJECTED.
+ANKITA × Naman/Nakul — keep the first idea
+• Part B: a surprise morning arrival; then the floor practice test in a loose kurti. She bends for the pen, the neckline falls, and they see about 33%: soft upper swell, deep cleavage and the lace edge, for 2–3 seconds. Hot rush to her chest and a damp salwar; she recovers with a brisk teacher voice.
+• Full flirt block (sample flow to expand in prose):
+Naman: "Bhabhi, aapne darwaza khola toh laga alarm galat time pe baja… itni subah itni sundar koi kaise lagta hai?"
+Ankita: "Subah ki neend aur bina kanghi ke baal, Naman. Isse sundar mat bolo."
+Naman: "Bina kanghi ke itni, toh taiyar hoke toh college band karwa dogi."
+Nakul: "Bhai, chup. Bhabhi, chai main bana doon?"
+Ankita: "Dekho, ek devar flirt karta hai, ek kaam. Rohan, tumhare cousins balanced hain."
+Naman: "Balance aapke saamne bigad jaata hai, bhabhi."
+(Practice test, after the slip)
+Naman: "Bhabhi… gravity ka question toh aapne bina likhe samjha diya."
+Ankita: "Naman, ek aur shabd aur tumhara paper zero."
+Naman: "Zero le lunga. Jo dekha uske liye sau marks kam hain."
+Ankita: "Besharam."
+Naman: "Sirf aapke saamne."
+Nakul (quiet): "Bhabhi, sorry. Maine bhi dekha. Jhooth nahi bolunga… aap bahut khoobsurat ho."
+Ankita (softening): "Tum dono pagal ho. Paper do."
+Nakul keeps his notebook on his lap to hide his hard-on. That night she replays "sau marks" and is wet before Rohan touches her.
+SHIVANI × Yash/Yug — shower entry, then model emergency, then wrong door
+• Part B entry: Kabir's cousins arrive while she is in the shower. She comes out in minimum clothing (wet innerwear with a damp slip/towel wrap clinging, sticky on her breasts and hips, nipples outlined, water running down her thighs) and walks straight into the two of them in the lounge. Full embarrassment: she freezes, an arm across her chest, and runs back.
+• Then the model emergency (keep GPT's collapse and time limit). The banter builds closeness.
+• Then the wrong door: Yash rushes for model parts and actually ENTERS her bedroom while she is changing; her saree pallu is off and she's in the blouse with the saree half-tucked. Yug is right behind. Both SEE about 33%: the blouse top unhooked, full upper swell and cleavage, bare midriff, 2–3 seconds. She does not stop him at the door. She feels like crying. Emotional patch-up: Yash's apology, and Yug wiping the tear from her cheek, Dhika-like heat by a different method.
+• Full flirt block:
+Yash (lounge, after shower): "Bhabhi… humne kuch nahi dekha. Bas paani dekha. Bahut saara paani."
+Shivani: "Yash! Aankhein band karo."
+Yash: "Band hain. Yaad khuli hai."
+Yug: "Bhabhi, aap jaao, hum TV dekh rahe hain. Bahut zor se dekh rahe hain."
+(Patch-up after the wrong door)
+Shivani (crying): "Tumne mujhe aise… dono ne dekh liya."
+Yash: "Bhabhi, galti meri thi. Par jhooth nahi bolunga. Itni sundar cheez dekh ke maafi bhi kaanp rahi hai."
+Yug (wiping her tear): "Aap ro mat. Jo dekha woh humare andar band hai. Bhaiya ko bhi nahi, kisi ko nahi."
+Shivani: "Promise?"
+Yash: "Promise. Aur agar phir galti se hua toh… hum khushkismat honge."
+Shivani (laugh through tears): "Besharam!"
+Both have hard-ons they hide behind the model board. Her heat: she was seen half-dressed twice in one day, and that night she is soaked thinking about it.
+SHREYA × Karan/Aman — bond first, then the show
+• No adult drama. Part B = a bond moving from devar-bhabhi teasing toward romantic trust and comfort. She is in control: she sets how far the talk goes, they obey, and sexual talk stays limited and in HER hands.
+• Bond beats: late-night terrace chai where Karan flirts and she checks him with one look and he stops; Aman massages her tired feet after a wedding-shopping day while she lets him; a saree she models for them, with them rating her; she confides her loneliness with Arjun's work hours.
+• Show only after the bond: the drape trial, the pallu pin gives, the blouse gapes, about 33% toward both; they look, then look away on her single word "bas". She feels power plus heat; her nipples harden against the silk.
+• Full flirt block:
+Karan: "Bhabhi, Arjun bhaiya ne aapko kaise patataya? Humein bhi tips chahiye."
+Shreya: "Tips nahi milengi. Tumhari umar mein bas dekhte raho."
+Karan: "Dekhne ki permission hai? Phir toh roz aayenge."
+Shreya: "Permission main deti hoon, Karan. Aur abhi nahi di."
+Aman: "Bhabhi, aap thak gayi ho. Pair do, dabata hoon."
+Shreya: "Sirf pair, Aman."
+Aman: "Jitna aap kaho, utna hi."
+(After the pallu slip)
+Karan: "Bhabhi… woh til…"
+Shreya: "Bas." (He stops instantly.)
+Shreya (softer, later): "Tum dono pe bharosa hai, isliye ro nahi rahi."
+Aman: "Woh bharosa kabhi nahi todenge. Aap jitna doge, utna lenge."
+Shreya: "Aur jo nahi dungi?"
+Karan: "Uska sapna dekhenge, bhabhi. Sapne pe toh rok nahi."
+Note: Taniya's twins are her own mausi's sons (bhai-didi address). Keep the flirt teasing, not husband's-cousin coded.
+TANIYA × Aarav/Arnav
+• Part A: stays the uncle (Sudhir) aftermath. GPT's soft professional replacement is REJECTED.
+• Part B preferred: an early arrival; she opens in loose nightwear (a wide-neck satin top, no bra, shorts) without realising. Their gaze maps: breasts (the loose neck sagging forward to about 33% swell and cleavage, nipples pressing satin) → navel (the top riding up) → legs. They try to look away and fail. She notices their eyes stuck, looks down, realises and flees to her room.
+• Alt/second incident: while she is teaching/working with them, her dress catches and tears; ONLY her back is exposed, with just the bra strap visible. Shame, then they cover and handle it calmly; trust and bond form, Dhika-style.
+• Full flirt block:
+Aarav: "Didi, itni subah aapko dekh ke laga sapna chal raha hai."
+Taniya: "Andar aao, chai banati hoon." (still unaware)
+Aarav: "Chai baad mein… pehle aankhen theek kar lein."
+Arnav: "Bhai! Didi, hum bahar wait karte hain."
+Taniya (realising, arms crossing): "Tum dono… kab se dekh rahe the?!"
+Aarav: "Jab se darwaza khula, didi. Sorry. Galti aapki nightwear ki hai."
+(Back tear)
+Arnav (holding her dupatta over her back): "Didi, kuch nahi dikha. Bas strap. Aur woh bhi main bhool gaya."
+Taniya: "Jhooth."
+Arnav: "Haan, jhooth. Par kisi ko nahi bataunga."
+Aarav: "Didi, aapki back pe bhi log poem likhte."
+Taniya (half-laughing): "Nikal jao dono!"
+MEENAKSHI × Ritvik/Raghav
+• Part A: restore the uncle (Prakash) encounter aftermath. GPT's Part A is REJECTED for missing it.
+• Part B: she is naked in the bath when the bell rings, and no one is home. She assumes it's Nikhil back for something, pulls on only a nightie over wet skin and goes. The nightie isn't sheer, but it sticks to her damp body: breasts, nipples, belly and hips all clearly readable in curves. Not revealing, not covering. She opens the door; it's the twins. Hesitation, fear, then they say "It's okay bhabhi, chalega." They flirt right there; she enjoys it so much she forgets how she's standing and LETS them look while the talk continues.
+• Second incident: she doesn't tease on purpose. She stays aware that it shouldn't repeat, but she's unafraid because she trusts them. Strong devar-bhabhi flirt. Psychological impact: she feels desired and safe at once. (Camp-microphone beat is an optional extra only.)
+• Full flirt block:
+Meenakshi (door half-open): "Nikhil, kya bhool—" (freezes)
+Ritvik: "Bhabhi… hum bhi bhool gaye ki kya kehne aaye the."
+Raghav: "It's okay bhabhi, chalega. Hum andar aa jaayein?"
+Meenakshi: "Main… main abhi nahaa ke…"
+Ritvik: "Dikh raha hai, bhabhi. Aur bahut achha dikh raha hai."
+Meenakshi: "Ritvik!"
+Ritvik: "Sach bola. Bhaiya bahut lucky hain."
+Raghav: "Bhabhi, paani laaun? Aapke baal se ab bhi tapak raha hai."
+Meenakshi (smiling now, not moving): "Tum dono aate hi shuru ho gaye."
+Ritvik: "Aap darwaza aise kholengi toh shuru hi honge."
+(She stays, talking, the nightie still clinging, for minutes, then remembers and goes in flushed and wet.)
+Twin talk + husband aftermath
+• The twins' room at night: the talker almost names her body ("bhai, woh… itne bhare…") and stops; the quiet one admits he's hard and that she must never know.
+• Husbands get crumbs only ("cousins ne mujhe adhoori taiyaar dekh liya"). They're turned on, blind-proud; harder sex that night while she silently replays the twins' eyes. No % confession.
+SOCIETY WIVES — EPISODE 05A
+REVISED TWINS ARC · DEVELOPMENT DRAFT · 05 NOVEMBER 2026
+EDITORIAL SCOPE
+This is a character-first, non-graphic draft with longer Hinglish dialogue samples, differing domestic mechanisms, recurring familiarity, embarrassment, repair, and Episode 6 handoffs. It does not describe explicit intimacy or voyeuristic body details. The women set boundaries and remain in control of their own private spaces.
+SOURCE LOCKS RETAINED
+• Five separate adult twin pairs, exactly 22 years old; household/society visitors only.
+• Ankita: Naman/Nakul — Rohan's mausi's sons, visiting for competitive-exam preparation.
+• Shivani: Yash/Yug — Kabir's bua's sons, visiting for a design competition.
+• Shreya: Karan/Aman — Arjun's mausi's sons, visiting for family-wedding shopping.
+• Taniya: Aarav/Arnav — her own mausi's sons, visiting on college break.
+• Meenakshi: Ritvik/Raghav — Nikhil's bua's sons, visiting for course applications.
+• Professional juniors stay at work and are never renamed or substituted for the twins.
+• Household helpers and society uncles are separate cast lanes.
+• EP01–04 events remain in continuity. No original episode is silently changed.
+DECISION POINTS
+• PART A (all five): KEEP ORIGINAL EP05 MASTER PACK. The editorial changes below are about handoff, unique aftermath, and B–E. No replacement for existing adult married-couple Part A has been written.
+• ANKITA: Preserve her originally planned accidental clothing-displacement beat (the source specifies approximately 33%); do not clone its mechanism for the other women. Add the more natural morning arrival and richer conversation.
+• SHIVANI: Make the competition-model problem precede a genuinely mistaken room entry, followed by apology, privacy restoration, and emotional reconciliation. The mistake is not treated as permission.
+• SHREYA: Discard the weaker simple-parcel-only introduction. Give her three distinct interactions that earn trust before a private, awkward moment. She controls whether, and how, any teasing continues.
+• TANIYA: Keep EP04 uncle-related emotional aftermath in Part A. B–E get an early-morning family arrival and a separate later clothing snag: back/strap incident, no repeated shelf-bend exposure. Taniya's two visitors remain her own cousins.
+• MEENAKSHI: Keep EP04 aftermath in Part A. Opening: after-shower haste, an unexpected doorbell she mistakenly assumes is Nikhil, modest nightwear, an awkward guest arrival. Later: health-camp volunteering and a distinct microphone/social mishap, not another identical slip.
+RESTRUCTURE: WHAT VARIES
+Ankita: surprise morning → intellectual flirtation/banter → familiar practice test → existing accidental moment → brisk, intelligent recovery.
+Shivani: surprise after-shower arrival → practical collaboration → wrong-room mistake → shaken response → earned accountability and trust.
+Shreya: welcome → styling exchange → confidential creative choice → supportive trust-test → optional later wardrobe problem handled with discretion.
+Taniya: nightwear doorstep surprise → family sparring → receipts → later small clothing snag → protective, matter-of-fact assistance.
+Meenakshi: post-shower doorstep surprise → calming welcome → health-camp practice → microphone misunderstanding → her trust becomes grounded, not assumed.
+TIMELINE (PROPOSED, CHANGEABLE)
+Day 0, morning: Twins arrive or are announced, at staggered family homes. Ankita, Taniya and Meenakshi get short unexpected-morning beats; Shivani has after-shower arrival. Shreya gets deliberate family welcome.
+Day 0, evening: Shreya begins the wedding style challenge; Ankita starts the fridge-message thread.
+Day 1: Ankita's exam prep banter deepens. Shreya's catalogue/fitting conversation; Taniya's first family-receipts joke.
+Day 2: Ankita's original practice-test accidental incident. Shivani's model emergency begins. Shreya receives a personal compliment grounded in her skill.
+Day 3: Shivani's wrong-room mistake and explicit apology. Meenakshi health-camp volunteer rehearsal.
+Day 4: Taniya's outfit snag during ordinary home administration. Shreya's trust-test at the family event.
+Day 5: Meenakshi's health-camp microphone incident; closing call/message to Nikhil.
+Day 6: Brief distinct aftermath moments and an Episode 6 transition; not five duplicate husband reactions on one night.
+No character travels from professional workplace into another woman's twins plot to make the calendar work.
+NEXT: FIVE CHARACTER CHAPTERS
+ANKITA — NAMAN & NAKUL
+Working title: "The Morning Before the Formula"
+Family: Rohan's mausi's adult twin sons (22). They stay in the guest room for competitive-exam preparation.
+PART A — PRESERVE
+Use source EP05 Part A, unchanged. Link: https://docs.google.com/document/d/1e5iAz4ifROPNrmpxNdGIAfEy2bTlCjNqSjmEuhQnXw8/edit?tab=t.pc1az85aocbt
+Continuity handoff only: Ankita's change in confidence is visible to Rohan, who doesn't know the EP04 details. No rewrite of the existing married-couple plot.
+PART B — EARLY ARRIVAL (DEVELOPED)
+Naman and Nakul arrive earlier than the family's expected check-in time. Ankita is still in comfortable morning clothing and has not arranged the guest room fully. She greets them at the door, realizes she is not visitor-ready, and goes to change while Rohan handles their luggage. Keep it light, not a staged display. The boys wait in the living room; there is no entry into a private bedroom.
+Arrival conversation — extended sample:
+Naman: "Bhabhi, surprise! Rohan bhai ne bola tha ghar ka timetable aapke haath mein hai. Hum log punctuality test pass hue?"
+Ankita: "Punctual? Tum log do ghante early aaye ho. Physics mein isse measurement error bolte hain."
+Naman: "Toh bonus marks milenge na, initiative ke?"
+Nakul: "Pehle bata do bags kahan rakhne hain. Aur sorry, humne time confirm nahi kiya."
+Ankita: "Nakul, tum kam bolte ho, lekin sensible bolte ho. Naman, suitcase yahan rakho."
+Naman: "Excellent. Pehle hi minute mein aapne favorite student choose kar liya."
+Ankita: "Student tab banoge jab attendance se zyada mehnat dikhegi."
+Rohan: "Main kah raha tha, tum dono do din mein examination hall mein aa jaoge."
+Naman: "Bhai, ek request: results family group mein mat daalna."
+Ankita: "Acha, ab jao. Main chai banakar aati hoon. Ek bhi 'surprise inspection' nahi."
+PART C — PERSONALIZED FAMILIARITY, NOT JUST TWO LINES
+The fridge becomes a running conversation board. Naman writes deliberately silly formula jokes. Nakul fixes the math. Ankita starts replying with red-marker margin notes. Her daily anticipation is of a playful intellectual challenge, not a body-focused compliment.
+Recurring conversation:
+Naman: "Bhabhi, aaj ka theorem: Sunday plus chai equals zero productivity."
+Ankita: "Counterexample: Nakul ne subah se do chapters revise kiye hain."
+Nakul: "Actually, teen. Ek Naman ka bhi."
+Naman: "Mera chapter? Tu mere behalf par padhta hai?"
+Nakul: "Kisi ko toh marks bachane hain."
+Ankita: "Good. Naman, tumhara theorem reject."
+Naman: "Aap smile kar rahi hain. Matlab partial credit?"
+Ankita: "Itna negotiation bank manager se karo. Yahan proof chahiye."
+Naman: "Kal proper proof launga. Ek hint mil sakta hai?"
+Ankita: "Hint tab jab tum sach mein attempt karoge."
+Nakul: "Bhabhi, ise hint mat dijiyega. Phir answer ko apna innovation batayega."
+Ankita: "Thank you, Nakul. Tumhara sense of humour undercover hai."
+Naman: "Aur mera public service."
+Ankita: "Haan, unwanted announcements ki public service."
+PART D — KEEP THE SOURCE INCIDENT, CHANGE THE EMOTIONAL WRITING
+Keep the established evening practice-test setup: paper/pen drops to the floor and Ankita's loose kurti shifts unexpectedly while she is retrieving it. The original master pack's stated exposure cap is retained as a source lock, but this development note does not depict physical details. Both brothers respond with discretion; the focus stays on her surprise and choice to continue or stop the session.
+Do not repeat the same reaction sequence in other heroines' chapters.
+After the mishap:
+Naman: "Bhabhi—sorry. Main bas answer sheet lene aaya tha."
+Ankita: "I know. Thoda awkward ho gaya. Give me a minute."
+Nakul: "Paper table par rakh diya hai. Hum drawing room mein wait kar lete hain?"
+Ankita: "Haan. Thank you, Nakul."
+Naman, later: "Aaj ka practice test postpone kar den? Aapko uncomfortable nahi karna."
+Ankita: "Postpone nahi. Bas normal behave karoge. No jokes about this."
+Naman: "Promise. Jo joke main banane wala tha, woh bhi cancel."
+Ankita: "Good. Chalo, next question."
+Nakul: "Main board ready kar deta hoon."
+PART E — AFTERMATH AND EP06 HOOK
+Rohan hears that a practice lesson became awkward but is not told anything more detailed than Ankita wishes to share. He does not turn her embarrassment into a joke. Ankita recognizes that Nakul's restraint and Naman's willingness to stop joking are genuine evidence of trust.
+Later the fridge reads: "Today's result: privacy respected. Test continues tomorrow." Nakul quietly adds a correct solution underneath. Naman adds, "Attendance: still not cancelled."
+EP06 hook: Ankita encounters an unexpected comparison between the twins' study notes and an older college-lab register issue. Keep professional and family lanes separate: the link is a question she asks, not a secret meeting at work.
+SHIVANI — YASH & YUG
+Working title: "The Wrong Door After the Model"
+Family: Kabir's bua's adult twin sons (22), temporarily staying while preparing for a college design competition.
+PART A — PRESERVE
+Original EP05 Part A remains in the source, unchanged. The EP04 Devendra-related emotional thread must still inform Shivani's private state, without rewriting the existing spouse scene.
+PART B — SHOWER-TO-GUEST INTRODUCTION
+The twins arrive while Shivani is finishing her morning routine. She has just showered; hair is wet, her outfit is not yet completely ready, and Kabir did not communicate their ETA. She speaks to them from the hallway, excuses herself to finish getting dressed, and expects the boys to stay in the lounge. No one is invited into her bedroom.
+Arrival dialogue:
+Yash: "Kabir bhai ne bola tha aap architect ho. Yeh ghar dekhkar lag raha hai room ke corners tak interview dete honge."
+Shivani: "Aur tumhe dekhkar lag raha hai tumhara suitcase bhi presentation karega."
+Yug: "Sorry, hum jaldi aa gaye. Hum lounge mein wait karte hain."
+Shivani: "Thanks, Yug. Kabir ko bolo next time ETA confirm kare."
+Kabir: "Meri galti. Calendar mein sirf date thi."
+Yash: "Bhabhi, pehla client feedback: arrival flow improve kariye."
+Shivani: "Pehla designer feedback: client briefing padhiye."
+Yug: "Main luggage doorway se hata deta hoon. Fire exit clear rehna chahiye."
+Shivani: "Finally, practical thinking."
+PART C — MODEL EMERGENCY FIRST
+The boys' competition model keeps collapsing. Shivani gives them a time limit and refuses to rebuild it for them. This beat must happen before the wrong-door event so that they already have a small history of respectful collaboration.
+Model conversation:
+Yash: "Bhabhi, meri creativity ko freedom chahiye."
+Shivani: "Freedom milega. Gravity nahi badlegi."
+Yug: "Base ka center uneven hai. Yash decoration pe focus kar raha tha."
+Yash: "Artist hone ki saza mil rahi hai."
+Shivani: "Artist ho, toh design ko stand bhi karao."
+Yash: "Aapko impress karna impossible hai kya?"
+Shivani: "Impossible nahi. Measurable."
+Yug: "Maine revised dimensions nikali hain. Check karengi?"
+Shivani: "Ab baat bani. Tum dono milkar fix karo; main final review doongi."
+Yash: "Challenge accepted. Agar model khada raha toh chai meri taraf se."
+Shivani: "Aur gira toh safai bhi."
+PART D — WRONG-DOOR INCIDENT, THEN ACCOUNTABILITY
+Later, during a rushed model-parts search, Yash mistakes a closed private bedroom door for the spare-storage room. He opens it without checking, while Shivani is in the middle of changing clothes. The prose should not describe or linger on her body. Yash immediately turns away, steps out, closes the door and apologizes. Yug, approaching down the passage, does not look inside. Shivani is visibly shaken and nearly cries: the episode holds on the violation of privacy and the boys' response, not a spectacle.
+Repair dialogue after she has changed:
+Yash: "Bhabhi, main andar nahi aana chahiye tha. Galat room samjha. That's on me."
+Shivani: "Galat room samajhna ek baat hai. Knock kiye bina darwaza kholna doosri."
+Yash: "Aap bilkul sahi keh rahi hain. I am sorry."
+Yug: "Maine model parts store mein rakh diye hain. Humne aapke kamre ko touch nahi kiya."
+Shivani: "Thank you. Mujhe bas ek minute chahiye."
+Yash: "Hum bahar wait karenge. Agar aap chahen toh model kal continue karenge."
+Shivani: "Aaj ke liye yahi theek hai."
+Yug: "Aur main guest-room door pe temporary label laga deta hoon. But label se pehle knock rule."
+Shivani, later: "Good. Ab tum dono ko ek aur design principle yaad rahega—privacy by design."
+Yash: "Is baar lecture deserved tha."
+Shivani: "Haan. Aur tumhari apology bhi notice ki."
+PART E — DIFFERENT AFTERMATH
+Shivani is not instantly comfortable. Trust takes a further conversation and consistent conduct. Kabir learns there was a wrong-room mistake; he supports her boundaries rather than making it a comic anecdote. The repaired model is presented a day later, and Yug asks permission before placing it on her work table.
+EP06 hook: Shivani receives an unexpectedly precise sketch made by Yug that reminds her of the separate service-passage issue. This is a plot lead, not proof of wrongdoing.
+SHREYA — KARAN & AMAN
+Working title: "The Compliment That Earned Trust"
+Family: Arjun's mausi's adult twin sons (22), visiting for wedding shopping and staying in the guest room.
+PART A — PRESERVE, NOT SOFTEN
+The original EP05 Part A prompt remains untouched. Shreya's EP04 aftermath, private recording thread and Arjun relationship continue as originally planned. No replacement plot is substituted.
+PART B — BOND MUST BEGIN BEFORE THE PARCEL
+Shreya is already hosting family guests. Karan knows fashion vocabulary but exaggerates; Aman notices details quietly. She is amused by both but not instantly trusting. The first meeting establishes different styles and her control over her own personal space.
+Extended welcome dialogue:
+Karan: "Bhabhi, sach kahun? Aapka living room dekhkar mera fashion confidence gir gaya."
+Shreya: "Accha? Yeh toh achievement hai. Karan ka confidence toh discount par bhi nahi milta."
+Aman: "The colour palette kaafi balanced hai. Especially that old brass lamp."
+Shreya: "Oh! Tumne lamp notice kiya? Arjun ko teen mahine lage."
+Arjun: "Mujhe toh bill notice hua tha."
+Karan: "Bhabhi, meri dressing judge karogi?"
+Shreya: "Judge karungi, par appeal allowed nahi hogi."
+Karan: "Itni strict fashion court?"
+Aman: "Main already defence lawyer retire kar raha hoon."
+Shreya: "Wise decision, Aman."
+Karan: "Aap hansti bahut achchi hain. Har baar meri class laga kar."
+Shreya: "Compliment accepted. Ab luggage guest room mein, runway bandh."
+PART C — REPEATED CONVERSATIONS AND A TRUST TEST
+At a family wedding fitting, Karan suggests a loud combination, Aman proposes one understated variation, and Shreya explains why her decision differs. Later a private wedding outfit is delivered; instead of opening a closed garment bag or entering the fitting area, both wait and ask.
+Fitting conversation:
+Karan: "Aaj ka theme cinematic hai, Bhabhi. Thoda drama zaroori."
+Shreya: "Drama tum handle kar lo. Main fitting handle karti hoon."
+Aman: "Maybe jewellery simpler rakhein; silk ka weave khud kaafi expressive hai."
+Shreya: "Exactly. Aman ne dekha. Karan ne announce kiya."
+Karan: "Main background music hoon?"
+Shreya: "Kabhi-kabhi loudspeaker."
+Karan: "Aap mere ideas reject karti hain, phir bhi main naye ideas le aata hoon."
+Shreya: "Aur mujhe tumhari persistence funny lagti hai. But rules yaad rakhna."
+Aman: "Private fitting area private. Check."
+Shreya: "And don't open labelled garment covers without asking."
+Karan: "Noted, boss. Permission pehle, commentary baad mein."
+Shreya: "Ab tum dono ko main kuch actual responsibility de sakti hoon."
+Karan: "Finally! Promotion?"
+Shreya: "Trial period."
+Aman: "Fair."
+PART D — THE VULNERABLE MOMENT IS ABOUT CHOICE AND DISCRETION
+While coordinating a wedding outfit, Shreya realizes she has forgotten a required accessory in the private fitting area. Karan offers to collect it but stops when she says the area is off-limits. Aman quietly retrieves the correctly labelled parcel from the public hallway. The actual awkward moment can be a brief saree-drape issue during the family fitting, presented discreetly. The men immediately look away and follow her instruction.
+Repair/dialogue:
+Shreya: "Bas. Ek minute dono yahan wait karo."
+Karan: "Okay. Hum idhar hi hain."
+Aman: "Shall I call Shruti to help with the fitting?"
+Shreya: "Haan, please. And nobody opens the door till I say."
+Karan, later: "I almost made a joke. Phir laga, inappropriate ho jayega."
+Shreya: "Good decision. Har joke ko stage time nahi milta."
+Aman: "Aap comfortable hain toh hum function lists finish kar sakte hain. Nahi toh kal."
+Shreya: "Let's finish. Aur thank you for being sensible."
+Karan: "Bhabhi ke court mein bail mil gayi?"
+Shreya: "Conditional bail, Karan."
+Aman: "Best possible verdict."
+PART E — TRUST EARNS A FUTURE CHOICE
+Shreya decides how casual or playful their family interactions may be; appreciation never gives someone unrestricted access to her privacy. Across the week she comes to trust both because they listen and act consistently, not because they watched her at a vulnerable moment. Karan learns when to stop talking. Aman learns to express his appreciation openly rather than hiding behind silence.
+EP06 hook: Shreya receives a family wedding invitation update that complicates the boutique supplier subplot. The brothers can help with the family side, not with private boutique client records.
+CREATIVE FORK FOR FUTURE ROMANTIC PLOTTING
+Current source establishes Arjun's cousins as family visitors. If the intended later arc becomes explicitly romantic rather than affectionate in-law banter, that would require a deliberate cast/relationship revision approved by the user before writing; do not silently switch relations or imply a new relationship is already canon.
+TANIYA — AARAV & ARNAV
+Working title: "The Early Arrival and the Torn Seam"
+Family: Taniya's own mausi's adult twin sons (22); her own blood cousins. They stay with Taniya and Vikram for a college break.
+PART A — PRESERVE THE UNCLE-AFTERMATH LINK
+The original EP05 Part A belongs to the EP04 Sudhir/uncle-circle aftermath. Leave its existing plot direction intact. Do not replace it with work-life balance or generic domestic softness. This document only records that continuity constraint.
+PART B — EARLY MORNING IN NIGHTWEAR
+Aarav and Arnav arrive much earlier than expected. Taniya believes the doorbell is for a delivery and opens it while still in casual nightwear. She becomes self-conscious about not being dressed for guests and steps away to change. The cousins keep their welcome appropriate; no body-scanning or invitation to watch a private change.
+Arrival conversation:
+Aarav: "Taniya Di! Surprise. Humne socha traffic beat karenge."
+Taniya: "Traffic toh beat kar liya. Apni Di ka schedule hara diya."
+Arnav: "Sorry, Di. Humne message bheja tha, shayad aap so rahi thi."
+Taniya: "Message bhejna aur delivery time confirm karna alag cheezen hoti hain."
+Aarav: "Acha, yeh bank wali training ghar pe bhi compulsory hai?"
+Taniya: "Bilkul. Tumhare liye special module: call before arrival."
+Arnav: "Main bags side mein rakh deta hoon. Aap aaram se ready ho jaiye."
+Taniya: "Thank you. Vikram ko jagao mat, woh late call pe tha."
+Aarav: "Hum chai bana dein? Bina approval?"
+Taniya: "Chai approved. Kitchen ka audit Arnav karega."
+Arnav: "Finally, responsible role."
+Aarav: "Main creativity department?"
+Taniya: "Tum 'noise control' department."
+PART C — RECURRING FAMILY BANter
+They organise ordinary society/home receipts; no private bank records are accessible. Aarav makes exaggerated spending requests; Arnav catches errors. Taniya gradually moves from mock strictness to genuine amusement.
+Receipts conversation:
+Aarav: "Di, humara holiday budget bahut chhota hai."
+Taniya: "Tumhare expectations bahut bade hain."
+Arnav: "Budget theek hai. Aarav ne teen baar coffee add ki hai."
+Aarav: "Coffee educational expense hai."
+Taniya: "Education kis subject mein?"
+Aarav: "Survival under strict management."
+Arnav: "Expense rejected."
+Taniya: "Appeal rejected."
+Aarav: "Aap dono ki secret committee chal rahi hai?"
+Taniya: "Public committee. Tumhara maths weak hai."
+Arnav: "Di, aap pure din sab handle karti ho. Main grocery list update kar deta hoon."
+Taniya: "Thanks. Yeh genuine help hai."
+Aarav: "Meri help emotional support."
+Taniya: "Woh free rehni chahiye."
+PART D — SECOND, DISTINCT WARDROBE INCIDENT
+Later she catches a loose seam on a cupboard handle while reaching for a home file; the back of her outfit tears slightly. This is not another high-shelf upper-chest reveal. She is startled and concerned about the garment. Arnav immediately offers a shawl without looking at her back; Aarav turns away and offers to fetch Soniya or a sewing kit. No voyeuristic detailing. The real beat is how she discovers their discretion.
+Repair conversation:
+Taniya: "Oh no. Ye kurta bhi aaj hi phatna tha?"
+Arnav: "Di, shawl yahan hai. Main table par rakh deta hoon."
+Aarav: "Main sewing kit le aata hoon? Ya Soniya Di ko phone karun?"
+Taniya: "Kit le aao. Aur please, unnecessary commentary nahi."
+Aarav: "Bilkul nahi. Aaj main silent mode pe."
+Taniya: "Tum? Silent? Ye bhi dekhna hai."
+Arnav: "Di, aap comfortable ho jao. Hum drawing room mein hain."
+Taniya: "Thank you. And please don't make this a family story."
+Aarav: "Promise. Family group ko sirf budget ki complaints milengi."
+Taniya: "Fine. Budget jokes allowed."
+Arnav: "Garment incident closed."
+PART E — AFTERMATH AND EP06
+Taniya appreciates the difference between teasing and discretion. In the family she can be relaxed without surrendering her boundaries. Vikram knows she had a clothing snag, but doesn't pressure her into details or turn it into entertainment. She resumes ordinary family joking on her own terms.
+EP06 hook: a missing society visitor pass from the twins week raises a new logistics issue; it is not to be conflated with Taniya's professional bank records.
+MEENAKSHI — RITVIK & RAGHAV
+Working title: "The Doorbell After the Shower"
+Family: Nikhil's bua's adult twin sons (22), visiting for course applications and family time.
+PART A — PRESERVE THE PREVIOUS AFTERMATH
+Part A remains tied to the EP04 Prakash/uncle-circle history and to Nikhil's return. Preserve the existing emotional/intimacy direction without rewriting it here. This note does not replace any source details.
+PART B — POST-SHOWER DOORBELL
+Meenakshi finishes a shower and quickly puts on ordinary non-transparent nightwear. She hears the doorbell and assumes Nikhil has returned for a forgotten item. Opening the door, she finds Ritvik and Raghav. Her hair is still wet and she is embarrassed to be caught mid-routine. Instead of an exposed-body spectacle, the dialogue and sincere respect gradually relieve her discomfort.
+Arrival conversation:
+Ritvik: "Bhabhi! Surprise. Nikhil bhai ne bola hum log aayenge—shayad time batana bhool gaye."
+Meenakshi: "Time batana bhool gaye? Haan, woh toh bilkul Nikhil wali baat hai."
+Raghav: "Sorry, Bhabhi. Hum wait kar sakte hain. Aapko hurry karne ki zarurat nahi."
+Meenakshi: "Nahi, aao. Main bas ready nahi thi. Five minutes, okay?"
+Ritvik: "Bilkul. Waise ghar bahut welcoming hai. Darwaza khulte hi family jaisa laga."
+Meenakshi: "Acha? Tum ek minute mein reviews bhi dete ho?"
+Ritvik: "Free reviews. Best-rated service."
+Raghav: "Main bags corner mein rakh doon? Entrance block ho raha hai."
+Meenakshi: "Haan. Thank you. Chai ya nimbu pani?"
+Ritvik: "Aap choose karo, bas koi prescription mat likhna."
+Meenakshi: "Prescription ready hai—pehle haath dhona, phir chai."
+Raghav: "Ye follow karenge. Main ise remind karta hoon."
+Ritvik: "Bhai, tu toh mera permanent health app hai."
+Meenakshi: "Good. App ka subscription free rakhna."
+PART C — FAMILIARITY WITH TRUST
+Over the next days, the twins prepare for an amateur society health-awareness camp. Meenakshi is patient-experience/nutrition desk lead, not a doctor. She gives a volunteer briefing, not private clinical responsibilities. Ritvik draws people into conversation; Raghav handles forms, directions and low-key support. The flirtation stays in admiring, playful family compliments and warm humor.
+Rehearsal conversation:
+Ritvik: "Bhabhi, aapke saamne toh sab patient calm ho jaate honge."
+Meenakshi: "Patients ko calm karna aur volunteers ko disciplined rakhna—do alag jobs hain."
+Raghav: "Volunteers ka problem bigger lag raha hai."
+Ritvik: "Excuse me, main talent hoon."
+Meenakshi: "Talent ko line mein khada rehna bhi aana chahiye."
+Ritvik: "Aap smile kar do toh queue bhi discipline seekh legi."
+Meenakshi: "Queue signboard se discipline seekhegi. Tum arrows seedhe lagao."
+Raghav: "Main labels check kar leta hoon. Ek typo hai."
+Meenakshi: "Great catch. Tumhari quiet attention useful hai."
+Ritvik: "Aur meri loud attention?"
+Meenakshi: "Energy useful hai. Volume adjustable rakho."
+Ritvik: "Settings mein option milega?"
+Raghav: "Mute button sabse upar."
+PART D — HEALTH-CAMP MIC INCIDENT, DISTINCT FROM PHYSICAL SLIPS
+At a rehearsal a microphone activates before Meenakshi expects it. Her amused private comment about Ritvik's excessive enthusiasm goes out to a small group of volunteers. Ritvik is initially embarrassed; Meenakshi apologizes, and he accepts it warmly. Raghav finds the mic fault. This mirrors the episode's concern with trust without repeating another clothing reveal.
+Reaction:
+Meenakshi: "Wait—the mic was on?"
+Raghav: "Yes, but only the rehearsal speaker. Main ab off kar raha hoon."
+Ritvik: "Toh poore committee ko pata chal gaya main bahut bolta hoon?"
+Meenakshi: "Woh toh bina microphone ke bhi sab jaante hain. But I shouldn't have said it like that—sorry."
+Ritvik: "Accepted. Bas mera volunteer rating mat gira dena."
+Meenakshi: "Rating ka final decision abhi pending."
+Raghav: "Microphone settings fixed. Testing completed."
+Meenakshi: "Thank you. Ab hum sab thoda better communicate karenge."
+PART E — EMOTIONAL PAYOFF
+Meenakshi no longer fears every unexpected visitor because these two have consistently shown care for privacy and boundaries. She chooses to be warm and teasing without becoming unaware of her own comfort. Nikhil checks in; she tells him the arrival timing mix-up and the health-camp success. The EP04 secret remains distinct and unresolved.
+EP06 hook: health-camp visitor list contains a name from the society access thread. This is a clue for later verification, not instant proof.
+CONTINUITY QA — BEFORE ANY PUBLICATION
+1. Source preservation: Original EP05 Master Pack intact; Part A not rewritten in this draft.
+2. Cast: Ankita Naman/Nakul; Shivani Yash/Yug; Shreya Karan/Aman; Taniya Aarav/Arnav; Meenakshi Ritvik/Raghav.
+3. Age: all twins 22, other participants adults. No minors.
+4. Lane split: professional juniors never become family twins; no workplace patient, client or confidential file appears as a family-party prop.
+5. Mechanisms: Ankita loose-kurti practice test; Shivani model emergency followed by wrong door; Shreya family fitting privacy; Taniya morning nightwear plus later torn seam; Meenakshi after-shower arrival plus live microphone.
+6. Consent and privacy: a wardrobe accident or guest surprise is not a license to stare, enter a private room, or joke about a private moment.
+7. Family logic: Taniya's two cousins are her own blood cousins; all pairs retain the sourced family relationship. A future romance storyline would require changing that relation first.
+8. Husband role: protect each couple's distinct reaction; do not write five identical joking dismissals.
+9. Pacing: at least two spoken exchanges before each later incident; dialogue echoes earlier conversations afterward.
+10. Original source's numeric upper-body lock applies to Ankita only under the current user correction. Other physical staging is not assigned percentages in this development draft.
+11. EP06: individual hooks are questions, not automatic confessions or solved cases.
+12. User has not yet supplied Episode 6; do not invent its canon.
+DRAFT STATUS
+New document: Episode 05 revised B–E development draft. Ready for review, not automatically integrated with the original EP05 source or GitHub. Future changes should patch this draft, and only an explicit approval should promote revisions into canon.
+GPT FINAL REVIEW — EPISODE 05A ONLY
+Status: Pre-Grok editorial review, not final episode prose. Original Part A is still located in the original Episode 5 Master Pack; nothing in this review replaces it.
+KEEP
+• Five separate family twin pairs (all 22): Naman/Nakul; Yash/Yug; Karan/Aman; Aarav/Arnav; Ritvik/Raghav.
+• 05A original married-couple Part A continuity and Episode 4 aftermath; do not replace it with generic professional scenes.
+• Ankita's original practice-test wardrobe incident retains the source's approximate 33% planning cap as explicitly requested. Non-graphic prose here does not override the original source lock.
+• Shivani: arrival, model problem, then mistaken private-room entry and accountable apology.
+• Shreya: longer dialogue and successive trust-building scenes before a private awkward moment.
+• Taniya: unplanned morning arrival followed later by a distinct garment snag; no reuse of the high-shelf mechanism.
+• Meenakshi: post-shower guest-arrival awkwardness, reassuring conversation and a separate health-camp event.
+• Existing conversations, names, family relations and household/society settings in this 05A tab.
+REVISE / RESOLVE BEFORE GROK FINAL MASTER
+• Current original Episode 5 Master Pack gives all five women the same approx. 33% exposure incident and almost identical twin responses. This revised 05A proposes distinct mechanisms for four women; do not simultaneously follow both incompatible versions. Ankita's specified lock stays; other four must be approved individually.
+• Shreya's earlier role varies between boutique owner and floor lead / buyer. Resolve this against Episodes 1–4 before changing any published canon.
+• Ensure Yash's wrong-room entry is an accident followed immediately by withdrawal, apology and respect for Shivani's reaction. Do not write the event as a playful permission to intrude.
+• Taniya's Aarav and Arnav are her own cousins; their family teasing is not an unrelated romantic-suitor arc.
+• Meenakshi is Patient Experience / Nutrition Desk Lead, not a doctor.
+• Contrast each woman's emotional reaction; do not recycle an identical frozen-talker / rescuing-quiet-twin / amused-husband ending five times.
+• Proposed household arrival calendar must reconcile with 05C: Day 1 establishes Shreya's style conversations, while her more consequential trust beat is later; Day 2 Ankita, Day 3 Shivani, Day 4 Taniya, Day 5 Meenakshi are the principal episode-specific events.
+MISSING / OPEN
+• Explicit user approval of each revised wardrobe/accident mechanism before Grok locks the final scene outline.
+• Confirm which husbands' reactions follow their original canon and which can vary without contradicting prior episodes.
+• The precise children/family-child cast has not been established reliably in the reviewed planning documents. Do not invent specific children to populate a family gathering.
+• Decide which 05C society interactions to write fully versus mention in passing. 05B office characters remain outside home/twins scenes.
+HANDOFF TO GROK
+Use 05A as the home/twins development lane, 05B as separate workplace cross-cuts, and 05C as the community/social mesh. These are three planning tracks within Episode 5, not three independent episodes and not permission to revise Episode 6. Leave the original Episode 5 Part A source intact unless explicitly approved.
+END 05A REVIEW.
+========== GROK MASTER PROSE 05A (Ep1-style) ==========
+## EPISODE 05A — GROK MASTER PROSE (Ep1-style)
+Age lock: heroines ~29, husbands 30s, twins exactly 22, household helpers Bittu/Monu/Guddu/Lucky/Chintu exactly 22, uncles 60+, juniors 22. No minors.
+Word bands per wife: A 800–1100 | B 650–800 | C 500–650 | D 1000–1200 | E 400–550
+---
+### ANKITA × Rohan | Naman & Nakul (22)
+#### Part A — Night coda (Uncle aftermath → husband hard sex)
+**Prompt:** ~10:40 PM study→carpet; wet white cotton panty wrapped on Rohan's cock; first unasked deep blow; flashes Harish/Devendra/Sudhir audio; Rohan: "College mein kisi ne kuch pila diya kya?"; no confession. 800–1100.
+**Prose:**
+Ankita ne flat ka darwaza band kiya aur dupatta shoe-rack pe gir gaya. Andar Rohan study table pe laptop khole client deck mein ghusa hua tha — chashma, kurta-pajama, mouse pe haath.
+Kaan mein abhi bhi Sudhir uncle ki bhaari saans atki thi — *"Taniya…"* — pause — *"…Ankita."* Uske naam. Haath hilate hue. Saath mein Harish mama ki dhoti ka mota sakht tent, Devendra ka pajama side-pointing.
+*Angel: Ghar aa gayi. So jao.*
+*Devil: Sona? Teri gusset abhi chip-chip. Usko bata kisne geela kiya.*
+Usne laptop lid dabaya — click — kursi ghuma di. "Ankita? Deck pending—"
+Saree ke andar haath, petticoat naada dheela, bina saree utaare neeche se white cotton panty khinch nikaali. Gusset pe chamakta gehra daag. Panty Rohan ke munh ke saamne: "Soongho."
+Rohan ki aankhein phati. Cotton naak pe — pajama mein lund jhatke se uthha. "Tum… itni geeli kaise?"
+"Sawaal mat poochho." Woh uski godi mein, nangi chut pajama pe grind. Usne pajama khincha, lund bahar; aankh band — Harish ki dhoti flash. Ghutnon pe neeche, pehli baar bina kahe deep blow — slurp, gale tak. Phir geeli panty lund pe lapet, gusset se stroke. Carpet pe peeth, taange chaudi, "Zor se." Ankles lock. Dimaag mein teen tents + audio. Woh fat padi — cheekh; Rohan andar khali. Panty uski mutthi mein.
+"College mein kisi ne kuch pila diya kya?"
+Usne chhat dekhi. *Kisi ne pilaaya nahi. Kisi ne dikhaaya.* "Deck kal bana lena."
+#### Part B — Morning arrival + first flirt (no show yet)
+**Prompt:** Day 0 Sunday. Naman/Nakul early. Comfortable morning clothes. FULL flirt conversation. 650–800.
+**Prose:**
+Doorbell bajte hi Ankita ko laga Rohan ne time galat bata diya. Woh abhi loose cotton kurti mein thi — neeche bra, baal kanghi ke bina, lips pe raat ka taste. Darwaza khola — Naman smile, Nakul bags.
+Naman: "Bhabhi, surprise! Rohan bhai ne bola ghar ka timetable aapke haath mein. Hum punctuality test pass hue?"
+Ankita: "Punctual? Do ghante early. Physics mein measurement error."
+Naman: "Toh bonus marks — initiative ke?"
+Nakul: "Pehle bags kahan. Aur sorry, time confirm nahi kiya."
+Ankita: "Nakul, tum kam bolte ho, sensible. Naman, suitcase yahan."
+Naman: "Pehle minute mein favorite student choose?"
+Ankita: "Student tab jab attendance se zyada mehnat."
+Rohan peeche se: "Do din mein examination hall."
+Naman: "Results family group mein mat daalna, bhai."
+Ankita (blush dabate): "Chai banati hoon. Ek bhi surprise inspection nahi."
+Woh kitchen gayi — raat wali geeli yaad, aur ab do nayi aankhein living room mein. *Devil: Subah se dekh rahe hain teri bare legs.* Usne kurti neeche khinchi.
+Naman fridge pe: "Bhabhi aaj bhi itni serious? Sunday ko bhi attendance?"
+Ankita: "Attendance tumhari. Mere ghar ke rules."
+Nakul quietly: "Rules clear hain. Hum follow karenge."
+Naman: "Nakul teacher’s pet banega. Main class ka problem child."
+Ankita (hans ke): "Problem child ko extra homework. Formula board pe likho — galtiyan red pen se kaatungi."
+Naman: "Red pen aapke haath mein… thoda dangerous lagta hai, bhabhi."
+Ankita: "Dangerous sirf unke liye jo padhte nahi."
+Naman soft: "Padhenge. Aap itni sundar lecture deti ho toh fail hone ka dil nahi karta."
+Nakul elbows him. Ankita ke gale mein garmi — compliment seedha nipple tak gaya, usne ignore kiya. "Guest room ready. Naha lo. Phir chapter one."
+#### Part C — Fridge familiarity deepen
+**Prompt:** Fridge message board banter. Anticipation. No show. 500–650.
+**Prose:**
+Monday raat fridge pe Naman ka theorem: *Sunday + chai = zero productivity.*
+Ankita red marker: *Counterexample: Nakul ne teen chapters.*
+Nakul ne neeche likha: *Teen. Ek Naman ka bhi.*
+Naman morning: "Mera chapter? Tu mere behalf pe padhta hai?"
+Nakul: "Kisi ko marks bachane hain."
+Ankita chai dete: "Naman, theorem reject."
+Naman: "Aap smile kar rahi ho. Partial credit?"
+Ankita: "Yahan proof chahiye. Bank negotiation mat lao."
+Naman: "Kal proper proof. Ek hint?"
+Ankita: "Hint tab jab attempt dikhe."
+Nakul: "Bhabhi, isko hint mat dijiyega. Phir apna innovation batayega."
+Ankita: "Nakul, tumhara humour undercover hai."
+Naman: "Mera public service."
+Ankita: "Unwanted announcements ki public service."
+Woh roz fridge pe unke haath ki writing dhoondhti — aur har baar thodi geeli ho jaati, bina bataye.
+#### Part D — Accidental ~33% (loose kurti floor bend)
+**Prompt:** Practice test; pen+sheet drop; ~33% upper swell+cleavage; Naman freeze; Nakul sheet without looking; LONG aftermath flirt. 1000–1200.
+**Prose:**
+Mangal raat ~8:30. Kitchen counter pe practice test. Ankita soft cotton kurti — thodi loose, raat ke baad usne jaan ke soft pehni thi. Naman sawal padhta, Nakul answer sheet.
+Pen giri. Sheet bhi. Woh jhuki.
+Kurti ka gala aage khula — dono ki aankhon ke seedhe saamne. Pale bra ke upper cups, soft swell upar uthha hua, cleavage ki gehri line — **~33%**, nipple edge abhi fabric ke peeche. Do–teen second.
+Naman ka joke adhura: "Bhabhi—" Munh khula. Nakul ek beat late look away, kaan laal, sheet uthaye bina chest dekhe: "Paper… table pe."
+Ankita seedhi hui, re-tuck, awaaz patli: "Bas… chapter continue."
+Naman: "Bhabhi—sorry. Main bas answer sheet—"
+Ankita: "I know. Thoda awkward. Ek minute."
+Nakul: "Hum drawing room wait karein?"
+Ankita: "Haan. Thank you, Nakul."
+Paanch minute baad woh wapas. Aankhon mein sharam + garmi.
+Naman (soft, pehli baar bina joke): "Aaj ka test postpone? Aapko uncomfortable nahi karna."
+Ankita: "Postpone nahi. Bas normal. No jokes about this."
+Naman: "Promise. Jo joke banane wala tha — cancel. Par jhooth nahi bolunga… jo dikha, woh… bahut sundar tha."
+Ankita: "Naman."
+Naman: "Gravity ka question bina likhe samajh aa gaya, bhabhi."
+Ankita: "Ek aur shabd — paper zero."
+Naman: "Zero le lunga. Sau marks kam."
+Nakul (quiet, notebook godi pe — tent chhupaate): "Bhabhi, sorry. Maine bhi dekha. Aap… khoobsurat ho. Aur hum kuch nahi bolenge."
+Ankita softening: "Tum dono pagal ho. Paper do."
+Uske salwar ke neeche dam — thandi hawa ab bhi uske upper swell pe yaad ki tarah. *Devil: Dono ne dekha. Aur tu chapter continue karwa rahi hai.*
+#### Part E — Husband crumb + Angel/Devil + Ep6 seed
+**Prompt:** Cleaned version to Rohan; John-line; night wet; Ep6 seed. 400–550.
+**Prose:**
+Raat mein Ankita ne Rohan se kaha, "Kurti thodi loose thi… cousins ke saamne awkward ho gaya."
+Rohan hansaa, turned on: "Bechare, exam se pehle hi fail. Physics wali bhabhi."
+Usne details nahi di — na 33%, na Naman ka "sau marks".
+Bed pe:
+*Angel: Ye family hai. Rohan ke mausi ke ladke.*
+*Devil: Aur Nakul ne dekha, phir bhi sheet aankh bacha ke diya. Woh soft lund notebook ke neeche.*
+Woh Rohan ke haath se chudte hue bhi Naman ki awaaz sun rahi thi. Geeli.
+Subah college — Neha Bansal: "Aap distracted lag rahi ho." Ankita muskurayi. Ep6 seed: lab register + twins notes compare sawaal.
+---
+### SHIVANI × Kabir | Yash & Yug (22)
+#### Part A — Night coda
+**Prompt:** Soft grey nighty; towel-lap handjob; bathroom flashbacks; Kabir: "Kya hua aaj?"; no confession. 800–1100.
+**Prose:**
+Shivani ne bathroom light band ki. Soft grey nighty pehni — straps thin, fabric body pe chipka. Kabir bed pe phone scroll. Usne towel lap pe rakha, uske paas baithi, haath pajama ke andar.
+"Shivani—"
+"Shh."
+Haath se lund nikaal, towel pe rakha, dheere stroke. Aankh band: Devendra uncle bathroom mirror mein, pajama tent side-pointing, *Shivani… soft…* Sudhir ki saans. Harish ki dhoti.
+Kabir: "Itni wet? Kya hua aaj?"
+"Kuch nahi. Aaj… aise."
+Woh uske upar aayi, nighty upar, nangi chut pe lund. Slow grind, phir andar. Har thrust pe bathroom ki yaad. Woh cheekh ke aayi; Kabir andar. Nighty uski peeth pe geeli.
+"Kya hua aaj?" dubara.
+Usne sir hilaaya. *Bathroom. Teen tents. Mera naam.* "Kal shoot early hai."
+#### Part B — Morning arrival + first flirt
+**Prompt:** Soft cotton lounge set. Yash talker / Yug quiet. FULL conversation. 650–800.
+**Prose:**
+Doorbell. Shivani loose lounge set — soft cotton top, shorts. Yash pehle, Yug peeche bags.
+Yash: "Bhabhi! Kabir bhai ne kaha aap hi boss. Hum late nahi hue?"
+Shivani: "Tum time pe aaye. Main abhi ready nahi."
+Yash: "Ready nahi? Aap toh hamesha camera-ready."
+Yug: "Bags kahan rakhun?"
+Shivani: "Guest room. Yug, thank you."
+Yash: "Yug pehle kaam, main pehle compliment. Fair?"
+Shivani: "Compliment free nahi. Pehle schedule."
+Yash: "Schedule: breakfast, gym, study, then… aapka smile check."
+Shivani: "Smile check cancel. Gym time fixed."
+Yug quietly: "Gym 7. Study 10. Hum ready."
+Yash: "Yug timetable. Main entertainment."
+Shivani (hans): "Entertainment se marks nahi aate."
+Yash: "Aapke saamne marks se zyada motivation milti hai, bhabhi."
+Shivani: "Motivation gym mein. Naha lo."
+Woh kitchen gayi — lounge top ka soft cling. *Devil: Yash dekh raha tha. Yug bhi.*
+#### Part C — Fridge / living deepen
+**Prompt:** Gym schedule board + banter. Anticipation. 500–650.
+**Prose:**
+Fridge pe Yash: *Bhabhi smile = +10 gym reps.*
+Shivani: *False. Reps form se.*
+Yug: *Form first. Smile bonus optional.*
+Yash morning: "Optional? Compulsory lagta hai."
+Shivani: "Compulsory padhai. Optional drama."
+Yash: "Drama toh aapke shoot pe. Yahan silent film."
+Shivani: "Silent film mein bhi dialogue hota hai. Kam."
+Yug: "Main silent. Woh dialogue."
+Shivani: "Yug, tumhari silence smart hai."
+Yash: "Meri noise loyal hai."
+Shivani: "Loyal noise ko mute button chahiye."
+Har baar fridge pe unki writing — aur soft top ke neeche nipple thode sakht.
+#### Part D — Accidental ~33% (wet shower → model pose → wrong door)
+**Prompt:** After shower; towel; modelling pose teaching; guest room door open by mistake → ENTER; wet skin ~33%; long aftermath. 1000–1200.
+**Prose:**
+Sham. Shivani naha ke soft towel wrap — baal geele, skin chamakti. Kabir late. Usne socha guest room empty — modelling tip Yaash ke liye. Darwaza dhakka — ENTER.
+Yash bed pe phone, Yug bag. Dono freeze.
+Towel chest pe — wet skin, cleavage deep, upper swell glow, towel edge nipple ke upar barely — **~33%**, water drops sliding.
+Yash: "Bhabhi—"
+Yug turn away, kaan laal: "Sorry—door—"
+Shivani: "Oh god—" towel tight, peeche.
+Corridor mein: "Sorry. Main samjhi empty. Modelling tip… baad mein."
+Paanch minute baad living. Dry kurti.
+Yash (soft): "Bhabhi, hum kuch nahi bolenge. Jo dikha… aap… bohot beautiful. Shoot wale look se alag. Real."
+Shivani: "Yash. Bas. Awkward."
+Yash: "Awkward mere liye bhi. Par jhooth nahi — aapki skin… light mein…"
+Shivani: "Ek shabd aur — gym cancel."
+Yash: "Cancel. Sau reps kam."
+Yug (quiet): "Bhabhi, sorry. Maine bhi… dekha. Aap safe ho yahan. Hum respect karenge."
+Shivani softening: "Tum dono… theek ho. Kal normal."
+Uske towel ke neeche ab bhi garmi. *Devil: Dono ne ENTER pe dekha. Aur tu tip dena chahti thi.*
+#### Part E — Husband crumb + seed
+**Prompt:** Soft version to Kabir; night wet; Ep6 seed. 400–550.
+**Prose:**
+"Guest room galat khol diya… cousins andar the. Awkward."
+Kabir: "Bechare. Model bhabhi surprise."
+Details nahi — na wet 33%, na Yash ka "real".
+Bed:
+*Angel: Family.*
+*Devil: Yug ne respect bola. Yash ne beautiful.*
+Woh Kabir se chudte hue geeli. Subah shoot — Farah: "Aap glow kar rahi ho." Ep6 seed: fitting room door ajar + twins wait.
+---
+### SHREYA × Arjun | Karan & Aman (22)
+#### Part A — Night coda
+**Prompt:** Silk robe; reverse cowgirl; uncle bond flash; Arjun: "Aaj alag lag rahi ho"; no confession. 800–1100.
+**Prose:**
+Shreya silk robe mein — soft, open neck. Arjun sofa pe. Usne robe kholi, godi mein reverse, pajama khincha.
+"Shreya—"
+"Aaj… mujhe chahiye."
+Lund andar, slow bounce. Aankh band: Karan uncle ke ghar ki warmth, compliments, phir audio — *Shreya… soft waist…* Aman uncle ka tent. Bond pehle, heat baad.
+Arjun: "Aaj alag lag rahi ho."
+"Bas… aaj."
+Woh tez, cheekh, andar. Robe floor pe.
+"Kya hua?"
+*Teen uncles. Mera naam. Bond.* "Kal wedding shopping."
+#### Part B — Morning arrival + first flirt
+**Prompt:** Soft kurti + dupatta. Bond-first talk. FULL conversation. 650–800.
+**Prose:**
+Doorbell. Shreya careful kurti, soft dupatta. Karan smile, Aman bags.
+Karan: "Bhabhi, Arjun bhai ne kaha aap care plan. Hum ready."
+Shreya: "Pehle rest. Phir list."
+Aman: "Bags guest room?"
+Shreya: "Haan. Aman, thank you."
+Karan: "Aman pehle kaam. Main pehle poochun — chai ya coffee?"
+Shreya: "Chai. Aur schedule soft."
+Karan: "Soft schedule, soft bhabhi. Match."
+Shreya: "Compliment later. Pehle unpack."
+Aman quietly: "Unpack done in ten."
+Karan: "Aman clock. Main conversation."
+Shreya: "Conversation limited. Rest important."
+Karan: "Rest ke baad aapki smile — woh unlimited."
+Shreya (blush): "Karan. Padhai pe focus."
+Karan: "Focus aap pe aata hai, bhabhi. Sorry — padhai pe."
+Aman: "Woh joke karta hai. Hum serious."
+Shreya: "Serious accha. Chai banaati hoon."
+*Devil: Bond pehle. Heat baad. Woh already soft bol raha.*
+#### Part C — Fridge deepen
+**Prompt:** Shopping list board. Soft banter. 500–650.
+**Prose:**
+Fridge: Karan — *Bhabhi chai = best welcome.*
+Shreya: *Chai free. Compliments paid in study hours.*
+Aman: *Hours logged. Compliments pending review.*
+Karan: "Pending review? Aap HR ban gayi."
+Shreya: "HR soft. Rules clear."
+Karan: "Clear rules, soft heart."
+Shreya: "Heart ghar pe. Yahan schedule."
+Aman: "Schedule follow. Heart optional."
+Shreya: "Aman, tumhari optional wise hai."
+Karan: "Meri optional loyal."
+Shreya: "Loyal ko bhi limit."
+Har likha hua shabd — soft heat.
+#### Part D — Accidental ~33% (silk wedding bend / pallu)
+**Prompt:** Silk for wedding shopping practice; bend for box; pallu slip ~33%; long aftermath bond+heat. 1000–1200.
+**Prose:**
+Shaam. Shreya soft silk kurti — wedding shopping try. Box neeche. Jhuki — pallu aage slip.
+Silk open — soft bra swell, cleavage line, upper **~33%**, light mein glow. Do second.
+Karan freeze: "Bhabhi—"
+Aman look away, box uthaye: "Box… table."
+Shreya seedhi, pallu fix: "Sorry. Silk… slip."
+Baad living:
+Karan soft: "Bhabhi, hum respect. Jo dikha… aap… bohot graceful. Wedding wali nahi — ghar wali sundar."
+Shreya: "Karan. Awkward."
+Karan: "Awkward. Par true. Aap safe."
+Aman quiet: "Bhabhi, sorry. Maine bhi dekha. Hum kuch nahi bolenge. Aap… khoobsurat."
+Shreya softening: "Tum dono… soft ho. Kal normal shopping."
+*Devil: Bond pehle tha. Ab heat bhi.*
+#### Part E — Husband crumb + seed
+**Prompt:** Soft to Arjun; night; Ep6. 400–550.
+**Prose:**
+"Silk slip… cousins. Awkward."
+Arjun: "Bechare. Silk bhabhi."
+Na 33%, na "graceful".
+Bed: *Angel: Family bond.* *Devil: Aman ne khoobsurat bola.*
+Geeli. Ep6 seed: wedding trial room + twins wait outside.
+---
+### TANIYA × Vikram | Aarav & Arnav (22)
+#### Part A — Night coda
+**Prompt:** Soft nightwear; files-desk tease then floor; uncle file-room flash; Vikram: "Aaj zyada bold"; no confession. 800–1100.
+**Prose:**
+Taniya soft nightwear — thin straps, soft pants. Vikram desk pe files. Usne files side ki, godi mein baithi, pants khinche.
+"Taniya—"
+"Aaj… files later."
+Haath se lund, mouth pehle, phir floor pe peeth, taange open. Flash: Sudhir uncle file room, tent, *Taniya… papers…* Harish audio. Devendra.
+Vikram: "Aaj zyada bold."
+"Bas aaj."
+Woh zor, cheekh, andar. Nightwear geeli.
+"Kya hua?"
+*File room. Mera naam.* "Kal cousins aate hain."
+#### Part B — Morning arrival + first flirt
+**Prompt:** Soft nightwear-adjacent day lounge OR soft kurti; nightwear gaze seed. FULL talk. 650–800.
+**Prose:**
+Doorbell. Taniya soft lounge set — comfortable, not nightwear yet, but soft cling. Aarav smile, Arnav bags.
+Aarav: "Bhabhi! Vikram bhai ne kaha aap schedule. Hum on time."
+Taniya: "On time accha. Pehle settle."
+Arnav: "Bags?"
+Taniya: "Guest. Arnav, thanks."
+Aarav: "Arnav bags. Main question — breakfast menu aap decide?"
+Taniya: "Menu simple. Padhai pehle."
+Aarav: "Padhai pehle, smile baad?"
+Taniya: "Smile free nahi. Attempt chahiye."
+Arnav quietly: "Attempt logged."
+Aarav: "Arnav logbook. Main verbal."
+Taniya: "Verbal kam. Results zyada."
+Aarav: "Results aapke saamne better aate hain, bhabhi."
+Taniya: "Focus. Naha lo."
+*Devil: Nightwear baad mein. Abhi soft lounge bhi dekh rahe.*
+#### Part C — Fridge deepen
+**Prompt:** Study hours board. Banter. 500–650.
+**Prose:**
+Fridge: Aarav — *Bhabhi schedule = pass guarantee.*
+Taniya: *Guarantee = hours. Not smile.*
+Arnav: *Hours done. Smile ungraded.*
+Aarav: "Ungraded? Extra credit?"
+Taniya: "Extra credit silence mein."
+Aarav: "Silence Arnav ki specialty."
+Arnav: "Specialty shared when needed."
+Taniya: "Arnav, tumhari shared wise."
+Aarav: "Meri shared loud."
+Taniya: "Loud ko volume down."
+#### Part D — Accidental ~33% (nightwear morning / back+bra alt OR files bend)
+**Prompt:** Morning soft nightwear to kitchen (thought empty); twins early; OR files stack bend — soft top open ~33%; aftermath. Prefer nightwear gaze per heat lock. 1000–1200.
+**Prose:**
+Subah jaldi. Taniya soft nightwear — thin, curves clear, bra soft under. Kitchen chai — socha twins soye.
+Aarav fridge pe pehle se. Arnav peeche.
+Nightwear light mein — soft swell, cleavage line, straps, upper **~33%** shape clear through fabric, nipple hint. Freeze.
+Aarav: "Bhabhi—sorry early—"
+Arnav turn: "Hum… water."
+Taniya: "Oh—" robe grab, cover. "Main samjhi… soye ho."
+Baad dressed living:
+Aarav soft: "Bhabhi, hum kuch nahi. Jo dikha… aap… soft. Ghar wali. Bohot sundar. Respect."
+Taniya: "Aarav. Awkward. Please."
+Aarav: "Please. Par true. Safe."
+Arnav quiet: "Bhabhi, sorry. Maine bhi. Aap… khoobsurat. Hum quiet."
+Taniya softening: "Tum… theek. Kal normal clothes. Mere bhi."
+*Devil: Nightwear unke saamne. Aur tu chai banane gayi.*
+#### Part E — Husband crumb + seed
+**Prompt:** Soft to Vikram; night; Ep6. 400–550.
+**Prose:**
+"Subah nightwear… cousins early. Awkward."
+Vikram: "Bechare. Soft bhabhi shock."
+Na 33% detail.
+Bed: *Angel: Family.* *Devil: Arnav ne khoobsurat.*
+Geeli. Ep6 seed: late files + nightwear again (earned).
+---
+### MEENAKSHI × Sameer | Ritvik & Raghav (22)
+#### Part A — Night coda
+**Prompt:** Soft nightie; trust-forward sex; uncle warmth flash; Sameer: "Aaj soft zyada"; no confession. 800–1100.
+**Prose:**
+Meenakshi soft nightie — curves, thin. Sameer bed. Usne uske paas, haath, slow — trust pehle.
+"Meenakshi—"
+"Aaj… mujhe feel karna hai."
+Slow entry, eyes open, phir close: uncle house warmth, compliments, phir tent — *Meenakshi… soft…* Audio.
+Sameer: "Aaj soft zyada."
+"Haan… aaj."
+Woh aayi soft cheekh; Sameer andar. Nightie geeli peeth pe.
+"Kya hua?"
+*Warmth. Phir tents.* "Kal cousins."
+#### Part B — Morning arrival + first flirt
+**Prompt:** Soft nightie-adjacent day dress OR kurti; trust talk. FULL. 650–800.
+**Prose:**
+Doorbell. Meenakshi soft day dress — comfortable curves. Ritvik smile, Raghav bags.
+Ritvik: "Bhabhi, Sameer bhai ne kaha aap care. Hum soft on time."
+Meenakshi: "Soft accha. Settle pehle."
+Raghav: "Bags?"
+Meenakshi: "Guest. Raghav, thanks."
+Ritvik: "Raghav bags. Main — chai soft ya strong?"
+Meenakshi: "Soft. Jaise tum dono."
+Ritvik: "Soft bhabhi, soft chai. Match."
+Meenakshi: "Match later. Rest pehle."
+Raghav quietly: "Rest ten minutes."
+Ritvik: "Raghav timer. Main talk."
+Meenakshi: "Talk soft. Rules soft bhi."
+Ritvik: "Soft rules, soft smile — best class."
+Meenakshi (blush): "Ritvik. Padhai."
+Ritvik: "Padhai aapke saath soft lagti hai, bhabhi."
+Raghav: "Woh soft bolta. Hum serious soft."
+Meenakshi: "Serious soft accha. Chai."
+#### Part C — Fridge deepen
+**Prompt:** Care schedule board. Soft banter. 500–650.
+**Prose:**
+Fridge: Ritvik — *Bhabhi soft care = pass.*
+Meenakshi: *Care = hours. Soft = bonus not substitute.*
+Raghav: *Hours done. Soft ungraded.*
+Ritvik: "Ungraded soft? Extra?"
+Meenakshi: "Extra quiet mein."
+Ritvik: "Quiet Raghav."
+Raghav: "Quiet shared."
+Meenakshi: "Raghav, shared wise."
+Ritvik: "Shared loud soft."
+Meenakshi: "Loud soft ko soft volume."
+#### Part D — Accidental ~33% (nightie door / trust second look)
+**Prompt:** Nightie morning door open for water; twins corridor; ~33% curves through nightie; trust aftermath (second look earned by trust talk). 1000–1200.
+**Prose:**
+Subah. Soft nightie — curves clear. Paani ke liye door — twins corridor already.
+Nightie light — soft full curves, cleavage line, upper swell **~33%** shape, fabric cling. Freeze.
+Ritvik: "Bhabhi—sorry—"
+Raghav turn: "Water… fridge."
+Meenakshi: "Oh—" door half, cover. "Main… paani."
+Baad dressed:
+Ritvik soft: "Bhabhi, hum respect. Jo dikha… aap… soft beautiful. Trust. Hum kuch nahi."
+Meenakshi: "Ritvik. Awkward."
+Ritvik: "Awkward. Par aap safe. Honest — sundar."
+Raghav quiet: "Bhabhi, sorry. Maine bhi. Aap… khoobsurat. Quiet."
+Meenakshi softening: "Tum… trust layak. Kal normal."
+*Devil: Nightie door. Trust ne second look diya.*
+#### Part E — Husband crumb + seed
+**Prompt:** Soft to Sameer; night; Ep6. 400–550.
+**Prose:**
+"Nightie… cousins corridor. Awkward."
+Sameer: "Bechare. Soft shock."
+Na full 33%.
+Bed: *Angel: Trust family.* *Devil: Raghav ne khoobsurat.*
+Geeli. Ep6 seed: trust second accident earned.
+---
+## END 05A MASTER PROSE (Parts A–E all five)
+
+
+# Society Wives — Episode 05B Master Pack — Professional World
+
+> DEVELOPMENT SOURCE — Episode 05B | Google Doc tab: https://docs.google.com/document/d/11X45b2wMxjORV3AveGDAyqXUpNRMXox7r8c5YOCfjqo/edit?tab=t.ir1rr7vjgbb3
+
+> Working Grok / GPT planning pack. Not published final story prose. Source text below retained in the same order; Markdown heading levels adjusted only for UI navigation.
+
+GROK EROTIC HEAT LOCK — 05B (2026-11-05)
+Workplace heat overlay. All 22+ adults. Ep5 office rule: NO breast show and NO sex at work. Eyes, tents, wet heat and almost-holds YES. Outer cast never comes home; husbands get crumbs only. New outer names are GPT PROPOSED. Juniors are LOCKED and never merge with the twins.
+Ankita — college (Vivan/Reyansh; PROPOSED Arvind/Suresh/Mohit)
+• Stare map: Vivan looks at her cleavage when she leans over the lab bench and at her hips under a cotton saree at the board. Reyansh watches the sweat line at her neck and the pallu shifting each time she lifts her arm.
+• Junior twitch: when she bends to the register, Reyansh adjusts himself under the bench once; she catches the motion and looks away too slowly.
+• Arvind (manager): "Ankita, aapki presentation clear thi… aur aap bhi. Committee mein sab aapko hi dekh rahe the." Suresh (gate guard): he salutes and lets his eyes run down to her waist every morning. Mohit (transport desk): he holds the cab slip too long so their fingers touch.
+• Bold lines: Vivan: "Ma'am, aap board pe likhti ho toh hum formula nahi, curves yaad karte hain." Ankita: "Graph ke curves, Vivan." Vivan: "Haan ma'am… wahi."
+• Her inside: damp under the saree by the second period. She compares Vivan's mouth to Naman's eyes from the floor and to Rohan's hands from last night. She tells Rohan "guard bahut salaam karta hai."
+Shivani — studio (Ayaan/Armaan; PROPOSED Ritesh/Danish/Hitesh)
+• Stare map: Ayaan looks at her ass in a pencil skirt as she bends over the plotter. Armaan watches her blouse pull open between the buttons when she reaches for the top shelf. Danish (plotter tech) stares at her chest in the print-room heat.
+• Junior twitch: Armaan stands behind her chair for a CAD fix; his tent nearly brushes her shoulder, and he steps back fast.
+• Ritesh (manager): "Shivani, client sirf design nahi, tumhari confidence pe sign karta hai. Aur woh skirt… bahut confident hai." Hitesh (late cab): rear-view mirror eyes on her thighs and on the open top button the whole ride.
+• Bold lines: Ayaan: "Ma'am, model collapse hua, par aap jhuki toh pura studio khada ho gaya." Shivani: "Wapas baitho, Ayaan." Ayaan: "Baithna mushkil hai, ma'am."
+• Her inside: the wet slick in the cab, Yash's 2-second door glimpse looping. She tells Kabir "driver chup tha, achha tha."
+Shreya — Floor Lead/Buyer (Veer/Om; PROPOSED Aditya/Imran/Jatin)
+• Note: Floor Lead vs Buyer is a role conflict. Flag it; don't retcon here.
+• Stare map: Veer watches her pallu drape and the bare waist between pallu and blouse on the shop floor. Om watches the blouse strain when she lifts saree bolts. Imran (security) and Jatin watch her walk away down the aisle.
+• Junior twitch: in the stock aisle, Om hands her a bolt from above; her breast brushes his forearm and he adjusts his trousers behind the rack.
+• Aditya (manager): "Shreya, customers saree dekhne aate hain, par ruk ke tumhe dekhte hain. Main bhi." Jatin (guard/shutter): he lingers on her blouse back every closing.
+• Bold lines: Veer: "Ma'am, aap drape demo karti ho toh sales nahi, BP badhta hai." Shreya: "Tumhara BP tumhari problem, Veer." Veer: "Solution bhi aap hi ho."
+• Her inside: wet behind the counter, Karan's "til yaad rahega" in her head. She tells Arjun "manager ne tareef ki."
+Taniya — bank (Devansh/Harsh; PROPOSED Kunal/Pradeep/Sameer)
+• Stare map: Devansh looks at her chest under a fitted formal shirt (button gap at the bust). Harsh watches her ass in tailored trousers at the locker counter. Pradeep (lobby guard) watches her every morning walk-in.
+• Junior twitch: Harsh leans over her shoulder at a KYC screen; his hard-on brushes the back of her chair, and he coughs and steps away.
+• Kunal (manager): "Taniya, branch ka sabse strong number tum ho. Aur sabse… distracting bhi." Sameer (evening cab): his eyes stay on her crossed legs.
+• Bold lines: Devansh: "Ma'am, button sambhaliye, warna audit hum karenge." Taniya: "Apni file sambhalo, Devansh." Devansh: "File bhi aap pe atak gayi hai, ma'am."
+• Her inside: she feels the button where Arnav's fingers held the wrap, damp in the trousers by lunch. She tells Vikram "guard roz salaam karta hai."
+Meenakshi — clinic lead, not doctor (Vihaan/Ishan; PROPOSED Akash/Ravi/Aftab)
+• Stare map: Vihaan looks at her heavy chest under the scrubs/kurti when she bends over the OPD desk. Ishan watches the sweat on her neck and the dupatta slipping. Ravi (watchman) and Aftab (ambulance-bay security) watch her hips at shift change.
+• Junior twitch: Ishan helps carry the camp boxes; when she leans in, he adjusts in his scrubs, and she notices the outline.
+• Akash (manager): "Meenakshi, clinic tumhari wajah se chalti hai… aur tumhari wajah se log line mein rukte bhi hain."
+• Bold lines: Vihaan: "Ma'am, BP check aap karti ho toh reading galat aati hai." Meenakshi: "Saans lo, Vihaan." Vihaan: "Aap saamne ho toh nahi aati."
+• Her inside: wet under the kurti, comparing the clinic eyes to Ritvik and Raghav at the door. She tells Nikhil "watchman bahut dhyaan rakhta hai."
+SOCIETY WIVES — EPISODE 05B | PROFESSIONAL WORLD
+EPISODE 05 FINAL REVIEW DRAFT — WORKPLACE LANE
+Not finalized master prose; for Grok review only.
+SOURCE OF TRUTH
+EP05A home/twins narrative: https://docs.google.com/document/d/11X45b2wMxjORV3AveGDAyqXUpNRMXox7r8c5YOCfjqo/edit?tab=t.0
+Original Episode 5 Master Pack (Part A continuity): https://docs.google.com/document/d/1e5iAz4ifROPNrmpxNdGIAfEy2bTlCjNqSjmEuhQnXw8/edit?tab=t.pc1az85aocbt
+EP05C society world and shared calendar: https://docs.google.com/document/d/11X45b2wMxjORV3AveGDAyqXUpNRMXox7r8c5YOCfjqo/edit?tab=t.o555hpsj8hh3
+STRUCTURAL LOCK
+05A = original home/family storyline and each woman's original Part A/other parts. The new 05B here is a separate professional-world arc, NOT a renaming of one of the original Part B writing prompts.
+05B = workplaces exclusively. Names of Vivan/Reyansh, Ayaan/Armaan, Veer/Om, Devansh/Harsh, Vihaan/Ishan are LOCKED.
+05C = common society locations, neighbours, husbands, older men, helpers and visiting family pairs. Office colleagues do not secretly become residents, family twins or staff in Tower C.
+GOAL FOR 05B
+Build existing workplace relationships, introduce only 1–2 purposeful new characters per workplace on-page, and seed longer arcs. Not all characters must appear in Episode 5, not every compliment becomes a romance, and no professional conflict must resolve in the same scene.
+ORIGINAL 05B WORKPLACE MATERIAL — UNABRIDGED
+EP05B — PROFESSIONAL WORLD: DISTINCT MALE INTEREST + WORKPLACE DRAMA
+LANE WALL
+Professionals do not live in Tower C by default. Staff, guards, drivers, managers and HR are part of the workplace orbit or transport corridor. None visit the heroine's flat without a separately established, practical reason. Society twins never become staff, clients or students at these workplaces. Existing office juniors keep their LOCKED names.
+1) ANKITA — COLLEGE / PHYSICS
+Anchor: private college near Cyber City road. Texture: college parking, chalk, key bunch, laboratory attendance, shared staffroom.
+Locked: Vivan (22), sharp/talkative; Reyansh (22), quiet/observant; Jasvindar, trusted colleague; Dr Neha Bansal (32), physics-lab coordinator.
+NEW SUPPORTS: Arvind Rao (36), college administrative manager; Suresh Pal (42), campus gate security; Mohit Sen (29), faculty transport-desk coordinator. All proposed.
+Selected male interest: Arvind respects Ankita's confident presentations and has a clearly personal admiration that he keeps within workplace etiquette; Suresh remembers her arrival routine but does NOT track her for romantic purposes. Vivan sometimes offers wit rather than genuine praise; Reyansh surprises her with a thoughtful technical observation.
+05B entry: Suresh notices a visitor-register mismatch just as Ankita is rushing in. He directs it through proper security channels. Vivan jokes that physics has become detective work; Reyansh finds that a key-bunch number is copied incorrectly. Neha is the authority who checks the register and preserves evidence.
+Banter bank:
+Vivan: "Ma'am, aapka Monday face dekhkar attendance register bhi seedha ho gaya."
+Ankita: "Register ko darr nahi, accuracy chahiye."
+Reyansh: "Ma'am, register mein wrong lab number hai. Isliye key return mismatch ho raha hai."
+Ankita: "Good catch. Vivan, compliment se pehle observation."
+Vivan: "Ma'am, observation bhi kar lenge; bas red pen ki frequency kam ho."
+Jasvindar: "Aaj tumhare dono juniors class ki jagah comedy club khol rahe hain?"
+Ankita: "Tickets free nahi hain. Correct answer laana hoga."
+Arvind: "Your audit note was unusually clear. The committee appreciated that."
+Ankita: "Thank you. Neha and Reyansh deserve credit for the checks."
+Exit marker: one document remains unresolved, giving a credible EP06 campus question. Nobody in the office knows the private home/twin incidents.
+2) SHIVANI — UDYOG VIHAR ARCHITECTURE STUDIO
+Anchor: boutique design practice. Texture: CAD, plotter, model room, client calls, site photos, vendor deliveries.
+Locked: Ayaan (22), charming improviser; Armaan (22), quiet draftsman and timestamp specialist; Aditi, client success; Maya Sethi (31), project operations.
+NEW SUPPORTS: Ritesh Oberoi (35), senior design manager; Danish Ali (28), plotter/production technician; Hitesh Malik (34), contracted cab driver on late site-return days. All proposed.
+Selected male interest: Ritesh takes notice of Shivani's commanding presentation style, sometimes offers specific compliments; Ayaan frames praise as confident banter, while Armaan's reserved appreciation is skill-focused. The driver has ordinary professional courtesy and continuity, not a second admirer plot.
+05B entry: a model print fails just before a client review. Ayaan pitches a dramatic workaround; Armaan retrieves the precise version history. Shivani delegates, rather than rescuing everyone. Aditi deals with the client, Maya documents the revision and Ritesh comments on the clear recovery.
+Banter bank:
+Ayaan: "Ma'am, mera concept dekhiye; dramatic entrance guaranteed."
+Shivani: "Client ko entrance nahi, staircase chahiye."
+Armaan: "Revised sheet 4:18 PM ki hai. Last stable plan wohi tha."
+Shivani: "Good. Armaan, print queue. Ayaan, client-facing options, sirf two."
+Ayaan: "Only two? Mere ideas ka population control?"
+Aditi: "Client already waiting. Please stop multiplying."
+Ritesh: "You handled the change request elegantly, Shivani."
+Shivani: "Team handled the details. I just made sure we didn't improvise over a safety note."
+Exit marker: a revision timestamp becomes an EP06 professional mystery. No society model competition material is borrowed from the office files.
+3) SHREYA — GALLERIA LUXURY SAREE BOUTIQUE
+Anchor: Shreya as floor lead/buyer in the latest user cast brief; older packs sometimes say owner. Role must be reconciled before canon promotion. Texture: mannequins, silk, trial-room booking board, stock room, tailoring, shutters.
+Locked: Veer (22), flamboyant/mouthy stylist; Om (22), quiet ledger person; Shruti, sister/family confidante; Farah Mirza (30), alterations quality.
+NEW SUPPORTS: Aditya Sehgal (34), store operations manager; Imran Khan (32), inventory logistics contractor; Jatin Kapoor (29), shared retail-floor security. All proposed.
+Selected male interest: Aditya appreciates Shreya's authority and eye for detail, with occasional personal compliments outside a formal review. Veer is openly complimentary about styling but must not become a copy of family-visitor Karan; Om's praise is sparse and about craft. Jatin stays professional.
+05B entry: a returned saree arrives with a wrong tag. Veer wants to save the customer's mood with charming confidence; Om traces the tag change; Farah catches a seam fault; Shreya calmly resolves it. Aditya notices both her judgement and her kindness to staff.
+Banter bank:
+Veer: "Ma'am, aaj ka display ekdum magazine cover!"
+Shreya: "Magazine ka cover theek hai, fitting ka margin check kiya?"
+Om: "Stock tag aur vendor slip match nahi kar rahe."
+Shreya: "Exactly. Veer, charm se stock reconcile nahi hota."
+Veer: "Par customer smile toh karegi."
+Farah: "Smile karegi jab blouse ka hook sahi lagega."
+Aditya: "Your handling of that customer was impressive."
+Shreya: "Team effort. Om caught the tag; Farah caught the finish."
+Exit marker: the supplier discrepancy remains. Karan–Aman wedding shopping is FAMILY LANE, not an excuse to bring them inside internal stock or customer records.
+4) TANIYA — GOLF COURSE ROAD PRIVATE BANK
+Anchor: relationship desk, KYC, signature approvals, secured locker corridor, cameras.
+Locked: Devansh (22), charming; Harsh (22), cautious; Soniya, sister/branch colleague; Ritika Mehra (32), compliance officer.
+NEW SUPPORTS: Kunal Ahuja (37), branch operations manager; Pradeep Chawla (45), entrance security supervisor; Sameer Dutt (31), visiting corporate accounts lead. All proposed.
+Selected male interest: Sameer is drawn to Taniya's composed presence and tests a light compliment, which she handles professionally; Devansh admires her skill; Harsh builds trust by thoroughness. Kunal praises outcomes without crossing the manager/subordinate line. Pradeep maintains safety and visitor flow, not a voyeur subplot.
+05B entry: society NOC name is mentioned during an unrelated bank discussion; Taniya refuses to merge private society paperwork with bank authority. Harsh notices a consent-date discrepancy on the bank side and alerts Ritika. Devansh is tasked with neutral customer communication; Taniya records the issue. No confidential details go to visiting cousins.
+Banter bank:
+Devansh: "Ma'am, aapke bank-face ke saamne toh difficult customers bhi honest ho jaate hain."
+Taniya: "Honest honge toh paperwork jaldi complete hoga."
+Harsh: "Ma'am, signature date aur consent date align nahi kar rahe."
+Taniya: "Good. Ritika ko log karo; assumptions mat likhna."
+Sameer: "Your client handling is very calm, Taniya."
+Taniya: "Thank you. Policy clear ho toh conversation simple rehti hai."
+Soniya: "Tumhari smile bhi policy-controlled hai kya?"
+Taniya: "Branch ke andar yes."
+Exit marker: documents stay within compliance review. Sudhir's society pressure is emotionally relevant but not proof that he altered bank data.
+5) MEENAKSHI — SOHNA ROAD MULTISPECIALITY CLINIC
+Anchor: patient-experience/nutrition desk lead, NOT a doctor. Texture: OPD queues, pharmacy slips, stretcher access, wayfinding, nutrition referrals.
+Locked: Vihaan (22), bold; Ishan (22), quiet; Sakshi, pharmacy counter; Nidhi Thomas (30), OPD operations.
+NEW SUPPORTS: Akash Bedi (34), facility/guest-services manager; Ravi Yadav (39), clinic security supervisor; Dr Aftab Mir (36), medical consultant who provides clinical decisions outside Meenakshi's role. All proposed.
+Selected male interest: Akash admires her calm presence and occasionally compliments her excellent people skills; Vihaan flirts through harmless praise about her humour; Ishan shows appreciation through helpful work. Patients and security are never turned into a sexualized audience. Clinical trust is protected.
+05B entry: waiting-area signage sends two families to the wrong counter. Vihaan improvises reassurance; Ishan checks the room numbering; Nidhi calls for an operations fix. Meenakshi coordinates, while a clinician handles medical questions. Sakshi shares a pharmacy-flow observation.
+Banter bank:
+Vihaan: "Ma'am, aap ek baar bol do toh waiting area bhi shaant ho jata hai."
+Meenakshi: "Phir tum announcement mein itna volume kyun rakhte ho?"
+Ishan: "Ma'am, signboard mein room code ulta hai. Main corrected label la sakta hoon."
+Meenakshi: "Yes. Aur main Nidhi ko update karti hoon."
+Sakshi: "Pharmacy mein bhi log wrong queue se aa rahe hain."
+Akash: "You handled that calmly. Patients looked relieved."
+Meenakshi: "Thank you. Ab root cause fix karna hai, warna kal phir hoga."
+Exit marker: the wrong visitor/access entry remains a separate society/clinic verification question; no unauthorized sharing of patient information.
+05B DAILY FILTER
+Each woman gets at most one meaningful 05B scene this week, plus a small callback. Not every male admirer gets a line. Roles must have a job, a name, a reason to reappear, and a bounded long-term hook.
+05B CONTINUITY QA
+• 10 juniors exact names, ages 22; no visitor twins at any office.
+• Existing supports Jasvindar/Aditi/Shruti/Soniya/Sakshi respected.
+• New male characters are provisional, not locked.
+• Workplace admiration does not override professionalism or confidentiality.
+• Not every gaze is erotic: choose 1–2 meaningful admirers per workplace, give everyone else a functional purpose.
+GPT FINAL REVIEW — 05B ONLY (KEEP / REVISE / MISSING / CONFLICT)
+KEEP
+• All five locked junior pairs, their professional lanes, individual personalities, colleagues and practical workplace textures.
+• Different jobs and observation styles: Ankita's lab-register error; Shivani's version history; Shreya's stock tags; Taniya's consent/compliance; Meenakshi's patient flow.
+• Workplace-specific humor and compliments; one believable male admirer can be developed in each work orbit while others remain professional.
+REVISE BEFORE FINAL LOCK
+• Shreya's current user-provided role is Floor Lead / Buyer, while earlier series packs describe Boutique Owner. Resolve before the final Grok Master Pack; do not silently retcon previous episodes.
+• Meenakshi must remain Patient Experience / Nutrition Desk Lead, not a licensed physician.
+• Avoid recycling the same "junior compliments / manager praises / shy junior finds error" scene in all five workplaces. Change who solves the problem, who makes a mistake, and who responds emotionally.
+• Each new manager, guard or driver needs a grounded shift/location and an actual reason to recur. Keep office watchmen and delivery staff from appearing at home without a separate real-world cause.
+• Do not force professional colleagues to be sexually interested in a woman solely because she is a protagonist; attraction should be selective and character-specific.
+MISSING / OPEN
+• User-supplied new office characters beyond the locked junior pairs can replace PROPOSED supports upon approval.
+• Which professional link becomes a key Episode 6 storyline is NOT locked by this review.
+• Office scenes should anchor to plausible Monday–Friday shifts and not collide with each heroine's main 05A home beat.
+HANDOFF
+Grok may expand 05B after reconciling 05A/05C chronologies. Preserve professional identity, distinct voices, and autonomy. The source document is a PLANNING BIBLE, not already-written final prose.
+.
+========== GROK MASTER PROSE 05B ==========
+## EPISODE 05B — WORKPLACE EROTIC GAZE (Ep1-style)
+Lane: office / professional ONLY. NO breast show. NO sex at workplace. Talk + nearness + one-beat hold. New supports notice distraction. Parallel to twins week after Part A husband night.
+All juniors/staff 22+. Guards, cab, managers clearly adult.
+---
+### ANKITA — College / admin corridor
+**Spine:** Neha Bansal notices distraction; junior Varun (22) holds register one beat too long; Ankita heat from twins night leaks into soft voice.
+**Prose:**
+College corridor. Ankita soft formal kurti — proper. Neha: "Aap distracted. Ghar theek?"
+Ankita: "Haan. Cousins… study week."
+Neha: "Study week aapko soft bana raha?"
+Varun (junior, 22) register leta — haath Ankita ke haath se milte, **one-beat hold**. Aankh uthte: "Ma'am… signature."
+Ankita: "Haan." Awaz patli — Naman ki "sau marks" yaad.
+Varun soft: "Aap aaj… alag glow."
+Ankita: "Varun. Register."
+Woh chala — peeche dekh ke. Neha notice: "Junior bhi notice kar raha."
+*Angel: Professional.*
+*Devil: Ek beat hold. Aur tu soft boli.*
+Cab home — driver adult Ramesh: "Madam late?" Ankita window, thighs soft press. No show. Heat only.
+---
+### SHIVANI — Shoot / fitting floor
+**Spine:** Farah notices glow; assistant Kabir-jr (rename: Om, 22) holds pin cushion near waist one beat; wet-shower twin leak into posture.
+**Prose:**
+Shoot floor. Soft robe over. Farah: "Glow alag. Kya hua?"
+Shivani: "Cousins ghar. Gym week."
+Farah: "Gym week glow?"
+Om (22, assistant) pin cushion — waist ke paas, **one-beat hold** fabric adjust: "Ma'am… yahan?"
+Shivani: "Haan." Breath short — Yash ka "real" yaad.
+Om: "Aap… soft lag rahi ho aaj."
+Shivani: "Om. Focus."
+Farah side: "Assistant bhi notice."
+Guard gate adult Suresh longer look — Shivani walks past, no stop. Heat only. No show.
+---
+### SHREYA — Boutique / wedding desk
+**Spine:** Ritika notices soft; staff Kunal (22) holds sample silk one beat against her palm; bond-heat leak.
+**Prose:**
+Boutique desk. Soft silk samples. Ritika: "Aap soft zyada. Wedding stress?"
+Shreya: "Cousins… shopping help."
+Ritika: "Help ya distraction?"
+Kunal (22) silk sample uske palm pe — **one-beat hold**: "Ma'am… ye shade."
+Shreya: "Haan." Karan ka "graceful" flash.
+Kunal: "Aapke liye perfect soft."
+Shreya: "Kunal. Next."
+Ritika: "Staff soft bol raha."
+Manager adult Mehta longer glance at neckline (still covered). No show. Heat.
+---
+### TANIYA — Office files floor
+**Spine:** Nidhi notices; junior Harsh (22) holds file folder one beat; nightwear twin leak into voice.
+**Prose:**
+Office. Soft formal. Nidhi: "Distracted. Home?"
+Taniya: "Cousins study."
+Nidhi: "Study aapko soft?"
+Harsh (22) file — haath milte **one-beat**: "Ma'am… sign."
+Taniya: "Haan." Aarav ka "soft sundar".
+Harsh: "Aap aaj… different."
+Taniya: "Harsh. File."
+Nidhi: "Junior notice."
+Cab adult driver — silence. Heat thighs. No show.
+---
+### MEENAKSHI — Clinic / care desk
+**Spine:** Maya notices; junior nurse aide Rohan-jr → rename Dev (22) holds chart one beat; nightie trust leak.
+**Prose:**
+Care desk. Soft coat. Maya: "Soft glow. Rest?"
+Meenakshi: "Cousins. Care week."
+Maya: "Care week aap pe?"
+Dev (22) chart — **one-beat hold**: "Ma'am… vitals."
+Meenakshi: "Haan." Ritvik ka "soft beautiful".
+Dev: "Aap calm sundar aaj."
+Meenakshi: "Dev. Chart."
+Maya: "Aide notice."
+Guard adult longer look at soft walk. No show. Heat only.
+---
+## END 05B
+---
+
+
+# Society Wives — Episode 05C Master Pack — Society World
+
+> DEVELOPMENT SOURCE — Episode 05C | Google Doc tab: https://docs.google.com/document/d/11X45b2wMxjORV3AveGDAyqXUpNRMXox7r8c5YOCfjqo/edit?tab=t.o555hpsj8hh3
+
+> Working Grok / GPT planning pack. Not published final story prose. Source text below retained in the same order; Markdown heading levels adjusted only for UI navigation.
+
+GROK EROTIC HEAT LOCK — 05C (2026-11-05)
+Society heat overlay on GPT's calendar and mesh. All 22+ adults. Structure stays; only the heat layer is added.
+Daily gaze men
+• Iqbal (milkman), doorstep only: at 6:30 he catches the wives in morning wear, a nighty with no bra or a loose tee. Eyes on chest and hips. "Bhabhi, doodh garam hai… aap bhi subah subah garam lag rahi ho." / "Aaj packet ek extra, aapki sehat ke liye." He never comes past the door.
+• Gautam / Zubin (gym trainers): "Squat neeche, aur neeche… haan, ab perfect shape dikh raha hai." Hand hovering at the lower back. The wives feel watched mid-squat and mid-run: sports bra bounce, leggings stretched over the ass. Zubin on the running track: "Didi, pace nahi, aapka bounce dekh ke log ruk jaate hain."
+• Mahipal (gate): long linger on each wife's walk-in and walk-out, especially in gym clothes and saree evenings. A salute with his eyes on the waist.
+New women (sexual presence, not just civic competence)
+• Ira: tall runner, a cropped tank with sweat beading between her breasts, firm ass in shorts, and a citrus perfume left in the lift.
+• Naina: gym regular, sports bra, a toned midriff with a navel ring, squats in front of the mirror while husbands "rest" on the bench.
+• Zoya: balcony evenings, a sheer kurta in the backlight with the outline of full hips, a jasmine-and-oud smell on the stairs.
+Husband attraction map
+• Rohan + Kabir → Naina's gym ass and midriff. Arjun → Zoya's balcony silhouette. Vikram → Ira's sweat cleavage after runs. Nikhil stays mostly faithful but stares once.
+• Wives smell it: perfume on a collar after the lift, a husband suddenly "into the gym." Angel–Devil compare: she feels jealous and turned on, and remembers the twins' eyes as her own private answer.
+Erotic gaze seeds (one each)
+• Lift: Ira squeezes in sweaty; a husband's eyes go to her chest; his wife sees it in the mirror.
+• Stairs: a wife climbs ahead in a saree; an uncle (Harish/Devendra/Baldev/Sudhir/Prakash) climbs behind, eye-level with her swaying ass.
+• Park: a morning run; a chotu (22) watches his own bhabhi's bounce from the bench and looks away too late.
+• Balcony: Zoya backlit; across the gap, Arjun and Shreya both watch, for different reasons.
+Cross-twins at the society function
+• All five twin pairs are in the same courtyard, polite and touching feet. Each carries a private memory of his own bhabhi's ~33%. Naman's eyes go to Ankita's neckline, Yash avoids Shivani entirely, and Ritvik grins at Meenakshi's damp hair. Nobody shares the secret. The heat is in the eye contact.
+Late seed
+• Zoya–Imran stays late (Ep6 end / Ep7+). One-line promise: "Jab Zoya aur Imran ek saath lift se nikle, poori society ki saans ruk gayi; woh couple aag lagane aaya hai."
+SOCIETY WIVES — EPISODE 05C | INTERCONNECTED SOCIETY
+EPISODE 05 FINAL REVIEW DRAFT — SOCIETY LANE
+Not finalized master prose; for Grok review only.
+SOURCE OF TRUTH
+EP05A home and visiting twin pairs: https://docs.google.com/document/d/11X45b2wMxjORV3AveGDAyqXUpNRMXox7r8c5YOCfjqo/edit?tab=t.0
+EP05B workplace world: https://docs.google.com/document/d/11X45b2wMxjORV3AveGDAyqXUpNRMXox7r8c5YOCfjqo/edit?tab=t.ir1rr7vjgbb3
+Original Episode 5 Master Pack: https://docs.google.com/document/d/1e5iAz4ifROPNrmpxNdGIAfEy2bTlCjNqSjmEuhQnXw8/edit?tab=t.pc1az85aocbt
+Original complete world expansion backup: https://docs.google.com/document/d/1bvJbi_5I854uVBGkPALul_ij_fdgTO3thgCBtf68Uz0/edit
+SCOPE
+05C makes Tower C feel like one inhabited community, with multiple meeting points and shared causes. It is not permission to turn all family guests into one cast, or to finish every relationship arc in Episode 5.
+SHARED CAST / CONTINUITY / 05A-TO-05C BRIDGE
+IMPORTANT NOMENCLATURE — DO NOT MIX UP
+EP05A = development lane for the pre-existing Episode 5 narrative, including the original night coda and household twins week. Its original Part A (one for each wife) is NOT rewritten here. Earlier “Part B–E” within each wife belongs to EP05A and should not be confused with the newly named EP05B workplace arc.
+EP05B = new PROFESSIONAL WORLD cross-cuts; do not turn office juniors into society twins.
+EP05C = new SOCIETY WORLD network; family visitors, households, husbands, helpers, uncles, neighbours, common spaces and future couples.
+This is editorial architecture, not three new complete novels. 05B and 05C are intercuts across Episode 5's existing timeline.
+NON-NEGOTIABLE EXISTING CAST
+Woman — Husband — helpers — dedicated older man — office juniors
+Ankita — Rohan — Bittu (22) — Harish Mama (62) — Vivan & Reyansh (both 22)
+Shivani — Kabir — Monu (22) — Devendra (61) — Ayaan & Armaan (both 22)
+Shreya — Arjun — Guddu (22) — Baldev (63) — Veer & Om (both 22)
+Taniya — Vikram — Lucky (22) — Sudhir (64) — Devansh & Harsh (both 22)
+Meenakshi — Nikhil — Chintu (22) — Prakash (62) — Vihaan & Ishan (both 22)
+FIVE SOCIETY TWIN PAIRS (ALL 22; NEVER OFFICE JUNIORS)
+Ankita — Naman & Nakul (Rohan's mausi's sons)
+Shivani — Yash & Yug (Kabir's bua's sons)
+Shreya — Karan & Aman (Arjun's mausi's sons)
+Taniya — Aarav & Arnav (Taniya's own mausi's sons)
+Meenakshi — Ritvik & Raghav (Nikhil's bua's sons)
+EXISTING FEMALE SUPPORT
+Ankita — Jasvindar (college)
+Shivani — Aditi (studio)
+Shreya — Shruti (sister, family/styling; not automatically a staff employee)
+Taniya — Soniya (sister; bank branch)
+Meenakshi — Sakshi (clinic-building pharmacy)
+EARLIER PROPOSED STAFF — RETAIN AS WORKING CAST, NOT RETCON
+Dr Neha Bansal (32), physics lab coordinator.
+Maya Sethi (31), architecture project operations.
+Farah Mirza (30), saree alterations / quality.
+Ritika Mehra (32), bank compliance.
+Nidhi Thomas (30), OPD operations.
+RULES FOR NEW SUPPORTING MEN
+Not all men stare at all five heroines. Interest is individualized, some unspoken and some limited to a respectful compliment. An employee's admiration is not authority to intrude or ignore professional boundaries. A guard/driver can be recurring without becoming a substitute for the ten juniors. Avoid turning every scene into the same gaze/smile formula.
+CHILDREN CONTINUITY
+Five-wife children are NOT established as a reliable universal lock in the reviewed Episode 1–6 planning tabs. Do not invent a child for each household or introduce Pappu. Family-friendly society events may involve other residents' children only as background and separate from any adult romantic/social attraction plot. Wait for names/ages from the user before connecting specific wife-and-child relationships.
+GOAL BY EP05 END
+Readers can name each woman's workplace, her distinct regular male/female supporting characters, the recurring society staff, at least two shared society places, and why these five couples inhabit the SAME social network. No need to resolve a romance, office scandal, uncle conflict or newly introduced couple in Episode 5.
+EP05A — CONTINUITY BRIDGE, NOT A PART A REWRITE
+WHY THIS SECTION EXISTS
+The original Episode 5 Master Pack's Part A carries forward the Episode 4 uncle-circle aftermath. The user rejected replacing that storyline with generic work-life themes. Therefore we DO NOT alter the adult married-couple plot, intensity, order or private details in this blueprint. EP05A remains owned by the existing prompt/approved prose. This section only plans handoffs to the new worlds.
+FIVE HANDOFFS
+Ankita / Rohan: Rohan's client travel remains in motion. Naman–Nakul arrive for exam preparation; an upcoming society science quiz gives Ankita both a domestic and a public reason to appear at a shared common area. At work, Vivan asks about a laboratory register and Neha notices a separate discrepancy; this is not a secret twin-office encounter.
+Shivani / Kabir: After their existing private Episode 5A material, Kabir's bua's sons arrive with a competition model. A society signage problem becomes a public application of Shivani's expertise, independent of the project-studio service passage mystery.
+Shreya / Arjun: Their current private Episode 5A material and unreleased boutique design/recording thread remain unresolved. Wedding preparations bring Karan–Aman into the home, and the society function leads to legitimate business-related conversations with adults who are not boutique employees.
+Taniya / Vikram: The Sudhir/forged-consent thread remains part of the existing aftermath; do not turn it into a generic office pep talk. Aarav–Arnav arrive as Taniya's OWN cousins. A resident committee's contribution ledger is society data, never customer KYC or bank data.
+Meenakshi / Nikhil: Nikhil's travel return and the Prakash-related secret remain independent. Ritvik–Raghav help at a community awareness camp as unpaid volunteers, not clinic interns. Nikhil's travel logistics naturally introduce recurring society cab pickups and occasional lobby conversations.
+THREE EP05A-TO-05B/05C SCENE CONNECTORS
+(1) Monday morning service rhythm: milk deliveries, guard register, cab pickup and each wife's work departure provide the first montage.
+(2) Midweek planning: community noticeboard lists a science quiz, design/signage upgrade, family wedding collection, contribution audit and wellness camp; each heroine has an interest without having to attend every event.
+(3) A shared weekend society function: two couples speak at length; others get background glimpses. 05A's private material remains private.
+PACING RULE
+Never place a heavy EP05A aftermath beat, an unrelated office conflict, a public husband flirtation and a twins event in one heroine's same half-hour. Use meaningful breathing room and chronological transitions.
+ORIGINAL 05C SOCIETY WORLD MATERIAL
+EP05C — SOCIETY WORLD: THE FIVE HOUSEHOLDS MUST OVERLAP
+TOWER C PLACES AND WHY PEOPLE RETURN
+1. Early-morning lobby and lift (7–9 AM): overlapping shifts, bag/lift mix-ups, neighbour news. A place for short encounters, not lengthy romantic resolutions.
+2. Society gate and milk collection (6:30–8:30 AM): daily milk/parcel routine, familiar delivery workers, resident names and small social habits.
+3. Gym (6–9 AM / 6–9 PM): Arjun's fitness business link, visitors, trainer feedback, couples exercising, friendly rivalry; do not assume gym is inside Tower C unless established.
+4. Park/jogging loop (6–7:30 AM / 6–7 PM): a recurring shared route for husbands, wives and adult neighbours.
+5. Stairs / emergency access: functional safety route, potential renovation or door-log story; not a peeping vantage point.
+6. Balconies: overheard public society sound or neighbours' ordinary interactions; do not exploit private windows.
+7. Community hall / health camp / festival committee: legitimate gathering where pairs and supporting adults can cross paths at different times.
+RECURRING SOCIETY PERSONNEL — PROPOSED (NOT LOCKED)
+Mahipal Singh (41), security shift supervisor: knows parcel protocol and manages visitor logs, useful for future accuracy checks. Never acts as a secret narrator of residents' private lives.
+Iqbal Ansari (35), regular milk delivery operator: friendly morning banter; residents greet him by name; he recognizes standing orders, not bodily details. Example: "Madam, aaj extra doodh?" / "Nahi Iqbal, aaj extra mehmaan hain."
+Raghu Yadav (29), rotating parcel/delivery desk attendant: carries supplies, mixes up two similarly named flats once, creates a plausible low-stakes error.
+Reena Rawat (38), residents' association events coordinator: married, independent public voice, keeps fair schedules and invites each woman for distinct practical reasons.
+Tara Joshi (33), residents' association accounts volunteer: procedural, may question Sudhir's paperwork; not a replacement for Taniya.
+Gautam Mehra (32), gym trainer: watches form, encourages members, smiles, sometimes appreciates athletic effort; professional. Trainers are not automatic romantic pursuers.
+Zubin Contractor (35), independent gym coach: visiting strength trainer for a workshop; can be known to Arjun through business, but the gym's ownership is separately verified.
+Deepak Rana (38), ride-share/cab driver frequently assigned to airport/office pickups: has a reason to see Nikhil and Rohan in the lobby; not an omnipresent resident.
+NEW WOMEN (AGE 25–40) — THREE OPTIONS, INTRODUCE 1–2 IN EP05, RETAIN THE THIRD FOR EP06+
+1. IRA SETHI (34), married to Ajay Sethi (37), urban landscape consultant, newly moved into Tower B. Magnetic public speaker, runs the park's composting/tree-shade drive. She has her own goals, not just appearance. First appears at weekend park planning, where Rohan, Kabir and Arjun notice her confidence in DIFFERENT ways. Do not invent secret pursuit by all three.
+2. NAINA MALIK (30), independent fitness-content producer, single, organizing a community running challenge. Friendly, energetic, competitive. Arjun respects her fitness knowledge; Vikram enjoys her dry humour at a society-tech quiz; neither owes romantic attention. Her arc can become a genuine adult romantic subplot later if specifically approved.
+3. ZOYA MIRZA (36), married to Imran Mirza (39), restoration chef / community supper organizer. Enters later through a potluck and cultural-cooking project. She and Imran are the proposed “Sharmi-like” expressive couple: warm, outspoken, playful, but they must have original identities rather than mimic Dhika's Raj/Sharmi dynamics.
+HUSBAND ATTENTION MAP — LOW-KEY SEEDS, NOT FIVE AFFAIRS
+Rohan notices Ira's ability to run a meeting with difficult committee members; he compliments her assertive clarity. Ankita witnesses the exchange and responds with amusement, not invented immediate jealousy.
+Kabir notices Ira's landscape ideas and invites a legitimate design conversation that includes Shivani. He is attracted to her ideas and presence, but does not arrange a secret meeting.
+Arjun is impressed by Naina's training insight and looks forward to her running-club demonstration; Shreya makes a playful joke about his competitiveness.
+Vikram enjoys Naina's quick improvisation in a society trivia game and finds her charming; Taniya remains present in the scene.
+Nikhil appreciates Zoya and Imran's friendly supper group when they eventually enter, but no romantic interest is locked in Episode 5.
+Result: at most four low-key husband-specific sparks; the phrase "3–5 husbands attracted" is a possible future social engine, not a compulsory same-day event. Each man retains his marriage arc.
+FIVE WOMEN MEETING EACH OTHER — NO ISOLATED SILOS
+Ankita + Shivani: a noticeboard science-quiz poster needs a legible layout. Ankita supplies correct question text, Shivani corrects the accessibility layout.
+Shivani + Shreya: a festival stage/backdrop problem crosses design and fabric; Shreya chooses material, Shivani checks rigging/safety with the association.
+Shreya + Taniya: a contribution receipt for community saree donation is mismatched; Shreya has public event receipt, Taniya explains how to correct volunteer ledger without treating it as bank KYC.
+Taniya + Meenakshi: health camp registration finances and volunteer count; Taniya tracks society budget, Meenakshi sets patient-friendly queue requirements.
+Meenakshi + Ankita: a children-and-adults science-and-health quiz on hydration myths; keep medical information general and age-appropriate.
+The five meet together only at one committee checkpoint, where each has a clear role and the dialogue does not become a full cast roll call.
+CROSS-HUSBAND INTERACTION WEB
+Rohan + Kabir: discuss work-travel scheduling during lift breakdown; practical debate about reliable access and late returns.
+Kabir + Arjun: gym mirror / mounting problem needs safe installation; Arjun wants it fast, Kabir insists on reviewed anchors.
+Arjun + Vikram: running challenge timing and a phone-app bug; competition and tech problem create natural banter.
+Vikram + Nikhil: help coordinate video-call logistics for a community health event while Nikhil is travelling.
+Nikhil + Rohan: airport pickup overlaps with a residents' committee message; both compare travel routines.
+One or two of these links occur on-page in EP05; others become EP06 callbacks.
+HOUSEHOLD HELPERS — DISTINCT UTILITY, NO SINGLE GROUP
+Bittu helps with Ankita's study supplies and hears an upcoming science quiz announcement; he does not attend college as a junior.
+Monu carries Shivani's flat-pack society display stand to the safe storage area; he does not handle studio CAD files.
+Guddu sorts Shreya's family wedding parcel and identifies a wrong-door label; he does not handle confidential boutique stock ledgers.
+Lucky delivers Taniya's corrected society contribution envelopes and flags a misplaced visitor pass; no bank KYC access.
+Chintu helps Meenakshi coordinate publicly available health-camp boxes; never handles patient files.
+Helpers should receive names, reactions and small agency, rather than appear only as plot triggers.
+OLDER MEN / UNCLES — KEEP EXISTING SHADOW, NEW SOCIAL ROLE
+Harish: speaks with Mahipal at security about parcels; no new private intrusion. Ankita catches a register discrepancy, but it may be administrative.
+Devendra: society treasurer debates fixture expenses with Shivani; his previously established access concerns remain unresolved.
+Baldev: has a legitimate family-event relationship with Arjun and Shreya; he appears at potluck planning, not by gaining new private access.
+Sudhir: reviews society NOC and committee expenses; Taniya requests a written process, no silent resolution.
+Prakash: offers to coordinate transport for a wellness camp but Meenakshi verifies authority through official organizer instead of assuming Nikhil approved.
+Do not imply all five older men coordinate their personal interests unless the previous master packs establish that fact.
+THE 10 SOCIETY TWINS — GROUP INTRODUCTION WITHOUT TEN SIMULTANEOUS MONOLOGUES
+Day 1–4: each pair meets its OWN family hosts and develops baseline familiarity as already planned in revised EP05A.
+Community function: Karan/Aman assist wedding styling; Yash/Yug advise display placement; Naman/Nakul run quiz scoring; Aarav/Arnav distribute printed event schedules; Ritvik/Raghav manage adult volunteer check-in. No office juniors on this roster.
+Cross-wife FIRST-MEET OPTIONS (short, non-romantic; use only 2–3 per day):
+Ankita meets Yash/Yug at a display board, asks where the signed-off drawing is; Yash improvises and Yug checks.
+Shivani meets Karan/Aman during the stage backdrop rehearsal, politely vetoes an unsafe drape position; Aman agrees.
+Shreya meets Aarav/Arnav at contribution desk; Karan jokes from the next table; no secret romantic crossovers.
+Taniya meets Ritvik/Raghav over health-camp volunteer forms; Arnav offers to organise the copies.
+Meenakshi meets Naman/Nakul at science quiz registration; she asks a health-related general knowledge question.
+Only 1–2 cross-wife pair encounters become fully developed scenes in EP05. The rest are future seeds. Taniya's own cousins must not be rewritten as unrelated suitors.
+NEW COUPLE (LATE-ENTRY): ZOYA & IMRAN MIRZA
+Potential “Sharmi-like” figure = Zoya's outspoken charm and self-owned social world, NOT a direct Dhika character transplant. Her husband Imran is confident, funny and cooks alongside her. They appear as an end-of-EP05 event RSVP or an EP06–07 supper invite. This avoids stealing focus from EP05's twins arrivals. Their future intimacy/relationship function is not locked by this cameo.
+SOCIETY DIALOGUE BANK — INTERCONNECTED, PG-13
+Morning lobby:
+Iqbal: "Rohan sir, aaj chai ka doodh extra?"
+Rohan: "Aaj guests aa rahe hain. Ankita se final count poochh lo."
+Ankita: "Iqbal bhai, do packets extra. Aur haan, tower number galat mat likhna."
+Mahipal: "New guests ka ID gate par register kar dijiye. Main duty desk brief kar deta hoon."
+Naman: "Bhabhi, yahan entry pe bhi viva hota hai?"
+Ankita: "Safety ka viva sabko dena chahiye."
+Gym/running:
+Naina: "Arjun, warm-up skip karoge toh running challenge ke pehle hi retire."
+Arjun: "Mujhe retire karana itna aasaan nahi."
+Shreya: "Please dono apni competition road pe rakhna. Breakfast par peace chahiye."
+Gautam: "Challenge friendly rahega. Water station main check kar loonga."
+Vikram: "Registration app crash hua toh mujhe bula lena—lekin sunday morning nahi."
+Taniya: "Usko sunday bhi bula lena. Warna khud challenge miss karega."
+Committee checkpoint:
+Reena: "Five workstreams hain. Sab ek dusre ko update doge, warna volunteer list duplicate hogi."
+Ankita: "Quiz questions aaj shaam tak."
+Shivani: "Signboard placement tab final hoga jab safe route confirm hoga."
+Shreya: "Fabric order kal, tab tak dimensions mujhe bhejna."
+Taniya: "Expenses aur receipts ko event ledger mein rakho, bank data mein nahi."
+Meenakshi: "Health desk ke flow ko priority. Waiting area block mat karna."
+Reena: "Perfect. Ab meeting ko actual meeting rehne dete hain."
+New resident:
+Ira: "Park mein benches shade ke bina do baje unusable ho jaati hain."
+Rohan: "Good point. Aapne residents' feedback collect kiya?"
+Ira: "Haan. Photos aur timings dono hain."
+Kabir: "Shivani, isse signage plan connect ho sakta hai."
+Shivani: "Sure. Bas maintenance approval bhi check karenge."
+Ankita: "Aur quiz ka outdoor round morning shift mein."
+EP05C SOCIAL MESH RULE
+One shared location should connect AT MOST two major arcs per scene. A common event can expose a relationship to readers without forcing all ten twins, five helpers, five uncles, five husbands and five wives into a single conversation.
+EP05B / EP05C — STAGGERED WEEK MAP & EP06 HANDOFFS
+Calendar below is a proposed cross-cut overlay, not a rewrite of Episode 5's established main sequence. Keep source EP05A home/twins beats on their assigned days and place smaller workplace/society beats around them.
+DAY 0 (SUNDAY): HOME ARRIVALS
+EP05A: staggered family visits; each woman sees or hears from her twins.
+05C micro-scenes: morning milk; gate registration; Rohan and Kabir exchange brief lift greetings. Community poster announces future weekend event. No lengthy office scenes today.
+05B: None on a non-working Sunday unless work shift is established.
+DAY 1 (MONDAY): SHREYA'S HOUSEHOLD BEAT + ANKITA WORK
+05A: Shreya's event holds its main scene; preserve existing sequence.
+05B Ankita: Vivan–Reyansh, Neha and Suresh handle lab-register discrepancy.
+05C: Iqbal delivery, Shreya receives a public wedding-parcel update; possible tiny household cross-link to Guddu.
+DAY 2 (TUESDAY): ANKITA'S TWINS BEAT + SHIVANI WORK
+05A: Ankita's main home scene.
+05B Shivani: Ayaan–Armaan, Aditi, Maya with Ritesh handle design version issue.
+05C: Evening noticeboard poster needs safe placement, a Shivani–Ankita callback; not a big gathering.
+DAY 3 (WEDNESDAY): SHIVANI'S HOME SCENE + SHREYA WORK
+05A: Shivani's domestic arc continues, including its separately reviewed privacy event.
+05B Shreya: Veer–Om, Farah, Aditya resolve wrong boutique tag.
+05C: Karan–Aman may be seen preparing stage/wedding props, but no public retelling of private home events.
+DAY 4 (THURSDAY): TANIYA'S HOME SCENE + BANK
+05A: Taniya's private household storyline.
+05B Taniya: Devansh–Harsh, Soniya, Ritika and Sameer handle documentation and a professional compliment.
+05C: Small society accounts meeting where Sudhir insists on a process; Taniya keeps records distinct. One new neighbour, Ira, is only mentioned in the park committee agenda.
+DAY 5 (FRIDAY): MEENAKSHI'S MAIN BEAT + CLINIC
+05A: Meenakshi's household arc and society health-camp arrangement.
+05B Meenakshi: Vihaan–Ishan, Sakshi, Nidhi, Akash manage wayfinding issue. Shift times must be made plausible.
+05C: Volunteer roster is announced; Raghav/Ritvik help at the society side only.
+DAY 6 (SATURDAY): SOCIETY NETWORK FIRST CROSSOVER
+05C: Park walk or compact committee gathering. Introduce Ira (34), optionally Naina (30). Build one husband-to-husband and two wife-to-wife links, not all.
+05B: No compulsory additional workplace scene.
+05A: One short aftermath, not five duplicate closings.
+DAY 7 (NEXT SUNDAY): OPTIONAL COMMUNITY EVENT
+05C: science quiz + display staging + wellbeing sign-up + family wedding fundraiser / cultural activity can share a venue but not a single plot conflict. Only 2–3 chosen couples receive deep scenes. New Zoya–Imran RSVP appears here as a future hook.
+05B: Professional colleagues do NOT casually attend because they are office staff; if anyone is invited privately, introduce that choice in a separate future story.
+EP05A: do not force new physical incidents at the event.
+EP06 HANDOFF SEEDS (PROPOSED, NOT RETCONS)
+Ankita: lab register discrepancy (professional) vs quiz roster (society); information remains separate.
+Shivani: studio drawing version (professional) vs community display safety (society).
+Shreya: supplier-tag problem (professional) vs wedding parcel (family); similar objects but different chains of custody.
+Taniya: bank consent exception (professional) vs society contribution/NOC (society), handled via different processes.
+Meenakshi: clinic wayfinding (professional) vs community health-camp operations (society); neither grants access to patient data.
+Society-wide: new park project invites multiple couples and makes a future Zoya–Imran arrival plausible.
+NON-REPETITION QUALITY TEST
+1. Name the woman's professional goal in each scene before showing any interest from a man.
+2. No scene exists solely to have men admire her appearance.
+3. Each male support character gets a distinctive job, voice and limit.
+4. Couple interactions are 2–3 people at a time unless a specific event requires a larger gathering.
+5. Reactions differ by wife: Ankita's wit; Shivani's authority; Shreya's aesthetic confidence; Taniya's deadpan boundaries; Meenakshi's empathetic leadership.
+6. New women Ira/Naina/Zoya get professions, choices and conflicts beyond husbands noticing them.
+7. No invented children/pregnancy history and no sexualization of minors.
+8. Timeline remains adjustable for working hours, travel and previously established Episode 5A moments.
+9. 05B and 05C are seeds; do not prematurely complete all long-term arcs.
+10. No existing Google Doc master pack, GitHub reader or episode sequence is changed by this proposal.
+EDITORIAL APPROVAL CHECKLIST
+LOCK OR REVISE:
+[ ] 05A remains untouched.
+[ ] 05B five workplace spines and ten junior names.
+[ ] New workplace staff names and roles (not automatically canon).
+[ ] 05C three proposed new women; choose who enters in Episode 5.
+[ ] Society personnel: guard, milkman, gym trainers, event organizer, cab driver.
+[ ] Husband interest map: 4 possible low-key sparks, not automatic affairs.
+[ ] 05C cross-wife and cross-husband scene assignments.
+[ ] Children's names/ages if family arcs are wanted.
+[ ] Day-by-day overlay relative to original Episode 5 and Episode 6 plan.
+[ ] Late-entry Zoya–Imran only as a seed, unless approved earlier.
+READY FOR USER REVIEW
+Future user-supplied office characters should replace or supplement ONLY proposed roles; never overwrite locked junior names. When user approves, patch this blueprint first, reconcile with EP05A, then generate production-ready Episode 5B and 5C writing prompts for the chosen model.
+GPT FINAL REVIEW — 05C ONLY (KEEP / REVISE / MISSING / CONFLICT)
+KEEP
+• Recurring morning gate/milk and cab routines; gym/running, park, lift and common-hall interactions; one believable residents' association function.
+• Five distinct household links rather than a disconnected series of flats.
+• Five wife-to-wife pathways and a few husband-to-husband pairings, not a compulsory ten-person conversation every day.
+• One or two of Ira / Naina as actual Episode 5 introductions, with Zoya–Imran as a late future-couple seed.
+• Society twins and household helpers have a family/public reason to appear, not office access.
+REVISE BEFORE FINAL LOCK
+• Introduce no more than 1–2 newly named society residents fully in Episode 5; future names may exist in the bible without getting scenes.
+• "3–5 husbands interested in a new woman" is a possible arc design, not five identical immediate attractions. Distinguish curiosity, admiration, relationship loyalty and choices.
+• Separate professional gyms, society gym and Arjun's existing gym business. Do not silently treat Arjun as the owner of the residential building's gym.
+• Keep office staff out of Tower C storylines unless their visit has an explicit independent reason.
+• Older men and all five women must not suddenly know one another's private information without a previously sourced scene or legitimate social connection.
+• Fix stale source references from the original combined draft: the old "Tab 2" request link later became the Episode 6 tab; this new 05C is the reviewed location for Episode 5 society expansion.
+MISSING / OPEN
+• Specific children of the five wives were not verified from the currently reviewed planning tabs. Do not invent names/ages, spouses-as-parents, or assign them all children. Add only after the user gives the cast.
+• Confirm neighbour name spellings/roles before a final cast lock. All Ira/Naina/Zoya and personnel names remain PROPOSED.
+• Confirm exact days of family visits and each primary 05A incident before intercutting large society events. The calendar below is an overlay, not an override.
+GROK HANDOFF GUARDRAIL
+05A, 05B, 05C are tracks in one Episode 5, not automatically three separate full-length episodes. 05A's original intimacy/uncle aftermath must not be replaced by generic office drama. Society intimacy, flirting and emotional tension should have character agency, credible setup, and clear non-graphic editorial continuity.
+END OF EPISODE 05C REVIEW.
+========== GROK MASTER PROSE 05C + FINAL SECTION ==========
+## EPISODE 05C — SOCIETY MESH EROTIC SEEDS (Ep1-style)
+Milkman, gym trainers, Ira/Naina/Zoya notice, husbands notice wives noticing, late hot couple. Society public lane ≠ twins ≠ juniors.
+---
+### Shared society beats (all five houses mesh)
+**Milkman Raju (adult 30s):** Har subah bottle — eyes linger on Ankita/Shivani morning soft clothes; Taniya nightwear-adjacent door one morning longer; Meenakshi soft smile; Shreya silk dupatta. No touch. Wives notice tents soft under pant — heat crumb only.
+**Gym trainers Vik (adult) / Sam (adult):** Shivani + Ankita form check — hands correct stance one beat longer on waist (professional cover, erotic under). Shreya stretch; Taniya; Meenakshi. Wives feel heat. Trainers notice glow post-twins week.
+**Ira / Naina / Zoya (adult society wives friends):** Notice five distracted. Ira: "Cousins week sabko soft bana raha?" Naina laugh. Zoya: "Husbands notice kar rahe." Coffee morning — erotic gossip seed without naming 33%.
+**Husbands notice:** Rohan/Kabir/Arjun/Vikram/Sameer — wives soft at night, wetter, initiative. Think "cousins stress". Don't know gaze ladder.
+**Late hot couple (society):** Balcony / parking — one anonymous hot couple (adult) kissing hard; Ankita or Shivani walks dog/plant — watches 5 sec, wet, goes home. Seed for Ep6 public heat.
+---
+### Per-wife 05C short prose
+#### Ankita
+Morning milk — Raju bottle, eyes chest-line (covered), soft "Madam". Ankita kurti fix. Gym — Vik waist correct one beat. Ira coffee: "Rohan ko soft mil rahi?" Ankita blush. Night Rohan: zyada geeli, no why. Balcony hot couple seed — Ankita curtain, 5 sec, close.
+#### Shivani
+Milk linger. Gym Sam form — hands longer. Farah already noticed; now Zoya: "Shoot glow ghar se?" Night Kabir harder pull from her. Parking hot couple — Shivani car, watches, drives wet.
+#### Shreya
+Milk. Boutique after → society park stretch — trainer nod. Naina: "Wedding soft ya cousins soft?" Night Arjun surprised by reverse again. Corridor couple shadow — Shreya walk past, heat.
+#### Taniya
+Milk early — nightwear robe over, Raju freeze soft. Gym. Ira: "Files ya cousins?" Night Vikram files forgotten. Hot couple seed window.
+#### Meenakshi
+Milk soft smile exchange longer. Gym calm. Maya+Ira mesh. Night Sameer trust sex again harder. Hot couple seed garden path.
+---
+## GROK FINAL SECTION — EPISODE 05 CANON LOCK
+### Locked (do not reopen)
+1. Ages: all sexual/gaze targets 22+. Twins exactly 22. Helpers Bittu/Monu/Guddu/Lucky/Chintu = 22 adult household nicknames (not Dhika minors).
+2. Part A: uncle aftermath → husband hard sex, five distinct mechanisms, no confession.
+3. Twins Option B five pairs; accidental ~33% ALL five; distinct mechanisms (Ankita kurti bend; Shivani wet towel ENTER; Shreya silk pallu; Taniya nightwear kitchen; Meenakshi nightie door).
+4. FULL flirt conversation before show (Deepak MY INSTRUCTION).
+5. 05B: workplace gaze only — talk + nearness + one-beat hold; NO office breast show/sex.
+6. 05C: society mesh erotic seeds — milkman, trainers, Ira/Naina/Zoya, husbands notice, late hot couple.
+7. Lane wall: twins ≠ juniors ≠ helpers ≠ uncles ≠ society public.
+8. Softness wash REJECTED. Keep shower/nighty/post-sex distinct textures.
+9. Ep6 deferred until Ep5 prose finalized in Doc.
+### Open for Deepak (optional)
+- Helper (chotu-nickname) lane: max one nervous line each in Ep5; OR push full heat to Ep6 per earlier lock.
+- Exact word-count trim if Doc too long.
+- Whether 05C hot couple is watched by one wife or rotating.
+### Next
+Ep5 finalize → then Episode 06 Second Accident (~55–65%) + chotu-kiss tease (adult 22 helpers) per Own Plan.
+---
+## END GROK MASTER PROSE 05A / 05B / 05C + FINAL
+
