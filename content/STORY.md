@@ -375,3 +375,140 @@ Bahar stairs pe Bittu milk ke packets ke saath upar aa raha tha. Harish Mama ko 
 **HARISH:** “Parcel tha beta. Ankita nahi mili.” Bittu ne kuch nahi kaha. Door ke saamne aaya, knock kiya. Andar Ankita abhi bhi floor pe thi, haath stomach pe, saans control karne ki koshish kar rahi thi. Koi jawab nahi diya.
 
 Clock 14:10. Ankita akeli thi. Blouse open, petticoat on, wall ke saath baithi. Haath stomach pe flat. Heartbeat dheere ho raha tha, lekin heat nahi. Smell ab bhi uske around thi. Woh nahi uthi. Nahi boli. Bas baithi rahi.
+
+## Shivani
+
+> **Editorial provenance:** Grok Parts A and B provided by the user; dialogue attribution labels added without changing their words. Plot/continuity concerns are recorded as editorial audit notes only, not prose corrections.
+
+### Part A — Morning & Studio Arrival (06:40–09:20)
+
+> **Audit:** 393 words versus the Master Pack's 650–750 target. Basement parking is not separately shown; main morning beats and hard stop are present.
+
+06:40. Shivani bedroom mein khadi thi. Kabir launch day pe already distracted tha. Phone haath mein, emails check karte hue usne uski forehead pe kiss kiya — bina aankh uthaye. 
+
+**KABIR:** “Late ho raha hoon. Launch ke baad call karta hoon.”  
+
+06:45. Door band hua. Shivani ne saans li. Red kurta nikaala. Smooth beige T-shirt bra pehen li — cups soft, line clean. Mirror ke saamne khadi hokar check kiya. Kurta fitted tha, bra ki line thodi si dikh rahi thi agar koi dekhna chahe. Kal raat wali bra bedroom chair pe drop kar di. Monu kitchen se awaaz aayi, 
+
+**MONU:** “Breakfast, Ma’am?”  
+
+
+
+**SHIVANI:** “Nahi. Chai thik hai.”  
+
+07:25. Lift ke paas Devendra khade the — society treasurer, 61, hamesha kisi na kisi reading ke baare mein. 
+
+**DEVENDRA:** “Shivani ji, water meter reading pending hai aapka. Kab convenient hoga?” Uske eyes kurta pe travel kiye, neckline se waist tak, ek second extra. Shivani ne professional smile di. 
+
+**SHIVANI:** “Kal shaam tak de denge, Uncle. Aaj studio busy hai.”  
+
+Lift mein uski perfume peeche reh gayi — sharp, thodi si expensive.  
+
+Car mein AC on kiya, lipstick set kiya. Confident version. Udyog Vihar ki taraf nikal gayi. Traffic mein bhi uska posture seedha tha. Red kurta, beige bra, lipstick perfect.  
+
+09:10. Studio gate pe Ayaan khada tha — 22, improviser, bold mouth. Armaan uske side mein, timestamp-obsessed, quiet. Ayaan ne low whistle maara. 
+
+**AYAAN:** “Red is your colour, Ma’am… aaj client nahi, hum behosh honge.”  
+
+Armaan ne kuch nahi kaha. Bas uske chest pe ek beat zyada der tak dekha, phir apni watch pe nazar daal di.  
+
+Shivani ne gate cross kiya. 
+
+**SHIVANI:** “Client meeting pehle. Dono drawings ready rakhna.”  
+
+Ayaan peeche se bola, 
+
+**AYAAN:** “Ma’am, yeh kurta itna fitted hai ki drawing se zyada aap pe focus ho jayega.” Armaan silent raha, lekin uski nazar phir se uske chest pe gayi jab woh andar ghus rahi thi.  
+
+*Angel: Tu senior hai. Line draw kar.*  
+*Devil: Tujhe line draw karna hi toh aata hai, architect… aur mitana bhi.*  
+
+Shivani andar gayi. Uske steps confident the, lekin andar thoda sa buzz tha — Ayaan ke words, Armaan ka silent stare. Enjoyment aur irritation mix. Woh jaanti thi woh dekh rahe hain. Aur thoda sa pasand bhi aa raha tha.  
+
+Desk pe bag rakha. Client-approved drawing set open tha. Top sheet nikal kar dekha.  
+
+Yeh woh sheet nahi thi jo usne approve ki thi.
+
+### Part B — Site-Plan Switch (09:20–12:30)
+
+> **Audit:** 598 words versus 850–1,000 target. Timestamp “10:40 … after hours” requires date/AM-PM clarification. “HOD” is not established as Shivani's reporting authority at the architecture studio. The plotter-room boundary and Aditi ending remain source-preserved, with no silent rewriting.
+
+09:20. Studio floor pe already movement shuru ho chuka tha. Shivani ne desk pe drawing set ko dobara check kiya. Top sheet clearly altered tha. Site plan ki boundary line shift ho chuki thi — uske approved version se alag. Usne Ayaan aur Armaan ko bulaya.
+
+
+
+**SHIVANI:** “Yeh sheet main ne approve nahi ki thi. Kaun change kiya?”
+
+Ayaan turant aage aaya. 
+
+**AYAAN:** “Ma’am, main dekh leta hoon. Shayad client ne last minute kuch bola ho.” Usne sheet uthayi, lekin uski nazar sheet se zyada Shivani ke kurta pe thi.
+
+Armaan quiet raha. Usne plotter room ki taraf ishara kiya. 
+
+**ARMAAN:** “Timestamps check karte hain.”
+
+11:05. Plotter room cramped tha. Teen log barely fit hote the. Armaan ne PC on kiya, file history kholi. Screen pe clear dikha — original file 10:40 pe overwrite hua tha, after hours. Koi office mein tha jab sab chale gaye the.
+
+Ayaan Shivani ke peeche lean kar gaya, shoulder ke upar se screen point karte hue. Uske breath uske neck pe mehsoos hue. 
+
+**AYAAN:** “Ma’am, trust me, main sambhal lunga. Redraw kar dete hain client call se pehle. Simple hai.”
+
+Usne screen pe finger rakhi, lekin body uske bilkul close thi. 
+
+**AYAAN:** “Yeh kurta kitna fitted hai aaj… perfume bhi alag hai. Focus hi nahi ho pa raha kaam pe.”
+
+Shivani ne side step liya, lekin space kam tha. 
+
+**SHIVANI:** “Ayaan, distance. Yeh serious matter hai.”
+
+Armaan dark monitor mein uski reflection dekh raha tha. Uske chest ka outline, bra straps ki halki line. Woh kuch nahi bola, bas dekhte raha.
+
+Shivani ko apne bra straps feel ho rahe the. Cups ke neeche sweat collect ho raha tha. Do 22 saal ke ladke itne close, ek bold, ek silent, aur woh senior jo unhe rok sakti thi — lekin abhi nahi rok rahi thi.
+
+*Angel: Tu senior hai. Line draw kar.*  
+*Devil: Itna easy hoga Ayaan ka haath chair back pe rehne dena… bas ek second.*
+
+Ayaan phir lean in hua. 
+
+**AYAAN:** “Ma’am, main redraw kar doon? Client ko pata bhi nahi chalega. Aap bas yahin rahiye.” Uske haath chair ke back pe aa gaye, Shivani ke bilkul peeche.
+
+Armaan ne quietly bola, 
+
+**ARMAAN:** “Timestamps clear hain. Kisi ne jaan-boojh ke change kiya hai.”
+
+Shivani ne Ayaan ko side kiya. 
+
+**SHIVANI:** “Koi improvisation nahi. Original file restore karo. Client call postpone kar do.”
+
+Tabhi phone buzz hua. Devendra. Society treasurer.
+
+
+
+**DEVENDRA:** “Shivani ji, sunna hai site plan ka thoda confusion hai. Client ko main jaanta hoon society se. Informal rakhte hain. Aap shaam ko ek baar mere ghar aa jaiye, baith ke baat kar lenge. Main arrange kar dunga.”
+
+Shivani ki awaaz firm thi. 
+
+**SHIVANI:** “Nahi, Uncle. Yeh professional matter hai. Main office se hi handle karungi. Private meeting ki zaroorat nahi.”
+
+Devendra thodi der chup raha. 
+
+**DEVENDRA:** “Theek hai. Jaise aap sahi samjho.” Call cut.
+
+Plotter room mein silence thi. Ayaan ab bhi bahut close tha. 
+
+**AYAAN:** “Ma’am, aap tension mat lo. Main dekh lunga. Aapka kurta… aaj toh dil nahi lag raha kaam mein.”
+
+Shivani ne deep saans li. Bra straps ab clear feel ho rahe the, sweat cups ke neeche. Armaan ki nazar monitor ki reflection se hoke uspe thi. Heat thi — do junior, ek senior, cramped room, aur woh line jo abhi tak draw nahi hui thi.
+
+*Angel: Ab rok de.*  
+*Devil: Dekh kaise dono tujhe measure kar rahe hain… aur tu unhe rok nahi rahi.*
+
+Shivani ne files close kiye. 
+
+**SHIVANI:** “Dono bahar. Original restore karo. Main HOD ko update karti hoon.”
+
+Woh glass meeting room ki taraf nikal rahi thi jab Aditi glass door pe dikhi. Aankhein avoid kar rahi thi.
+
+
+
+**ADITI:** “Shivu… lunch pe aa. Mujhe kuch batana hai.”
