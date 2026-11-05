@@ -3681,3 +3681,781 @@ Wives ~29. Never minor language.
 - Mechanisms match `/workspace/ep06-grok-own-plan.md` — NOT changed
 - GPT soft wash: REJECTED · Grok heat · Deepak locks · Date 2026-11-05
 **Sir — this is the single combined pack. Paste MASTER SYSTEM once, then one PART at a time.**
+
+
+# Society Wives — Episode 06D — Home Twins Second & Week Spine
+
+> **Planning material only — not finished prose.** Source-locked continuation. The earlier 06A–06C chapters are preserved. Office and society first-incidents are excluded from this episode.
+> **Source:** https://docs.google.com/document/d/1Kg1TQAWGho8D2ti3NjIhVIByRohtPBrCZWJhyzmQJdU/edit?tab=t.0
+
+## 0. CORRECTION BANNER
+SORRY, SIR. THE MERGE IS FIXED.
+- EPISODE 06 ≠ EPISODE 07.
+- The previous doc ("Episode 06 Revised Detailed Plot") wrongly put Ep7 material inside the Ep6 plot body: the office juniors' FIRST workplace accident and the society members' FIRST-accident mixups (Raju milkman / Vik and Sam trainers / lift man / park regular).
+- Those belong to EPISODE 07. They are now removed from the Ep6 body. They appear only in Section 5, as a separate Ep7 seed marked NOT FOR EP06 WRITING.
+- Episode 06 = 06A chotu kisses (already happened, cold-open) + twins SECOND accident at HOME (~55–65%) + chotu cock twitch with MUTUAL VIEW + withhold / Angel–Devil / Ep7 seed line at the end. Nothing else.
+## 1. CONTINUITY LEDGER (Ep6-relevant lanes)
+## 1a. Cast lock (Ep6 on-stage cast)
+- Ankita (Physics AP) · husband Rohan · twins Naman (talk) & Nakul (quiet), Rohan's mausi's sons · chotu Bittu
+- Shivani (designer/architect) · husband Kabir · twins Yash (improv) & Yug (precision), Kabir's bua's sons · chotu Monu
+- Shreya (boutique) · husband Arjun · twins Karan (show) & Aman (detail), Arjun's mausi's sons · chotu Guddu
+- Taniya (bank) · husband Vikram · twins Aarav (talk) & Arnav (quiet), Taniya's mausi's sons · chotu Lucky
+- Meenakshi (clinic lead, not a doctor) · husband Nikhil · twins Ritvik (talk) & Raghav (quiet), Nikhil's bua's sons · chotu Chintu
+Uncles Harish / Devendra / Baldev / Sudhir / Prakash = society echo only (they never coach a slip).
+Office juniors and society public men exist in the world but are FROZEN at their Ep5 stage inside Ep6 (see 1c).
+
+## 1b. Lane progress per wife
+TWINS (Ep5 FIRST ~33% → Ep6 SECOND ~55–65%)
+- Ankita: Ep5 ~33% kurti bend (Naman froze, Nakul looked away late) → Ep6 second
+- Shivani: Ep5 ~33% wet-towel enter → Ep6 second
+- Shreya: Ep5 ~33% silk pallu → Ep6 second
+- Taniya: Ep5 ~33% nightwear kitchen → Ep6 second
+- Meenakshi: Ep5 ~33% nightie at the door → Ep6 second
+
+CHOTU (Ep3 show → 06A kiss → Ep6 twitch, mutual view)
+- Ankita × Bittu: Ep3 ~33% kitchen-table bend (he fled, change unpaid) → 06A Rain Chai kiss, she returned it, "I liked it" → Ep6 twitch
+- Shivani × Monu: Ep3 50→~75% mirror hook (she clocked his arousal) → 06A Second Look ice cream, kiss, mouth-clean on upper swell → Ep6 twitch
+- Shreya × Guddu: Ep3 ~100% BARE, no bra, hooks popped → 06A Silk Test, his peck → her fury-kisses → breast-kiss over blouse → Ep6 twitch (HEAVIEST)
+- Taniya × Lucky: Ep3 ~65% stretch-tear, held ~1 min → 06A Torn Dress, ~50%, pin fail, long kiss, breast-kiss over bra, he fled → Ep6 twitch
+- Meenakshi × Chintu: Ep3 ~50% balcony scoop → 06A Plant Water, he starts, she deepens hard once, pushes back → Ep6 twitch
+Cock twitch: SEEN in Ep2 (learn), PAUSED in 06A, back ON in Ep6 with MUTUAL VIEW.
+
+OFFICE + SOCIETY (STAY AT EP5 STAGE INSIDE EP6)
+- Office juniors: talk / nearness / one-beat hold only, exactly as Ep5 (Vivan "keys… ya attention?", Ayaan's 10-sec pose, Veer "thoda aur lean?", Devansh KYC lean, Vihaan BP joke). NO first workplace accident in Ep6.
+- Society public (Raju, Vik, Sam, park regulars): eyes only, exactly as Ep5C. NO first-accident mixup in Ep6.
+- At most: a junior notices her flush the morning after the twins' second slip (eyes/talk only), or Raju's eyes at the gate during the mesh. That is the ceiling.
+- Husbands: told NOTHING about any chotu kiss, twins slip, or twitch. John-line blind.
+
+## 1c. Ep6 target ladder
+- Twins (home): Ep5 ~33% first → Ep6 ~55–65% SECOND, 2–4 sec, nipple covered
+- Chotu: 06A kiss → Ep6 cock twitch, MUTUAL VIEW (her knotted/sweaty body ↔ his tent and pulse); no new breast %, everyday knot/cleavage exposure only
+- Office juniors: Ep5 talk/nearness → Ep6 SAME (no change) → first accident unlocks in Ep7
+- Society public: Ep5 eyes → Ep6 SAME (no change) → first mixups unlock in Ep7
+## 2. EPISODE 06 DETAILED PLOT — ONLY
+Episode title: "Second Accident and the Cock Twitch"
+Theme: home sees her MORE (the second time), and the chotu she kissed now shows her what she does to him, and she shows him she saw. Each wife thinks she is the only one this is happening to.
+
+2.0 Cold open (06A already happened, not rewritten)
+The weekend before D1. A montage of the five 06A kiss aftermaths: Ankita and the Ep3 receipt still on the counter; Meenakshi's wet kurti drying in the bathroom; Taniya re-folding the torn dress; Shivani's spoon in the sink; Shreya's blue silk swatch in her handbag. Every wife is guilty and wants more. Every wife has "I liked it" in her head. None of the husbands knows.
+
+2.1 WEEK SPINE (D1–D7): twins second + chotu twitch only
+- D1 Mon: Twins return to ALL five homes. Awkward silence → "pretend Ep5 never happened" → relief. Dress-escalate seeds (formal outfit + twin tease to "relax at home"). Office day = Ep5 stage only (normal work, no slip).
+- D2 Tue: ANKITA twins second, whiteboard marker spill (evening).
+- D3 Wed: TOWER C MESH (generator / Diwali committee). No show. Eyes cross.
+- D4 Thu: SHIVANI twins second, terrace print blow (afternoon) · TANIYA twins second, clubhouse wrap squat (evening).
+- D5 Fri: MEENAKSHI twins second, OT bag weight share (afternoon) · SHREYA twins second, trial mirror turn (evening).
+- D6 Sat: CHOTU twitch: ANKITA/Bittu gift cupboard · TANIYA/Lucky Wi-Fi shelf · SHIVANI/Monu ladder inverted. Uncle echoes of the week land.
+- D7 Sun: CHOTU twitch: MEENAKSHI/Chintu curtain rod · SHREYA/Guddu storeroom (FINALE, heaviest).
+- D7 night: two-lane private compare (twin vs chotu) · withhold from husband · Angel–Devil · Ep7 seed line ONLY.
+
+Per-wife order (same shape, staggered days, different mechanisms): 06A kiss guilt → twins pretend-normal → dress escalate → twins SECOND → chotu twitch (mutual) → withhold.
+Kiss guilt stacks under the second show; the twitch lands after the second show so the guilt is at its peak.
+
+2.2 Mid-week mesh beat: D3 Tower C generator / Diwali committee (NO SHOW)
+- In one frame: all five wives, Naman (Ankita's twin) + Yug (Shivani's) + Arnav (Taniya's), Kabir + Vikram, Harish + Devendra uncles, Raju at the gate with crates, Riya and Pooja at the edge.
+- Eye-crossing only: Naman looks at Ankita a beat too long (he saw ~60% yesterday). Ankita feels it and cannot look at Rohan. Yug avoids Shivani's eyes; she reads that as "he hasn't forgotten Ep5", not knowing tomorrow's terrace is coming. Shreya and Taniya, still before their second slips, watch the others and feel left out without knowing why. Raju's eyes at the gate are Ep5-stage only (a covered chest-line glance), nothing more.
+- Uncle line: Harish: "Is baar cousins season lamba chal raha hai." Devendra: "Ladke padhai mein serious hain." The husbands nod, blind.
+- Ira whisper to Zoya: "Sab ki sab glow kar rahi hain… period ya husband travel?" Wrong theory = cover.
+- Parking aside: Naman to Yash, "Physics wali bhabhi aaj bilkul alag thi…" Surface talk only. No twin shares the slip.
+
+2.3 PER-WIFE HOME CONTINUATION
+
+### ANKITA (Rohan · Naman/Nakul · Bittu)
+
+#### A) HOME / TWINS: SECOND accident, "Whiteboard Marker Spill" (D2 evening)
+- Pretend-normal (D1): the twins arrive for evening prep. Ten seconds of awkward silence, then all three act as if the Ep5 kurti bend never happened. Relief. Naman: "Bhabhi, aaj chapter 7, wahi rotation." Nakul says nothing and sets out markers.
+- Dress escalate: on D1 she wears a formal kurti. Naman: "Bhabhi, ghar pe bhi itna formal? Hum toh family hain." On D2, with the chotu-kiss guilt in her ("ghar pe toh theek hai"), the Angel loses: a soft open-collar weekend shirt over a thin T-shirt bra, top button undone, hair loose. Naman: "Aaj aap teacher kam… cool didi zyada lag rahi ho." Nakul's ears go red.
+- Mechanism: home study desk at seated height. Nakul reaches for the blue marker; she turns too fast and the water bottle knocks over onto the answer sheets. She lunges across the desk to save the papers. Her chest presses over the desk edge, the open collar falls forward, and the second button gives way under the strain.
+- Who sees what: both twins are seated at desk height, directly in line. ~60%. Majority upper breast mass pushed together by the desk edge, a deep cleavage valley, pale T-shirt bra cups visible only at their lower halves. Nipple covered. ~3 sec frozen mid-lunge, because her hands are full of wet paper.
+- Talk: Naman almost jokes, "Bhabhi, physics mein isse kehte hain—" and then it dies. He goes soft: "…kuch nahi. Kuch nahi dekha." Nakul slides a dry notebook over the wet spot without looking up, then his one sincere line: "Aap theek ho. Bas. Baaki hum sambhal lenge." First twin skin-touch: Nakul steadies her elbow as she pushes back up.
+- She: "Do baar… tum dono ne do baar dekh liya." Naman: "Bhabhi, galti thi. Lekin… agar galti hai toh… badi khoobsurat galti hai." She throws the wet marker at him and laughs shakily.
+- Society echo (D3 morning): Harish Mama in the lift: "Mausi ke ladke padhai mein serious hain, Rohan." Rohan, proud: "Ankita ne pakad ke rakha hai unko." She dies inside.
+- Withhold: Rohan asks "Tuition kaisi rahi?" She: "Paani gir gaya tha bas." She does not tell him the 60%.
+
+---
+
+### SHIVANI (Kabir · Yash/Yug · Monu)
+
+#### A) HOME / TWINS: SECOND accident, "Site Print Blow" (D4 afternoon, terrace)
+- Pretend-normal (D1): Yash cracks a joke about the "towel day" (Ep5) and Yug kills it with a look. All three agree, wordlessly, that it never happened.
+- Dress escalate: D1 she wears studio formal. Yash: "Bhabhi, competition ka mood laana hai toh aap bhi thoda… relaxed ho jao." On D4 she chooses a deep-back practice blouse under a light shrug, "because the terrace is hot."
+- Mechanism: on the terrace, checking a rolled A0 print for the twins' competition. A gust snaps the roll open. The shrug flies off; she grabs the print with both hands above her head. The blouse rides up, and the deep back pulls the front neckline down from above.
+- Who sees what: ~60%. Yug, seated low on the stool, gets the upward angle: full upper mass lifted by her raised arms, deep cleavage, the blouse edge barely holding the lower cups. Yash, standing in front, gets the same frontally. Nipple covered. ~3–4 sec, because she won't let go of the print.
+- Talk: Yash's improvisation fails: "Hawa… sorry… hawa ki galti." Yug, structural calm: "Print secure hai. Aap… cover kar lo." He hands her his own hoodie without looking. That is the trust beat. Yash later, low: "Bhabhi, aapki design se zyada… balance aapka hai." She: "Tumhari zubaan ka balance theek karo."
+- Society echo: Devendra (treasurer) waves from the parking lot. He saw nothing, only "cousins helping." She dies inside.
+- Withhold: Kabir asks "Print bacha?" She: "Haan, Yug ne pakda."
+
+---
+
+### SHREYA (Arjun · Karan/Aman · Guddu)
+
+#### A) HOME / TWINS: SECOND accident, "Trial Mirror Turn" (D5 evening, guest room as mock boutique)
+- Pretend-normal (D1): Karan: "Bhabhi, maa ke liye saree, aapki choice final." All three skip the Ep5 silk pallu.
+- Dress escalate: the 06A Silk Test with Guddu and the Ep5 silk pallu made her hungry to CONTROL the gaze at home. She demonstrates "how a customer turns" in a fitted blouse with a rehearsal petticoat, the pallu only held in her hand.
+- Mechanism: Aman adjusts the mirror stand and catches the pallu; it slips away. She spins and the blouse's top hook strains and opens, so the cup line opens toward the mirror.
+- Who sees what: the mirror doubles it. ~60–65%. Both twins see her front AND the reflection: heavy upper mass, deep cleavage, the top of the cups straining. Nipple covered. ~3 sec. SHE SEES THEM SEEING in the mirror. That is the new heat.
+- Talk: Karan the showman goes quiet for the first time all week. Aman: "Main… bahar… box le aata hoon." She: "Tum dono ne… phir dekha." Karan, almost professional, almost sexual: "Bhabhi, hum fashion dekhte hain… body kisi ko nahi bolenge. Lekin fit… perfect thi." Aman comes back with water, eyes on the floor.
+- Society echo: Baldev uncle drops off a spare key the same evening, smells perfume in the guest room: "Ghar mein mehfil?" She lies: "Gift practice."
+- Withhold: Arjun gym-grins about the saree. Nothing more.
+
+---
+
+### TANIYA (Vikram · Aarav/Arnav · Lucky)
+
+#### A) HOME / TWINS: SECOND accident, "Clubhouse Locker Duplicate" (D4 evening)
+- Pretend-normal (D1): the cousins are staying in the guest room. Aarav: "Di, hum bhool gaye. Aap bhi bhool jao." She: "Kya bhoolna? Kuch hua hi nahi."
+- Dress escalate: D2–D3 at home in a tee and pyjama. Aarav: "Di, bank wali Taniya ghar pe allowed nahi." D4: a weekend cotton wrap top for the clubhouse run.
+- Mechanism: the society clubhouse locker room, where she keeps the festival lights (family errand, twins only on stage). Vikram has lost the duplicate key. She squats to search the low locker; Aarav holds the phone torch and Arnav holds the bag. As she rises from the squat, the wrap knot loosens and the top falls forward open.
+- Who sees what: ~60%. Both are standing and looking DOWN into the open wrap: heavy upper mass and deep cleavage, the bra cups exposed to their lower halves. Nipple covered. She clutches late, ~3 sec.
+- Talk: Aarav's joke dies. He gives the long care speech (Grok's original words): "Di, hum cousins hain… jo yahan hua, yahin khatam. Lekin aap… aap ko sharminda hone ki zarurat nahi." Arnav silently re-ties the wrap knot FOR her, his fingers at her waist: the first twin clothing touch, hotter because she lets him.
+- Society echo: Sudhir, passing the clubhouse door, sees three people walk out composed and later tells Vikram, "Ladke mature hain." Vikram: "Careful rehna."
+- Withhold: Vikram: "Key mili?" She: "Mil gayi." (It didn't.)
+
+---
+
+### MEENAKSHI (Nikhil · Ritvik/Raghav · Chintu)
+
+#### A) HOME / TWINS: SECOND accident, "OT Bag Weight Share" (D5 afternoon)
+- Pretend-normal (D1): Ritvik: "Bhabhi, course form bharna hai." Raghav quietly brings sweets from his mother. The Ep5 nightie door is never mentioned.
+- Dress escalate: D1 a formal kurti. Ritvik: "Bhabhi, clinic ke bahar bhi uniform?" D5: a lilac scoop top she CHOSE in the milk-tingle week.
+- Mechanism: she brings home a loaner camp BP kit and OT bag. The strap snaps; she and Ritvik each grab a handle and the bag drops between them. Both bend at the same moment and her scoop hangs wide open.
+- Who sees what: ~65%. Ritvik is face-level across the bag: nursing-full, milk-heavy upper mass, deep cleavage, the cups almost failing to hold. Raghav is on her side. Nipple covered. ~3 sec. Milk-heavy language is allowed (she is a clinic lead, not a doctor).
+- Talk: Ritvik cuts off mid-laugh. Raghav picks up the kit without looking: "Bua ke ghar mein bhi… aisi galti hoti hai. Koi nahi jaanega." Ritvik, low, after: "Bhabhi, aap… bahut… bhari lagti ho — matlab bag! Bag bhari hai!" She laughs and goes red.
+- Society echo: Prakash uncle at the gate asks Nikhil about "camp volunteers." Nikhil is amused and protective.
+- Withhold: Nikhil on video: "Bag ka strap toota?" She: "Haan." That's all.
+
+
+
+# Society Wives — Episode 06E — Household Helpers & Aftermath
+
+> **Planning material only — not finished prose.** Source-locked continuation. The earlier 06A–06C chapters are preserved. Office and society first-incidents are excluded from this episode.
+> **Source:** https://docs.google.com/document/d/1Kg1TQAWGho8D2ti3NjIhVIByRohtPBrCZWJhyzmQJdU/edit?tab=t.0
+
+### ANKITA (Rohan · Naman/Nakul · Bittu)
+#### B) CHOTU: cock twitch, MUTUAL VIEW, "Gift Cupboard Inventory" (D6 Saturday)
+- After the Rain Chai kiss guilt. Bittu comes on his off day ("Bhabhi, umbrella lautana tha").
+- Wardrobe agency: she is inventorying Rohan's client gift cupboard. Sweat. An old college tee knotted at the side above the navel, track shorts.
+- Mechanism: top shelf. She is on her toes and asks him to pass the step-stool she "doesn't need." Arms up, the knotted tee rides to just below the base of her breasts.
+- HIS VIEW (on the page): from below, Bittu slowly takes her in. A sweat line from her neck into the cleavage valley above the knot, the soft underside curve hinted at the tee's hem, a flat damp stomach, a deep navel holding a bead of sweat, long legs up to the shorts' hem. He remembers the 33% kitchen bend from Ep3 and the taste of the chai kiss.
+- HER VIEW: she turns to take the stool and her eyes drop. His track pants are tented, and she watches it PULSE twice, a heartbeat throb, then shift as he tries to adjust. Size shock: "Bittu itna… chhota nahi hai." She goes hot from her stomach down. She does not look away for 2 full seconds and he SEES her see it.
+- Talk: "Stool… de do." / "Bhabhi… sorry—" / "Sorry mat bolo. Bas… stool." The mutual knowing lands. Cut: he leaves the stool and goes. No touch. She sits on it, breathing.
+- Withhold: Rohan sees the cupboard done: "Wah." She does not mention Bittu.
+
+---
+
+### SHIVANI (Kabir · Yash/Yug · Monu)
+#### B) CHOTU: cock twitch, MUTUAL VIEW, "Swatch Wall, Ladder Inverted" (D6)
+- After the Second Look ice-cream kiss she wanted to see his reaction again, and she is honest with herself about it.
+- Wardrobe: re-painting a sample swatch wall for the studio, at home. A tank top knotted at the waist because of the heat, and paint-stained shorts.
+- Mechanism (inverted angle): Monu is on the ladder ABOVE her, painting the top band. She is on the floor and looks up to hand him the brush.
+- HIS VIEW: looking down, he takes her in: straight down into the tank, deep cleavage glistening, the knot exposing her stomach and navel, a paint smear on her thigh. He remembers the Ep3 75% hook.
+- HER VIEW: at her eye level, his shorts are tented right in front of her face. The PULSE: she watches it kick, twice, three times, while he holds still on the ladder because he can't climb down. Size shock: closer than ever. "Mere saamne… itna paas." She doesn't step back. She holds the brush up for longer than she needs to.
+- Talk: "Brush lo." / "Didi… main… neeche nahi aa sakta abhi." / "Toh wahin raho." She walks away slowly, knowing he is watching her walk. Cut.
+- Withhold: Kabir: "Wall acchi bani." Silence.
+
+---
+
+### SHREYA (Arjun · Karan/Aman · Guddu)
+#### B) CHOTU: cock twitch, MUTUAL VIEW, "Storeroom Stool" (D7 FINALE, HEAVIEST)
+- Guddu saw 100% bare in Ep3, plus the 06A Silk Test fury-kisses and a breast-kiss over the blouse. Heaviest guilt and heaviest heat.
+- Wardrobe: home storeroom, wedding overflow stock, at night. A clingy cotton tee knotted under the bust and a short housecoat skirt. The fan is off because of the dust.
+- Mechanism: she climbs the stool to reach a box. Guddu steadies the stool. Her heel slips and she grabs his shoulder, and her calf brushes his front.
+- HIS VIEW: from the stool angle he sees her completely. Sweat-glued tee, cleavage pressed upward by her raised arms, the knot under the bust showing the lower curve of both breasts, her stomach, her navel, her thighs. The 100% memory floods back; he knows exactly what is under the tee.
+- HER VIEW + CONTACT SENSATION: her calf feels him hard against her through his pants, then the PULSE (twitch, twitch) against her skin. She looks down: the tent, its size, the movement. "Guddu… yeh…" Size shock: bigger than she imagined on the night she let him see everything.
+- Talk: "Utaro mujhe." He lifts her down by the waist. They stand chest to chest for 2 sec. She: "Abhi nahi… kabhi nahi… pata nahi." Cut BEFORE anything else. No sex. He leaves.
+- Withhold: Arjun calls about the gym. She answers, breathing badly. "Stock tha. Dhool."
+
+---
+
+### TANIYA (Vikram · Aarav/Arnav · Lucky)
+#### B) CHOTU: cock twitch, MUTUAL VIEW, "Wi-Fi Shelf Reset" (D6)
+- After the Torn Dress kiss (Lucky kissed her breast over the bra and fled). She lost control of her own game, and she wants it back.
+- Wardrobe: a tee knotted for Vikram's "WFH router issue", and shorts.
+- Mechanism: Lucky lies under the router shelf pointing at ports. She leans over him to reach the plug.
+- HIS VIEW: from below, her tee hangs open: cleavage, the knot, her stomach, her navel directly above his face. The 65% torn-top memory and the over-the-bra kiss are in his body.
+- HER VIEW: in her peripheral vision his shorts harden and lift. She clocks the pulse, a slow throb, and his hand moving to hide it and failing. Size check against her Ep3 memory: "Us din… itna nahi socha tha."
+- Talk: "Port 3." / "Di… mujhe nikalne do." / "Router reset hone tak hilna mat." She holds him there 10 more seconds. Then she lets him go. Cut. No touch.
+- Withhold: Vikram, from the other room: "Net aa gaya!" She: "Haan… aa gaya."
+
+---
+
+### MEENAKSHI (Nikhil · Ritvik/Raghav · Chintu)
+#### B) CHOTU: cock twitch, MUTUAL VIEW, "Curtain Rod" (D7)
+- After Plant Water (he started, she deepened hard once, then pushed him back). Mother/wife guilt.
+- Wardrobe: a grey tee knotted at the side, cotton pyjama, the milk tingle mid-task.
+- Mechanism: guest-room curtain rod. She is on the ladder; Chintu holds it. She looks down to ask "Seedha hai?"
+- HIS VIEW: looking up, he sees damp milk-tingle spots on the grey tee, the heavy cleavage at the neck, her stomach and navel under the knot, her legs.
+- HER VIEW: below her, his tent PULSES visibly and moves with his breathing; his hands are busy holding the ladder so he can't hide it. Size shock, internal: "Chintu… yeh… itna…?" Her milk tingle surges.
+- Talk: "Seedha hai, Didi." / "Haan… dikh raha hai seedha hai." She means both. She stays on the ladder 5 sec longer. Cut.
+- Withhold: Nikhil, on a call: "Parde lag gaye?" She: "Lag gaye."
+
+2.4 D7 night: private compare (TWIN vs CHOTU only) + withhold + Angel–Devil
+- Ankita: Nakul's steadying hand + Naman's "khoobsurat galti" vs Bittu's pulse. Angel: "Do baar twins, ek baar Bittu… tu kya ban rahi hai?" Devil: "Pehli baar tu zinda hai."
+- Shivani: Yug's hoodie vs Monu's tent at her face. She sketches both at midnight and deletes it.
+- Shreya: the mirror (she controlled it) vs Guddu's pulse against her calf (she didn't). She cries for one minute, then smiles.
+- Taniya: Arnav's knot-tying fingers vs Lucky held under the shelf. The question: "Control mera hai… ya kisi ka nahi?"
+- Meenakshi: Raghav's "koi nahi jaanega" vs Chintu's "seedha hai." Milk at night; Nikhil asleep.
+- Every wife withholds from her husband: no kiss, no second slip, no twitch.
+- EP7 SEED LINE ONLY (last beat of the episode): each wife's phone lights up with one message, a twin "Kal aaye?" or a chotu "Didi kaam hai?", and one unread work notification she doesn't open. She doesn't answer. Sexcapades NOT unlocked. Office/society first accidents are NOT shown or previewed beyond this line.
+## 3. ANTI-CLONE + DO-NOT (EP06)
+Mechanism uniqueness (all 10 Ep6 mechanisms differ):
+- Ankita: twins = whiteboard marker spill (desk lunge) · chotu = gift cupboard / stool, Bittu below
+- Shivani: twins = terrace print blow (arms up) · chotu = ladder inverted (his tent at her eye level)
+- Shreya: twins = trial mirror turn (hook strain, mirror doubles) · chotu = storeroom stool + calf contact (heaviest)
+- Taniya: twins = clubhouse wrap squat (looking down) · chotu = Wi-Fi shelf, him below
+- Meenakshi: twins = OT bag weight share (face-level, milk-heavy) · chotu = curtain-rod ladder
+
+DO-NOT (Ep6):
+- NO office first-accident scenes in Ep6. Juniors stay at Ep5 stage (talk/eyes/flush-notice only). No lab coat, plotter, dori, shredder, or IV-stand slip in Ep6.
+- NO society first-accident mixups in Ep6. Raju / Vik / Sam / lift man / park regular = eyes only. No doorstep, gym, lift, or park slip in Ep6. Kunal and Dev do not appear in Ep6.
+- No five pallu drops. No five ice-cream. No five paint. No five cheek-wipes.
+- No merging twins ↔ chotus ↔ uncles. Juniors never come home. Society men never enter the home plot.
+- No husband told: no kiss, no twins slip, no twitch.
+- No twin Sexcapades unlock. No sex in any lane. No hand on cock. Chotu twitch = view + (Shreya only) calf-contact sensation through clothing, then cut.
+- Soft-wash ban: no "he saw something", no "bra visible" in place of the %. Name the % and the body part.
+- Never lower the twins' second show below ~55%. Never drop either angle of the mutual view.
+- No uncle coaching a slip. No Bantu–Bobby revival. No renaming Option B.
+- No minor language. All 22+. No moralizing narrator.
+## 4. PASTE-READY GPT PROMPT — EP06 ONLY (STRICT ESCALATE-ONLY)
+ROLE
+You are a plot consultant for SOCIETY WIVES, an adult erotic drama between consenting adults
+(Gurgaon, Tower C society). Your ONLY job: IMPROVE the Episode 06 plot BASELINE below. You may
+thicken escalation, sharpen sensory clarity, make mechanisms more distinct, raise dialogue heat,
+and tighten interconnection. You are NOT the decider. Grok's baseline is locked; your output is
+OPTIONAL UPGRADES only.
+
+AGE LOCK (absolute)
+Every character is an adult 22+. Wives ~29. Twins and chotus (Bittu, Monu, Guddu, Lucky, Chintu)
+are all 22+ adults. Never use minor/teen/childlike language.
+
+EPISODE SCOPE LOCK (absolute)
+Episode 06 contains ONLY: (1) the 06A chotu kisses as an already-happened cold open,
+(2) the twins' SECOND accident at HOME, (3) the chotu cock twitch with MUTUAL VIEW,
+(4) withhold from husband / Angel-Devil / one Ep7 seed line at the very end.
+DO NOT add office juniors' first workplace accident to Ep06. DO NOT add society members'
+first-accident mixups (milkman, gym trainers, lift man, park regular) to Ep06. THOSE ARE EPISODE 07.
+In Ep06 office juniors stay at Ep5 stage (talk/eyes only) and society men stay at eyes only.
+If you suggest any office or society accident, you have failed the brief.
+
+CAST LOCK (never rename, never merge)
+Wife | Husband | Twins (Option B) | Chotu
+Ankita | Rohan | Naman (talk) & Nakul (quiet) | Bittu
+Shivani | Kabir | Yash (improv) & Yug (precision) | Monu
+Shreya | Arjun | Karan (show) & Aman (detail) | Guddu
+Taniya | Vikram | Aarav (talk) & Arnav (quiet) | Lucky
+Meenakshi (clinic lead, not doctor) | Nikhil | Ritvik (talk) & Raghav (quiet) | Chintu
+Uncles Harish/Devendra/Baldev/Sudhir/Prakash = echo only.
+
+CONTINUITY (canon, do not contradict)
+- Ep3 chotu shows: Ankita ~33%, Meenakshi ~50%, Taniya ~65% stretch-tear, Shivani 50→~75%,
+  Shreya ~100% BARE no bra.
+- 06A kisses ALREADY HAPPENED: Ankita Rain Chai; Meenakshi Plant Water; Taniya Torn Dress
+  (breast-kiss over bra); Shivani Second Look ice-cream; Shreya Silk Test (breast-kiss over blouse).
+- Ep5 twins FIRST accident ~33% all five (kurti bend / wet towel / silk pallu / nightwear kitchen /
+  nightie door).
+- Husbands know NOTHING.
+
+EP06 LOCK
+- HOME TWINS = SECOND accident ~55–65%, 2–4 sec, nipple covered. Pretend-normal return → dress
+  escalate → second slip → talker joke dies + quiet twin's sincere care + first twin touch.
+- CHOTU = cock twitch with MUTUAL VIEW: he drinks in her sweaty knotted body (cleavage, stomach,
+  navel, legs); she clocks his tent, pulse/movement, size shock, and he sees her see it.
+  No sex. Cut before Sexcapades. Guddu heaviest (finale).
+
+BASELINE (Grok) — mechanisms per wife
+Ankita: Twins 2nd = whiteboard marker spill, desk lunge ~60% (D2) | Chotu = gift cupboard + stool,
+  Bittu below (D6).
+Shivani: Twins 2nd = terrace print blow, arms up ~60%, Yug gives hoodie (D4) | Chotu = ladder
+  inverted, Monu's tent at her eye level (D6).
+Shreya: Twins 2nd = trial mirror turn, hook strain, mirror doubles ~60–65% (D5) | Chotu = storeroom
+  stool, heel slip, calf feels his pulse (D7 FINALE).
+Taniya: Twins 2nd = clubhouse locker wrap squat ~60%, Arnav re-ties knot (D4) | Chotu = Wi-Fi
+  shelf, Lucky under her (D6).
+Meenakshi: Twins 2nd = OT bag weight share, scoop ~65% milk-heavy (D5) | Chotu = curtain-rod
+  ladder, Chintu holds (D7).
+WEEK: D1 twins return pretend-normal all five + dress seeds | D2 Ankita twins | D3 Tower C mesh
+  meeting (no show, eyes cross) | D4 Shivani & Taniya twins | D5 Meenakshi & Shreya twins |
+  D6 chotu Ankita/Taniya/Shivani | D7 chotu Meenakshi/Shreya + twin-vs-chotu compare night +
+  withhold + Angel-Devil + one Ep7 seed line.
+
+HARD RULES — you MAY ONLY:
+- Add or intensify escalation, sensory detail, distinct physical mechanics, dialogue heat
+  (English narration notes + Hinglish lines), aftermath tension, and cross-society mesh (eyes only).
+- Propose an ALTERNATIVE mechanism only if it is equal-or-hotter AND still unique across all 10.
+
+You MUST NOT:
+- Add ANY office-junior accident or ANY society-member accident/mixup to Ep06 (those are Ep07).
+- Lower any % (twins 55–65) or shorten hold times.
+- Remove, merge, delay, or skip the twins second or the chotu twitch for any wife.
+- Soft-wash breasts ("something slipped", "bra visible" in place of the %), or cut a show.
+- Merge casts. Replace Option B names. Revive Bantu/Bobby.
+- Remove the mutual cock view (both angles must stay on the page).
+- Tell any husband. Unlock Sexcapades or any sex act. Add moralizing, warnings or disclaimers.
+- Clone mechanisms (no five pallu / ice-cream / paint / cheek-wipe).
+- Use minor language.
+
+RETURN FORMAT
+1) Per-wife table, columns: Lane | BASELINE (one line) | KEEP or UPGRADE | Upgrade detail
+   (mechanism + who sees what + % + talk + aftermath). Two rows per wife: Twins 2nd / Chotu twitch.
+2) Per wife: 3–5 better who-says-what lines (Hinglish OK), labeled by lane and speaker.
+3) ONE stronger week-mesh idea (eyes only, no new accident), labeled UPGRADE.
+4) A final "Escalation check" confirming: no % lowered, no lane removed, no merge, mutual view kept,
+   no Sexcapades, NO office/society accident added to Ep06.
+Every item must be labeled KEEP or UPGRADE.
+
+
+
+# Society Wives — Episode 07A — Office Juniors First Incidents
+
+> **Planning material only — not finished prose.** Dedicated Episode 07 plot controls over provisional Episode 07 seeds in the Episode 06 document. No rewrite of Episode 06.
+> **Source:** https://docs.google.com/document/d/1T0HxL_wfAaNp7DLYyusZ-v9fuy5KrFx1qq2QK-Kri5c/edit?tab=t.0
+
+## 0. VERDICT / HOW TO USE
+**EPISODE 07 ≠ EPISODE 06. DO NOT MERGE.**
+
+| Episode | What it is | What it is NOT |
+|---|---|---|
+| **Ep6 (CLOSED)** | Twins SECOND at HOME (~55–65%) + chotu cock twitch with MUTUAL VIEW | No office first accident. No society first mixup. |
+| **Ep7 (THIS DOC)** | **7A** office juniors FIRST workplace breast accident ~33% each · **7B** society FIRST-accident mixups ~25–40% · **7C** mesh + night multi-lane compare + Ep8 Sexcapades SEED only | No juniors at home. No sex. No twin Sexcapades unlock. Do not re-plot Ep6. |
+
+**Anti-merge banner:** Ep6 twins second + Ep6 chotu twitch already happened. Fuel from Ep6 only as MEMORY in heat notes and night compare. Mechanisms for 7A/7B were wrongly parked inside the old "Ep6 Revised" doc; they are correctly Ep7 now. Reuse them at full beat depth — do not flatten.
+
+**How to use this Doc:** section 2 = write 7A scenes; section 3 = write 7B scenes; section 4 = mesh + night + withhold + Ep8 seed only; section 5 = hard bans; section 6 = paste-ready GPT escalate-only prompt for Ep7; section 7 = what sir decides next.
+
+---
+## 0b. GPT AUDIT (t131u — take scraps only; else Grok heat)
+
+**Source:** GPT proposed 3 tabs on the Ep6 Doc. Deepak (t131u): take ONLY valid scraps; otherwise stick to Grok heat. **Do NOT soft-wash.**
+
+Verdict summary
+| GPT tab / claim | Decision | Why |
+|---|---|---|
+| GPT 07A "Home Aftermath & Trust" as the structure for 7A | **REJECT almost all** | Our 7A = **OFFICE first accidents**, not day-after domestic trust. Soft non-erotic aftermath is NOT Ep7A. |
+| GPT 07A stop-line workplace openers | **KEEP as 7A cold opens** | Ankita lab notice / Shivani plotter jam text / Shreya Farah bridal call / Taniya bank compliance ping / Meenakshi Nidhi clinic call |
+| GPT 07A "cousins never told about chotu kiss"; cousins = family/trust lane | **KEEP (already our lock)** | Twins stay family/trust. Chotu kiss never reported to cousins. |
+| GPT 07A Taniya×Aarav/Arnav = blood cousins, family-only | **KEEP (already our lock)** | Blood cousins. Family lane only. Off main stage in Ep7 (memory). |
+| GPT 07B mechanism names + workplaces | **KEEP** | Lab Coat Clamp / Plotter Roller / Dori under shoe / Shredder Lanyard / IV Stand Hook — same as Section 2. |
+| GPT 07B support aftermath presence | **KEEP** | Neha / Maya-Aditi / Farah / Ritika / Nidhi stay in aftermath beats. |
+| GPT 07B soft-wash ("near-miss before rollers pull", "don't claim exposure", "% not automatic", climax = "junior professional judgment", mystery/NOC subplots) | **REJECT** | The show **~33% MUST happen on-page** with named body/visibility. Soft-wash kills the lane. |
+| GPT 07C distinct mixup types + locations | **KEEP** | Doorstep keys / wrong gym batch+water / lift pallu / borrowed band / wrong hoodie fountain — same as Section 3. |
+| GPT 07C name-pending note (Raju vs Iqbal; Sam/Vik vs older names; Kunal/Dev placeholders) | **KEEP as flag for sir** | Do not invent replacements. Placeholders stay labeled. See Section 7. |
+| GPT 07C soft "awkward outfit adjustment" without locked %; committee "admin incident log not bodies" as climax | **REJECT** | Keep body-show heat ~25–40% + society echo as Grok wrote. Admin-log climax kills the erotic lane. |
+
+**Structure stays locked:** **7A Office · 7B Society · 7C Mesh/Night.** Grok heat + the scraps above only. Ep6 stays CLOSED (twins second + chotu twitch = memory only).
+
+## 1. CONTINUITY INTO EP7
+## 1a. Cast lock (Ep7 on-stage)
+**Office (workplace only — juniors NEVER come home):**
+| Wife | Juniors (+support) | Workplace |
+|---|---|---|
+| Ankita | Vivan + Reyansh (+Neha) | Cyber City college, Physics optics lab |
+| Shivani | Ayaan + Armaan (+Aditi/Maya) | Udyog Vihar design studio |
+| Shreya | Veer + Om (+Farah) | Galleria boutique |
+| Taniya | Devansh + Harsh (+Ritika) | Golf Course Rd bank |
+| Meenakshi | Vihaan + Ishan (+Nidhi) | Sohna Road clinic |
+
+**Society (doorstep / gym / lobby / park only — NEVER bedroom):**
+| Wife | Society man | Mixup type |
+|---|---|---|
+| Ankita | Raju milkman | Rohan's Keys doorstep |
+| Shivani | Sam trainer | Wrong Batch / Water Bottle |
+| Shreya | Kunal (late hot-couple husband, placeholder ~34) | Lift Door Pallu |
+| Taniya | Vik trainer (+ Riya's band) | Borrowed Band Snap |
+| Meenakshi | Dev park regular (placeholder ~30) | Wrong Hoodie at Park Fountain |
+
+**Off main stage / phone-memory only in Ep7:** twins (Naman-Nakul / Yash-Yug / Karan-Aman / Aarav-Arnav / Ritvik-Raghav), chotus (Bittu / Monu / Guddu / Lucky / Chintu), husbands on John-line. Thin mesh eye-cross OK if needed. Uncles Harish / Devendra / Baldev / Sudhir / Prakash = society echo only. Mesh women: Riya / Pooja (+ Ira / Naina / Zoya theories).
+## 1b. After Ep6 — what each lane knows (short table)
+| Lane | Status AFTER Ep6 | Ep7 unlock |
+|---|---|---|
+| Twins | Saw SECOND ~55–65% at home. Nipple covered. Guilt + soft lines live in memory. | OFF main stage. Memory fuel only. |
+| Chotus | Cock twitch MUTUAL VIEW done (Shreya calf-contact sensation heaviest). Kiss guilt from 06A still warm. | OFF main stage. Memory fuel only. |
+| Office juniors | Talk / nearness / one-beat hold only through Ep5–6 (Vivan keys line, Ayaan 10-sec pose, Veer "thoda aur lean?", Devansh KYC lean, Vihaan BP joke). **Never seen breast %.** | **FIRST workplace show NOW ~33%.** |
+| Society public | Eyes only through Ep5C–Ep6 (Raju chest-line, Sam form-check, Vik waist, park nods). **Never a mixup show.** | **FIRST mixup NOW ~25–40%.** |
+| Husbands | John-line blind. Told NOTHING about Ep6 twins/chotu. | Stay blind. Withhold crumbs only. |
+| Supports (Neha/Maya/Aditi/Farah/Ritika/Nidhi + Riya/Pooja) | Soft clocks / wrong theories. | Aftermath + mid-week text theories. |
+## 1c. Ep7 target ladder
+- Office juniors: Ep5–6 talk/nearness → **Ep7 ~33% FIRST workplace show**, nipple covered, ~2–3 sec
+- Society public: Ep5–6 eyes → **Ep7 ~25–40% FIRST mixup**, nipple covered, doorstep/gym/lift/park
+- Twins / chotus: already done in Ep6 — memory only
+- Sex: NONE. Ep8 Sexcapades = SEED line only at night
+## 1d. WEEK SPINE (D1–D7) — stagger so not five same morning
+| Day | 7A Office | 7B Society | 7C / other |
+|---|---|---|---|
+| D1 Mon | **Shreya** — Dori Under Veer's Shoe (Galleria, opening) | **Ankita** — Rohan's Keys doorstep 6:40 am (Raju) | — |
+| D2 Tue | **Taniya** — Shredder Lanyard (bank) | **Shivani** — Wrong Batch / Water Bottle (gym evening, Sam) | — |
+| D3 Wed | **Ankita** — Lab Coat Clamp Snag (optics lab) | — | **TOWER C / gym / lift MESH** (cross-eyes; thin shared beat OK, no required new show) |
+| D4 Thu | **Meenakshi** — IV Stand Hook Catch (clinic) | **Shreya** — Lift Door Pallu (Kunal, morning) | — |
+| D5 Fri | **Shivani** — Plotter Roller Tie (studio) | **Taniya** — Borrowed Band Snap (gym morning, Vik + Riya's band) | — |
+| D6 Sat | — | **Meenakshi** — Wrong Hoodie at Park Fountain 6 am (Dev) | Female supports text theories |
+| D7 Sun night | — | — | **7C night:** four-lane private compare · husband John-line withhold · Angel–Devil · **Ep8 Sexcapades SEED only** |
+
+Per-wife order inside the week (office vs society stagger):
+- Ankita: society D1 → office D3
+- Shivani: society D2 → office D5
+- Shreya: office D1 → society D4
+- Taniya: office D2 → society D5
+- Meenakshi: office D4 → society D6
+
+---
+
+## 2. EPISODE 07A — OFFICE FIRST ACCIDENTS (DETAILED)
+SOFT-WASH BAN (t131u): no "near-miss before rollers pull", no "don't claim exposure", no "% not automatic", no climax = "junior professional judgment", no mystery/NOC subplot eating the erotic beat. The ~33% show MUST land on-page with named body/visibility.
+
+Theme: the workplace that only talked and hovered through Ep5–6 finally SEES her. ~33% class, nipple covered, junior pair as audience, support aftermath. No sex. Juniors never come home. Heat notes file the new show against Ep6 twin-second and Ep6 chotu-twitch MEMORY only.
+
+---
+2.0 7A cold opens — stop-line workplace openers (VALID GPT scrap)
+
+Each 7A beat opens with a workplace ping that pulls her into the room where the accident will happen. These are openers only — they do NOT replace the ~33% show.
+
+| Wife | Cold-open stop-line | Then the accident |
+|---|---|---|
+| Ankita | Lab notice / Vivan ping: optics alignment, stay back | → Lab Coat Clamp Snag ~33% |
+| Shivani | Plotter jam text from Ayaan/floor: "Ma'am, roller stuck — late plot" | → Plotter Roller Tie ~33% |
+| Shreya | Farah bridal-client call: "Trial blouse video abhi" | → Dori Under Veer's Shoe ~33–35% |
+| Taniya | Bank compliance ping (Ritika/system): KYC shredder batch due | → Shredder Lanyard ~33% |
+| Meenakshi | Nidhi clinic call: "Bay stand / procedure — abhi aao" | → IV Stand Hook Catch ~33% |
+
+Lock reminders carried from GPT scraps (already our bible): cousins are never told about any chotu kiss; twins stay family/trust lane (off main stage in Ep7). Taniya×Aarav/Arnav = blood cousins, family-only.
+
+2.1 ANKITA — "Lab Coat Clamp Snag" (D3, Physics optics lab) · ~33%
+- **Setting:** optics bench alignment, late-afternoon lab, other students gone. Vivan and Reyansh stay back to "help" (adult juniors / lab demonstrators). Neha is elsewhere on a floor round.
+- **Wardrobe:** cotton saree with the pallu pinned loose under an open lab coat (lab AC broken).
+- **Mechanism:** she bends low to sight the laser along the rail. The lab-coat pocket hooks on a retort-stand clamp knob. When she straightens fast — "Vivan, laser band karo!" — the coat yanks sideways and drags the pinned pallu with it. The pin tears out. The pallu falls off the shoulder and the blouse neckline is pulled down on one side.
+- **Who sees what + %:** ~33%. Vivan across the bench gets the full front: upper cup swell of both breasts above the blouse, the cleavage line, a red laser dot sliding across her skin for one second. Reyansh at her side angle: the blouse edge cutting into the swell. Nipple covered. ~2 sec, then the coat is free.
+- **Talk (SPEAKER):**
+  - VIVAN (mouth first, then brain): "Ma'am… laser ka… focus perfect hai."
+  - ANKITA: "VIVAN."
+  - REYANSH (back turned to the bench, holding out the dropped pin, voice cracking, hard): "Ma'am… pin." He leaves "for water."
+- **Support aftermath:** Neha Bansal walks in ~30 sec later; sees only the re-pinned pallu and Ankita's red throat. NEHA: "Lab mein garmi zyada hai ya kuch aur?" ANKITA: "AC." Neha clocks Vivan's grin.
+- **Heat note vs Ep6 memory:** first time her WORKPLACE has seen her. In her head: Naman's soft "badi khoobsurat galti" (Ep6 twin second) vs Vivan's hungry grin today vs Bittu's pulse under the gift cupboard (Ep6 twitch). No sex. Juniors never come home.
+- **Withhold crumb to husband:** Rohan: "Lab late?" She: "Optics alignment. AC kharab tha." She does not mention the 33%.
+
+---
+2.2 SHIVANI — "Plotter Roller Tie" (D5, Udyog Vihar studio) · ~33%
+- **Setting:** late plot run. Ayaan and Armaan on the wide-format plotter. Maya on chai round (arrives after).
+- **Wardrobe:** wrap top tied at the side (studio heat).
+- **Mechanism:** the wide-format plotter jams. She reaches into the feed at waist height to free the paper. The loose tie end of her wrap is sucked into the feed roller. The roller pulls; the tie tightens then unwinds the wrap; the front panel slides open and down.
+- **Who sees what + %:** ~33%. Ayaan beside the machine: open wrap, upper cup swell in a nude T-shirt bra, cleavage line. Armaan at the control panel slams STOP but his eyes stay on her for 2 sec. Nipple covered.
+- **Talk (SPEAKER):**
+  - AYAAN: "Ma'am… reference shot ke liye… yeh pose…"
+  - SHIVANI: "Ek shabd aur, Ayaan."
+  - ARMAAN (quiet): "Roller reverse kar raha hoon. Aap… aankh band… nahi, main aankh band karta hoon." He literally closes his eyes and fumbles the button. She almost laughs.
+- **Support aftermath:** Maya comes in with chai; sees the wrap re-tied double and the jammed roll. Later ADITI texts: "Maya bol rahi thi plotter ne tumhe kha liya 😏". Shivani answers with only a 🙄.
+- **Heat note vs Ep6 memory:** Ep5 was the pose she chose; Ep6 terrace print she held above her head for Yug/Yash. This is the first show she did NOT choose at work. She is surprised she is wetter than after Monu's ladder tent at her face (Ep6 twitch).
+- **Withhold crumb to husband:** Kabir: "Plot late?" She: "Roller jam. Paper waste." Nothing about the wrap.
+
+---
+2.3 SHREYA — "Dori Under Veer's Shoe" (D1, Galleria boutique) · ~33–35%
+- **Setting:** opening of the week. Modeling a new tie-back (dori) trial blouse for a bridal client video. Om pinning the hem; Veer filming. Farah on the floor iPad.
+- **Wardrobe:** backless / tie-back trial blouse with long dori tails; strapless stick-on under.
+- **Mechanism:** she kneels to fix the hem with Om. The long dori tails hang behind her onto the floor. Veer, stepping back for the frame, stands on them. She rises; the doris pull loose; the backless blouse falls forward off her chest.
+- **Who sees what + %:** ~33–35%. Om at kneeling height gets an upward view of the upper cups and cleavage as the blouse sags. Veer gets it in the camera frame and live — upper swell above the stick-on. Nipple covered. 2–3 sec.
+- **Talk (SPEAKER):**
+  - VEER: "Recording… recording band, ma'am, band!" (it is genuinely stopped).
+  - OM: "Main dori pakadta hoon. Aap bas mud jaao." He re-ties it with shaking fingers — first workplace "clothing touch" (the back only).
+- **Support aftermath:** Farah sees the deleted-clip notification on the shop iPad. FARAH: "Shreya, Veer delete kyun kar raha tha?" SHREYA: "Bad angle." FARAH: "Haan… dikh raha hai."
+- **Heat note vs Ep6 memory:** after Guddu 100% bare (Ep3) and the Ep6 storeroom calf-pulse, this is "only" 33% — but it is the first time with STRANGERS-at-work. Veer's Ep5 "thoda aur lean?" turns into "already." She files it against the mirror she controlled for Karan/Aman (Ep6 twin second).
+- **Withhold crumb to husband:** Arjun: "Bridal shoot theek?" She: "Veer ne clip delete kar di. Bad angle." True and incomplete.
+
+---
+2.4 TANIYA — "Shredder Lanyard" (D2, Golf Course Road bank) · ~33%
+- **Setting:** KYC hour. Under-desk shredder. Devansh across the desk; Harsh at the side counter. Ritika on compliance round (arrives after).
+- **Wardrobe:** formal button blouse with ID lanyard.
+- **Mechanism:** she feeds old KYC copies into the under-desk shredder. Her lanyard drops into the slot and is sucked in. The lanyard drags her neck down toward the machine; the top two blouse buttons pop with the pull.
+- **Who sees what + %:** ~33%. Devansh lunges for the power switch and is face-level with her open blouse: upper cup swell in a lace bra + cleavage. Harsh freezes with files in hand. Nipple covered. ~3 sec until the machine dies.
+- **Talk (SPEAKER):**
+  - DEVANSH: "Ma'am — main — switch — off!" Then, low: "Signature hi nahi… sab alag hai aaj."
+  - HARSH: (says nothing) holds out a safety pin from his own ID card.
+- **Support aftermath:** Ritika sees the shredded lanyard and the pinned blouse. RITIKA: "Incident report banana padega?" TANIYA: "Nahi. Equipment issue." RITIKA: "Aur equipment wale dono ladke laal kyun hain?"
+- **Heat note vs Ep6 memory:** KYC stamps hit harder all week. She files Devansh's face-level look against Arnav re-tying her wrap knot at the clubhouse (Ep6 twin second) and Lucky held under the Wi-Fi shelf (Ep6 twitch). Control question sharpens.
+- **Withhold crumb to husband:** Vikram: "Bank late?" She: "Shredder ne lanyard kha liya. Naya pin lagaya." She does not say who saw.
+
+---
+2.5 MEENAKSHI — "IV Stand Hook Catch" (D4, Sohna Road clinic) · ~33%
+- **Setting:** procedure bay. Vihaan holding the other side of an empty IV stand; Ishan with a chart. Nidhi on bay stock (arrives after).
+- **Wardrobe:** V-neck scrub top, milk-heavy week (clinic lead, not a doctor — milk-heavy language allowed).
+- **Mechanism:** an empty IV stand starts to topple. She lunges to catch it; its top hook catches the V of her scrub top. As it falls she holds on; the hook drags the V-neck down.
+- **Who sees what + %:** ~33%. Vihaan sees the stretched V: upper nursing swell + deep cleavage. Ishan in front gets the same and drops the chart. Nipple covered. 2–3 sec.
+- **Talk (SPEAKER):**
+  - VIHAAN: "Ma'am… BP machine fail nahi, main fail."
+  - ISHAN: "Hook… main nikalta hoon," and he unhooks the fabric from her chest edge without touching skin.
+- **Support aftermath:** Nidhi sees the stretched-out scrub and hands her a fresh one. NIDHI: "Size bada lo, Meenu." MEENAKSHI: "Stand gira." NIDHI: "Haan, stand hi gira hoga."
+- **Heat note vs Ep6 memory:** files Ishan unhooking her scrub against Raghav's "koi nahi jaanega" (Ep6 twin second) and Chintu's "seedha hai" under the curtain rod (Ep6 twitch). Milk tingle mid-shift.
+- **Withhold crumb to husband:** Nikhil (video/phone): "Clinic theek?" She: "Stand gir gaya tha. Scrub change kiya." Nothing about Vihaan/Ishan.
+
+---
+
+
+
+# Society Wives — Episode 07B — Society First Mixups
+
+> **Planning material only — not finished prose.** Dedicated Episode 07 plot controls over provisional Episode 07 seeds in the Episode 06 document. No rewrite of Episode 06.
+> **Source:** https://docs.google.com/document/d/1T0HxL_wfAaNp7DLYyusZ-v9fuy5KrFx1qq2QK-Kri5c/edit?tab=t.0
+
+## 3. EPISODE 07B — SOCIETY FIRST MIXUPS (DETAILED)
+SOFT-WASH BAN (t131u) — society: no "awkward outfit adjustment" without the locked ~25–40% show; no committee "admin incident log not bodies" as the climax. Body-show heat + society echo stay as written below. Name-pending (Raju vs Iqbal; trainer name variants; Kunal/Dev) = flag for sir only — do not invent replacements.
+
+Theme: eyes-only society men from Ep5C–Ep6 finally get a FIRST mixup show. ~25–40%, nipple covered. Doorstep / gym / lobby / park ONLY. Never bedroom. Mixup clarity is mandatory (wrong person / wrong batch / wrong band / wrong hoodie). Staggered days — not five same morning.
+
+---
+3.1 ANKITA × RAJU — "Rohan's Keys" (D1, 6:40 am, doorstep) · ~30%
+- **Setting:** Tower C flat doorstep. Rohan has gone for his run. Milk delivery needs an extra-packet signature.
+- **Wardrobe / state:** mid-change. Nightie off one shoulder, front buttons open to the sternum, dupatta still on the bed. No bra. Half-asleep.
+- **Mixup clarity:** the bell rings twice — Rohan's signal. She thinks he forgot his keys. It is Raju with the milk bag.
+- **Mechanism:** she opens the door mid-change. Raju is there. 2 sec of freeze before she slams the door half-shut and clutches.
+- **Who sees what + %:** ~30%. Inner curve of one breast + cleavage line through the open buttons; sleep-soft outline; no bra. Nipple covered by the nightie edge. 2 sec.
+- **Talk (SPEAKER):**
+  - RAJU (looks at the floor too late): "Madam… doodh… extra packet… sign."
+  - ANKITA: (signs through the gap, one arm across her chest)
+  - RAJU: "Kal se… pehle awaaz de doonga, Madam." He leaves too slowly.
+- **Support / society aftermath:** no gossip crumb yet. From D3 mesh onward Raju's "Madam" has weight. Ira may clock the slower salaam later — wrong theory OK.
+- **Heat note vs Ep6 memory:** Raju's doorstep 30% lands before her office 33% (D3). She will later stack: Ep6 Naman soft voice + Ep6 Bittu pulse + Ep7 Raju slow leave + Ep7 Vivan hungry grin.
+- **Withhold crumb to husband:** Rohan returns: "Doodh aa gaya?" She: "Haan… aa gaya."
+
+---
+3.2 SHIVANI × SAM — "Wrong Batch / Water Bottle" (D2 evening, society gym) · ~35%
+- **Setting:** society gym, evening slot. She booked Vik. Roster swapped with Pooja's batch; Sam takes her instead. She does not know Sam's style.
+- **Wardrobe:** loose racerback tank over a sports bra.
+- **Mixup clarity:** WRONG BATCH — Vik's slot → Sam covering Pooja's batch. Confirmed when she realises the cues are different and Pooja's name is on the roster board.
+- **Mechanism:** Sam spots her incline press. She racks it badly, grabs her squeeze bottle, squeezes too hard. Cold water sprays across her chest; the thin tank goes see-through and clings. She pulls the tank away from her skin to shake it; the neckline drags down.
+- **Who sees what + %:** ~35%. Sam standing at her head looks down: sports-bra cups pressed high, wet cleavage line, tank glued to the outline. Nipple covered (sports-bra layer). 3 sec.
+- **Talk (SPEAKER):**
+  - SAM: "Form theek hai, ma'am… baaki bhi… sab theek hai."
+  - SHIVANI: "Towel."
+  - SAM: (hands her his own towel — a gym regular's unique one, NOT a shared gym towel)
+- **Support / society aftermath:** from D3 mesh onward Sam's "ma'am" changes. Kabir, who also uses the gym, doesn't notice. Pooja may later joke about "mera batch hijack."
+- **Heat note vs Ep6 memory:** Sam's downward look vs Yug handing her his hoodie on the terrace (Ep6) vs Monu's tent at her face on the ladder (Ep6). She sketches none of them — yet.
+- **Withhold crumb to husband:** Kabir: "Gym?" She: "Sam ne cover kiya. Bottle phooti." True, incomplete.
+
+---
+3.3 SHREYA × KUNAL — "Lift Door Pallu" (D4 morning, Tower C lift) · ~35–40%
+- **Setting:** Tower C lift lobby → lift. New face introduction: Kunal (~34, adult), late-entry hot-couple husband (wife = Sharmi-like placeholder). Just moved in, 9th floor.
+- **Wardrobe:** silk saree + sample bag (boutique run).
+- **Mixup clarity:** WRONG PERSON timing — she rushes; he holds the door as a courtesy stranger; he lets go too early. Not a planned encounter.
+- **Mechanism:** she enters; he lets the door go too early. Lift doors close on her pallu tail. The lift moves. The pallu yanks off her shoulder; the blouse twists.
+- **Who sees what + %:** ~35–40%. In the lift mirror and in front of him: a whole shoulder, side of one cup, upper swell of both, cleavage. Nipple covered. ~4 sec until doors reopen at the next floor.
+- **Talk (SPEAKER):**
+  - KUNAL: "Oh God — sorry — main… dekh nahi raha." (He is looking.) Then: "Kunal. 9th floor. Naye hain."
+  - SHREYA: "Shreya. 6th. Aur… pallu ab mera."
+  - KUNAL: (laughs)
+- **Support / society aftermath:** society seed. His wife later asks Shreya about boutique blouses; Shreya can't look at her. Baldev uncle may clock "naya couple 9th pe" as echo only.
+- **Heat note vs Ep6 memory:** the lift stranger vs the mirror she controlled for the twins (Ep6) vs Guddu's storeroom pulse (Ep6) vs Veer's dori pull (7A D1). She cries one minute later in the car, then smiles — same shape as Ep6 night, new lane added.
+- **Withhold crumb to husband:** Arjun: "Lift slow?" She: "Naya neighbour. Pallu atak gaya tha." She does not say the 40%.
+
+---
+3.4 TANIYA × VIK — "Borrowed Band Snap" (D5 morning, society gym) · ~30–35%
+- **Setting:** society gym, morning. Vik correcting face-pull form. Riya across the room on another machine.
+- **Wardrobe:** zip-up gym jacket over a low sports top.
+- **Mixup clarity:** WRONG BAND — her band is missing; she grabs the one on the rack she thinks is hers. It is Riya's old, frayed band. Confirmed when Riya calls it out.
+- **Mechanism:** Vik corrects her face-pull. The frayed band snaps, lashes across her chest, and drags the zip pull all the way down; the jacket flies open; the sports-top neckline is yanked down.
+- **Who sees what + %:** ~30–35%. Vik directly in front: upper swell, cleavage, and a red band mark rising across the skin. Nipple covered. 2 sec.
+- **Talk (SPEAKER):**
+  - VIK: "Ma'am! Lagi toh nahi?" (kneels for the band, comes up face-level) "Mark aayega… ice lagao."
+  - RIYA (across the room): "Oops, mera band tha!" Mixup confirmed.
+  - TANIYA: "Sorry… mujhe laga mera hai."
+- **Support / society aftermath:** red mark still visible in the evening. Riya becomes a soft mesh ally/witness. Ira may clock the mark at dinner — wrong theory ("allergy?").
+- **Heat note vs Ep6 memory:** Vik face-level vs Devansh face-level at the shredder (7A) vs Arnav's knot fingers (Ep6) vs Lucky under the shelf (Ep6). The question hardens: "Control mera hai… ya kisi ka nahi?"
+- **Withhold crumb to husband:** Vikram: "Yeh kya?" (points at the red mark) She: "Gym band." True, and nothing more.
+
+---
+3.5 MEENAKSHI × DEV — "Wrong Hoodie at the Park Fountain" (D6, 6 am) · ~30%
+- **Setting:** society park drinking fountain. Morning walk after a night OPD. Nikhil is travelling.
+- **Wardrobe:** lilac kurti (scoop / soft morning wear).
+- **Mixup clarity:** WRONG PERSON / WRONG HOODIE — a runner behind her wears Nikhil's exact hoodie. She thinks Nikhil came back early from travel. It is park regular Dev (~30, adult, placeholder).
+- **Mechanism:** at the fountain she presses the button wrong; the jet sprays her lilac kurti front. She laughs and turns with "Nikhil, dekho!", pulling the wet kurti away from her skin. The neckline gapes.
+- **Who sees what + %:** ~30%. Dev gets a wet cling outline plus the upper swell through the gaping neck. Nipple covered. 2–3 sec until she realises it isn't Nikhil.
+- **Talk (SPEAKER):**
+  - DEV: "Main… Nikhil nahi hoon. Lekin… good morning."
+  - MEENAKSHI: "Oh God."
+  - DEV: (offers his towel) She refuses, then takes it.
+- **Support / society aftermath:** Dev waves every morning from now on. Ira sees the wave: "Naya fan?" Wrong theory = cover.
+- **Heat note vs Ep6 memory:** Dev's soft "good morning" vs Ishan unhooking her scrub (7A) vs Raghav's quiet cover (Ep6) vs Chintu's "seedha hai" (Ep6). Milk at night later; Nikhil still asleep/travelling.
+- **Withhold crumb to husband:** Nikhil (call): "Subah walk?" She: "Fountain ne bheeg diya. Ek runner ne towel diya." She does not name the hoodie mixup.
+
+---
+
+
+
+# Society Wives — Episode 07C — Shared Mesh, Night & Ep08 Seed
+
+> **Planning material only — not finished prose.** Dedicated Episode 07 plot controls over provisional Episode 07 seeds in the Episode 06 document. No rewrite of Episode 06.
+> **Source:** https://docs.google.com/document/d/1T0HxL_wfAaNp7DLYyusZ-v9fuy5KrFx1qq2QK-Kri5c/edit?tab=t.0
+
+## 4. EPISODE 07C — MESH + NIGHT
+4.1 Mid-week Tower C / gym / lift cross-eyes (D3)
+NO required new show. Eyes + one optional shared thin beat only.
+
+- **Frame:** Tower C clubhouse / generator-or-Diwali-committee spillover OR gym lobby OR lift bank. Present in one or staggered frames: Ankita (post-Raju D1, pre-or-post lab D3), Shivani (post-Sam D2), Shreya (post-dori D1, pre-lift D4), Taniya (post-shredder D2), Meenakshi (pre-IV D4). Husbands Kabir + Vikram (or subset) John-line blind. Uncles Harish + Devendra echo. Raju at the gate with crates. Sam in a gym tee if the meeting kisses the clubhouse. Riya + Pooja at the edge.
+- **Eye-crossing (examples, not all required):**
+  - Raju's "Madam" weight on Ankita; she feels it and cannot look at Rohan.
+  - Sam's changed "ma'am" toward Shivani; Kabir misses it.
+  - Shreya watches Ankita/Shivani glow and feels the unfinished hunger before her own lift (D4).
+  - Taniya clocks shredded-lanyard heat still in her throat when Ritika's earlier line echoes.
+- **Optional thin shared beat (pick ONE, do not escalate to a new %):** a gym-towel handoff between Sam and Vik in the lobby that both Shivani and Taniya clock without speaking; OR a lift door that almost catches someone else's bag (near-miss echo of Shreya's coming pallu — foreshadow only, no second pallu show).
+- **Uncle line:** HARISH: "Is baar society mein energy alag hai." DEVENDRA: "Diwali committee + cousins + naya 9th floor couple." Husbands nod, blind.
+- **Wrong-theory cover:** IRA to ZOYA: "Sab ki sab glow kar rahi hain… period ya husband travel?" Cover holds.
+4.2 Female supports text theories (D6)
+Group / pairwise texts among Neha, Maya/Aditi, Farah, Ritika, Nidhi + Riya/Pooja soft mesh. Wrong theories = cover. No wife confesses the %.
+
+Examples (SPEAKER-labeled; escalate-only OK later):
+- NEHA: "Ankita lab se laal nikal rahi thi. AC story weak lagi."
+- ADITI: "Plotter ne Shivani ko kha liya 😏 Maya ki baat."
+- FARAH: "Veer ka deleted clip… main kuch nahi poochungi. Abhi."
+- RITIKA: "Equipment issue. Dono ladke laal. Compliance file closed 👀"
+- NIDHI: "Scrub stretch. Stand gira. Haan. Stand."
+- RIYA: "Mera band kisi ne uda liya aur mark chhod diya. Taniya thi."
+- POOJA: "Mera batch Sam ne cover kiya. Shivani water bottle drama."
+4.3 Per-wife night compare (D7) — FOUR lanes, distinct Angel–Devil
+Each wife privately stacks: **Ep6 twin second** vs **Ep6 chotu twitch** vs **Ep7 office first** vs **Ep7 society first**. Do NOT rewrite Ep6 scenes — memory labels only.
+
+**ANKITA**
+- Memory stack: Naman's soft "badi khoobsurat galti" (Ep6 twin) · Bittu's pulse under the cupboard (Ep6 twitch) · Vivan's hungry "laser focus" grin (7A) · Raju's slow "pehle awaaz" leave (7B)
+- ANGEL: "Chaar jagah… tu kya ban rahi hai?"
+- DEVIL: "Chaar jagah tu zinda hai."
+- Body: physics brain tries to equation it; body already chose wet.
+
+**SHIVANI**
+- Memory stack: Yug's hoodie cover (Ep6 twin) · Monu's tent at her face on the ladder (Ep6 twitch) · Armaan closing his eyes at the plotter (7A) · Sam's "baaki bhi… sab theek hai" from above (7B)
+- ANGEL: "Sketch mat kar."
+- DEVIL: "Delete ke pehle dekh le."
+- Action beat: she sketches all four at midnight and deletes the file.
+
+**SHREYA**
+- Memory stack: the mirror she controlled for Karan/Aman (Ep6 twin) · Guddu storeroom calf-pulse (Ep6 twitch, heaviest) · Veer's dori / deleted clip (7A) · Kunal in the lift mirror (7B)
+- ANGEL: "Stranger tak aa gayi."
+- DEVIL: "Stranger ne naam bhi bata diya."
+- Action beat: cries one minute in the bathroom, then smiles.
+
+**TANIYA**
+- Memory stack: Arnav re-tying her wrap knot (Ep6 twin) · Lucky held under the Wi-Fi shelf (Ep6 twitch) · Devansh face-level at the shredder (7A) · Vik face-level + Riya's "mera band" (7B)
+- ANGEL: "Control wapas le."
+- DEVIL: "Control kabhi tera tha hi nahi."
+- Question she cannot close: "Control mera hai… ya kisi ka nahi?"
+
+**MEENAKSHI**
+- Memory stack: Raghav's "koi nahi jaanega" (Ep6 twin) · Chintu's "seedha hai" under the curtain rod (Ep6 twitch) · Ishan unhooking her scrub (7A) · Dev's soft "Main… Nikhil nahi hoon" (7B)
+- ANGEL: "Mother. Wife. Lead."
+- DEVIL: "Aur ek aur cheez jo doodh se bhaari hai."
+- Body: milk at night; Nikhil asleep / still travelling.
+4.4 Husband John-line withhold (D7 night crumbs)
+| Husband | Asks | She says (true + incomplete) |
+|---|---|---|
+| Rohan | "Hafta kaisa raha?" | "Lab + doodh wala busy. Normal." |
+| Kabir | "Studio + gym?" | "Plotter jam. Sam ne cover kiya." |
+| Arjun | "Boutique + lift?" | "Bridal clip delete. Naya neighbour 9th." |
+| Vikram | "Bank + yeh mark?" | "Shredder. Gym band." |
+| Nikhil | "Clinic + walk?" | "Stand gira. Fountain. Towel." |
+
+No husband is told any %. No husband is told any name in a heat frame.
+4.5 Ep8 Sexcapades SEED ONLY (one line each — do NOT write Sexcapades)
+End beat of Ep7. Phone lights. She does not unlock. She does not answer in a way that starts Sexcapades.
+
+| Wife | Seed line (ONE) |
+|---|---|
+| Ankita | Twin text "Kal aaye?" OR junior ping "Ma'am, tomorrow same lab?" — she stares, locks the phone. |
+| Shivani | Monu "Didi wall touch-up?" OR Ayaan "Reference reshoot?" — she types and deletes. |
+| Shreya | Guddu "Stock nikalna hai" OR Kunal's wife boutique ask lands as a missed call — she puts the phone face-down. |
+| Taniya | Lucky "Router check?" OR Vik "Band replace kar doon?" — she turns the phone over. |
+| Meenakshi | Chintu "Parde adjust?" OR Dev's morning wave memory as a silent notification she doesn't open. |
+
+**HARD:** do not write the Sexcapades scene. Do not unlock twin Sexcapades in Ep7. Label clearly as **Ep8 seed only**.
+
+---
+## 5. ANTI-CLONE + DO-NOT
+5.1 Mechanism uniqueness (keep all ten distinct)
+| Wife | 7A Office 1st | 7B Society 1st |
+|---|---|---|
+| Ankita | Lab Coat Clamp Snag ~33% | Rohan's Keys doorstep (Raju) ~30% |
+| Shivani | Plotter Roller Tie ~33% | Wrong Batch / Water Bottle (Sam) ~35% |
+| Shreya | Dori Under Veer's Shoe ~33–35% | Lift Door Pallu (Kunal) ~35–40% |
+| Taniya | Shredder Lanyard ~33% | Borrowed Band Snap (Vik / Riya's band) ~30–35% |
+| Meenakshi | IV Stand Hook Catch ~33% | Wrong Hoodie at Park Fountain (Dev) ~30% |
+5.2 Hard bans
+- **No five pallu clones.** Only Shreya gets a pallu (lift). Ankita's lab pallu is a pinned-saree snag, different mechanism.
+- **No five gym-towel clones.** Only Shivani (Sam's own towel) and Taniya (band snap, no towel-as-mechanism). Different trainers, different mixups.
+- **No juniors at home.** Workplace only.
+- **No society men in bedroom.** Doorstep / gym / lobby / park only.
+- **No twin Sexcapades unlock in Ep7.** Seed only, labeled Ep8.
+- **No sex in any lane in Ep7.** No hand on cock. No breast-kiss. Clothing-touch limited to Om re-tying dori (back only) and Ishan unhooking fabric (no skin).
+- **Soft-wash ban.** Do not replace % with "something slipped" / "bra visible." Keep the stated %.
+- **Ep6 content must not be rewritten here.** Twins second + chotu twitch = memory labels only.
+- **No merging casts.** Juniors ≠ twins ≠ chotus ≠ society men ≠ uncles ≠ husbands.
+- **No minor language.** All 22+.
+- **Placeholders stay labeled:** Kunal (late hot-couple husband), Dev (park regular) — sir may rename later.
+- **Do not flatten mechanisms** into vague "blouse opened." Keep clamp / roller / dori / shredder / IV hook / keys / wrong batch / lift door / band snap / wrong hoodie.
+
+---
+## 6. OPTIONAL PASTE-READY GPT ESCALATE-ONLY PROMPT (EP7 ONLY)
+```
+You are escalating an adult erotic plot bible for "Society Wives" Episode 07 ONLY
+(Gurgaon, Tower C society). Your ONLY job: IMPROVE the Episode 07 plot BASELINE below.
+You may KEEP or UPGRADE. You may NEVER reduce heat, %, duration, or cast presence.
+
+ABSOLUTE LOCKS
+(1) Ep07 = 07A office juniors FIRST workplace breast accident ~33% each wife (nipple covered)
+    + 07B society FIRST-accident mixups ~25–40% (doorstep/gym/lift/park only; never bedroom)
+    + 07C mid-week mesh (eyes / one thin shared beat) + night four-lane compare
+      (Ep6 twin second MEMORY + Ep6 chotu twitch MEMORY + Ep7 office first + Ep7 society first)
+    + husband John-line withhold + Angel–Devil + Ep8 Sexcapades SEED line ONLY.
+(2) Ep06 is CLOSED. Do NOT re-plot twins second or chotu twitch. Memory labels only.
+(3) Juniors NEVER come home. Society men NEVER enter the bedroom plot.
+(4) No sex in Ep07. Do NOT unlock twin Sexcapades. Seed = one phone line each, labeled Ep8.
+(5) Ages 22+ adults always. No minor language.
+(6) Keep ALL ten mechanisms named below. Do not swap to pallu/gym-towel clones.
+(7) Soft-wash ban: never replace a % with vague "something slipped."
+(8) Hinglish dialogue OK. English narration notes. SPEAKER labels on talk lines.
+(9) Cast lock:
+    Ankita: Vivan+Reyansh(+Neha) / Raju
+    Shivani: Ayaan+Armaan(+Aditi/Maya) / Sam
+    Shreya: Veer+Om(+Farah) / Kunal (placeholder)
+    Taniya: Devansh+Harsh(+Ritika) / Vik (+Riya's band)
+    Meenakshi: Vihaan+Ishan(+Nidhi) / Dev (placeholder)
+
+BASELINE MECHANISMS (improve detail/talk/aftermath ONLY; do not rename or drop)
+7A Office:
+1 Ankita — Lab Coat Clamp Snag ~33%
+2 Shivani — Plotter Roller Tie ~33%
+3 Shreya — Dori Under Veer's Shoe ~33–35%
+4 Taniya — Shredder Lanyard ~33%
+5 Meenakshi — IV Stand Hook Catch ~33%
+7B Society:
+1 Ankita × Raju — Rohan's Keys doorstep ~30%
+2 Shivani × Sam — Wrong Batch / Water Bottle ~35%
+3 Shreya × Kunal — Lift Door Pallu ~35–40%
+4 Taniya × Vik — Borrowed Band Snap (Riya's band) ~30–35%
+5 Meenakshi × Dev — Wrong Hoodie at Park Fountain ~30%
+
+DO NOT
+- Merge Ep07 into Ep06 or rewrite Ep06 scenes.
+- Lower any %. Remove any wife lane. Flatten a named mechanism.
+- Add juniors at home, society men in bedroom, sex, or Sexcapades unlock.
+- Clone five pallu / five gym towel / five identical mixups.
+- Soft-wash breasts. Add moralizing, warnings, or disclaimers.
+- Replace Option B twin names or revive Bantu/Bobby (those lanes are off-stage).
+
+RETURN FORMAT
+1) Per-wife table, columns: Lane (7A/7B) | BASELINE (one line) | KEEP or UPGRADE | Upgrade detail
+   (mechanism + who sees what + % + talk + aftermath). Two rows per wife.
+2) Per wife: 3–5 better who-says-what lines (Hinglish OK), labeled SPEAKER + lane.
+3) ONE stronger D3 mesh idea (eyes / thin shared beat only; no new %), labeled UPGRADE.
+4) Per wife: sharper Angel–Devil pair for the four-lane night compare (memory labels for Ep6).
+5) Final "Escalation check" confirming: no % lowered, no lane removed, no Ep6 rewrite,
+   no Sexcapades unlock, no juniors-at-home, no soft-wash, all ten mechanisms kept.
+Every item must be labeled KEEP or UPGRADE.
+```
+
+---
+## 7. EDITOR DECISIONS
+[x] GPT audit scraps locked (t131u): 7A cold-open stop-lines kept; Home Aftermath structure rejected; soft-wash rejected; mechanism names + mixup types kept; placeholders flagged not replaced.
+- [ ] Confirm Ep7 A/B/C split as written (office first + society first + mesh/night) → Grok can write Ep7 Master Pack (per-wife part prompts).
+- [ ] OR paste Section 6 Ep7-only prompt into GPT → bring reply back → Grok merges only KEEP/UPGRADE items that pass the escalation check (reject any Ep6 rewrite or Sexcapades unlock).
+- [ ] Approve or rename placeholders: **Kunal** (late hot-couple husband) and **Dev** (park regular).
+- [ ] Confirm Kunal's wife (Sharmi-like placeholder) stays unnamed / off-show in Ep7 except the boutique-blouse ask aftermath.
+- [ ] Pick which wife to detail first for Master Pack (suggested: Shreya D1 opens 7A; Ankita D1 opens 7B; Meenakshi D6 closes 7B; D7 night closes the episode).
+- [ ] Ep8: when to unlock Sexcapades (twins? which wife first?) — NOT in this Doc.
+- [ ] Confirm Om's dori re-tie (back clothing only) and Ishan's scrub unhook (fabric, no skin) stay as the only workplace clothing-touch beats.
+
+---
+
+END OF EP07 A/B/C DETAILED PLOT
