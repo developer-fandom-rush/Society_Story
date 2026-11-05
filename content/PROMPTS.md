@@ -907,16 +907,47 @@ Ep1 Master Pack + Prologue unchanged.
 
 • Age lock: every character in any sexual or sexually-charged moment is an adult. Heroines ~29, workplace juniors 22, uncles 60+. All chotus (Bittu, Monu, Guddu, Lucky, Chintu) are adult household helpers aged exactly 22 — never minors.
 
-• Ep3 ladder (Dhika "first show"): Day 1 accidental-ish almost-bend → night replay tingle + Angel/Devil → Day 2 deliberate show at the LOCKED % → eyes meet → he flees / she covers → aftermath → Ep4 "catch uncle" SEED only. No intercourse in Ep3.
+• Ep3 ladder (Dhika "first show"): Day 1 accidental-ish almost-bend → night replay tingle + Angel/Devil → Day 2 deliberate show at the LOCKED % → eyes meet → he flees / she covers → aftermath → Ep4 "catch uncle" SEED only. No intercourse in Ep3. Character-specific aftermaths in the correction ledger override the generic 'he flees / she covers' shorthand.
+
+> **Source correction:** [Episode 06 Master Pack (A/B/C) + Ep3 Corrections](https://docs.google.com/document/d/1M3asHCA7UmHF2KiARwlaPfBsNkHdRDc6idPHyzYYOio/edit?tab=t.0). These corrections are applied in the Ep3 show-lock, one-liners, and Parts E/F below; this ledger records the approved source.
+
+## APPROVED EP3 CORRECTIONS — 2026-11-05 (Source-locked ledger)
+### 1.1 Locked fix table (2026-11-05)
+| Wife × Chotu | Ep3 % | Locked event | Ending | Status |
+|---|---|---|---|---|
+| Ankita × Bittu | ~33% | Deliberate bend at kitchen table; upper swell of the cup; nipple edge NOT visible | He flees; leaves change unpaid | UNCHANGED |
+| Meenakshi × Chintu | ~50% | Lean over balcony plants, bright scoop, half of cups visible | Sincere compliment, flees; she laughs softly | UNCHANGED |
+| Taniya × Lucky | **~65%** | Stretch-cotton shelf-box bends; she slows knowing he watches; ~30–40% hold → lift tears front + bra pull → ~65% (two-thirds out; nipples + below covered) | She holds **~1 min uncovered**; eye contact; he visibly aroused, flees; she unsure if he liked it | **FIXED** |
+| Shivani × Monu | **50→~75%** | Deliberate ~50% pose → hook accident → ~75% (nipples covered) | She **stays**, clocks his involuntary arousal; he drops model piece and flees; she enjoys, no regret | **FIXED** |
+| Shreya × Guddu | **100% BARE** | Silk saree + fitted blouse, **NO bra**; hooks open → fully bare breasts | Guddu sees fully bare, flees; pallu cover. **NEVER soften to bra-visible** | **FIXED** |
+### 1.2 Corrected Part-F style instructions (bake into any Ep3 rewrite)
+**Taniya × Lucky ~65% (REVISED Part F)**
+- Outfit: close-fitting stretch-cotton top; soft bra.
+- Mechanism: repeated shelf-box bends; she slows, knowing he watches; hold ~30–40% → a lift tears the front seam and the bra pulls → **~65%** (two-thirds of the breast out; nipples and below still covered).
+- Aftermath: she does **NOT** cover for ~1 minute; holds his eyes; he is visibly aroused and leaves abruptly; she is unsure whether he liked it.
+- STOP feel: door close; torn fabric in her hand; question *"liked it?"* unanswered.
+**Shivani × Monu 50→~75% (REVISED Part F)**
+- Mechanism: deliberate ~50% pose under lamp/mirror → hook accident → **~75%** (nipples covered).
+- Aftermath: she **stays** and clocks his involuntary arousal; he drops the model piece and flees; she enjoys it — no regret.
+- STOP feel: her private thrill *wahi reaction*; no apology to self.
+**Shreya × Guddu 100% BARE (LOCKED CORRECTION)**
+- Silk blouse **NO bra** (Part E night decision: she chooses no bra knowing hooks are weak).
+- Hooks open → **fully bare breasts** (not "bra on show"). She freezes, then covers with pallu; he flees.
+- **NEVER** soften to bra-visible language in any summary or rewrite.
+**Ankita × Bittu ~33%** — kitchen bend; upper cup swell; flees unpaid change. Unchanged.
+**Meenakshi × Chintu ~50%** — plant lean; half cups; compliment; flees. Unchanged.
+### 1.3 Soft-wash reject note
+GPT soft versions that cut %, anatomy, or Shreya's bare lock are **REJECTED**. Grok heat + Deepak locks win.
+---
 
 ## SHOW-% LOCK (character-based — Deepak approved)
 
 | Wife | Chotu (22) | Show % | How it lands | Exact see (graphical) |
 | Ankita | Bittu | ~33% | Deliberate Dhika-baseline | Upper cup swell / about one-third of her breasts; nipple edge not yet |
 | Meenakshi | Chintu | ~50% | Soft homewear lean, controlled | Half cups / soft cleavage in bright neckline |
-| Taniya | Lucky | ~65% | Weekend cotton reach — willing risk | More than half the cups + inner curve of both breasts |
-| Shivani | Monu | ~75% | Style-feedback pose, holds a beat | Most of the cups / deep cleavage under the drape |
-| Shreya | Guddu | ~100% accident-willing | Silk/blouse slip mid mirror-pose | Full cups brief (bra fully on show, breasts cupped full); she freezes then covers |
+| Taniya | Lucky | ~65% | Stretch-cotton shelf-box bends: a controlled first hold, followed by a front-seam tear and bra pull | Approximately two-thirds visible at the second stage, nipples covered; she holds her ground for ~1 minute, then he flees |
+| Shivani | Monu | ~50→75% | Deliberate ~50% pose under lamp/mirror, then hook accident to ~75% | Nipples covered; she stays, observes his reaction, he drops the model piece and flees; no regret |
+| Shreya | Guddu | 100% BARE accident-willing | Silk saree + fitted blouse, NO bra; weak hooks open at the mirror | Fully bare rather than bra-visible; she freezes, covers with pallu; Guddu flees |
 
 RULE: 33% = first intentional show (baseline). Anything higher must be EARNED — by prior heat (Ep1–Ep2 fetish echo, night tingle, Angel/Devil push, her own deeper dress choice) OR by a willing accident (she chose the risky dress/pose; the accident completes the reveal). 100% may come accidentally-willingly. Plot never "forces" a %. Always state amount + body part; never vague "he saw something".
 
@@ -1064,11 +1095,11 @@ FIX / IGNORE (GPT softness):
 
 1) Ankita — "The Unpaid Errand" (register/key clue + saree-keys junior fantasy + kitchen almost-bend + Day 2 receipt-coin bend → ~33% upper cup swell) | Ep4: Harish asks about the key again
 
-2) Shivani — "The Lamp and the Redline" (service-passage drawing + blouse-back junior fantasy + lamp almost-bend + Day 2 mirror drape pose → ~75% most of cups) | Ep4: Devendra knows the hidden passage
+2) Shivani — "The Lamp and the Redline" (service-passage drawing + blouse-back junior fantasy + lamp almost-bend + Day 2 deliberate ~50% mirror pose → hook accident to ~75%, nipples covered; she stays, no regret) | Ep4: Devendra knows the hidden passage
 
-3) Shreya — "The Fitting-Room Bet" (altered "S" silk tag + silk-ass sales-pitch fantasy + sample-book almost-bend + Day 2 mirror hook slip → ~100% full cups brief) | Ep4: Baldev's spare-key contact used
+3) Shreya — "The Fitting-Room Bet" (altered "S" silk tag + silk-ass sales-pitch fantasy + sample-book almost-bend + Day 2 mirror hook slip → 100% BARE, NO bra; pallu cover) | Ep4: Baldev's spare-key contact used
 
-4) Taniya — "The Smile and the Blank NOC" (forged NOC + signature/first-impression fantasy + envelope almost-bend + Day 2 high-shelf stretch → ~65% >½ cups + inner curve) | Ep4: Sudhir's forged consent
+4) Taniya — "The Smile and the Blank NOC" (forged NOC + signature/first-impression fantasy + envelope almost-bend + Day 2 shelf-box bends → first ~30–40% hold, seam tear/bra pull → ~65%, holds ~1 minute) | Ep4: Sudhir's forged consent
 
 5) Meenakshi — "The Unexpected Compliment" (clinic access leak + nursing-bra-under-lilac fantasy + pharmacy almost-bend + Day 2 balcony lean → ~50% half cups) | Ep4: Prakash listed as visitor on gate camera
 
@@ -1124,7 +1155,7 @@ Write Shivani Ep3 Part E only. Kabir's real dinner — married banter. Later und
 
 PART F — Day 2 Deliberate show ~75% (1000–1200)
 
-Write Shivani Ep3 Part F only. 11:30. Living-room mirror + the lamp. She wears the new sheer drape over a deep plunging blouse; asks Monu (moving the model) "Honest batao — drape theek gir raha hai?" She turns three-quarters to the mirror, lifts the pallu off one shoulder "to show the fall", and HOLDS the pose. SHOW (~75%, locked; earned from Ep2 cup-edge + night decision): under the lamp, through the lifted drape, he sees most of both cups — the bra almost entirely, the breasts swelling deep in them, a long deep cleavage; only the lower cups and nipples stay covered. Mid-talk: his awkward sincere compliment ("aap… designer jaisi lagti ho, ma'am"); she replies boldly about his improved aesthetic sense. Eyes meet in the mirror; he drops the model's tree, flees. Aftermath: she re-drapes slowly, trembling, proud. Ep4 SEED only: Devendra (60+) messages describing the hidden service passage — a detail never disclosed to him. Stop on the message. 1000–1200.
+Write Shivani Ep3 Part F only. 11:30. Living-room mirror + the lamp. She wears the new sheer drape over a deep plunging blouse; asks Monu (moving the model) "Honest batao — drape theek gir raha hai?" She turns three-quarters to the mirror and deliberately holds the ~50% pose under the lamp/mirror; then a hook accident increases the exposure to ~75%, with nipples covered. Mid-talk: his awkward sincere compliment ("aap… designer jaisi lagti ho, ma'am"); she replies boldly about his improved aesthetic sense. Eyes meet in the mirror; she STAYS, registers his involuntary reaction, and does not retreat or apologize. He drops the model piece and flees. Aftermath: she enjoys the reaction and feels no regret. Ep4 SEED only: Devendra (60+) messages describing the hidden service passage — a detail never disclosed to him. Stop on the message. 1000–1200.
 
 ### 5.3 SHREYA — "The Fitting-Room Bet" (~4300–5150) | Guddu | ~100% accident-willing
 
@@ -1146,11 +1177,11 @@ Write Shreya Ep3 Part D only. 17:00. Guddu (22) returns a tailor's sample book l
 
 PART E — Night alone (350–450)
 
-Write Shreya Ep3 Part E only. Arjun fails the silk guess spectacularly; she laughs, loves the attempt. Alone: replays the hook-gap stare; tries the new silk blouse with weak hooks at the mirror. *Devil: Hook kamzor hai — kal mirror pe pose de. Agar khul gaya toh…* Decision: design check tomorrow in the finished saree + that blouse; she won't fix the hooks. Stop on her fingers leaving the hooks alone. 350–450.
+Write Shreya Ep3 Part E only. Arjun fails the silk guess spectacularly; she laughs, loves the attempt. Alone: replays the hook-gap stare; tries the new silk blouse with weak hooks at the mirror. *Devil: Hook kamzor hai — kal mirror pe pose de. Agar khul gaya toh…* Decision: design check tomorrow in the finished saree + that blouse; she chooses NO bra, knowing the hooks are weak, and won't fix them. Stop on her fingers leaving the hooks alone. 350–450.
 
 PART F — Day 2 Show ~100% accident-willing (1000–1200)
 
-Write Shreya Ep3 Part F only. 12:30 boutique full-length mirror (home mirror if boutique closed). Scheduled design check in the newly finished silk saree; she invites Guddu's critique of colour and silhouette, pallu off, arms raised to pin her hair for "the back view". Willing accident: the weak blouse hooks pop, silk slides open. SHOW (~100%, locked; she chose the risky blouse/pose, accident completes it): for a brief few seconds the blouse falls fully open — her full cups on show, the whole bra and both breasts full in it, everything bare above the cups; no bra slip below cups. She FREEZES — two heartbeats in the mirror, eyes locked with Guddu — then covers with the pallu. He gasps, goes hard, runs out. Aftermath: she laughs shakily at the mirror, wet, "bet toh main hi haari". Ep4 SEED only: a courier log shows Baldev's (60+) spare-key contact authorised access. Stop on the log. 1000–1200.
+Write Shreya Ep3 Part F only. 12:30 boutique full-length mirror (home mirror if boutique closed). Scheduled design check in the newly finished silk saree; she invites Guddu's critique of colour and silhouette, pallu off, arms raised to pin her hair for "the back view". Willing accident: the weak blouse hooks pop, silk slides open. SHOW (100% BARE, locked; she chose the risky blouse/pose and NO bra in Part E, the weak hooks opening completes it): the blouse opens fully; **fully bare rather than bra-visible**. She FREEZES — two heartbeats in the mirror, eyes locked with Guddu — then covers with the pallu. He gasps, goes hard, runs out. Aftermath: she laughs shakily at the mirror, wet, "bet toh main hi haari". Ep4 SEED only: a courier log shows Baldev's (60+) spare-key contact authorised access. Stop on the log. 1000–1200.
 
 ### 5.4 TANIYA — "The Smile and the Blank NOC" (~4300–5150) | Lucky | ~65%
 
@@ -1176,7 +1207,7 @@ Write Taniya Ep3 Part E only. Frank talk with Vikram about Sudhir's reputation p
 
 PART F — Day 2 Show ~65% (1000–1200)
 
-Write Taniya Ep3 Part F only. 15:00 open dining-room receipts (Vikram off calls, out to market — keep him blind). She asks Lucky to sort receipts; he jokes about her "strict bank face", she teases back. Willing risk: she climbs onto a chair/stretches over the dining table to pull the envelope box from the high shelf, arms up; the loose cotton neckline drops and pulls sideways. SHOW (~65%, locked; earned by Ep2 heat + her soft-bra choice): he sees more than half her cups — the bra pulled low, both breasts' fullness and the inner curve of each breast where they press together; nipples still covered. She holds the stretch a beat longer than needed. Eyes meet; he drops the receipts, flees. Aftermath: she steps down, flushed, laughing at her own daring. Ep4 SEED only: the consent document bears a signature she never wrote — Sudhir's (60+) forged consent. Stop on the signature. 1000–1200.
+Write Taniya Ep3 Part F only. 15:00 open dining-room receipts (Vikram off calls, out to market — keep him blind). She asks Lucky to sort receipts; he jokes about her "strict bank face", she teases back. Willing risk: repeated shelf-box bends in a close-fitting stretch-cotton top and soft bra; she slows because she knows he is watching. STAGE 1 (locked): ~30–40% visible during the controlled hold. STAGE 2 (locked): a lift tears the front seam and pulls the bra, taking the exposure to ~65%; nipples and below stay covered. She does NOT cover for approximately one minute; holds his gaze, notices his reaction; he leaves abruptly. Aftermath: she is left with the torn fabric, unsure whether he liked it. Ep4 SEED only: the consent document bears a signature she never wrote — Sudhir's (60+) forged consent. Stop on the signature. 1000–1200.
 
 ### 5.5 MEENAKSHI — "The Unexpected Compliment" (~4300–5150) | Chintu | ~50%
 
@@ -2866,7 +2897,9 @@ Ep5 finalize → then Episode 06 Second Accident (~55–65%) + chotu-kiss tease 
 
 <!-- Episode 06 imported from approved Google Doc; four navigable chapters. -->
 
-# Society Wives — Episode 06 Master Pack (A/B/C) + Ep3 Corrections
+# Society Wives — Episode 06A Master Pack — Shared Timeline + Household Helpers
+
+
 
 > **Source:** [Episode 06 Master Pack (A/B/C) + Ep3 Corrections](https://docs.google.com/document/d/1M3asHCA7UmHF2KiARwlaPfBsNkHdRDc6idPHyzYYOio/edit) — approved working prompt pack, not finished Story prose.
 >
@@ -2887,34 +2920,8 @@ For Deepak Kapoor (sir) — Ep3 corrections + full locked 06A + NEW detailed 06B
 5. **Do NOT write full episode prose in this Doc** — this pack = writing instructions + dialogue scripts only (same as 06A style).
 6. Order of craft: Ep3 corrections awareness → 06A kiss (locked) → 06B second accident → 06C office/outer. Twitch stays PAUSED until Deepak unlocks.
 ---
-## SECTION 1 — Ep3 CORRECTIONS (full ledger + corrected show beats)
-### 1.1 Locked fix table (2026-11-05)
-| Wife × Chotu | Ep3 % | Locked event | Ending | Status |
-|---|---|---|---|---|
-| Ankita × Bittu | ~33% | Deliberate bend at kitchen table; upper swell of the cup; nipple edge NOT visible | He flees; leaves change unpaid | UNCHANGED |
-| Meenakshi × Chintu | ~50% | Lean over balcony plants, bright scoop, half of cups visible | Sincere compliment, flees; she laughs softly | UNCHANGED |
-| Taniya × Lucky | **~65%** | Stretch-cotton shelf-box bends; she slows knowing he watches; ~30–40% hold → lift tears front + bra pull → ~65% (two-thirds out; nipples + below covered) | She holds **~1 min uncovered**; eye contact; he visibly aroused, flees; she unsure if he liked it | **FIXED** |
-| Shivani × Monu | **50→~75%** | Deliberate ~50% pose → hook accident → ~75% (nipples covered) | She **stays**, clocks his involuntary arousal; he drops model piece and flees; she enjoys, no regret | **FIXED** |
-| Shreya × Guddu | **100% BARE** | Silk saree + fitted blouse, **NO bra**; hooks open → fully bare breasts | Guddu sees fully bare, flees; pallu cover. **NEVER soften to bra-visible** | **FIXED** |
-### 1.2 Corrected Part-F style instructions (bake into any Ep3 rewrite)
-**Taniya × Lucky ~65% (REVISED Part F)**
-- Outfit: close-fitting stretch-cotton top; soft bra.
-- Mechanism: repeated shelf-box bends; she slows, knowing he watches; hold ~30–40% → a lift tears the front seam and the bra pulls → **~65%** (two-thirds of the breast out; nipples and below still covered).
-- Aftermath: she does **NOT** cover for ~1 minute; holds his eyes; he is visibly aroused and leaves abruptly; she is unsure whether he liked it.
-- STOP feel: door close; torn fabric in her hand; question *"liked it?"* unanswered.
-**Shivani × Monu 50→~75% (REVISED Part F)**
-- Mechanism: deliberate ~50% pose under lamp/mirror → hook accident → **~75%** (nipples covered).
-- Aftermath: she **stays** and clocks his involuntary arousal; he drops the model piece and flees; she enjoys it — no regret.
-- STOP feel: her private thrill *wahi reaction*; no apology to self.
-**Shreya × Guddu 100% BARE (LOCKED CORRECTION)**
-- Silk blouse **NO bra** (Part E night decision: she chooses no bra knowing hooks are weak).
-- Hooks open → **fully bare breasts** (not "bra on show"). She freezes, then covers with pallu; he flees.
-- **NEVER** soften to bra-visible language in any summary or rewrite.
-**Ankita × Bittu ~33%** — kitchen bend; upper cup swell; flees unpaid change. Unchanged.
-**Meenakshi × Chintu ~50%** — plant lean; half cups; compliment; flees. Unchanged.
-### 1.3 Soft-wash reject note
-GPT soft versions that cut %, anatomy, or Shreya's bare lock are **REJECTED**. Grok heat + Deepak locks win.
----
+
+
 ## SECTION 2 — Episode 06 overview + week spine + DO-NOT
 ### 2.1 Theme (Grok)
 **"The week the society starts talking and the office starts smelling her heat — while each wife thinks she is the only one."**
@@ -2967,6 +2974,8 @@ Three interlocking tracks (staggered days):
 - No cock-twitch scenes in 06B/06C (PAUSED).
 - Never minor language. All adults.
 ---
+
+
 
 
 ## SECTION 3 — 06A Master Pack (KISS ONLY)
@@ -3179,6 +3188,12 @@ Grok updated this from the Deepak New Work Doc tabs (06A sequence + Ep3 fixes). 
 ---
 
 
+
+
+# Society Wives — Episode 06B Master Pack — Society Twins
+
+> See **Episode 06A — Shared Timeline** for the Episode 06 week spine and global continuity rules.
+
 ## SECTION 4 — 06B Master Pack — Society Twins Second Accident (~55–65%)
 **Title concept:** "Second Accident" / society track.
 **Show lock (all five):** ~55–65% soft upper mass + deep cleavage, ~2–4 sec, **nipple still covered**. Ep5 was ~33%. Earn the jump via dress choice + prior heat + agency.
@@ -3387,6 +3402,12 @@ Ritvik mid-laugh cuts silent. Raghav picks kit without looking, then: "Bua ke gh
 ---
 
 
+
+
+# Society Wives — Episode 06C Master Pack — Office + Society
+
+> See **Episode 06A — Shared Timeline** for the Episode 06 week spine and global continuity rules.
+
 ## SECTION 5 — 06C Master Pack — Office + Society Outer
 **Still NO workplace breast show/sex.** Ep6 office = compare / almost-ask / body-hum notice — she uses office eyes as *fuel* after society second show.
 **Word band per wife:** ~3000–4000 across PART A–D (±10%).
@@ -3529,6 +3550,8 @@ Raghav normalize / Ishan scoop-watch stopped / Chintu "I liked it." Withhold fro
 11. **MEENAKSHI:** "Lock. Good night."
 12. **MEENAKSHI:** *(night)* "Normalize… straighten… liked it."
 ---
+
+
 ## SECTION 6 — Cast quick-ref + lane wall reminder
 ### 6.1 Option B twins
 | Wife | Talk / show twin | Quiet / precision twin | Family link |
