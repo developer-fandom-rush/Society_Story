@@ -104,7 +104,7 @@ function which(){const param=new URLSearchParams(location.search).get('chapter')
 function makeNav(){
  $('chapters').innerHTML=chapters.map((ch,i)=>'<button class="nav-chapter '+(i===active?'active':'')+'" data-chapter="'+i+'" type="button"><span class="num">'+chapterNumber(ch)+'</span><span class="nav-name">'+esc(shortTitle(ch))+'</span><span class="nav-arrow">'+(i===active?'•':'›')+'</span></button>').join('');
  $('chapters').querySelectorAll('[data-chapter]').forEach(btn=>btn.addEventListener('click',()=>navigate(Number(btn.dataset.chapter))));
- $('libraryCount').textContent=(new Set(chapters.map(ch=>(ch.title.match(/Episode\\s+0?(\\d+)/i)||[])[1]).filter(Boolean))).size+' episodes · '+chapters.length+' sections';
+ $('libraryCount').textContent=(new Set(chapters.map(ch=>(ch.title.match(/Episode\s+0?(\d+)/i)||[])[1]).filter(Boolean))).size+' episodes · '+chapters.length+' sections';
 }
 function introCards(ch){
  if(!/prologue/i.test(ch.title))return '';
@@ -139,7 +139,7 @@ function renderSearch(q){
 function render(){
  if(!chapters.length)return;
  active=which();
- const ch=chapters[active],isPro=/prologue/i.test(ch.title),isStory=/Episode\\s+0?\\d+\\s+—\\s+Story/i.test(ch.title);
+ const ch=chapters[active],isPro=/prologue/i.test(ch.title),isStory=/Episode\s+0?\d+\s+—\s+Story/i.test(ch.title);
  $('crumb').textContent=shortTitle(ch);document.title=shortTitle(ch)+' · Society Wives';
  const wc=getCount(ch.body),reading=Math.max(1,Math.ceil(wc/205));
  $('hero').innerHTML='<div class="eyebrow">'+(isPro?'The beginning':isStory?'The story':'The working master pack')+'</div><h1>'+esc(isPro?'Before the Hooks':ch.title)+'</h1><p>'+(isPro?'One building. Five women. Five distinct lives. Begin with their character introductions and the original opening.':'The full original '+esc(shortTitle(ch))+' Master Pack—source-locked sections, timeline, character prompts and continuity notes.')+'</p><div class="hero-meta"><span class="meta-pill"><strong>'+wc.toLocaleString()+'</strong> words</span><span class="meta-pill">~'+reading+' min read</span><span class="meta-pill">Editable in GitHub</span></div>';
