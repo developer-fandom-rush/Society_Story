@@ -1,5 +1,5 @@
 <!-- SOCIETY WIVES — WRITING PROMPTS / MASTER PACKS
-Four planning Master Packs (Episode 1–4); no finished prose here.
+Episode 01–06 planning Master Packs (including 05A/B/C and 06A/B/C); no finished prose here.
 Every "# " heading becomes a prompt entry in the Writing Prompts UI.
 For new published prose, edit content/STORY.md.
 Writing studios consume this file.
