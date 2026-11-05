@@ -37,7 +37,7 @@
 <a href="./index.html" class="logo"><div class="mark">SW</div><div><div class="logo-name">Society Wives</div><small>Writing Studio</small></div></div></a>
 <div class="side-caption">Your workflow</div>
 <nav id="groups"></nav>
-<div class="side-footer"><p>Prompts are extracted live from <a target="_blank" rel="noopener" href="https://github.com/developer-fandom-rush/Society_Story/blob/main/content/STORY.md">content/STORY.md</a>.</p><p>Drafts and checkmarks stay in this browser, not in GitHub.</p></div>
+<div class="side-footer"><p>Prompts are extracted live from <a target="_blank" rel="noopener" href="https://github.com/developer-fandom-rush/Society_Story/blob/main/content/PROMPTS.md">content/PROMPTS.md</a>.</p><p>Drafts and checkmarks stay in this browser, not in GitHub.</p></div>
 </aside>
 <main class="main">
 <header class="top">
@@ -72,14 +72,14 @@
 <div class="eyebrow">Episode 01 · Field guide</div><h3>Writing order</h3>
 <ol><li>Paste Master System once in a new Grok chat.</li><li>Use the existing Prologue as the opening reference; re-generate only if desired.</li><li>Start new Episode 1 scenes with Ankita Part A.</li><li>Continue Ankita A–E, then Shivani, Shreya, Taniya, Meenakshi.</li><li>Review each output before proceeding.</li></ol>
 <div class="asideblock"><div class="small">Local completion</div><h3 id="progressText">0 / 0</h3><div class="meter"><div class="fill" id="progressFill"></div></div><p>Checkmarks are your local workflow tracker, not proof of published content.</p></div>
-<div class="asideblock"><div class="small">Original material</div><p><a href="https://docs.google.com/document/d/1e5iAz4ifROPNrmpxNdGIAfEy2bTlCjNqSjmEuhQnXw8/edit?tab=t.hybe3sy4qfjc" target="_blank" rel="noopener">0 — Prologue (Dhika-style)</a></p><p><a href="https://docs.google.com/document/d/1e5iAz4ifROPNrmpxNdGIAfEy2bTlCjNqSjmEuhQnXw8/edit?tab=t.0" target="_blank" rel="noopener">Episode 1 Master Pack</a></p><p><a href="https://github.com/developer-fandom-rush/Society_Story/edit/main/content/STORY.md" target="_blank" rel="noopener">Edit story in GitHub ↗</a></p></div>
+<div class="asideblock"><div class="small">Original material</div><p><a href="https://docs.google.com/document/d/1e5iAz4ifROPNrmpxNdGIAfEy2bTlCjNqSjmEuhQnXw8/edit?tab=t.hybe3sy4qfjc" target="_blank" rel="noopener">0 — Prologue (Dhika-style)</a></p><p><a href="https://docs.google.com/document/d/1e5iAz4ifROPNrmpxNdGIAfEy2bTlCjNqSjmEuhQnXw8/edit?tab=t.0" target="_blank" rel="noopener">Episode 1 Master Pack</a></p><p><a href="https://github.com/developer-fandom-rush/Society_Story/edit/main/content/PROMPTS.md" target="_blank" rel="noopener">Edit story in GitHub ↗</a></p></div>
 </aside>
 </div>
 <div class="toast" id="toast" role="status"></div>
 <script>
 (function(){
 'use strict';
-const SOURCE='./content/STORY.md';
+const SOURCE='./content/PROMPTS.md', PROLOGUE_SOURCE='./content/STORY.md';
 const DOC='https://docs.google.com/document/d/1e5iAz4ifROPNrmpxNdGIAfEy2bTlCjNqSjmEuhQnXw8/edit?tab=t.0';
 const PROLOGUE_DOC='https://docs.google.com/document/d/1e5iAz4ifROPNrmpxNdGIAfEy2bTlCjNqSjmEuhQnXw8/edit?tab=t.hybe3sy4qfjc';
 const GROUPS=['Start here','Ankita','Shivani','Shreya','Taniya','Meenakshi'];
@@ -91,9 +91,9 @@ function store(){try{localStorage.setItem(STORE,JSON.stringify(data));return tru
 function esc(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
 function toast(msg){$('toast').textContent=msg;$('toast').style.display='block';clearTimeout(noticeTimer);noticeTimer=setTimeout(()=>{$('toast').style.display='none';},2200);}
 function chapter(source,name){const at=source.indexOf('\n# '+name);if(at<0)throw Error('Missing '+name+' in STORY.md');const start=at+1;let end=source.indexOf('\n# ',start+2);if(end<0)end=source.length;return source.slice(start,end).trim();}
-function getSteps(source){
+function getSteps(source,storySource){
  const pack=chapter(source,'Society Wives — Episode 1 Master Pack');
- const prologue=chapter(source,'Prologue');
+ const prologue=chapter(storySource,'Prologue');
  const a=pack.indexOf('===== SYSTEM — COPY FROM HERE ====='),b=pack.indexOf('===== SYSTEM — COPY TILL HERE =====',a);
  if(a<0||b<0)throw Error('Master System markers missing');
  const system=pack.slice(a+'===== SYSTEM — COPY FROM HERE ====='.length,b).trim();
@@ -162,7 +162,7 @@ $('previous').onclick=()=>select(chosen-1);$('next').onclick=()=>select(chosen+1
 function closeMenu(){$('side').classList.remove('open');$('backdrop').classList.remove('show');}
 $('menu').onclick=()=>{$('side').classList.toggle('open');$('backdrop').classList.toggle('show');};
 $('backdrop').onclick=closeMenu;
-fetch(SOURCE,{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.text();}).then(s=>{items=getSteps(s);render();}).catch(err=>{$('steps').innerHTML='<div class="notice"><strong>Source unavailable.</strong> Could not extract writing prompts from content/STORY.md. '+esc(err.message)+'</div>';$('workspace').classList.add('hidden');$('groupLabel').textContent='Source error';});
+Promise.all([SOURCE,PROLOGUE_SOURCE].map(url=>fetch(url,{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status+' '+url);return r.text();}))).then(([prompts,story])=>{items=getSteps(prompts,story);render();}).catch(err=>{$('steps').innerHTML='<div class="notice"><strong>Source unavailable.</strong> Could not extract writing prompts from content/PROMPTS.md. '+esc(err.message)+'</div>';$('workspace').classList.add('hidden');$('groupLabel').textContent='Source error';});
 })();
 </script>
 </body>
