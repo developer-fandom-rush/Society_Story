@@ -6,7 +6,8 @@
   "counts": {
     "families": 8,
     "actions": 109,
-    "characters": 18
+    "characters": 18,
+    "checklistFields": 18
   },
   "modalities": [
     "actual",
@@ -813,54 +814,79 @@
       "guardrail": "Consent and disclosure; old John-only intercourse boundary remains until explicitly changed",
       "checklist": [
         {
-          "label": "Identity and age status",
+          "label": "Clothed / outfit sight — actual vs reported",
           "status": "unreviewed"
         },
         {
-          "label": "Original vs proposed distinction",
+          "label": "Partial/full nudity — actual direct sight",
           "status": "unreviewed"
         },
         {
-          "label": "Current partner and marriage",
+          "label": "Accidental nude sight and reaction",
           "status": "unreviewed"
         },
         {
-          "label": "What they actually witnessed",
+          "label": "Photo / video nude view and authorized recipient",
           "status": "unreviewed"
         },
         {
-          "label": "What they were merely told",
+          "label": "Imagined / dreamed nudity",
           "status": "unreviewed"
         },
         {
-          "label": "What they imagined/recalled",
+          "label": "Recalled or reported nude view (deduplicate)",
           "status": "unreviewed"
         },
         {
-          "label": "What physical acts are verified",
+          "label": "Actual affectionate contact / kiss",
           "status": "unreviewed"
         },
         {
-          "label": "What acts remain only proposed",
+          "label": "Actual nonpenetrative intimate touch",
           "status": "unreviewed"
         },
         {
-          "label": "Current consent and stops",
+          "label": "Imagined or recalled touch",
           "status": "unreviewed"
         },
         {
-          "label": "Next planned meeting and location",
+          "label": "Solo masturbation — actual vs imagined vs recalled",
           "status": "unreviewed"
         },
         {
-          "label": "Recovery/break before next beat",
+          "label": "Mutual or witnessed masturbation — verified vs proposed",
           "status": "unreviewed"
         },
         {
-          "label": "Effect on another relationship",
+          "label": "Other nonpenetrative sexual contact (type unspecified if unknown)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "John / other viewer status — told, actual, imagined, remote",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Consent / no / stop / repair",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Knowledge and spousal disclosure boundaries",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Interruption, separation and recovery scene",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next meeting date / place (realistic timeline)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs future proposal and source-tab reference",
           "status": "unreviewed"
         }
-      ]
+      ],
+      "checklistScope": "Checkbox means audit reviewed, NOT physical act completed. No default checkmark is evidence of occurrence."
     },
     {
       "name": "John",
@@ -877,54 +903,79 @@
       "guardrail": "Actual observer vs told/imagined; no recording; named permissions",
       "checklist": [
         {
-          "label": "Identity and age status",
+          "label": "Clothed / outfit sight — actual vs reported",
           "status": "unreviewed"
         },
         {
-          "label": "Original vs proposed distinction",
+          "label": "Partial/full nudity — actual direct sight",
           "status": "unreviewed"
         },
         {
-          "label": "Current partner and marriage",
+          "label": "Accidental nude sight and reaction",
           "status": "unreviewed"
         },
         {
-          "label": "What they actually witnessed",
+          "label": "Photo / video nude view and authorized recipient",
           "status": "unreviewed"
         },
         {
-          "label": "What they were merely told",
+          "label": "Imagined / dreamed nudity",
           "status": "unreviewed"
         },
         {
-          "label": "What they imagined/recalled",
+          "label": "Recalled or reported nude view (deduplicate)",
           "status": "unreviewed"
         },
         {
-          "label": "What physical acts are verified",
+          "label": "Actual affectionate contact / kiss",
           "status": "unreviewed"
         },
         {
-          "label": "What acts remain only proposed",
+          "label": "Actual nonpenetrative intimate touch",
           "status": "unreviewed"
         },
         {
-          "label": "Current consent and stops",
+          "label": "Imagined or recalled touch",
           "status": "unreviewed"
         },
         {
-          "label": "Next planned meeting and location",
+          "label": "Solo masturbation — actual vs imagined vs recalled",
           "status": "unreviewed"
         },
         {
-          "label": "Recovery/break before next beat",
+          "label": "Mutual or witnessed masturbation — verified vs proposed",
           "status": "unreviewed"
         },
         {
-          "label": "Effect on another relationship",
+          "label": "Other nonpenetrative sexual contact (type unspecified if unknown)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "John / other viewer status — told, actual, imagined, remote",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Consent / no / stop / repair",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Knowledge and spousal disclosure boundaries",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Interruption, separation and recovery scene",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next meeting date / place (realistic timeline)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs future proposal and source-tab reference",
           "status": "unreviewed"
         }
-      ]
+      ],
+      "checklistScope": "Checkbox means audit reviewed, NOT physical act completed. No default checkmark is evidence of occurrence."
     },
     {
       "name": "Chotu / Babu",
@@ -939,54 +990,79 @@
       "guardrail": "Independent consent and separate ties with Sharmi",
       "checklist": [
         {
-          "label": "Identity and age status",
+          "label": "Clothed / outfit sight — actual vs reported",
           "status": "unreviewed"
         },
         {
-          "label": "Original vs proposed distinction",
+          "label": "Partial/full nudity — actual direct sight",
           "status": "unreviewed"
         },
         {
-          "label": "Current partner and marriage",
+          "label": "Accidental nude sight and reaction",
           "status": "unreviewed"
         },
         {
-          "label": "What they actually witnessed",
+          "label": "Photo / video nude view and authorized recipient",
           "status": "unreviewed"
         },
         {
-          "label": "What they were merely told",
+          "label": "Imagined / dreamed nudity",
           "status": "unreviewed"
         },
         {
-          "label": "What they imagined/recalled",
+          "label": "Recalled or reported nude view (deduplicate)",
           "status": "unreviewed"
         },
         {
-          "label": "What physical acts are verified",
+          "label": "Actual affectionate contact / kiss",
           "status": "unreviewed"
         },
         {
-          "label": "What acts remain only proposed",
+          "label": "Actual nonpenetrative intimate touch",
           "status": "unreviewed"
         },
         {
-          "label": "Current consent and stops",
+          "label": "Imagined or recalled touch",
           "status": "unreviewed"
         },
         {
-          "label": "Next planned meeting and location",
+          "label": "Solo masturbation — actual vs imagined vs recalled",
           "status": "unreviewed"
         },
         {
-          "label": "Recovery/break before next beat",
+          "label": "Mutual or witnessed masturbation — verified vs proposed",
           "status": "unreviewed"
         },
         {
-          "label": "Effect on another relationship",
+          "label": "Other nonpenetrative sexual contact (type unspecified if unknown)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "John / other viewer status — told, actual, imagined, remote",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Consent / no / stop / repair",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Knowledge and spousal disclosure boundaries",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Interruption, separation and recovery scene",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next meeting date / place (realistic timeline)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs future proposal and source-tab reference",
           "status": "unreviewed"
         }
-      ]
+      ],
+      "checklistScope": "Checkbox means audit reviewed, NOT physical act completed. No default checkmark is evidence of occurrence."
     },
     {
       "name": "Bantu",
@@ -1000,54 +1076,79 @@
       "guardrail": "Trust repair and immediate stop required; NOT Nisha gym partner",
       "checklist": [
         {
-          "label": "Identity and age status",
+          "label": "Clothed / outfit sight — actual vs reported",
           "status": "unreviewed"
         },
         {
-          "label": "Original vs proposed distinction",
+          "label": "Partial/full nudity — actual direct sight",
           "status": "unreviewed"
         },
         {
-          "label": "Current partner and marriage",
+          "label": "Accidental nude sight and reaction",
           "status": "unreviewed"
         },
         {
-          "label": "What they actually witnessed",
+          "label": "Photo / video nude view and authorized recipient",
           "status": "unreviewed"
         },
         {
-          "label": "What they were merely told",
+          "label": "Imagined / dreamed nudity",
           "status": "unreviewed"
         },
         {
-          "label": "What they imagined/recalled",
+          "label": "Recalled or reported nude view (deduplicate)",
           "status": "unreviewed"
         },
         {
-          "label": "What physical acts are verified",
+          "label": "Actual affectionate contact / kiss",
           "status": "unreviewed"
         },
         {
-          "label": "What acts remain only proposed",
+          "label": "Actual nonpenetrative intimate touch",
           "status": "unreviewed"
         },
         {
-          "label": "Current consent and stops",
+          "label": "Imagined or recalled touch",
           "status": "unreviewed"
         },
         {
-          "label": "Next planned meeting and location",
+          "label": "Solo masturbation — actual vs imagined vs recalled",
           "status": "unreviewed"
         },
         {
-          "label": "Recovery/break before next beat",
+          "label": "Mutual or witnessed masturbation — verified vs proposed",
           "status": "unreviewed"
         },
         {
-          "label": "Effect on another relationship",
+          "label": "Other nonpenetrative sexual contact (type unspecified if unknown)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "John / other viewer status — told, actual, imagined, remote",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Consent / no / stop / repair",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Knowledge and spousal disclosure boundaries",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Interruption, separation and recovery scene",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next meeting date / place (realistic timeline)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs future proposal and source-tab reference",
           "status": "unreviewed"
         }
-      ]
+      ],
+      "checklistScope": "Checkbox means audit reviewed, NOT physical act completed. No default checkmark is evidence of occurrence."
     },
     {
       "name": "Bobby",
@@ -1061,54 +1162,79 @@
       "guardrail": "Privacy permissions independent; NOT Nisha gym partner",
       "checklist": [
         {
-          "label": "Identity and age status",
+          "label": "Clothed / outfit sight — actual vs reported",
           "status": "unreviewed"
         },
         {
-          "label": "Original vs proposed distinction",
+          "label": "Partial/full nudity — actual direct sight",
           "status": "unreviewed"
         },
         {
-          "label": "Current partner and marriage",
+          "label": "Accidental nude sight and reaction",
           "status": "unreviewed"
         },
         {
-          "label": "What they actually witnessed",
+          "label": "Photo / video nude view and authorized recipient",
           "status": "unreviewed"
         },
         {
-          "label": "What they were merely told",
+          "label": "Imagined / dreamed nudity",
           "status": "unreviewed"
         },
         {
-          "label": "What they imagined/recalled",
+          "label": "Recalled or reported nude view (deduplicate)",
           "status": "unreviewed"
         },
         {
-          "label": "What physical acts are verified",
+          "label": "Actual affectionate contact / kiss",
           "status": "unreviewed"
         },
         {
-          "label": "What acts remain only proposed",
+          "label": "Actual nonpenetrative intimate touch",
           "status": "unreviewed"
         },
         {
-          "label": "Current consent and stops",
+          "label": "Imagined or recalled touch",
           "status": "unreviewed"
         },
         {
-          "label": "Next planned meeting and location",
+          "label": "Solo masturbation — actual vs imagined vs recalled",
           "status": "unreviewed"
         },
         {
-          "label": "Recovery/break before next beat",
+          "label": "Mutual or witnessed masturbation — verified vs proposed",
           "status": "unreviewed"
         },
         {
-          "label": "Effect on another relationship",
+          "label": "Other nonpenetrative sexual contact (type unspecified if unknown)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "John / other viewer status — told, actual, imagined, remote",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Consent / no / stop / repair",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Knowledge and spousal disclosure boundaries",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Interruption, separation and recovery scene",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next meeting date / place (realistic timeline)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs future proposal and source-tab reference",
           "status": "unreviewed"
         }
-      ]
+      ],
+      "checklistScope": "Checkbox means audit reviewed, NOT physical act completed. No default checkmark is evidence of occurrence."
     },
     {
       "name": "Sharmi",
@@ -1126,54 +1252,79 @@
       "guardrail": "Independent consent; women-women attraction potential not source canon",
       "checklist": [
         {
-          "label": "Identity and age status",
+          "label": "Clothed / outfit sight — actual vs reported",
           "status": "unreviewed"
         },
         {
-          "label": "Original vs proposed distinction",
+          "label": "Partial/full nudity — actual direct sight",
           "status": "unreviewed"
         },
         {
-          "label": "Current partner and marriage",
+          "label": "Accidental nude sight and reaction",
           "status": "unreviewed"
         },
         {
-          "label": "What they actually witnessed",
+          "label": "Photo / video nude view and authorized recipient",
           "status": "unreviewed"
         },
         {
-          "label": "What they were merely told",
+          "label": "Imagined / dreamed nudity",
           "status": "unreviewed"
         },
         {
-          "label": "What they imagined/recalled",
+          "label": "Recalled or reported nude view (deduplicate)",
           "status": "unreviewed"
         },
         {
-          "label": "What physical acts are verified",
+          "label": "Actual affectionate contact / kiss",
           "status": "unreviewed"
         },
         {
-          "label": "What acts remain only proposed",
+          "label": "Actual nonpenetrative intimate touch",
           "status": "unreviewed"
         },
         {
-          "label": "Current consent and stops",
+          "label": "Imagined or recalled touch",
           "status": "unreviewed"
         },
         {
-          "label": "Next planned meeting and location",
+          "label": "Solo masturbation — actual vs imagined vs recalled",
           "status": "unreviewed"
         },
         {
-          "label": "Recovery/break before next beat",
+          "label": "Mutual or witnessed masturbation — verified vs proposed",
           "status": "unreviewed"
         },
         {
-          "label": "Effect on another relationship",
+          "label": "Other nonpenetrative sexual contact (type unspecified if unknown)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "John / other viewer status — told, actual, imagined, remote",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Consent / no / stop / repair",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Knowledge and spousal disclosure boundaries",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Interruption, separation and recovery scene",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next meeting date / place (realistic timeline)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs future proposal and source-tab reference",
           "status": "unreviewed"
         }
-      ]
+      ],
+      "checklistScope": "Checkbox means audit reviewed, NOT physical act completed. No default checkmark is evidence of occurrence."
     },
     {
       "name": "Raj",
@@ -1189,54 +1340,79 @@
       "guardrail": "Coaching/safety is not touch permission",
       "checklist": [
         {
-          "label": "Identity and age status",
+          "label": "Clothed / outfit sight — actual vs reported",
           "status": "unreviewed"
         },
         {
-          "label": "Original vs proposed distinction",
+          "label": "Partial/full nudity — actual direct sight",
           "status": "unreviewed"
         },
         {
-          "label": "Current partner and marriage",
+          "label": "Accidental nude sight and reaction",
           "status": "unreviewed"
         },
         {
-          "label": "What they actually witnessed",
+          "label": "Photo / video nude view and authorized recipient",
           "status": "unreviewed"
         },
         {
-          "label": "What they were merely told",
+          "label": "Imagined / dreamed nudity",
           "status": "unreviewed"
         },
         {
-          "label": "What they imagined/recalled",
+          "label": "Recalled or reported nude view (deduplicate)",
           "status": "unreviewed"
         },
         {
-          "label": "What physical acts are verified",
+          "label": "Actual affectionate contact / kiss",
           "status": "unreviewed"
         },
         {
-          "label": "What acts remain only proposed",
+          "label": "Actual nonpenetrative intimate touch",
           "status": "unreviewed"
         },
         {
-          "label": "Current consent and stops",
+          "label": "Imagined or recalled touch",
           "status": "unreviewed"
         },
         {
-          "label": "Next planned meeting and location",
+          "label": "Solo masturbation — actual vs imagined vs recalled",
           "status": "unreviewed"
         },
         {
-          "label": "Recovery/break before next beat",
+          "label": "Mutual or witnessed masturbation — verified vs proposed",
           "status": "unreviewed"
         },
         {
-          "label": "Effect on another relationship",
+          "label": "Other nonpenetrative sexual contact (type unspecified if unknown)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "John / other viewer status — told, actual, imagined, remote",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Consent / no / stop / repair",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Knowledge and spousal disclosure boundaries",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Interruption, separation and recovery scene",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next meeting date / place (realistic timeline)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs future proposal and source-tab reference",
           "status": "unreviewed"
         }
-      ]
+      ],
+      "checklistScope": "Checkbox means audit reviewed, NOT physical act completed. No default checkmark is evidence of occurrence."
     },
     {
       "name": "Leo",
@@ -1252,54 +1428,79 @@
       "guardrail": "Possible attraction to married Nisha; never automatically Stranger",
       "checklist": [
         {
-          "label": "Identity and age status",
+          "label": "Clothed / outfit sight — actual vs reported",
           "status": "unreviewed"
         },
         {
-          "label": "Original vs proposed distinction",
+          "label": "Partial/full nudity — actual direct sight",
           "status": "unreviewed"
         },
         {
-          "label": "Current partner and marriage",
+          "label": "Accidental nude sight and reaction",
           "status": "unreviewed"
         },
         {
-          "label": "What they actually witnessed",
+          "label": "Photo / video nude view and authorized recipient",
           "status": "unreviewed"
         },
         {
-          "label": "What they were merely told",
+          "label": "Imagined / dreamed nudity",
           "status": "unreviewed"
         },
         {
-          "label": "What they imagined/recalled",
+          "label": "Recalled or reported nude view (deduplicate)",
           "status": "unreviewed"
         },
         {
-          "label": "What physical acts are verified",
+          "label": "Actual affectionate contact / kiss",
           "status": "unreviewed"
         },
         {
-          "label": "What acts remain only proposed",
+          "label": "Actual nonpenetrative intimate touch",
           "status": "unreviewed"
         },
         {
-          "label": "Current consent and stops",
+          "label": "Imagined or recalled touch",
           "status": "unreviewed"
         },
         {
-          "label": "Next planned meeting and location",
+          "label": "Solo masturbation — actual vs imagined vs recalled",
           "status": "unreviewed"
         },
         {
-          "label": "Recovery/break before next beat",
+          "label": "Mutual or witnessed masturbation — verified vs proposed",
           "status": "unreviewed"
         },
         {
-          "label": "Effect on another relationship",
+          "label": "Other nonpenetrative sexual contact (type unspecified if unknown)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "John / other viewer status — told, actual, imagined, remote",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Consent / no / stop / repair",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Knowledge and spousal disclosure boundaries",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Interruption, separation and recovery scene",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next meeting date / place (realistic timeline)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs future proposal and source-tab reference",
           "status": "unreviewed"
         }
-      ]
+      ],
+      "checklistScope": "Checkbox means audit reviewed, NOT physical act completed. No default checkmark is evidence of occurrence."
     },
     {
       "name": "Nisha Malhotra",
@@ -1316,54 +1517,79 @@
       "guardrail": "No Nisha–twins gym romance; fitness and tuition professional boundaries",
       "checklist": [
         {
-          "label": "Identity and age status",
+          "label": "Clothed / outfit sight — actual vs reported",
           "status": "unreviewed"
         },
         {
-          "label": "Original vs proposed distinction",
+          "label": "Partial/full nudity — actual direct sight",
           "status": "unreviewed"
         },
         {
-          "label": "Current partner and marriage",
+          "label": "Accidental nude sight and reaction",
           "status": "unreviewed"
         },
         {
-          "label": "What they actually witnessed",
+          "label": "Photo / video nude view and authorized recipient",
           "status": "unreviewed"
         },
         {
-          "label": "What they were merely told",
+          "label": "Imagined / dreamed nudity",
           "status": "unreviewed"
         },
         {
-          "label": "What they imagined/recalled",
+          "label": "Recalled or reported nude view (deduplicate)",
           "status": "unreviewed"
         },
         {
-          "label": "What physical acts are verified",
+          "label": "Actual affectionate contact / kiss",
           "status": "unreviewed"
         },
         {
-          "label": "What acts remain only proposed",
+          "label": "Actual nonpenetrative intimate touch",
           "status": "unreviewed"
         },
         {
-          "label": "Current consent and stops",
+          "label": "Imagined or recalled touch",
           "status": "unreviewed"
         },
         {
-          "label": "Next planned meeting and location",
+          "label": "Solo masturbation — actual vs imagined vs recalled",
           "status": "unreviewed"
         },
         {
-          "label": "Recovery/break before next beat",
+          "label": "Mutual or witnessed masturbation — verified vs proposed",
           "status": "unreviewed"
         },
         {
-          "label": "Effect on another relationship",
+          "label": "Other nonpenetrative sexual contact (type unspecified if unknown)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "John / other viewer status — told, actual, imagined, remote",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Consent / no / stop / repair",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Knowledge and spousal disclosure boundaries",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Interruption, separation and recovery scene",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next meeting date / place (realistic timeline)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs future proposal and source-tab reference",
           "status": "unreviewed"
         }
-      ]
+      ],
+      "checklistScope": "Checkbox means audit reviewed, NOT physical act completed. No default checkmark is evidence of occurrence."
     },
     {
       "name": "Kabir Malhotra",
@@ -1380,54 +1606,79 @@
       "guardrail": "Third-couple game must be agreed, independent of Nisha's gym relationships",
       "checklist": [
         {
-          "label": "Identity and age status",
+          "label": "Clothed / outfit sight — actual vs reported",
           "status": "unreviewed"
         },
         {
-          "label": "Original vs proposed distinction",
+          "label": "Partial/full nudity — actual direct sight",
           "status": "unreviewed"
         },
         {
-          "label": "Current partner and marriage",
+          "label": "Accidental nude sight and reaction",
           "status": "unreviewed"
         },
         {
-          "label": "What they actually witnessed",
+          "label": "Photo / video nude view and authorized recipient",
           "status": "unreviewed"
         },
         {
-          "label": "What they were merely told",
+          "label": "Imagined / dreamed nudity",
           "status": "unreviewed"
         },
         {
-          "label": "What they imagined/recalled",
+          "label": "Recalled or reported nude view (deduplicate)",
           "status": "unreviewed"
         },
         {
-          "label": "What physical acts are verified",
+          "label": "Actual affectionate contact / kiss",
           "status": "unreviewed"
         },
         {
-          "label": "What acts remain only proposed",
+          "label": "Actual nonpenetrative intimate touch",
           "status": "unreviewed"
         },
         {
-          "label": "Current consent and stops",
+          "label": "Imagined or recalled touch",
           "status": "unreviewed"
         },
         {
-          "label": "Next planned meeting and location",
+          "label": "Solo masturbation — actual vs imagined vs recalled",
           "status": "unreviewed"
         },
         {
-          "label": "Recovery/break before next beat",
+          "label": "Mutual or witnessed masturbation — verified vs proposed",
           "status": "unreviewed"
         },
         {
-          "label": "Effect on another relationship",
+          "label": "Other nonpenetrative sexual contact (type unspecified if unknown)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "John / other viewer status — told, actual, imagined, remote",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Consent / no / stop / repair",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Knowledge and spousal disclosure boundaries",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Interruption, separation and recovery scene",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next meeting date / place (realistic timeline)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs future proposal and source-tab reference",
           "status": "unreviewed"
         }
-      ]
+      ],
+      "checklistScope": "Checkbox means audit reviewed, NOT physical act completed. No default checkmark is evidence of occurrence."
     },
     {
       "name": "Neighbour Uncle",
@@ -1442,54 +1693,79 @@
       "guardrail": "New Nisha connection requires slow build, not job/authority coercion",
       "checklist": [
         {
-          "label": "Identity and age status",
+          "label": "Clothed / outfit sight — actual vs reported",
           "status": "unreviewed"
         },
         {
-          "label": "Original vs proposed distinction",
+          "label": "Partial/full nudity — actual direct sight",
           "status": "unreviewed"
         },
         {
-          "label": "Current partner and marriage",
+          "label": "Accidental nude sight and reaction",
           "status": "unreviewed"
         },
         {
-          "label": "What they actually witnessed",
+          "label": "Photo / video nude view and authorized recipient",
           "status": "unreviewed"
         },
         {
-          "label": "What they were merely told",
+          "label": "Imagined / dreamed nudity",
           "status": "unreviewed"
         },
         {
-          "label": "What they imagined/recalled",
+          "label": "Recalled or reported nude view (deduplicate)",
           "status": "unreviewed"
         },
         {
-          "label": "What physical acts are verified",
+          "label": "Actual affectionate contact / kiss",
           "status": "unreviewed"
         },
         {
-          "label": "What acts remain only proposed",
+          "label": "Actual nonpenetrative intimate touch",
           "status": "unreviewed"
         },
         {
-          "label": "Current consent and stops",
+          "label": "Imagined or recalled touch",
           "status": "unreviewed"
         },
         {
-          "label": "Next planned meeting and location",
+          "label": "Solo masturbation — actual vs imagined vs recalled",
           "status": "unreviewed"
         },
         {
-          "label": "Recovery/break before next beat",
+          "label": "Mutual or witnessed masturbation — verified vs proposed",
           "status": "unreviewed"
         },
         {
-          "label": "Effect on another relationship",
+          "label": "Other nonpenetrative sexual contact (type unspecified if unknown)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "John / other viewer status — told, actual, imagined, remote",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Consent / no / stop / repair",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Knowledge and spousal disclosure boundaries",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Interruption, separation and recovery scene",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next meeting date / place (realistic timeline)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs future proposal and source-tab reference",
           "status": "unreviewed"
         }
-      ]
+      ],
+      "checklistScope": "Checkbox means audit reviewed, NOT physical act completed. No default checkmark is evidence of occurrence."
     },
     {
       "name": "Aunty",
@@ -1504,54 +1780,79 @@
       "guardrail": "Her agency, marriage and knowledge matter",
       "checklist": [
         {
-          "label": "Identity and age status",
+          "label": "Clothed / outfit sight — actual vs reported",
           "status": "unreviewed"
         },
         {
-          "label": "Original vs proposed distinction",
+          "label": "Partial/full nudity — actual direct sight",
           "status": "unreviewed"
         },
         {
-          "label": "Current partner and marriage",
+          "label": "Accidental nude sight and reaction",
           "status": "unreviewed"
         },
         {
-          "label": "What they actually witnessed",
+          "label": "Photo / video nude view and authorized recipient",
           "status": "unreviewed"
         },
         {
-          "label": "What they were merely told",
+          "label": "Imagined / dreamed nudity",
           "status": "unreviewed"
         },
         {
-          "label": "What they imagined/recalled",
+          "label": "Recalled or reported nude view (deduplicate)",
           "status": "unreviewed"
         },
         {
-          "label": "What physical acts are verified",
+          "label": "Actual affectionate contact / kiss",
           "status": "unreviewed"
         },
         {
-          "label": "What acts remain only proposed",
+          "label": "Actual nonpenetrative intimate touch",
           "status": "unreviewed"
         },
         {
-          "label": "Current consent and stops",
+          "label": "Imagined or recalled touch",
           "status": "unreviewed"
         },
         {
-          "label": "Next planned meeting and location",
+          "label": "Solo masturbation — actual vs imagined vs recalled",
           "status": "unreviewed"
         },
         {
-          "label": "Recovery/break before next beat",
+          "label": "Mutual or witnessed masturbation — verified vs proposed",
           "status": "unreviewed"
         },
         {
-          "label": "Effect on another relationship",
+          "label": "Other nonpenetrative sexual contact (type unspecified if unknown)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "John / other viewer status — told, actual, imagined, remote",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Consent / no / stop / repair",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Knowledge and spousal disclosure boundaries",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Interruption, separation and recovery scene",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next meeting date / place (realistic timeline)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs future proposal and source-tab reference",
           "status": "unreviewed"
         }
-      ]
+      ],
+      "checklistScope": "Checkbox means audit reviewed, NOT physical act completed. No default checkmark is evidence of occurrence."
     },
     {
       "name": "Iroh",
@@ -1567,54 +1868,79 @@
       "guardrail": "Professional interactions only until independently planned",
       "checklist": [
         {
-          "label": "Identity and age status",
+          "label": "Clothed / outfit sight — actual vs reported",
           "status": "unreviewed"
         },
         {
-          "label": "Original vs proposed distinction",
+          "label": "Partial/full nudity — actual direct sight",
           "status": "unreviewed"
         },
         {
-          "label": "Current partner and marriage",
+          "label": "Accidental nude sight and reaction",
           "status": "unreviewed"
         },
         {
-          "label": "What they actually witnessed",
+          "label": "Photo / video nude view and authorized recipient",
           "status": "unreviewed"
         },
         {
-          "label": "What they were merely told",
+          "label": "Imagined / dreamed nudity",
           "status": "unreviewed"
         },
         {
-          "label": "What they imagined/recalled",
+          "label": "Recalled or reported nude view (deduplicate)",
           "status": "unreviewed"
         },
         {
-          "label": "What physical acts are verified",
+          "label": "Actual affectionate contact / kiss",
           "status": "unreviewed"
         },
         {
-          "label": "What acts remain only proposed",
+          "label": "Actual nonpenetrative intimate touch",
           "status": "unreviewed"
         },
         {
-          "label": "Current consent and stops",
+          "label": "Imagined or recalled touch",
           "status": "unreviewed"
         },
         {
-          "label": "Next planned meeting and location",
+          "label": "Solo masturbation — actual vs imagined vs recalled",
           "status": "unreviewed"
         },
         {
-          "label": "Recovery/break before next beat",
+          "label": "Mutual or witnessed masturbation — verified vs proposed",
           "status": "unreviewed"
         },
         {
-          "label": "Effect on another relationship",
+          "label": "Other nonpenetrative sexual contact (type unspecified if unknown)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "John / other viewer status — told, actual, imagined, remote",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Consent / no / stop / repair",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Knowledge and spousal disclosure boundaries",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Interruption, separation and recovery scene",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next meeting date / place (realistic timeline)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs future proposal and source-tab reference",
           "status": "unreviewed"
         }
-      ]
+      ],
+      "checklistScope": "Checkbox means audit reviewed, NOT physical act completed. No default checkmark is evidence of occurrence."
     },
     {
       "name": "Zuko",
@@ -1629,54 +1955,79 @@
       "guardrail": "No inferred intimate consent from gaze",
       "checklist": [
         {
-          "label": "Identity and age status",
+          "label": "Clothed / outfit sight — actual vs reported",
           "status": "unreviewed"
         },
         {
-          "label": "Original vs proposed distinction",
+          "label": "Partial/full nudity — actual direct sight",
           "status": "unreviewed"
         },
         {
-          "label": "Current partner and marriage",
+          "label": "Accidental nude sight and reaction",
           "status": "unreviewed"
         },
         {
-          "label": "What they actually witnessed",
+          "label": "Photo / video nude view and authorized recipient",
           "status": "unreviewed"
         },
         {
-          "label": "What they were merely told",
+          "label": "Imagined / dreamed nudity",
           "status": "unreviewed"
         },
         {
-          "label": "What they imagined/recalled",
+          "label": "Recalled or reported nude view (deduplicate)",
           "status": "unreviewed"
         },
         {
-          "label": "What physical acts are verified",
+          "label": "Actual affectionate contact / kiss",
           "status": "unreviewed"
         },
         {
-          "label": "What acts remain only proposed",
+          "label": "Actual nonpenetrative intimate touch",
           "status": "unreviewed"
         },
         {
-          "label": "Current consent and stops",
+          "label": "Imagined or recalled touch",
           "status": "unreviewed"
         },
         {
-          "label": "Next planned meeting and location",
+          "label": "Solo masturbation — actual vs imagined vs recalled",
           "status": "unreviewed"
         },
         {
-          "label": "Recovery/break before next beat",
+          "label": "Mutual or witnessed masturbation — verified vs proposed",
           "status": "unreviewed"
         },
         {
-          "label": "Effect on another relationship",
+          "label": "Other nonpenetrative sexual contact (type unspecified if unknown)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "John / other viewer status — told, actual, imagined, remote",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Consent / no / stop / repair",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Knowledge and spousal disclosure boundaries",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Interruption, separation and recovery scene",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next meeting date / place (realistic timeline)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs future proposal and source-tab reference",
           "status": "unreviewed"
         }
-      ]
+      ],
+      "checklistScope": "Checkbox means audit reviewed, NOT physical act completed. No default checkmark is evidence of occurrence."
     },
     {
       "name": "Stranger",
@@ -1690,54 +2041,79 @@
       "guardrail": "No intimate storyline until independently established adult identity and consent",
       "checklist": [
         {
-          "label": "Identity and age status",
+          "label": "Clothed / outfit sight — actual vs reported",
           "status": "unreviewed"
         },
         {
-          "label": "Original vs proposed distinction",
+          "label": "Partial/full nudity — actual direct sight",
           "status": "unreviewed"
         },
         {
-          "label": "Current partner and marriage",
+          "label": "Accidental nude sight and reaction",
           "status": "unreviewed"
         },
         {
-          "label": "What they actually witnessed",
+          "label": "Photo / video nude view and authorized recipient",
           "status": "unreviewed"
         },
         {
-          "label": "What they were merely told",
+          "label": "Imagined / dreamed nudity",
           "status": "unreviewed"
         },
         {
-          "label": "What they imagined/recalled",
+          "label": "Recalled or reported nude view (deduplicate)",
           "status": "unreviewed"
         },
         {
-          "label": "What physical acts are verified",
+          "label": "Actual affectionate contact / kiss",
           "status": "unreviewed"
         },
         {
-          "label": "What acts remain only proposed",
+          "label": "Actual nonpenetrative intimate touch",
           "status": "unreviewed"
         },
         {
-          "label": "Current consent and stops",
+          "label": "Imagined or recalled touch",
           "status": "unreviewed"
         },
         {
-          "label": "Next planned meeting and location",
+          "label": "Solo masturbation — actual vs imagined vs recalled",
           "status": "unreviewed"
         },
         {
-          "label": "Recovery/break before next beat",
+          "label": "Mutual or witnessed masturbation — verified vs proposed",
           "status": "unreviewed"
         },
         {
-          "label": "Effect on another relationship",
+          "label": "Other nonpenetrative sexual contact (type unspecified if unknown)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "John / other viewer status — told, actual, imagined, remote",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Consent / no / stop / repair",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Knowledge and spousal disclosure boundaries",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Interruption, separation and recovery scene",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next meeting date / place (realistic timeline)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs future proposal and source-tab reference",
           "status": "unreviewed"
         }
-      ]
+      ],
+      "checklistScope": "Checkbox means audit reviewed, NOT physical act completed. No default checkmark is evidence of occurrence."
     },
     {
       "name": "Workmen (unnamed)",
@@ -1752,54 +2128,79 @@
       "guardrail": "No invented identities or physical acts",
       "checklist": [
         {
-          "label": "Identity and age status",
+          "label": "Clothed / outfit sight — actual vs reported",
           "status": "unreviewed"
         },
         {
-          "label": "Original vs proposed distinction",
+          "label": "Partial/full nudity — actual direct sight",
           "status": "unreviewed"
         },
         {
-          "label": "Current partner and marriage",
+          "label": "Accidental nude sight and reaction",
           "status": "unreviewed"
         },
         {
-          "label": "What they actually witnessed",
+          "label": "Photo / video nude view and authorized recipient",
           "status": "unreviewed"
         },
         {
-          "label": "What they were merely told",
+          "label": "Imagined / dreamed nudity",
           "status": "unreviewed"
         },
         {
-          "label": "What they imagined/recalled",
+          "label": "Recalled or reported nude view (deduplicate)",
           "status": "unreviewed"
         },
         {
-          "label": "What physical acts are verified",
+          "label": "Actual affectionate contact / kiss",
           "status": "unreviewed"
         },
         {
-          "label": "What acts remain only proposed",
+          "label": "Actual nonpenetrative intimate touch",
           "status": "unreviewed"
         },
         {
-          "label": "Current consent and stops",
+          "label": "Imagined or recalled touch",
           "status": "unreviewed"
         },
         {
-          "label": "Next planned meeting and location",
+          "label": "Solo masturbation — actual vs imagined vs recalled",
           "status": "unreviewed"
         },
         {
-          "label": "Recovery/break before next beat",
+          "label": "Mutual or witnessed masturbation — verified vs proposed",
           "status": "unreviewed"
         },
         {
-          "label": "Effect on another relationship",
+          "label": "Other nonpenetrative sexual contact (type unspecified if unknown)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "John / other viewer status — told, actual, imagined, remote",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Consent / no / stop / repair",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Knowledge and spousal disclosure boundaries",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Interruption, separation and recovery scene",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next meeting date / place (realistic timeline)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs future proposal and source-tab reference",
           "status": "unreviewed"
         }
-      ]
+      ],
+      "checklistScope": "Checkbox means audit reviewed, NOT physical act completed. No default checkmark is evidence of occurrence."
     },
     {
       "name": "Leo's/other Mexico contacts",
@@ -1814,54 +2215,79 @@
       "guardrail": "No unverified sexual milestone",
       "checklist": [
         {
-          "label": "Identity and age status",
+          "label": "Clothed / outfit sight — actual vs reported",
           "status": "unreviewed"
         },
         {
-          "label": "Original vs proposed distinction",
+          "label": "Partial/full nudity — actual direct sight",
           "status": "unreviewed"
         },
         {
-          "label": "Current partner and marriage",
+          "label": "Accidental nude sight and reaction",
           "status": "unreviewed"
         },
         {
-          "label": "What they actually witnessed",
+          "label": "Photo / video nude view and authorized recipient",
           "status": "unreviewed"
         },
         {
-          "label": "What they were merely told",
+          "label": "Imagined / dreamed nudity",
           "status": "unreviewed"
         },
         {
-          "label": "What they imagined/recalled",
+          "label": "Recalled or reported nude view (deduplicate)",
           "status": "unreviewed"
         },
         {
-          "label": "What physical acts are verified",
+          "label": "Actual affectionate contact / kiss",
           "status": "unreviewed"
         },
         {
-          "label": "What acts remain only proposed",
+          "label": "Actual nonpenetrative intimate touch",
           "status": "unreviewed"
         },
         {
-          "label": "Current consent and stops",
+          "label": "Imagined or recalled touch",
           "status": "unreviewed"
         },
         {
-          "label": "Next planned meeting and location",
+          "label": "Solo masturbation — actual vs imagined vs recalled",
           "status": "unreviewed"
         },
         {
-          "label": "Recovery/break before next beat",
+          "label": "Mutual or witnessed masturbation — verified vs proposed",
           "status": "unreviewed"
         },
         {
-          "label": "Effect on another relationship",
+          "label": "Other nonpenetrative sexual contact (type unspecified if unknown)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "John / other viewer status — told, actual, imagined, remote",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Consent / no / stop / repair",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Knowledge and spousal disclosure boundaries",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Interruption, separation and recovery scene",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next meeting date / place (realistic timeline)",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs future proposal and source-tab reference",
           "status": "unreviewed"
         }
-      ]
+      ],
+      "checklistScope": "Checkbox means audit reviewed, NOT physical act completed. No default checkmark is evidence of occurrence."
     },
     {
       "name": "Pappu",
@@ -1876,54 +2302,79 @@
       "guardrail": "NEVER in sexual scene, sexual observation, or sexual checklist",
       "checklist": [
         {
-          "label": "Identity and age status",
-          "status": "unreviewed"
+          "label": "Clothed / outfit sight — actual vs reported",
+          "status": "not-applicable"
         },
         {
-          "label": "Original vs proposed distinction",
-          "status": "unreviewed"
+          "label": "Partial/full nudity — actual direct sight",
+          "status": "not-applicable"
         },
         {
-          "label": "Current partner and marriage",
-          "status": "unreviewed"
+          "label": "Accidental nude sight and reaction",
+          "status": "not-applicable"
         },
         {
-          "label": "What they actually witnessed",
-          "status": "unreviewed"
+          "label": "Photo / video nude view and authorized recipient",
+          "status": "not-applicable"
         },
         {
-          "label": "What they were merely told",
-          "status": "unreviewed"
+          "label": "Imagined / dreamed nudity",
+          "status": "not-applicable"
         },
         {
-          "label": "What they imagined/recalled",
-          "status": "unreviewed"
+          "label": "Recalled or reported nude view (deduplicate)",
+          "status": "not-applicable"
         },
         {
-          "label": "What physical acts are verified",
-          "status": "unreviewed"
+          "label": "Actual affectionate contact / kiss",
+          "status": "not-applicable"
         },
         {
-          "label": "What acts remain only proposed",
-          "status": "unreviewed"
+          "label": "Actual nonpenetrative intimate touch",
+          "status": "not-applicable"
         },
         {
-          "label": "Current consent and stops",
-          "status": "unreviewed"
+          "label": "Imagined or recalled touch",
+          "status": "not-applicable"
         },
         {
-          "label": "Next planned meeting and location",
-          "status": "unreviewed"
+          "label": "Solo masturbation — actual vs imagined vs recalled",
+          "status": "not-applicable"
         },
         {
-          "label": "Recovery/break before next beat",
-          "status": "unreviewed"
+          "label": "Mutual or witnessed masturbation — verified vs proposed",
+          "status": "not-applicable"
         },
         {
-          "label": "Effect on another relationship",
-          "status": "unreviewed"
+          "label": "Other nonpenetrative sexual contact (type unspecified if unknown)",
+          "status": "not-applicable"
+        },
+        {
+          "label": "John / other viewer status — told, actual, imagined, remote",
+          "status": "not-applicable"
+        },
+        {
+          "label": "Consent / no / stop / repair",
+          "status": "not-applicable"
+        },
+        {
+          "label": "Knowledge and spousal disclosure boundaries",
+          "status": "not-applicable"
+        },
+        {
+          "label": "Interruption, separation and recovery scene",
+          "status": "not-applicable"
+        },
+        {
+          "label": "Next meeting date / place (realistic timeline)",
+          "status": "not-applicable"
+        },
+        {
+          "label": "Original vs future proposal and source-tab reference",
+          "status": "not-applicable"
         }
-      ]
+      ],
+      "checklistScope": "Family-only; excluded from sexual classification."
     }
   ],
   "pacing": {
