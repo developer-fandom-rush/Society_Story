@@ -146,12 +146,20 @@ To update the original source, re-export Google Docs and update the nine JSON gr
 - **Canon protection:** original Google Docs source tabs and story chapter JSON files were not changed. Secondary legacy analysis numbering (1–69) may differ from author numbering and is clearly marked. Adult intimacy references are non-graphic planning tags, frequently off-page, never a claim that future scenes already occurred.
 - **Public publishing:** the GitHub Pages deployment serves the same URLs after the corresponding commit is built; edits to the JSON/Markdown update the reader without changing the link.
 
-## Dhika — Chotu Returns, EP57–64 (history-first future arc)
+## Dhika — Chotu Returns, EP57–66 (history-first future arc)
 
-[Read history and EP57–64 action plans](chotu.html?ep=57) · [Character history tab](chotu.html?view=history) · [Readable plot book](content/DHIKA_CHOTU_RETURN.md) · [JSON data](content/DHIKA_CHOTU_RETURN.json).
+[Read history and EP57–66 action plans](chotu.html?ep=57) · [Character history tab](chotu.html?view=history) · [Readable plot book](content/DHIKA_CHOTU_RETURN.md) · [JSON data](content/DHIKA_CHOTU_RETURN.json).
 
 - Added after Twins Part 4 EP52–56, without changing source EP01–41 or proposed Mexico/India/Twins story data.
-- Includes 18 original-source character history anchors for Dhika, Chotu, Sharmi, John, Raj, Bantu/Bobby, neighbour Uncle, Aunty, Iroh, Zuko, unnamed plumber workmen, Leo, Pappu and the unresolved Stranger.
-- Eight proposed episodes EP57–64, **51 scene beats**, each with plot mechanism, timing, character pair, non-graphic action-name tags, highest milestone, boundaries and forward hook.
+- Includes 22 original-source character history anchors for Dhika, Chotu, Sharmi, John, Raj, Bantu/Bobby, neighbour Uncle, Aunty, Iroh, Zuko, unnamed plumber workmen, Leo, Pappu and the unresolved Stranger.
+- Ten proposed episodes EP57–66, **66 scene beats**, each with plot mechanism, timing, character pair, non-graphic action-name tags, highest milestone, boundaries and forward hook.
 - Original author-numbered EP41 is the source endpoint; reconciled evidence EP55–69 is a distinct legacy analysis index and must not be silently mapped to author numbering.
 - Iroh's delayed bathtub delivery remains a contingent subplot; Stranger's identity is explicitly unresolved. Intimate encounters are proposed, voluntary and often off-page, not pasted graphic prose.
+
+## EP65–66 — Gym, Swimming, Adult Tuition, Leo and Stranger (proposed)
+
+[Open latest EP65–66 roadmap](chotu.html?view=roadmap&ep=65) · [Direct EP65 scenes](chotu.html?view=episodes&ep=65) · [EP66 scenes](chotu.html?view=episodes&ep=66)
+
+- **EP65 — The New Routine:** twins set up Dhika and Sharmi's daily morning gym, Raj resumes his established swimming-coach role, adult new tuition student Nisha (working name, 23) joins, Leo returns through a work visit, and the unresolved Stranger trail produces a new lead.
+- **EP66 — Two Women, One Routine:** sustained gym rivalry, adult tutoring dynamics, Dhika's supervised swimming skill progress, Leo's work-story continuation and receipt-based mystery investigation.
+- Current Chotu continuation: 10 episodes EP57–66, 66 proposed scene beats and 22 original-source historical anchors. Gym and Nisha are new proposals; original Dhika source ends at author EP41. Stranger identity remains unknown.
