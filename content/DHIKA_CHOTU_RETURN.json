@@ -11,7 +11,7 @@
     "newArc": "57–66",
     "legacyEpisodeAnalysis": "1–69 secondary indexing, not automatically equal to author episodes"
   },
-  "intro": "Source-audited non-graphic plot design covering Dhika–Chotu, Sharmi, John, neighbour Uncle, plumber Iroh, nephew Zuko, unnamed workmen, Leo, twins and the anonymous Stranger. Adult physical actions are labels only; some occur off-page. Neither an anonymous identity nor earlier consent is invented. Extended EP65–66 with gym, swimming, adult female tuition learner, Leo return and unresolved Stranger leads.",
+  "intro": "Source-audited non-graphic plot design covering Dhika–Chotu, Sharmi, John, neighbour Uncle, plumber Iroh, nephew Zuko, unnamed workmen, Leo, twins and the anonymous Stranger. Adult physical actions are labels only; some occur off-page. Neither an anonymous identity nor earlier consent is invented. Extended EP65–66 with gym, swimming, adult female tuition learner, Leo return and unresolved Stranger leads. Nisha's age 25 and married status are user-locked; her academic course and spouse details are provisional.",
   "history": [
     {
       "topic": "Aunty and neighbour Uncle",
@@ -179,7 +179,7 @@
     "Pappu is a child and appears only in nonsexual family logistics, never in adult intimate contexts.",
     "Earlier Dhika–John intercourse exclusivity is preserved until explicitly changed.",
     "Every adult chooses separately. Boundary violations in earlier scenes are not retroactively reclassified as consensual.",
-    "The new female tuition student Nisha (23, working name) is a proposed adult academic character, not present in original canon; do not romanticize teacher–student pressure.",
+    "The new female tuition student Nisha (25, married; working name) is a proposed adult academic character, not present in original canon; do not romanticize teacher–student pressure.",
     "Raj was an existing swimming coach; all pool coaching is an explicitly supervised safety/skills activity.",
     "Gym setup and schedules are new proposals. Daily means regular scheduled morning attendance, with appropriate flexibility/rest."
   ],
@@ -989,13 +989,14 @@
         {
           "id": "E65-01",
           "title": "The Gym Offer",
-          "pair": "Bantu × Bobby × Dhika × Sharmi",
+          "pair": "Bantu × Bobby × Nisha × Dhika × Sharmi",
           "slot": "6:45 AM · Gym reception",
-          "description": "Twins share the membership plan and invite Dhika and Sharmi to a practical morning routine on weekdays. Sharmi asks for her own schedule and trainer, while Dhika wants a beginner-friendly progression.",
+          "description": "Bantu and Bobby introduce Dhika and Sharmi to their existing 25-year-old married gym friend Nisha, who has trained with the twins for eight months. Nisha confidently demonstrates the class routine; Dhika/Sharmi choose gym membership schedules.",
           "actionNames": [
-            "Gym Membership Invitation",
+            "Established Gym Friendship Introduction",
+            "Workout Demonstration",
+            "Membership Invitation",
             "Schedule Agreement",
-            "Friendly Teasing",
             "Individual Preference Check"
           ],
           "continuity": "A new proposed gym setup, not established historical canon.",
@@ -1004,9 +1005,9 @@
         {
           "id": "E65-02",
           "title": "Two Coaches, Not Two Owners",
-          "pair": "Bantu × Bobby × Dhika × Sharmi",
+          "pair": "Bantu × Bobby × Nisha × Dhika × Sharmi",
           "slot": "7:05 AM · Gym floor",
-          "description": "Bantu suggests a lively circuit; Bobby proposes simpler technique practice. The women choose their own workout and any physical spotting is requested first.",
+          "description": "Bantu suggests a lively circuit, Bobby emphasizes form, and Nisha's established athletic competence visibly motivates both women. Any hands-on spotting must be requested.",
           "actionNames": [
             "Warm-Up",
             "Mobility Practice",
@@ -1050,14 +1051,14 @@
           "title": "The New Female Learner",
           "pair": "Dhika × Bantu × Bobby × Nisha (new adult student)",
           "slot": "6:30 PM · Dhika's tuition study space",
-          "description": "Nisha, a 23-year-old postgraduate entrance-exam learner (working name), joins a trial academic tuition session. She asks difficult questions and notices the twins already know Dhika's teaching style.",
+          "description": "Nisha, 25 and married, already knows Bantu/Bobby as eight-month gym friends. She joins Dhika's academic tuition circle separately, with professional boundaries and a genuine learning goal.",
           "actionNames": [
             "New Student Introduction",
             "Study-Level Assessment",
             "Academic Question Round",
             "Timetable Agreement"
           ],
-          "continuity": "Nisha's name, age and course are proposed; she is not a canon character. Keep teacher–student conduct professional.",
+          "continuity": "User-locked 25 and married; academic tuition is professional. Gym friendship predates the class.",
           "status": "proposed"
         },
         {
@@ -1106,9 +1107,9 @@
         {
           "id": "E66-01",
           "title": "The First Real Workout",
-          "pair": "Dhika × Sharmi × Bantu × Bobby",
+          "pair": "Dhika × Sharmi × Nisha × Bantu × Bobby",
           "slot": "6:45 AM · Gym",
-          "description": "The women start the planned week. Dhika chooses a manageable strength circuit while Sharmi tests a harder set; Bantu and Bobby are workout buddies, not authority figures over them.",
+          "description": "The group begins the morning program. Nisha leads by example as a long-established gym regular and friend of the twins; Dhika and Sharmi each choose manageable intensity.",
           "actionNames": [
             "Warm-Up",
             "Resistance Training",
@@ -1135,9 +1136,9 @@
         {
           "id": "E66-03",
           "title": "Bantu and Bobby Disagree",
-          "pair": "Bantu × Bobby × Dhika × Sharmi",
+          "pair": "Bantu × Bobby × Nisha × Dhika × Sharmi",
           "slot": "7:45 AM · Gym café",
-          "description": "Bantu wants energetic group sessions; Bobby proposes alternating personal-training-free workout days. The women decide the eventual routine.",
+          "description": "Bantu suggests high-energy paired workouts, Bobby prefers careful technique, and Nisha negotiates a balanced split based on her existing training experience; Dhika and Sharmi choose.",
           "actionNames": [
             "Workout Plan Debate",
             "Schedule Negotiation",
@@ -1151,14 +1152,14 @@
           "title": "Nisha's First Full Lesson",
           "pair": "Dhika × Nisha × Bantu × Bobby",
           "slot": "4:45 PM · Tuition",
-          "description": "Nisha challenges a concept in front of the twins and asks Dhika for extra practice material. She becomes a useful rival/friend in study rather than a decorative introduction.",
+          "description": "Nisha, a married 25-year-old, joins a full academic session after already being established at the gym with the twins. She asks advanced questions and pursues her own learning goals.",
           "actionNames": [
             "Academic Debate",
             "Study Exercise",
             "Teacher Feedback",
             "Homework Assignment"
           ],
-          "continuity": "Nisha is an adult and her professional relationship with Dhika is maintained.",
+          "continuity": "Academic instruction and gym friendship are separate; no intimacy-for-grade or teacher pressure.",
           "status": "proposed"
         },
         {
@@ -1228,9 +1229,8 @@
     "Which aspects of Dhika–Chotu history does John know versus witness?",
     "What does Sharmi choose independently after EP64?",
     "Is the Stranger known to any character? No answer verified yet.",
-    "Should Nisha's working name and postgraduate subject be kept or changed?",
     "Should the anonymous Stranger's identity be revealed in EP67 or maintained as a longer mystery?",
-    "Do the twins provide gym memberships only or also join Dhika and Sharmi as regular workout buddies?"
+    "Nisha is locked 25 and married, with 8-month fitness friendship with twins. Proposed husband Kabir details still open to later discussion."
   ],
   "progression": {
     "label": "Highest physical progression in EP57–64",
@@ -1433,5 +1433,36 @@
     ],
     "keyDistinction": "EP59 remains the highest proposed adult-intimacy milestone in EP57–66. EP62/EP64 are optional; EP65–66 add recurring gym, swimming and tuition plots with no new sexual escalation."
   },
-  "updated": "2026-11-07"
+  "updated": "2026-11-07",
+  "charactersProposed": {
+    "Nisha Malhotra": {
+      "age": 25,
+      "relationshipStatus": "married",
+      "spouse": "Kabir Malhotra (29, proposed)",
+      "role": "Fitness regular and new adult tuition learner",
+      "gymExperience": "3 years strength training (proposed)",
+      "twinsHistory": "Bantu/Bobby regular gym partners for 8 months (proposed)",
+      "independentTraits": [
+        "confident",
+        "competitive",
+        "academically ambitious",
+        "decides her own workout and private relationships"
+      ],
+      "characterArc": "Gym friendship with twins, friendship/rivalry with Dhika and Sharmi, marriage tension; separate older neighbour Uncle connection possible, not yet an act.",
+      "status": "Age and marriage user-locked; name/academic goal/husband details are provisional"
+    },
+    "Kabir Malhotra": {
+      "age": 29,
+      "relationshipStatus": "married to Nisha",
+      "role": "Consultant, work travel (proposed)",
+      "arc": "Joins John–Dhika and Raj–Sharmi as third established married couple; marriage decisions and disclosures drive the game plot.",
+      "status": "PROPOSED"
+    },
+    "Neighbour Uncle": {
+      "age": "older adult (original depicts older than Iroh)",
+      "relationshipStatus": "married to Aunty",
+      "arc": "Physically active/strong (new proposal); independent slow-burn acquaintance with married Nisha, with both marriages and consent constraints in view.",
+      "status": "Strength is new user-directed plot detail; Iroh is different character"
+    }
+  }
 }
