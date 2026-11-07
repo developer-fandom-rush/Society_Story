@@ -136,3 +136,12 @@ The third homepage tile opens [Dhika Original Story Reader](dhika.html?tab=origi
 ### Maintenance
 
 To update the original source, re-export Google Docs and update the nine JSON groups and manifest together; this is not a live automatic sync. Editing the Markdown future plan alone does not automatically update its JSON. Preserve original source versus planning separation.
+
+## Dhika — Sexcapades with the Twins Part 4 (proposed)
+
+[Open five-part Twins reader](twins.html?ep=52) · [Structured scene actions](content/DHIKA_TWINS_PART4.json) · [Readable planning pack](content/DHIKA_TWINS_PART4.md)
+
+- **Corrected future episode numbers:** original author source ends at **EP41**; Mexico remains proposed **EP42–48**, India Return **EP49–51**, and the new five-part Twins Part 4 is **EP52–56** (4A–4E). Old draft EP79–83 numbers are retired for this future arc.
+- **Reader:** standalone `twins.html`, linked from the main `dhika.html` navigation. Five parts, 41 proposed scenes, per-scene non-graphic action names, search, character filters, per-part highest milestone, plot mechanism, boundary notes and next hooks.
+- **Canon protection:** original Google Docs source tabs and story chapter JSON files were not changed. Secondary legacy analysis numbering (1–69) may differ from author numbering and is clearly marked. Adult intimacy references are non-graphic planning tags, frequently off-page, never a claim that future scenes already occurred.
+- **Public publishing:** the GitHub Pages deployment serves the same URLs after the corresponding commit is built; edits to the JSON/Markdown update the reader without changing the link.
