@@ -734,3 +734,124 @@ Family-only. Sexual audit excluded.
 
 - [Action library and character checklists](../encounters.html?view=actions)
 - [Full EP65–76 episode planner](../chotu.html?view=roadmap&ep=65)
+
+## Relationship lanes and explicit breaks (updated)
+
+### Dhika × Chotu
+- **Status:** Existing source history + future proposals
+- **Foundation:** Many physical and emotional milestones already occurred before original author EP41.
+- **Timeline:** Earlier proposed EP57–59 and optional EP62; no new event automatically added in EP65–76.
+- **Next:** After a separate conversation and disclosure checkpoint.
+- **Pause:** At least one independent emotional/ordinary-life scene after any new intimacy.
+- **Guardrail:** Don't reset to first kiss or force intercourse.
+
+### John witnessing Dhika × Chotu
+- **Status:** Proposed observer scenario, not original first
+- **Foundation:** John knows some history; hearing, reading, imagining and watching differ.
+- **Timeline:** Earlier EP59 proposed agreed viewing; no repeated witness scene locked for EP65–76.
+- **Next:** Future separate request → all adults' consent → scoped viewing → private debrief.
+- **Pause:** Observation is its own event; no immediate repeat or broader permission.
+- **Guardrail:** No surprise audience, recording or automatic participation.
+
+### Dhika × Bantu
+- **Status:** Distinct established relationship
+- **Foundation:** Complex intimacy and consent history; prior stops must matter.
+- **Timeline:** Separate Twins Part 4 EP52–56 proposal.
+- **Next:** Future one-on-one meeting after boundaries addressed.
+- **Pause:** Space apart and demonstrated trust repair.
+- **Guardrail:** Not Nisha's gym partner or implicit shared twin permission.
+
+### Dhika × Bobby
+- **Status:** Distinct established relationship
+- **Foundation:** Separate affectionate and private-video history.
+- **Timeline:** Separate Twins Part 4 EP52–56 proposal.
+- **Next:** Independent preferences and privacy re-check.
+- **Pause:** One full ordinary scene before future private viewing.
+- **Guardrail:** Bobby's permissions not transferable to Bantu.
+
+### Sharmi × Chotu
+- **Status:** Independent romance proposed
+- **Foundation:** Not a confirmed completed sexual relationship in original author source.
+- **Timeline:** Earlier EP58/61 proposal.
+- **Next:** Another separate date after her friendship discussion with Dhika.
+- **Pause:** No same-scene race with Dhika's intimacy.
+- **Guardrail:** Chotu is not a prize in a contest.
+
+### Nisha × Leo
+- **Status:** New proposed gym partnership
+- **Foundation:** Nisha married 25; Leo her established gym partner ~8 months (new backstory).
+- **Timeline:** EP65 name mentioned → EP66 Leo returns → EP67 gym together → EP71 absence → EP76 normal workout.
+- **Next:** Attraction may be acknowledged in a separate later episode, not automatically acted upon.
+- **Pause:** Gym routine and marriage scenes between each emotional beat.
+- **Guardrail:** No Nisha × Bantu/Bobby gym pairing; technique spotting is not sexual consent.
+
+### Nisha × Kabir
+- **Status:** User-locked married couple, husband details provisional
+- **Foundation:** Husband has independent perspective; not a villain invented to permit cheating.
+- **Timeline:** EP68 check-in → EP71 call → EP72 homecoming → EP74 confession → EP76 follow-up.
+- **Next:** Marriage conversation before any major relationship decision.
+- **Pause:** Give each spouse a normal-life episode apart from gym/drama.
+- **Guardrail:** No automatic group-game permission.
+
+### Nisha × Neighbour Uncle
+- **Status:** New slow-burn possible connection
+- **Foundation:** Uncle older married neighbour, not plumber Iroh; Nisha married to Kabir.
+- **Timeline:** EP75 first meaningful society-event chat → EP76 private reflection without contact.
+- **Next:** Future standalone conversation after time away; flirtation only if both adults freely choose.
+- **Pause:** EP76 is explicit no-contact recovery.
+- **Guardrail:** No immediate seduction or assumed affair.
+
+### Dhika × Sharmi × Nisha (women's friendship)
+- **Status:** New group social dynamics
+- **Foundation:** Dhika/Sharmi original friends; Nisha new independent gym member.
+- **Timeline:** EP65 gym introduction → EP67 workout comparison → EP74 separate balcony talk.
+- **Next:** Future friendship or same-sex romantic possibility only after its own development.
+- **Pause:** Do not make every group scene sexual.
+- **Guardrail:** Any women-women kiss needs separate intentional consent.
+
+### Dhika × Raj (swimming)
+- **Status:** Original coaching relation confirmed
+- **Foundation:** Raj already helped Dhika swim in original source.
+- **Timeline:** EP69 supervised continuation only.
+- **Next:** Next skill-focused session on a different day if scheduled.
+- **Pause:** Swimming is a standalone practical scene, not a seduction slot.
+- **Guardrail:** Safety support must not be sexualized as automatic consent.
+
+### Dhika × Nisha (tuition)
+- **Status:** New academic relationship
+- **Foundation:** Nisha 25 adult, academically ambitious; Dhika established teacher.
+- **Timeline:** EP68 first professional diagnostic; later sessions not scheduled automatically.
+- **Next:** Follow-up homework review after ordinary interval.
+- **Pause:** Avoid overlap with every gym meeting.
+- **Guardrail:** No intimacy-for-grade, authority pressure or assumed gym romance.
+
+### John–Dhika / Raj–Sharmi / Kabir–Nisha
+- **Status:** Three married couples, new social group
+- **Foundation:** First two marriages established, third user-requested new marriage.
+- **Timeline:** EP73 invitation only → EP74 dinner and question game → subsequent independent partner conversations.
+- **Next:** Only later, if all choose, discuss voluntary romantic games as a separate event.
+- **Pause:** At least one non-game episode between gatherings.
+- **Guardrail:** No forced swapping, compulsory sexual action or viewer entitlement.
+
+### Stranger × Dhika / John
+- **Status:** Unidentified sender, mystery only
+- **Foundation:** Anonymous messages and gifts verified, identity and age not verified.
+- **Timeline:** EP70 evidence review. Leo's return is independent.
+- **Next:** Source-grounded identity evidence before any interpersonal revelation.
+- **Pause:** Interleave normal life; don't place a new note after every sexual scene.
+- **Guardrail:** No sexual attribution to unknown identity.
+
+### Neighbour Uncle vs Iroh/Zuko/workmen
+- **Status:** Two different tracks
+- **Foundation:** Neighbour Uncle is not plumber Iroh. Iroh/Zuko are a real repair crew, with delayed bathtub.
+- **Timeline:** Uncle appears EP75 society event; repair team scheduling remains elsewhere.
+- **Next:** Bath order follow-up only when calendar/dealer supports it.
+- **Pause:** Never treat tradespeople's work contact as sex setup automatically.
+- **Guardrail:** Don't merge identities or invent unnamed workers' motivations.
+
+### John-witnessing four-stage structure
+
+1. **Knowledge audit:** John and Dhika separate what he witnessed, heard, read or imagined. — Future candidate only
+2. **Observer invitation:** Dhika, Chotu and John separately agree on whether observation is wanted, and its limits. — Future candidate only
+3. **One scoped encounter:** Optional chosen viewing (affection or off-page intimacy) with named audience and no recording. — Not scheduled
+4. **Aftermath / break:** John and Dhika discuss impact privately; Chotu retains his own space. No immediate second scene. — Future candidate only
