@@ -534,7 +534,7 @@ Original author chapter ends EP41. Mexico 42–48; India return 49–51; twins P
 - Bantu/Bobby's tuition sessions with Dhika exist in [their earlier tuition story](https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.pvzqcetr9elp).
 - Leo has an existing work/travel connection with John in [The Emotional Turmoil](https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.dm7qtlia5bgt).
 - Stranger's messages and anonymous identity remain unresolved in [Prelude](https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.ih50jyjbxgyc).
-- Daily gym, Nisha (23, working name), and these new schedules are proposals, not verified canon.
+- Daily gym, Nisha (25, married; name proposed), and these new schedules are proposals, not verified canon.
 
 ## EP65: THE NEW ROUTINE
 
@@ -575,9 +575,9 @@ Original author chapter ends EP41. Mexico 42–48; India return 49–51; twins P
 ### E65-05 — The New Female Learner
 - **Characters:** Dhika × Bantu × Bobby × Nisha (new adult student)
 - **When/where:** 6:30 PM · Dhika's tuition study space
-- **Plot:** Nisha, a 23-year-old postgraduate entrance-exam learner (working name), joins a trial academic tuition session. She asks difficult questions and notices the twins already know Dhika's teaching style.
+- **Plot:** Nisha, a 25-year-old married postgraduate entrance-exam learner (working name), joins a trial academic tuition session. She asks difficult questions and notices the twins already know Dhika's teaching style.
 - **Non-graphic action names:** New Student Introduction; Study-Level Assessment; Academic Question Round; Timetable Agreement
-- **Continuity:** Nisha's name, age and course are proposed; she is not a canon character. Keep teacher–student conduct professional.
+- **Continuity:** Nisha's 25-year age and married status are locked; her name and course are proposed; she is not a canon character. Keep teacher–student conduct professional.
 
 ### E65-06 — Leo Returns with John
 - **Characters:** Leo × John × Dhika
@@ -629,7 +629,7 @@ Original author chapter ends EP41. Mexico 42–48; India return 49–51; twins P
 - **When/where:** 4:45 PM · Tuition
 - **Plot:** Nisha challenges a concept in front of the twins and asks Dhika for extra practice material. She becomes a useful rival/friend in study rather than a decorative introduction.
 - **Non-graphic action names:** Academic Debate; Study Exercise; Teacher Feedback; Homework Assignment
-- **Continuity:** Nisha is an adult and her professional relationship with Dhika is maintained.
+- **Continuity:** Nisha is a married adult and her professional relationship with Dhika is maintained.
 
 ### E66-05 — Raj's Second Lesson
 - **Characters:** Raj × Dhika
@@ -684,3 +684,12 @@ Original author chapter ends EP41. Mexico 42–48; India return 49–51; twins P
 - Is Nisha the final name, and which adult postgraduate/entrance course is she preparing for?
 - Gym ownership: are twins setting up membership access or running training? Current draft uses membership help/workout buddies only.
 - Stranger: no identity reveal in EP65–66. EP67 can evaluate a verifiable evidence trail before deciding who is behind the gifts.
+
+## Character lock — Nisha and Kabir (2026-11-07)
+
+- **Nisha Malhotra:** 25, **married** (user-locked); name is still a working name. She is a confident, experienced gym regular.
+- **Bantu & Bobby:** Nisha's existing workout friends for ~8 months (proposed backstory). They introduce Dhika and Sharmi into their established gym circle, not Nisha into it.
+- **Kabir Malhotra:** 29, Nisha's proposed husband, works as a consultant who sometimes travels. His name and profession are provisional.
+- **Neighbour Uncle:** older, physically strong (proposed trait), married to Aunty. Independent possible connection with Nisha; **not Iroh**.
+- **Tuition:** Nisha joins Dhika's adult academic lessons independently; no favoritism or intimacy pressure connected to instruction.
+- **Future plot ideas, not committed original canon:** Nisha × twins' romantic tension, Nisha × Uncle potential affair, three married couples' gatherings, possible women-women attraction, and the question of Dhika's first non-John intercourse milestone. These are not retroactive facts.
