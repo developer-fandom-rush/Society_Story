@@ -469,14 +469,16 @@
       "family": "Sexual but non-penetrative action labels",
       "label": "External oral-genital contact",
       "mode": "Non-penetrative if strictly external",
-      "note": "Oral-genital category may involve penetration; track precisely; no mechanics"
+      "note": "External oral-genital contact only; no insertion/penetration. Record the actual scope and distinct permission.",
+      "strictNonPenetrative": true
     },
     {
       "id": "S15",
       "family": "Sexual but non-penetrative action labels",
       "label": "Oral sexual contact (blowjob label)",
-      "mode": "May not be strictly non-penetrative",
-      "note": "Distinguish from strictly no-penetration rule; name only, off-page"
+      "mode": "Requires penetration clarification",
+      "note": "Oral sex may include oral penetration; it is not automatically part of a strictly no-penetration list. Keep name in a boundary bucket until exactly classified.",
+      "strictNonPenetrative": false
     },
     {
       "id": "S16",
@@ -3359,7 +3361,7 @@
       "reported_past": 131,
       "verbal": 1321
     },
-    "caution": "An indexed label can be an action, appearance or recalled fact. Kind is preserved, high heat is subjective and cannot imply consent. Gaps/ambiguities remain. EvidenceRef is a secondary beat ID, not proof of original verbatim line.",
+    "caution": "An indexed label can be an action, appearance or recalled fact. Kind is preserved, high heat is subjective and cannot imply consent. Gaps/ambiguities remain. EvidenceRef is a secondary beat ID, not proof of original verbatim line. The 187-item atlas includes non-penetrative actions, scenarios, observer states and one oral-sex boundary category that should not be assumed non-penetrative.",
     "spotChecks": [
       {
         "id": "E04-09",
