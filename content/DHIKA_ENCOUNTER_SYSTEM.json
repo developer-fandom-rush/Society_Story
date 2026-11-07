@@ -1,0 +1,2014 @@
+{
+  "schema": "dhika-encounter-planner-v1",
+  "status": "PLANNING REFERENCE / NO NEW CANON",
+  "updated": "2026-11-07",
+  "intro": "Comprehensive non-graphic action-label vocabulary for sight/touch/imagined/recalled/actual/solo/observer contexts, character-wise continuity checks and staged recovery pacing. Not a how-to or explicit prose generator.",
+  "counts": {
+    "families": 8,
+    "actions": 109,
+    "characters": 18
+  },
+  "modalities": [
+    "actual",
+    "sighted",
+    "accidental-sight",
+    "imagined",
+    "dreamed",
+    "recalled",
+    "reported",
+    "inferred",
+    "video-live",
+    "recorded-with-permission",
+    "proposed",
+    "declined",
+    "interrupted",
+    "paused",
+    "off-page",
+    "witnessed-with-consent",
+    "not-verified"
+  ],
+  "actions": [
+    {
+      "id": "V01",
+      "family": "Visual / sight",
+      "label": "Clothed observation",
+      "mode": "Direct sight",
+      "note": "Appearance or outfit noted without nudity"
+    },
+    {
+      "id": "V02",
+      "family": "Visual / sight",
+      "label": "Voluntary outfit reveal",
+      "mode": "Direct sight",
+      "note": "Character chooses to show a particular outfit"
+    },
+    {
+      "id": "V03",
+      "family": "Visual / sight",
+      "label": "Partial nudity observed",
+      "mode": "Direct sight",
+      "note": "Some body exposure is actually seen; note precise scene scope"
+    },
+    {
+      "id": "V04",
+      "family": "Visual / sight",
+      "label": "Consensual full nudity viewed",
+      "mode": "Direct sight",
+      "note": "Full nudity with permission to be viewed, not touched"
+    },
+    {
+      "id": "V05",
+      "family": "Visual / sight",
+      "label": "Accidental partial view",
+      "mode": "Accidental sight",
+      "note": "Unexpected visual encounter; not sexual consent"
+    },
+    {
+      "id": "V06",
+      "family": "Visual / sight",
+      "label": "Accidental nude view",
+      "mode": "Accidental sight",
+      "note": "Unexpected nudity; record privacy/response rather than treating as permission"
+    },
+    {
+      "id": "V07",
+      "family": "Visual / sight",
+      "label": "Mirror or reflection viewing",
+      "mode": "Direct sight",
+      "note": "Reflection seen; distinguish private self-look from another viewer"
+    },
+    {
+      "id": "V08",
+      "family": "Visual / sight",
+      "label": "Photograph intentionally shared",
+      "mode": "Photo",
+      "note": "Specific picture shared with named recipient"
+    },
+    {
+      "id": "V09",
+      "family": "Visual / sight",
+      "label": "Photo forwarded accidentally",
+      "mode": "Photo",
+      "note": "Unintended forwarding is privacy complication, not invitation"
+    },
+    {
+      "id": "V10",
+      "family": "Visual / sight",
+      "label": "Private live video viewing",
+      "mode": "Video",
+      "note": "Consensual live call with limited authorized viewers"
+    },
+    {
+      "id": "V11",
+      "family": "Visual / sight",
+      "label": "Recorded image viewed with authorization",
+      "mode": "Recorded media",
+      "note": "Permission to view differs from permission to record or redistribute"
+    },
+    {
+      "id": "V12",
+      "family": "Visual / sight",
+      "label": "Brief unexpected sight followed by withdrawal",
+      "mode": "Accidental sight",
+      "note": "Response includes looking away, covering or leaving"
+    },
+    {
+      "id": "M01",
+      "family": "Imagination / memory / reported",
+      "label": "Imagined clothed appearance",
+      "mode": "Imagined",
+      "note": "Fantasy only; not a seen action"
+    },
+    {
+      "id": "M02",
+      "family": "Imagination / memory / reported",
+      "label": "Imagined nudity",
+      "mode": "Imagined",
+      "note": "Internal image, not observed or consented exposure"
+    },
+    {
+      "id": "M03",
+      "family": "Imagination / memory / reported",
+      "label": "Imagined affectionate touch",
+      "mode": "Imagined",
+      "note": "Internal wish distinct from actual touching"
+    },
+    {
+      "id": "M04",
+      "family": "Imagination / memory / reported",
+      "label": "Imagined sexual contact",
+      "mode": "Imagined",
+      "note": "Thought, not physical action"
+    },
+    {
+      "id": "M05",
+      "family": "Imagination / memory / reported",
+      "label": "Dreamed scenario",
+      "mode": "Dream",
+      "note": "Dream is not a completed encounter"
+    },
+    {
+      "id": "M06",
+      "family": "Imagination / memory / reported",
+      "label": "Recollected earlier view",
+      "mode": "Recalled",
+      "note": "Prior sight remembered; avoid counting it twice"
+    },
+    {
+      "id": "M07",
+      "family": "Imagination / memory / reported",
+      "label": "Recollected earlier touch",
+      "mode": "Recalled",
+      "note": "Previous physical action remembered, not re-enacted"
+    },
+    {
+      "id": "M08",
+      "family": "Imagination / memory / reported",
+      "label": "Reported past encounter",
+      "mode": "Reported",
+      "note": "Character recounts something; note whether corroborated"
+    },
+    {
+      "id": "M09",
+      "family": "Imagination / memory / reported",
+      "label": "Overheard claim or rumour",
+      "mode": "Reported",
+      "note": "Second-hand statement with uncertainty"
+    },
+    {
+      "id": "M10",
+      "family": "Imagination / memory / reported",
+      "label": "Misread gaze or intention",
+      "mode": "Inferred",
+      "note": "Character inference, not verified observer intent"
+    },
+    {
+      "id": "M11",
+      "family": "Imagination / memory / reported",
+      "label": "Anticipated future meeting",
+      "mode": "Imagined",
+      "note": "Expectation, not accomplished event"
+    },
+    {
+      "id": "M12",
+      "family": "Imagination / memory / reported",
+      "label": "Private desire and hesitation",
+      "mode": "Internal",
+      "note": "Contradictory thoughts can coexist without actions"
+    },
+    {
+      "id": "A01",
+      "family": "Social and affectionate touch",
+      "label": "Greeting handshake",
+      "mode": "Actual touch",
+      "note": "Ordinary social greeting"
+    },
+    {
+      "id": "A02",
+      "family": "Social and affectionate touch",
+      "label": "Brief hand touch",
+      "mode": "Actual touch",
+      "note": "Momentary nonsexual contact"
+    },
+    {
+      "id": "A03",
+      "family": "Social and affectionate touch",
+      "label": "Hand holding",
+      "mode": "Actual touch",
+      "note": "Mutually chosen affection"
+    },
+    {
+      "id": "A04",
+      "family": "Social and affectionate touch",
+      "label": "Side hug",
+      "mode": "Actual touch",
+      "note": "Brief casual embrace"
+    },
+    {
+      "id": "A05",
+      "family": "Social and affectionate touch",
+      "label": "Full embrace",
+      "mode": "Actual touch",
+      "note": "Longer mutually chosen hug"
+    },
+    {
+      "id": "A06",
+      "family": "Social and affectionate touch",
+      "label": "Arm-around-shoulders",
+      "mode": "Actual touch",
+      "note": "Friendly or affectionate proximity"
+    },
+    {
+      "id": "A07",
+      "family": "Social and affectionate touch",
+      "label": "Affectionate cheek touch",
+      "mode": "Actual touch",
+      "note": "Face caress if welcomed"
+    },
+    {
+      "id": "A08",
+      "family": "Social and affectionate touch",
+      "label": "Sitting close",
+      "mode": "Proximity",
+      "note": "Nearness alone does not establish contact"
+    },
+    {
+      "id": "A09",
+      "family": "Social and affectionate touch",
+      "label": "Guided dancing",
+      "mode": "Actual touch",
+      "note": "Agreed dance hold"
+    },
+    {
+      "id": "A10",
+      "family": "Social and affectionate touch",
+      "label": "Permission-based gym spotting",
+      "mode": "Functional touch",
+      "note": "Safety-related help, no intimate entitlement"
+    },
+    {
+      "id": "A11",
+      "family": "Social and affectionate touch",
+      "label": "Swimming safety support",
+      "mode": "Functional touch",
+      "note": "Raj's coaching aid, clearly professional"
+    },
+    {
+      "id": "A12",
+      "family": "Social and affectionate touch",
+      "label": "Consensual nonsexual massage",
+      "mode": "Actual touch",
+      "note": "Relaxation or athletic recovery, not automatic sexual intent"
+    },
+    {
+      "id": "A13",
+      "family": "Social and affectionate touch",
+      "label": "Playful shoulder or arm tap",
+      "mode": "Actual touch",
+      "note": "Nonsexual banter"
+    },
+    {
+      "id": "A14",
+      "family": "Social and affectionate touch",
+      "label": "Touch declined or withdrawn",
+      "mode": "Boundary",
+      "note": "No or stop ends the specific contact"
+    },
+    {
+      "id": "K01",
+      "family": "Kisses and romance",
+      "label": "Cheek kiss",
+      "mode": "Actual touch",
+      "note": "Affectionate kiss with consent"
+    },
+    {
+      "id": "K02",
+      "family": "Kisses and romance",
+      "label": "Forehead kiss",
+      "mode": "Actual touch",
+      "note": "Tender kiss with consent"
+    },
+    {
+      "id": "K03",
+      "family": "Kisses and romance",
+      "label": "Brief mutual lip kiss",
+      "mode": "Actual touch",
+      "note": "Kiss is distinct from sexual acts"
+    },
+    {
+      "id": "K04",
+      "family": "Kisses and romance",
+      "label": "Sustained mutual kissing",
+      "mode": "Actual touch",
+      "note": "Longer mutually welcomed kiss"
+    },
+    {
+      "id": "K05",
+      "family": "Kisses and romance",
+      "label": "Kiss initiated and reciprocated",
+      "mode": "Actual touch",
+      "note": "Track whose initiative and response"
+    },
+    {
+      "id": "K06",
+      "family": "Kisses and romance",
+      "label": "Kiss requested and declined",
+      "mode": "Boundary",
+      "note": "No physical kiss occurs"
+    },
+    {
+      "id": "K07",
+      "family": "Kisses and romance",
+      "label": "Kiss interrupted by arrival",
+      "mode": "Interruption",
+      "note": "Interrupting event breaks escalation"
+    },
+    {
+      "id": "K08",
+      "family": "Kisses and romance",
+      "label": "Navel-focused kissing",
+      "mode": "Intimate touch",
+      "note": "Prior story motif; requires specific new permission"
+    },
+    {
+      "id": "K09",
+      "family": "Kisses and romance",
+      "label": "Affectionate kissing after reunion",
+      "mode": "Actual touch",
+      "note": "Renewed contact, not automatic first"
+    },
+    {
+      "id": "K10",
+      "family": "Kisses and romance",
+      "label": "Kiss then deliberate pause",
+      "mode": "Aftermath",
+      "note": "Scene ends at chosen boundary"
+    },
+    {
+      "id": "K11",
+      "family": "Kisses and romance",
+      "label": "Affectionate disclosure after kissing",
+      "mode": "Dialogue",
+      "note": "Consequences rather than immediate next act"
+    },
+    {
+      "id": "S01",
+      "family": "Sexual but non-penetrative action labels",
+      "label": "Consensual undressing or nude presence",
+      "mode": "Nudity",
+      "note": "Exposure must be separately chosen; viewing is not touching"
+    },
+    {
+      "id": "S02",
+      "family": "Sexual but non-penetrative action labels",
+      "label": "Self-directed masturbation",
+      "mode": "Solo act",
+      "note": "Actual private self-stimulation; distinguish from imagined/recalled"
+    },
+    {
+      "id": "S03",
+      "family": "Sexual but non-penetrative action labels",
+      "label": "Imagined masturbation",
+      "mode": "Imagined",
+      "note": "Fantasy only; do not mark as completed"
+    },
+    {
+      "id": "S04",
+      "family": "Sexual but non-penetrative action labels",
+      "label": "Recalled masturbation",
+      "mode": "Recalled",
+      "note": "Old self-directed act remembered, not repeated"
+    },
+    {
+      "id": "S05",
+      "family": "Sexual but non-penetrative action labels",
+      "label": "Consensual witnessed masturbation",
+      "mode": "Witnessed",
+      "note": "Adult onlooker and person involved agree explicitly; no recording by default"
+    },
+    {
+      "id": "S06",
+      "family": "Sexual but non-penetrative action labels",
+      "label": "Mutual masturbation",
+      "mode": "Mutual sexual act",
+      "note": "Non-penetrative mutual sexual activity, off-page"
+    },
+    {
+      "id": "S07",
+      "family": "Sexual but non-penetrative action labels",
+      "label": "Manual genital stimulation (handjob)",
+      "mode": "Manual sexual act",
+      "note": "Non-penetrative manual contact, described by label only"
+    },
+    {
+      "id": "S08",
+      "family": "Sexual but non-penetrative action labels",
+      "label": "Mutual manual sexual contact",
+      "mode": "Manual sexual act",
+      "note": "Adult mutual touching, off-page"
+    },
+    {
+      "id": "S09",
+      "family": "Sexual but non-penetrative action labels",
+      "label": "External genital contact",
+      "mode": "Non-penetrative",
+      "note": "Outside-body contact; do not silently imply internal contact"
+    },
+    {
+      "id": "S10",
+      "family": "Sexual but non-penetrative action labels",
+      "label": "Consensual breast touching",
+      "mode": "Non-penetrative",
+      "note": "Separate permission from kissing or nudity"
+    },
+    {
+      "id": "S11",
+      "family": "Sexual but non-penetrative action labels",
+      "label": "Breast-focused kissing / oral contact",
+      "mode": "Non-penetrative",
+      "note": "Name only; separate from oral-genital activity"
+    },
+    {
+      "id": "S12",
+      "family": "Sexual but non-penetrative action labels",
+      "label": "Breast-focused friction (titjob)",
+      "mode": "Non-penetrative",
+      "note": "Neutral name only, off-page"
+    },
+    {
+      "id": "S13",
+      "family": "Sexual but non-penetrative action labels",
+      "label": "Non-penetrative body-to-body friction",
+      "mode": "Non-penetrative",
+      "note": "Adult consensual category without mechanics"
+    },
+    {
+      "id": "S14",
+      "family": "Sexual but non-penetrative action labels",
+      "label": "External oral-genital contact",
+      "mode": "Non-penetrative if strictly external",
+      "note": "Oral-genital category may involve penetration; track precisely; no mechanics"
+    },
+    {
+      "id": "S15",
+      "family": "Sexual but non-penetrative action labels",
+      "label": "Oral sexual contact (blowjob label)",
+      "mode": "May not be strictly non-penetrative",
+      "note": "Distinguish from strictly no-penetration rule; name only, off-page"
+    },
+    {
+      "id": "S16",
+      "family": "Sexual but non-penetrative action labels",
+      "label": "Sexual climax without penetration",
+      "mode": "Outcome",
+      "note": "Not required for a milestone or plot advancement"
+    },
+    {
+      "id": "S17",
+      "family": "Sexual but non-penetrative action labels",
+      "label": "Sexual contact proposed but declined",
+      "mode": "Boundary",
+      "note": "A proposed act is not performed"
+    },
+    {
+      "id": "S18",
+      "family": "Sexual but non-penetrative action labels",
+      "label": "Sexual contact discussed, not performed",
+      "mode": "Discussion",
+      "note": "Future candidate; no physical milestone"
+    },
+    {
+      "id": "S19",
+      "family": "Sexual but non-penetrative action labels",
+      "label": "Partial intimate contact then stop",
+      "mode": "Boundary",
+      "note": "Stop takes precedence even if earlier contact was consensual"
+    },
+    {
+      "id": "S20",
+      "family": "Sexual but non-penetrative action labels",
+      "label": "Off-page intimacy, type unspecified",
+      "mode": "Off-page",
+      "note": "Do not invent specific action not supported by the scene"
+    },
+    {
+      "id": "O01",
+      "family": "Observer / John / privacy",
+      "label": "John hears a report of earlier encounter",
+      "mode": "Reported",
+      "note": "Knowledge of event is not actual witness"
+    },
+    {
+      "id": "O02",
+      "family": "Observer / John / privacy",
+      "label": "John observes agreed affectionate contact",
+      "mode": "Observer",
+      "note": "Scope excludes sexual viewing unless independently negotiated"
+    },
+    {
+      "id": "O03",
+      "family": "Observer / John / privacy",
+      "label": "John observes agreed nudity",
+      "mode": "Observer",
+      "note": "Named viewers and scene scope must be agreed"
+    },
+    {
+      "id": "O04",
+      "family": "Observer / John / privacy",
+      "label": "John observes agreed private intimacy",
+      "mode": "Observer",
+      "note": "All adults opt in; no assumed group participation"
+    },
+    {
+      "id": "O05",
+      "family": "Observer / John / privacy",
+      "label": "Consensual remote observer",
+      "mode": "Video",
+      "note": "All on camera and watching have agreed"
+    },
+    {
+      "id": "O06",
+      "family": "Observer / John / privacy",
+      "label": "Accidental witness discovers activity",
+      "mode": "Accidental",
+      "note": "Not automatically welcomed or eroticized"
+    },
+    {
+      "id": "O07",
+      "family": "Observer / John / privacy",
+      "label": "Viewer withdraws consent or leaves",
+      "mode": "Boundary",
+      "note": "Observation ends immediately"
+    },
+    {
+      "id": "O08",
+      "family": "Observer / John / privacy",
+      "label": "Viewer only imagined or reported",
+      "mode": "Imagined/reported",
+      "note": "Never classify as actual watching"
+    },
+    {
+      "id": "O09",
+      "family": "Observer / John / privacy",
+      "label": "No recording or screenshot agreement",
+      "mode": "Privacy",
+      "note": "Separate from agreement to attend or view"
+    },
+    {
+      "id": "O10",
+      "family": "Observer / John / privacy",
+      "label": "Husband-wife debrief after observation",
+      "mode": "Aftermath",
+      "note": "Dialogue can carry more plot than another physical scene"
+    },
+    {
+      "id": "C01",
+      "family": "Context and scenario engines",
+      "label": "Home visit with separate conversations",
+      "mode": "Scenario",
+      "note": "Ordinary life precedes optional intimacy"
+    },
+    {
+      "id": "C02",
+      "family": "Context and scenario engines",
+      "label": "Gym partner exercise and cooldown",
+      "mode": "Scenario",
+      "note": "Fitness is a real activity, not default erotic contact"
+    },
+    {
+      "id": "C03",
+      "family": "Context and scenario engines",
+      "label": "Swimming class with skill progress",
+      "mode": "Scenario",
+      "note": "Raj teaches safely, without converting coaching into consent"
+    },
+    {
+      "id": "C04",
+      "family": "Context and scenario engines",
+      "label": "Tuition class with adult student",
+      "mode": "Scenario",
+      "note": "Academic role and romantic choices kept separate"
+    },
+    {
+      "id": "C05",
+      "family": "Context and scenario engines",
+      "label": "Painting/project visit",
+      "mode": "Scenario",
+      "note": "Chotu's existing practical connection"
+    },
+    {
+      "id": "C06",
+      "family": "Context and scenario engines",
+      "label": "Society gathering or festival",
+      "mode": "Scenario",
+      "note": "Social encounters and neighbour plot"
+    },
+    {
+      "id": "C07",
+      "family": "Context and scenario engines",
+      "label": "Couples dinner/game night",
+      "mode": "Scenario",
+      "note": "Questions and affectionate options, no compulsory acts"
+    },
+    {
+      "id": "C08",
+      "family": "Context and scenario engines",
+      "label": "Holiday or hotel trip",
+      "mode": "Scenario",
+      "note": "Travel time and privacy tracked"
+    },
+    {
+      "id": "C09",
+      "family": "Context and scenario engines",
+      "label": "Outfit or clothing challenge",
+      "mode": "Scenario",
+      "note": "No exposure forfeits or compelled undressing"
+    },
+    {
+      "id": "C10",
+      "family": "Context and scenario engines",
+      "label": "Repair or contractor visit",
+      "mode": "Scenario",
+      "note": "Iroh/Zuko in professional role; no automatic intimacy"
+    },
+    {
+      "id": "C11",
+      "family": "Context and scenario engines",
+      "label": "Phone/text conversation",
+      "mode": "Scenario",
+      "note": "Remote words not actual physical touch"
+    },
+    {
+      "id": "C12",
+      "family": "Context and scenario engines",
+      "label": "Video call or chosen observation",
+      "mode": "Scenario",
+      "note": "Named viewers and permissions required"
+    },
+    {
+      "id": "C13",
+      "family": "Context and scenario engines",
+      "label": "Anonymous message/Stranger clue",
+      "mode": "Scenario",
+      "note": "Mystery evidence separate from sexual activity"
+    },
+    {
+      "id": "C14",
+      "family": "Context and scenario engines",
+      "label": "Spousal disclosure and conflict",
+      "mode": "Scenario",
+      "note": "Marriage boundaries and knowledge ledger"
+    },
+    {
+      "id": "C15",
+      "family": "Context and scenario engines",
+      "label": "Solitary reflection after encounter",
+      "mode": "Scenario",
+      "note": "Thoughts, jealousy, guilt, uncertainty can drive plot"
+    },
+    {
+      "id": "C16",
+      "family": "Context and scenario engines",
+      "label": "Reunion after days apart",
+      "mode": "Scenario",
+      "note": "Resume at familiar level without resetting milestone"
+    },
+    {
+      "id": "P01",
+      "family": "Pause / recovery and consent",
+      "label": "Explicit stop or refusal",
+      "mode": "Stop",
+      "note": "No further touching of the declined type"
+    },
+    {
+      "id": "P02",
+      "family": "Pause / recovery and consent",
+      "label": "Self-initiated pause",
+      "mode": "Stop",
+      "note": "Chosen break without external trigger"
+    },
+    {
+      "id": "P03",
+      "family": "Pause / recovery and consent",
+      "label": "Unexpected interruption",
+      "mode": "Interruption",
+      "note": "Doorbell, work, child-care logistics or call"
+    },
+    {
+      "id": "P04",
+      "family": "Pause / recovery and consent",
+      "label": "Clothing restored",
+      "mode": "Reset",
+      "note": "A scene can end simply with dressing"
+    },
+    {
+      "id": "P05",
+      "family": "Pause / recovery and consent",
+      "label": "Characters separate physically",
+      "mode": "Reset",
+      "note": "Different locations before further plotting"
+    },
+    {
+      "id": "P06",
+      "family": "Pause / recovery and consent",
+      "label": "Private reflection / uncertainty",
+      "mode": "Aftermath",
+      "note": "Emotions need not instantly produce action"
+    },
+    {
+      "id": "P07",
+      "family": "Pause / recovery and consent",
+      "label": "Spouse conversation",
+      "mode": "Aftermath",
+      "note": "Disclosure or non-disclosure has consequences"
+    },
+    {
+      "id": "P08",
+      "family": "Pause / recovery and consent",
+      "label": "Friendship/jealousy aftermath",
+      "mode": "Aftermath",
+      "note": "A separate relational development"
+    },
+    {
+      "id": "P09",
+      "family": "Pause / recovery and consent",
+      "label": "Ordinary-day buffer",
+      "mode": "Break episode",
+      "note": "Work, study, gym or swimming with no sexual beat"
+    },
+    {
+      "id": "P10",
+      "family": "Pause / recovery and consent",
+      "label": "Separate subplot episode",
+      "mode": "Break episode",
+      "note": "Shift to Strand B while Strand A cools"
+    },
+    {
+      "id": "P11",
+      "family": "Pause / recovery and consent",
+      "label": "Boundary repair / apology",
+      "mode": "Aftermath",
+      "note": "Avoid erasing ignored stops"
+    },
+    {
+      "id": "P12",
+      "family": "Pause / recovery and consent",
+      "label": "Fresh consent at later reunion",
+      "mode": "Re-entry",
+      "note": "Past permission does not carry over"
+    },
+    {
+      "id": "P13",
+      "family": "Pause / recovery and consent",
+      "label": "Unresolved cliffhanger",
+      "mode": "Pacing",
+      "note": "Promise of future discussion, not automatic act"
+    },
+    {
+      "id": "P14",
+      "family": "Pause / recovery and consent",
+      "label": "Knowledge correction",
+      "mode": "Continuity",
+      "note": "What one character knows, witnessed, imagined or heard"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Dhika",
+      "identity": "29 · married to John",
+      "role": "Verified original lead; many separate relationship arcs",
+      "sourceStatus": "Shown/known in source: married intimacy, Chotu/twins history, self-reflection, active stops; earlier external sexual firsts cannot be invented",
+      "connections": [
+        "John",
+        "Chotu",
+        "Bantu",
+        "Bobby",
+        "Sharmi",
+        "Raj",
+        "Neighbour Uncle",
+        "Leo",
+        "Nisha",
+        "Stranger"
+      ],
+      "guardrail": "Consent and disclosure; old John-only intercourse boundary remains until explicitly changed",
+      "checklist": [
+        {
+          "label": "Identity and age status",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs proposed distinction",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current partner and marriage",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they actually witnessed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they were merely told",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they imagined/recalled",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What physical acts are verified",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What acts remain only proposed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current consent and stops",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next planned meeting and location",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Recovery/break before next beat",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Effect on another relationship",
+          "status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "identity": "31 · married to Dhika",
+      "role": "Husband and occasional interested observer",
+      "sourceStatus": "Source contains marriage, disclosures and some curiosity; proposed witnessing episodes are NOT identical to source-confirmed history",
+      "connections": [
+        "Dhika",
+        "Sharmi",
+        "Raj",
+        "Chotu",
+        "Leo"
+      ],
+      "guardrail": "Actual observer vs told/imagined; no recording; named permissions",
+      "checklist": [
+        {
+          "label": "Identity and age status",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs proposed distinction",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current partner and marriage",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they actually witnessed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they were merely told",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they imagined/recalled",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What physical acts are verified",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What acts remain only proposed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current consent and stops",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next planned meeting and location",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Recovery/break before next beat",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Effect on another relationship",
+          "status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "name": "Chotu / Babu",
+      "identity": "23 · adult",
+      "role": "Established close relationship with Dhika",
+      "sourceStatus": "Source confirms long physical/romantic history beyond first kiss; avoid re-introduction and mechanical escalation",
+      "connections": [
+        "Dhika",
+        "Sharmi",
+        "John"
+      ],
+      "guardrail": "Independent consent and separate ties with Sharmi",
+      "checklist": [
+        {
+          "label": "Identity and age status",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs proposed distinction",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current partner and marriage",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they actually witnessed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they were merely told",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they imagined/recalled",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What physical acts are verified",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What acts remain only proposed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current consent and stops",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next planned meeting and location",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Recovery/break before next beat",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Effect on another relationship",
+          "status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "name": "Bantu",
+      "identity": "22 · adult twin",
+      "role": "Established separate history with Dhika",
+      "sourceStatus": "Source has intimacy and some ignored stop requests; must not rewrite boundaries",
+      "connections": [
+        "Dhika",
+        "Bobby"
+      ],
+      "guardrail": "Trust repair and immediate stop required; NOT Nisha gym partner",
+      "checklist": [
+        {
+          "label": "Identity and age status",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs proposed distinction",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current partner and marriage",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they actually witnessed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they were merely told",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they imagined/recalled",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What physical acts are verified",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What acts remain only proposed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current consent and stops",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next planned meeting and location",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Recovery/break before next beat",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Effect on another relationship",
+          "status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "name": "Bobby",
+      "identity": "22 · adult twin",
+      "role": "Independent twin arc with Dhika",
+      "sourceStatus": "Existing affectionate and private-view history is his own, not Bantu's",
+      "connections": [
+        "Dhika",
+        "Bantu"
+      ],
+      "guardrail": "Privacy permissions independent; NOT Nisha gym partner",
+      "checklist": [
+        {
+          "label": "Identity and age status",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs proposed distinction",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current partner and marriage",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they actually witnessed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they were merely told",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they imagined/recalled",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What physical acts are verified",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What acts remain only proposed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current consent and stops",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next planned meeting and location",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Recovery/break before next beat",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Effect on another relationship",
+          "status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "name": "Sharmi",
+      "identity": "adult · married to Raj",
+      "role": "Long-term close friendship with Dhika",
+      "sourceStatus": "Source includes friendship, teasing, household/couple social ties; new romance is proposal only",
+      "connections": [
+        "Raj",
+        "Dhika",
+        "John",
+        "Chotu",
+        "Nisha",
+        "Kabir"
+      ],
+      "guardrail": "Independent consent; women-women attraction potential not source canon",
+      "checklist": [
+        {
+          "label": "Identity and age status",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs proposed distinction",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current partner and marriage",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they actually witnessed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they were merely told",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they imagined/recalled",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What physical acts are verified",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What acts remain only proposed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current consent and stops",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next planned meeting and location",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Recovery/break before next beat",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Effect on another relationship",
+          "status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "name": "Raj",
+      "identity": "adult · married to Sharmi",
+      "role": "Existing swimmer and Dhika's coach",
+      "sourceStatus": "Original source explicitly describes Raj as swimming coach; swimming aid is nonsexual",
+      "connections": [
+        "Sharmi",
+        "Dhika",
+        "John",
+        "Kabir"
+      ],
+      "guardrail": "Coaching/safety is not touch permission",
+      "checklist": [
+        {
+          "label": "Identity and age status",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs proposed distinction",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current partner and marriage",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they actually witnessed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they were merely told",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they imagined/recalled",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What physical acts are verified",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What acts remain only proposed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current consent and stops",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next planned meeting and location",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Recovery/break before next beat",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Effect on another relationship",
+          "status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "name": "Leo",
+      "identity": "adult · original acquaintance of John and Dhika",
+      "role": "NEW proposed Nisha gym partner for ~8 months",
+      "sourceStatus": "Source supports earlier visits and work travel; the Nisha gym relationship is new proposal, not original",
+      "connections": [
+        "Nisha",
+        "Dhika",
+        "John",
+        "Kabir"
+      ],
+      "guardrail": "Possible attraction to married Nisha; never automatically Stranger",
+      "checklist": [
+        {
+          "label": "Identity and age status",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs proposed distinction",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current partner and marriage",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they actually witnessed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they were merely told",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they imagined/recalled",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What physical acts are verified",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What acts remain only proposed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current consent and stops",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next planned meeting and location",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Recovery/break before next beat",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Effect on another relationship",
+          "status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "name": "Nisha Malhotra",
+      "identity": "25 · married",
+      "role": "NEW 25-year-old fitness regular and adult tuition learner",
+      "sourceStatus": "User-locked married 25; gym partner Leo; academic relation with Dhika; name and husband details provisional",
+      "connections": [
+        "Leo",
+        "Kabir",
+        "Dhika",
+        "Sharmi",
+        "Neighbour Uncle"
+      ],
+      "guardrail": "No Nisha–twins gym romance; fitness and tuition professional boundaries",
+      "checklist": [
+        {
+          "label": "Identity and age status",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs proposed distinction",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current partner and marriage",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they actually witnessed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they were merely told",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they imagined/recalled",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What physical acts are verified",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What acts remain only proposed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current consent and stops",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next planned meeting and location",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Recovery/break before next beat",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Effect on another relationship",
+          "status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "name": "Kabir Malhotra",
+      "identity": "29 · married to Nisha (proposed)",
+      "role": "NEW third-couple husband",
+      "sourceStatus": "Name, age, consultant role are proposed; marriage to Nisha user-requested",
+      "connections": [
+        "Nisha",
+        "John",
+        "Raj",
+        "Dhika",
+        "Sharmi"
+      ],
+      "guardrail": "Third-couple game must be agreed, independent of Nisha's gym relationships",
+      "checklist": [
+        {
+          "label": "Identity and age status",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs proposed distinction",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current partner and marriage",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they actually witnessed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they were merely told",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they imagined/recalled",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What physical acts are verified",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What acts remain only proposed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current consent and stops",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next planned meeting and location",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Recovery/break before next beat",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Effect on another relationship",
+          "status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "name": "Neighbour Uncle",
+      "identity": "older adult · married to Aunty",
+      "role": "Older recurring neighbour, not Iroh",
+      "sourceStatus": "Complicated old history and privacy issues; physical strength is user-proposed new characterization",
+      "connections": [
+        "Aunty",
+        "Dhika",
+        "Nisha"
+      ],
+      "guardrail": "New Nisha connection requires slow build, not job/authority coercion",
+      "checklist": [
+        {
+          "label": "Identity and age status",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs proposed distinction",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current partner and marriage",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they actually witnessed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they were merely told",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they imagined/recalled",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What physical acts are verified",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What acts remain only proposed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current consent and stops",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next planned meeting and location",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Recovery/break before next beat",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Effect on another relationship",
+          "status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "name": "Aunty",
+      "identity": "adult · married to Neighbour Uncle",
+      "role": "Existing neighbour and family-support presence",
+      "sourceStatus": "Original story includes domestic/childcare relationship; not omniscient about Uncle's actions",
+      "connections": [
+        "Neighbour Uncle",
+        "Dhika",
+        "John"
+      ],
+      "guardrail": "Her agency, marriage and knowledge matter",
+      "checklist": [
+        {
+          "label": "Identity and age status",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs proposed distinction",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current partner and marriage",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they actually witnessed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they were merely told",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they imagined/recalled",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What physical acts are verified",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What acts remain only proposed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current consent and stops",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next planned meeting and location",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Recovery/break before next beat",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Effect on another relationship",
+          "status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "name": "Iroh",
+      "identity": "older adult · plumber",
+      "role": "Professional renovation track",
+      "sourceStatus": "Original bathroom repairs and delayed bathtub are verified; Iroh is not neighbour Uncle",
+      "connections": [
+        "Dhika",
+        "John",
+        "Zuko",
+        "Workmen"
+      ],
+      "guardrail": "Professional interactions only until independently planned",
+      "checklist": [
+        {
+          "label": "Identity and age status",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs proposed distinction",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current partner and marriage",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they actually witnessed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they were merely told",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they imagined/recalled",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What physical acts are verified",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What acts remain only proposed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current consent and stops",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next planned meeting and location",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Recovery/break before next beat",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Effect on another relationship",
+          "status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "name": "Zuko",
+      "identity": "adult nephew of Iroh",
+      "role": "Plumbing-team member",
+      "sourceStatus": "Original source supports nephew/work role and awkwardness; do not equate him with Stranger",
+      "connections": [
+        "Iroh",
+        "Dhika",
+        "Workmen"
+      ],
+      "guardrail": "No inferred intimate consent from gaze",
+      "checklist": [
+        {
+          "label": "Identity and age status",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs proposed distinction",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current partner and marriage",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they actually witnessed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they were merely told",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they imagined/recalled",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What physical acts are verified",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What acts remain only proposed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current consent and stops",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next planned meeting and location",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Recovery/break before next beat",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Effect on another relationship",
+          "status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "name": "Stranger",
+      "identity": "identity/age unknown",
+      "role": "Anonymous gift/message mystery",
+      "sourceStatus": "Messages and gifts shown, person not verified; not assigned sexual acts or identity",
+      "connections": [
+        "Dhika",
+        "John"
+      ],
+      "guardrail": "No intimate storyline until independently established adult identity and consent",
+      "checklist": [
+        {
+          "label": "Identity and age status",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs proposed distinction",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current partner and marriage",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they actually witnessed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they were merely told",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they imagined/recalled",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What physical acts are verified",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What acts remain only proposed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current consent and stops",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next planned meeting and location",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Recovery/break before next beat",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Effect on another relationship",
+          "status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "name": "Workmen (unnamed)",
+      "identity": "ages unverified",
+      "role": "Iroh's supporting repair staff",
+      "sourceStatus": "Names/personal histories not verified",
+      "connections": [
+        "Iroh",
+        "Zuko",
+        "Dhika"
+      ],
+      "guardrail": "No invented identities or physical acts",
+      "checklist": [
+        {
+          "label": "Identity and age status",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs proposed distinction",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current partner and marriage",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they actually witnessed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they were merely told",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they imagined/recalled",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What physical acts are verified",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What acts remain only proposed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current consent and stops",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next planned meeting and location",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Recovery/break before next beat",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Effect on another relationship",
+          "status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "name": "Leo's/other Mexico contacts",
+      "identity": "adult status varies / unverified",
+      "role": "Secondary continuation context",
+      "sourceStatus": "Keep names like Scott separate from unconfirmed Stranger; verify source before any milestone",
+      "connections": [
+        "Dhika",
+        "Raj",
+        "Sharmi"
+      ],
+      "guardrail": "No unverified sexual milestone",
+      "checklist": [
+        {
+          "label": "Identity and age status",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs proposed distinction",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current partner and marriage",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they actually witnessed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they were merely told",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they imagined/recalled",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What physical acts are verified",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What acts remain only proposed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current consent and stops",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next planned meeting and location",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Recovery/break before next beat",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Effect on another relationship",
+          "status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "name": "Pappu",
+      "identity": "child · family-only",
+      "role": "Nonsexual family logistics",
+      "sourceStatus": "Original source shows family/childcare scheduling only",
+      "connections": [
+        "Dhika",
+        "John",
+        "Aunty"
+      ],
+      "guardrail": "NEVER in sexual scene, sexual observation, or sexual checklist",
+      "checklist": [
+        {
+          "label": "Identity and age status",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Original vs proposed distinction",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current partner and marriage",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they actually witnessed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they were merely told",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What they imagined/recalled",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What physical acts are verified",
+          "status": "unreviewed"
+        },
+        {
+          "label": "What acts remain only proposed",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Current consent and stops",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Next planned meeting and location",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Recovery/break before next beat",
+          "status": "unreviewed"
+        },
+        {
+          "label": "Effect on another relationship",
+          "status": "unreviewed"
+        }
+      ]
+    }
+  ],
+  "pacing": {
+    "title": "Dhika-style encounter rhythm (planning inference, not mechanical rule)",
+    "cycle": [
+      "Practical reason / social setup",
+      "Attraction, proximity or internal curiosity",
+      "One clearly scoped encounter or relationship beat",
+      "Explicit stop, interruption, withdrawal or intentional end",
+      "Private emotional aftermath and knowledge tracking",
+      "Ordinary life / alternate subplot / days apart",
+      "New meeting only after its own setup and renewed consent"
+    ],
+    "hardRules": [
+      "Do not force gym, swimming, tuition, Leo return, Stranger, Uncle and couples' games into the same episode.",
+      "A high-intensity encounter gets at least one meaningful post-encounter recovery scene and normally an intervening episode/other storyline before the same pairing escalates again.",
+      "One substantial romantic/sexual escalation per relationship per episode maximum; zero-escalation episodes are welcome.",
+      "Actual, imagined, recalled, reported, sighted, accidentally seen and specifically witnessed are distinct statuses in the ledger.",
+      "Self-masturbation is a solo action; a character imagining it is not a completed solo act; masturbation witnessed by John needs explicit participant/viewer consent.",
+      "John may know, hear, watch, not watch or be misinformed: each is a different state. Viewer participation must not be presumed.",
+      "An interrupted encounter doesn't necessarily imply consensual continuation later; explicit no and stop requests end contact.",
+      "Do not infer nudity consent from clothing, fitness, lesson, medical or work interactions.",
+      "Prevent impossible simultaneous locations. Track gym, tuition, swimming, work, childcare, repair and private scenes on one timeline.",
+      "Prior action milestones never reset to 'first' without reliable verification from original source.",
+      "Women–women romance, married-couple games, Nisha–Uncle and Leo–Nisha remain separate proposed lanes with no automatic physical crossover.",
+      "All sexual action names remain non-graphic/off-page; original source remains separate from future speculation."
+    ],
+    "sourceStatus": "The described rhythm is an analysis of the reviewed original Google Doc tabs, not a universal rule stated by the author. Several source encounters involve unclear consent or ignored boundaries; those are recorded as risks, not templates.",
+    "evidence": [
+      {
+        "name": "Chotu first kiss and hesitation",
+        "authorTab": 6,
+        "title": "Playing with Chotu backfires a little",
+        "observation": "An intimate kiss leads to a startled withdrawal, then the continuation handles the consequences; not automatic unlimited escalation.",
+        "source": "Original Doc source tab 6"
+      },
+      {
+        "name": "Swiss interval with John letters",
+        "authorTab": 20,
+        "title": "Swiss — Day 3: Letters to John and dismayed Twins",
+        "observation": "Amid Swiss physical encounters, a separate emotional/communication day changes the tempo.",
+        "source": "Original Doc source tab 20"
+      },
+      {
+        "name": "Chotu intensity to revelation",
+        "authorTab": 23,
+        "title": "Dhika's Orgasm",
+        "observation": "A major Chotu encounter concludes; next chapter shifts to John's confrontation/conversation.",
+        "source": "Original Doc source tabs 23 and 24"
+      },
+      {
+        "name": "John revelation",
+        "authorTab": 24,
+        "title": "Revelation",
+        "observation": "Recounts and knowledge checks after the Chotu encounter; report/recall are not fresh contacts.",
+        "source": "Original Doc source tab 24"
+      },
+      {
+        "name": "Prelude after planning",
+        "authorTab": 31,
+        "title": "A Week before the Weekend Retreat",
+        "observation": "A preparation episode supports later multiple threads without every relationship escalating at once.",
+        "source": "Original Doc source tab 31"
+      },
+      {
+        "name": "Swiss consent caveat",
+        "authorTab": 18,
+        "title": "Swiss — Day 1: Groping shower with twins",
+        "observation": "An explicit request for the boys to leave precedes a scene break; a stop should be honored.",
+        "source": "Original Doc source tab 18"
+      }
+    ]
+  },
+  "scenarioTypes": [
+    "Gym: Nisha × Leo training; Dhika/Sharmi join later",
+    "Raj: swimming lessons with Dhika",
+    "Tuition: Dhika's academic group and adult Nisha",
+    "Chotu: painting and separate romantic context",
+    "John: private disclosure/witnessing discussions",
+    "Stranger: parcel and message evidence only",
+    "Uncle: society event and Nisha possible attraction",
+    "Iroh/Zuko: actual bath renovation appointment",
+    "Three couples: social game night and separate follow-up",
+    "Women–women: self-directed friendship/romantic discovery",
+    "Solo: imagined/recalled vs actual self-pleasuring",
+    "Aftermath: missed calls, letters, guilt, conflict, repair and reset"
+  ]
+}
