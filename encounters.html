@@ -25,7 +25,7 @@ function el(x){return document.getElementById(x)}
 function esc(x){return String(x==null?"":x).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,'&quot;').replace(/'/g,"&#39;")}
 function safeStoreGet(key){try{return localStorage.getItem(key)||""}catch(e){return ""}}
 function safeStoreSet(key,value){try{localStorage.setItem(key,value)}catch(e){}}
-function choose(v){view=v;var url=new URL(location.href);url.searchParams.set("view",v);history.pushState(null,"",url);render()}
+function choose(v){if(view!==v){query='';actionMode='all';family='all'}view=v;var url=new URL(location.href);url.searchParams.set("view",v);history.pushState(null,"",url);render()}
 function root(){if(!SYS)return;var u=new URLSearchParams(location.search),v=u.get("view");view=["actions","characters","pacing","lanes","episodes","evidence","penetration"].includes(v)?v:"actions";render()}
 function render(){document.querySelectorAll("[data-v]").forEach(function(b){b.classList.toggle("active",b.getAttribute("data-v")===view)});if(view==="actions")renderActions();else if(view==="characters")renderCharacters();else if(view==="pacing")renderPacing();else if(view==="lanes")renderLanes();else if(view==="episodes")renderEpisodes();else if(view==="evidence")renderEvidence();else renderPenetration()}
 function renderActions(){
