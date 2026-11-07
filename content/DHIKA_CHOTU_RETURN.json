@@ -1,17 +1,17 @@
 {
   "schema": "dhika-chotu-return-v1",
-  "status": "PROPOSED / NOT CANON",
+  "status": "PROPOSED — EP65–76 REVISED FOR SLOW BURN",
   "created": "2026-11-07",
-  "title": "Dhika — Chotu Returns and New Routines: Witness, Rivalry, Repairs, Stranger",
+  "title": "Dhika — History, Chotu and Multi-Arc Slow-Burn Story Planner",
   "numbering": {
     "originalSourceLastExplicitEpisode": 41,
     "mexicoProposal": "42–48",
     "indiaReturnProposal": "49–51",
     "twinsPart4Proposal": "52–56",
-    "newArc": "57–66",
+    "newArc": "57–76",
     "legacyEpisodeAnalysis": "1–69 secondary indexing, not automatically equal to author episodes"
   },
-  "intro": "Source-audited non-graphic plot design covering Dhika–Chotu, Sharmi, John, neighbour Uncle, plumber Iroh, nephew Zuko, unnamed workmen, Leo, twins and the anonymous Stranger. Adult physical actions are labels only; some occur off-page. Neither an anonymous identity nor earlier consent is invented. Extended EP65–66 with gym, swimming, adult female tuition learner, Leo return and unresolved Stranger leads. Nisha's age 25 and married status are user-locked; her academic course and spouse details are provisional.",
+  "intro": "Original author ends EP41; EP42–76 are proposed extensions. EP65 onward uses one central storyline per episode, with recovery/ordinary-life intervals. Old compressed EP65–66 preserved in archive file.",
   "history": [
     {
       "topic": "Aunty and neighbour Uncle",
@@ -979,248 +979,806 @@
     },
     {
       "number": 65,
-      "title": "THE NEW ROUTINE",
-      "schedule": "India Day 17 / Monday · Gym 6:45 AM → college → Raj's pool 5:00 PM → tuition 6:30 PM → Leo's arrival 8:30 PM",
-      "plotEngine": "Bantu and Bobby help Dhika and Sharmi find gym membership options, but Nisha's established workout partner is Leo, not either twin. Nisha attends the gym while Leo is away and says he is returning. Raj resumes his existing swimming lessons; Nisha (25, married) independently joins tuition; Leo arrives for a work-related visit at 8:30 PM, and Stranger's anonymous-gift trail remains unresolved.",
-      "highestMilestone": "Nisha × Dhika/Sharmi: gym demonstration and friendly motivation; Raj × Dhika: swimming practice; Leo returns socially; no new sexual milestone.",
-      "boundary": "Nisha and Leo are existing gym partners only in this proposed continuation. Twins facilitate membership but do NOT train with Nisha or have a pre-existing Nisha romance. Professional tuition and workout instruction remain separate.",
-      "achievement": "Dhika and Sharmi begin their fitness routine in Nisha's gym circle; Nisha reveals she and Leo already train regularly together. Leo's evening return tees up their reunion the next morning, Raj's swim lessons continue, and adult tuition is independently introduced.",
-      "status": "PROPOSED",
+      "title": "THE GYM DOOR",
+      "schedule": "Day 17 · Monday · 6:40–8:00 AM gym; 9 PM Dhika home",
+      "plotEngine": "Only establish the gym as a credible recurring location, Nisha as the experienced married fitness regular, and Dhika/Sharmi's reasons for returning. Leo is away. Twins refer the gym but are NOT Nisha's workout partners.",
+      "highestMilestone": "Gym introduction, chosen fitness guidance; no sexual contact",
+      "boundary": "No private touching from gym assistance. Nisha is 25 and married; twins have no pre-existing gym/romantic history with her.",
+      "achievement": "Dhika and Sharmi independently choose the fitness routine; Leo is named as Nisha's absent regular gym partner.",
+      "hook": "Leo will return on a separate day. The next meeting is a social reunion, not another gym encounter.",
+      "status": "PROPOSED / SLOW-BURN REVISION",
+      "pacing": {
+        "lead": "Dhika × Sharmi × Nisha",
+        "track": "Gym introduction",
+        "stage": "Setup and social comparison",
+        "pause": "End after introspection. No romantic escalation; full scene break.",
+        "leadMilestones": "Gym introduction, chosen fitness guidance; no sexual contact"
+      },
       "beats": [
         {
           "id": "E65-01",
-          "title": "The Gym Introduction",
-          "pair": "Dhika × Sharmi × Nisha; Bantu/Bobby (membership referral only)",
-          "slot": "6:45 AM · Gym reception",
-          "description": "Bantu and Bobby have recommended gym membership options to Dhika and Sharmi, but are not present as Nisha's gym partners. Nisha, an experienced married 25-year-old member, welcomes both and mentions that her usual workout partner Leo is away on a short trip.",
+          "title": "A Referral, Not a Romance",
+          "pair": "Dhika × Sharmi; Bantu/Bobby by message",
+          "slot": "6:40 AM · Gym reception",
+          "description": "The twins' referral message helps Dhika and Sharmi locate the gym; neither brother is present as Nisha's partner.",
           "actionNames": [
-            "Gym Membership Referral",
-            "First Gym Meeting",
-            "Workout Introduction",
-            "Leo Name Mention"
+            "Gym Referral",
+            "Membership Enquiry",
+            "Schedule Discussion"
           ],
-          "continuity": "Nisha's existing partner is Leo; twins only help with access. Leo returns later in EP65.",
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
           "status": "proposed"
         },
         {
           "id": "E65-02",
-          "title": "Nisha's Workout Demonstration",
+          "title": "The Woman at the Weights",
           "pair": "Nisha × Dhika × Sharmi",
-          "slot": "7:05 AM · Gym floor",
-          "description": "Nisha shows her own workout routine, suggests safe beginner modifications and invites the women to choose their preferred intensity. Leo's usual spot beside her remains empty because his return is scheduled for evening.",
+          "slot": "6:50 AM · Gym floor",
+          "description": "Nisha's focused workout gives both women a practical benchmark; she introduces herself as married and an experienced regular.",
           "actionNames": [
-            "Warm-Up",
-            "Mobility Practice",
-            "Workout Demonstration",
-            "Permission-Based Form Correction"
+            "First Introduction",
+            "Clothed Observation",
+            "Fitness Motivation"
           ],
-          "continuity": "Leo, not Bantu/Bobby, is Nisha's established workout partner; workout guidance is not flirtation consent.",
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
           "status": "proposed"
         },
         {
           "id": "E65-03",
-          "title": "Sharmi's New Challenge",
-          "pair": "Sharmi × Dhika",
-          "slot": "7:35 AM · Gym exit",
-          "description": "Sharmi suggests a friendly four-week consistency challenge, measured by attendance and skill progress rather than clothing or intimacy.",
+          "title": "Not Leo's Day",
+          "pair": "Nisha × Dhika × Sharmi",
+          "slot": "7:20 AM · Gym floor",
+          "description": "Nisha mentions her usual training partner Leo is traveling; she demonstrates beginner-safe modifications.",
           "actionNames": [
-            "Workout Challenge",
-            "Friendly Rivalry",
-            "Progress Goal Setting"
+            "Gym Partner Mention",
+            "Workout Demonstration",
+            "Form Feedback"
           ],
-          "continuity": "The women have independent motivations and schedules.",
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
           "status": "proposed"
         },
         {
           "id": "E65-04",
-          "title": "Raj Returns as Swim Coach",
-          "pair": "Raj × Dhika",
-          "slot": "5:00 PM · Supervised pool",
-          "description": "Raj recalls earlier sessions and resumes teaching breathing, floating and stroke basics. Dhika wants to swim independently rather than rely on being rescued.",
+          "title": "The Decision at Home",
+          "pair": "Dhika × John; Sharmi by message",
+          "slot": "9:00 PM · Home",
+          "description": "Dhika reflects on confidence and decides to return for herself. Sharmi writes her own training goal.",
           "actionNames": [
-            "Swim Assessment",
-            "Breathing Drill",
-            "Supported Float (Safety Only)",
-            "Stroke Practice"
+            "Private Reflection",
+            "Spouse Conversation",
+            "Four-Week Goal"
           ],
-          "continuity": "Original tab 'A Week before the Weekend Retreat' already calls Raj her swimming coach. Pool contact is practical and permission-based.",
-          "status": "proposed"
-        },
-        {
-          "id": "E65-05",
-          "title": "The New Female Learner",
-          "pair": "Dhika × Nisha; Bantu/Bobby as existing tuition students",
-          "slot": "6:30 PM · Dhika's tuition study space",
-          "description": "Married Nisha (25) separately signs up for adult academic tuition. Bantu and Bobby are already Dhika's students; Nisha does not know them as workout partners and their interactions here are academic.",
-          "actionNames": [
-            "New Adult Student Introduction",
-            "Academic Level Assessment",
-            "Timetable Agreement"
-          ],
-          "continuity": "Gym partnership Leo × Nisha; tuition teacher Dhika; Bantu and Bobby only prior tuition attendees.",
-          "status": "proposed"
-        },
-        {
-          "id": "E65-06",
-          "title": "Leo Returns with John",
-          "pair": "Leo × John × Dhika",
-          "slot": "8:30 PM · Dhika–John home",
-          "description": "Leo returns with John from work travel in the evening. During the ordinary household conversation, Dhika realizes that the gym regular Nisha mentioned earlier is Leo's long-standing workout friend; Leo confirms they usually train together.",
-          "actionNames": [
-            "Familiar Greeting",
-            "Work Travel Recap",
-            "Gym Friendship Reveal",
-            "Shared Dinner"
-          ],
-          "continuity": "He did not appear at the gym this morning: arrival occurs 8:30 PM. Gym partnership with Nisha is a new proposal, not original canon.",
-          "status": "proposed"
-        },
-        {
-          "id": "E65-07",
-          "title": "The Sender's Mark",
-          "pair": "Dhika × John / Stranger",
-          "slot": "9:30 PM · Home",
-          "description": "The older anonymous parcel ledger reveals a repeat dispatch reference. Dhika and John note it down; the clue alone does not identify the sender or connect him to Leo.",
-          "actionNames": [
-            "Anonymous Gift Callback",
-            "Delivery Reference Check",
-            "Mystery Lead",
-            "Privacy Discussion"
-          ],
-          "continuity": "No accusation based on timing or appearance.",
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
           "status": "proposed"
         }
-      ],
-      "hook": "Leo returns that evening. EP66 morning: Dhika and Sharmi discover Leo is Nisha's already-established gym partner and must reconsider their assumptions."
+      ]
     },
     {
       "number": 66,
-      "title": "TWO WOMEN, ONE ROUTINE",
-      "schedule": "India Day 18 / Tuesday · Gym 6:45 AM → college → tuition 4:45 PM → Raj pool 6:00 PM → Leo/Stranger developments 8:30 PM",
-      "plotEngine": "Leo rejoins his established gym partner Nisha for the morning workout. Dhika and Sharmi discover their eight-month gym friendship and measure themselves against Nisha's athletic confidence. Nisha's afternoon tuition session remains separate from the gym; Raj coaches swimming later; the Stranger's delivery trail stays unresolved.",
-      "highestMilestone": "Leo × Nisha: gym partner workout and agreed technique assistance; Dhika/Sharmi: guided exercise; Dhika × Raj: independent floating skill; no new sexual milestone.",
-      "boundary": "Nisha is married to Kabir, and Leo is a gym partner rather than confirmed lover. Bantu/Bobby are not Nisha's gym partners. No profession-related or workout contact equals intimate permission.",
-      "achievement": "Nisha–Leo existing gym duo is visibly established, Dhika and Sharmi gain recurring fitness motivation, Nisha has her own academic goals and married-life pressures, and Leo's social return adds tension without confusing him with Stranger.",
-      "status": "PROPOSED",
+      "title": "LEO COMES BACK",
+      "schedule": "Day 18 · Tuesday · 7:30–9:00 PM home / separate phone",
+      "plotEngine": "One lead event: Leo returns through an established work connection with John. Nisha is not physically present, but their regular gym partnership is revealed through a casual message.",
+      "highestMilestone": "Familiar greeting and friendly embrace; no new sexual milestone",
+      "boundary": "Leo is not presumed to be Stranger; his friendship with married Nisha is not proof of an affair.",
+      "achievement": "Leo's place in John/Dhika's life is restored and his independent eight-month fitness friendship with Nisha becomes known.",
+      "hook": "Wednesday morning: Nisha and Leo meet at the gym, while Dhika/Sharmi join only for their own workout.",
+      "status": "PROPOSED / SLOW-BURN REVISION",
+      "pacing": {
+        "lead": "Leo × John × Dhika",
+        "track": "Leo return",
+        "stage": "Old acquaintance reintroduced",
+        "pause": "Close at ordinary reunion; no Stranger reveal, no romantic scene.",
+        "leadMilestones": "Familiar greeting and friendly embrace; no new sexual milestone"
+      },
       "beats": [
         {
           "id": "E66-01",
-          "title": "Leo and Nisha's Familiar Routine",
-          "pair": "Leo × Nisha × Dhika × Sharmi",
-          "slot": "6:45 AM · Gym",
-          "description": "Nisha and Leo resume their familiar gym session after his return the previous night. They exchange practiced workout cues; Dhika and Sharmi realize they already know each other well. The women choose beginner-friendly exercises.",
+          "title": "The Evening Arrival",
+          "pair": "Leo × John × Dhika",
+          "slot": "7:30 PM · Dhika/John apartment",
+          "description": "John brings Leo back after work travel; the reunion reflects earlier original visits.",
           "actionNames": [
-            "Established Gym Partner Reunion",
-            "Warm-Up",
-            "Partner Workout",
-            "Guided Exercise"
+            "Familiar Greeting",
+            "Shared Dinner",
+            "Travel Recap"
           ],
-          "continuity": "Leo was absent at EP65 morning gym, returned EP65 evening, and attends EP66 morning. No Bantu/Bobby gym participation.",
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
           "status": "proposed"
         },
         {
           "id": "E66-02",
-          "title": "The Friendly Scoreboard",
-          "pair": "Sharmi × Dhika × Nisha",
-          "slot": "7:35 AM · Gym",
-          "description": "Dhika and Sharmi create a four-week fitness goal board, inspired by Nisha's athletic discipline. Nisha encourages individual targets instead of a contest over attractiveness.",
+          "title": "A Name on His Screen",
+          "pair": "Leo × Nisha remotely; Dhika notices",
+          "slot": "8:15 PM · Living room",
+          "description": "Leo sees a normal gym scheduling message from Nisha and explains she is his regular workout partner.",
           "actionNames": [
-            "Fitness Goal Tracking",
-            "Friendly Competition",
-            "Shared Encouragement"
+            "Text Message",
+            "Gym Friendship Disclosure",
+            "Existing Social Connection"
           ],
-          "continuity": "No clothing-based forfeits or sexual rewards.",
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
           "status": "proposed"
         },
         {
           "id": "E66-03",
-          "title": "Leo and Nisha's Training Debate",
-          "pair": "Leo × Nisha × Dhika × Sharmi",
-          "slot": "7:45 AM · Gym café",
-          "description": "Leo prefers a challenging strength circuit while Nisha emphasizes gradual progress and proper form for the newcomers. Dhika and Sharmi decide which workout structure suits them.",
+          "title": "Nothing More Than a Guess",
+          "pair": "Dhika × John",
+          "slot": "9:00 PM · Home",
+          "description": "Dhika asks John what he knows of Leo's new routine. They keep the Stranger mystery separate.",
           "actionNames": [
-            "Partner Training Discussion",
-            "Workout Plan Debate",
-            "Independent Exercise Choice"
+            "Private Question",
+            "Spouse Discussion",
+            "Knowledge Check"
           ],
-          "continuity": "Bantu/Bobby do not appear in Nisha's gym sessions; twins remain part of a separate tuition/home track.",
-          "status": "proposed"
-        },
-        {
-          "id": "E66-04",
-          "title": "Nisha's First Full Lesson",
-          "pair": "Dhika × Nisha; Bantu and Bobby (existing separate tuition group)",
-          "slot": "4:45 PM · Tuition",
-          "description": "Married Nisha (25) joins a full academic tuition session. She meets Dhika's existing students Bantu/Bobby in that capacity, not through a supposed gym friendship with them.",
-          "actionNames": [
-            "Academic Debate",
-            "Study Exercise",
-            "Teacher Feedback",
-            "Homework Assignment"
-          ],
-          "continuity": "Nisha's gym partner is Leo; studying with twins does not imply personal intimacy.",
-          "status": "proposed"
-        },
-        {
-          "id": "E66-05",
-          "title": "Raj's Second Lesson",
-          "pair": "Raj × Dhika",
-          "slot": "6:00 PM · Pool",
-          "description": "Building on the earlier rescue/coach history, Raj measures Dhika's breathing and floating progress. She achieves a short independently controlled float before a supervised swim.",
-          "actionNames": [
-            "Breathing Drill",
-            "Independent Float",
-            "Guided Stroke Practice",
-            "Safety Check"
-          ],
-          "continuity": "A milestone in swimming skill, not an erotic escalation.",
-          "status": "proposed"
-        },
-        {
-          "id": "E66-06",
-          "title": "Leo's Ordinary Explanation",
-          "pair": "Leo × John × Dhika",
-          "slot": "8:15 PM · Home",
-          "description": "After training with Nisha in the morning, Leo discusses his work travel with John and Dhika that evening. He does not know Stranger's identity merely because he returned around the time another message appeared.",
-          "actionNames": [
-            "Travel Catch-Up",
-            "Work Agenda Discussion",
-            "Friendly Banter"
-          ],
-          "continuity": "No proof that Leo is Stranger.",
-          "status": "proposed"
-        },
-        {
-          "id": "E66-07",
-          "title": "The Delivery Trail",
-          "pair": "Dhika × John × Sharmi / Stranger",
-          "slot": "9:00 PM · Group call",
-          "description": "Dhika shares only nonsensitive details of the delivery reference with John and Sharmi. A vendor account clue narrows the timeline but not the person's identity.",
-          "actionNames": [
-            "Evidence Timeline",
-            "Delivery Verification Plan",
-            "Unresolved Suspect Check"
-          ],
-          "continuity": "A lead is not a reveal; identity remains unverified.",
-          "status": "proposed"
-        },
-        {
-          "id": "E66-08",
-          "title": "Four Different Invitations",
-          "pair": "Dhika × Sharmi × Raj × Leo × Nisha; Bantu/Bobby (tuition planning only)",
-          "slot": "9:30 PM · Text thread",
-          "description": "Raj confirms supervised swimming classes; Leo and Nisha offer flexible gym times; Dhika and Sharmi choose their schedule; Bantu/Bobby's tuition slots are fixed independently.",
-          "actionNames": [
-            "Weekly Calendar Lock",
-            "Swim Lesson Agreement",
-            "Gym Session Planning",
-            "Tuition Slot Confirmation"
-          ],
-          "continuity": "No overlapping availability or treating the twins as Nisha's gym partners.",
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
           "status": "proposed"
         }
-      ],
-      "hook": "EP67 may explore Leo–Nisha's attraction and Kabir's marriage perspective while Dhika and Sharmi increase fitness confidence; Stranger remains an independent mystery."
+      ]
+    },
+    {
+      "number": 67,
+      "title": "THE ESTABLISHED DUO",
+      "schedule": "Day 19 · Wednesday · 6:45–8:00 AM gym",
+      "plotEngine": "Nisha and Leo's practiced gym routine, not a sudden romance. Dhika and Sharmi notice their mutual understanding and react differently.",
+      "highestMilestone": "Agreed partner workout and exercise spotting; no sexual contact",
+      "boundary": "Gym spotting is functional. Nisha is married to Kabir; Bantu and Bobby are not gym partners.",
+      "achievement": "Audience understands Nisha–Leo partnership is established, while any romantic feelings remain unconfirmed.",
+      "hook": "Nisha's academic goals next connect her to Dhika outside the gym; Leo is not in the tuition scene.",
+      "status": "PROPOSED / SLOW-BURN REVISION",
+      "pacing": {
+        "lead": "Nisha × Leo",
+        "track": "Gym partnership",
+        "stage": "Existing trust revealed; first ambiguous attraction",
+        "pause": "Two non-gym plot days before another Leo–Nisha emotional beat.",
+        "leadMilestones": "Agreed partner workout and exercise spotting; no sexual contact"
+      },
+      "beats": [
+        {
+          "id": "E67-01",
+          "title": "The Habitual Greeting",
+          "pair": "Leo × Nisha",
+          "slot": "6:45 AM · Gym entrance",
+          "description": "Leo rejoins his regular training partner after his trip. They know each other's schedules and habits.",
+          "actionNames": [
+            "Reunion Greeting",
+            "Routine Check-In"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        },
+        {
+          "id": "E67-02",
+          "title": "The Familiar Set",
+          "pair": "Leo × Nisha",
+          "slot": "7:05 AM · Strength floor",
+          "description": "They perform a partner workout with established exercise cues and explicit permission for form correction.",
+          "actionNames": [
+            "Partner Workout",
+            "Permission-Based Spotting",
+            "Encouragement"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        },
+        {
+          "id": "E67-03",
+          "title": "Two Beginners Watching",
+          "pair": "Dhika × Sharmi × Nisha × Leo",
+          "slot": "7:25 AM · Adjacent workout area",
+          "description": "Dhika and Sharmi take motivation from Nisha's technique, not a contest for Leo's attention.",
+          "actionNames": [
+            "Clothed Observation",
+            "Self-Comparison",
+            "Workout Demonstration"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        },
+        {
+          "id": "E67-04",
+          "title": "Separate Exits",
+          "pair": "Nisha × Leo; Dhika × Sharmi",
+          "slot": "7:55 AM · Locker hallway",
+          "description": "Leo goes to work and Nisha confirms her personal evening plan. The women leave together without learning anything private.",
+          "actionNames": [
+            "Independent Departure",
+            "Future Gym Appointment"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        }
+      ]
+    },
+    {
+      "number": 68,
+      "title": "THE NEW ADULT STUDENT",
+      "schedule": "Day 20 · Thursday · 4:30–6:00 PM Dhika's tuition room",
+      "plotEngine": "Nisha joins Dhika's academic group for a genuine professional reason, separate from Leo and workout relationships.",
+      "highestMilestone": "Professional introduction and academic evaluation; no sexual contact",
+      "boundary": "Teacher–learner role remains professional. Twins have previous tuition history with Dhika, not Nisha's gym history.",
+      "achievement": "Nisha becomes a credible student with academic goals, rather than a gym-only temptation device.",
+      "hook": "Raj's established swimming coaching returns as a separate episode; gym and tuition do not overlap.",
+      "status": "PROPOSED / SLOW-BURN REVISION",
+      "pacing": {
+        "lead": "Nisha × Dhika",
+        "track": "Adult tuition",
+        "stage": "Independent academic connection",
+        "pause": "No intimacy; tuition remains academic. No Leo, Uncle, Stranger or couples' game appearance.",
+        "leadMilestones": "Professional introduction and academic evaluation; no sexual contact"
+      },
+      "beats": [
+        {
+          "id": "E68-01",
+          "title": "A Different Kind of Introduction",
+          "pair": "Nisha × Dhika",
+          "slot": "4:30 PM · Tuition room",
+          "description": "Nisha arrives with study goals and asks for a diagnostic lesson.",
+          "actionNames": [
+            "Academic Introduction",
+            "Enrolment Discussion"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        },
+        {
+          "id": "E68-02",
+          "title": "The First Challenge",
+          "pair": "Nisha × Dhika",
+          "slot": "5:00 PM · Study table",
+          "description": "Dhika works through a difficult problem; Nisha's preparation reveals strength and gaps.",
+          "actionNames": [
+            "Study Diagnostic",
+            "Question and Answer",
+            "Teacher Feedback"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        },
+        {
+          "id": "E68-03",
+          "title": "The Familiar Names",
+          "pair": "Nisha × Dhika; twins mentioned",
+          "slot": "5:40 PM · Study room",
+          "description": "Dhika explains when Bantu and Bobby previously attended tuition. Nisha has not trained with them.",
+          "actionNames": [
+            "Tuition History Mention",
+            "Schedule Confirmation"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        },
+        {
+          "id": "E68-04",
+          "title": "Learning, Not Flirting",
+          "pair": "Nisha × Kabir by phone",
+          "slot": "6:15 PM · Outside tuition",
+          "description": "Nisha calls her husband about her new study schedule and goals.",
+          "actionNames": [
+            "Marriage Check-In",
+            "Academic Commitment"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        }
+      ]
+    },
+    {
+      "number": 69,
+      "title": "BACK TO THE WATER",
+      "schedule": "Day 21 · Friday · 5:00–6:30 PM supervised pool / evening",
+      "plotEngine": "Raj had already coached Dhika in the original story. This episode focuses on learning, control and independence rather than a seduction set piece.",
+      "highestMilestone": "Supported float and breathing drill; functional coaching contact only",
+      "boundary": "Safety support is not sexual contact or consent; coaching and marriage contexts remain distinct.",
+      "achievement": "Dhika identifies a practical fitness milestone; Sharmi supports without becoming a competing romantic subplot.",
+      "hook": "The Stranger's old message trail resurfaces after a routine home night.",
+      "status": "PROPOSED / SLOW-BURN REVISION",
+      "pacing": {
+        "lead": "Raj × Dhika",
+        "track": "Swimming lesson",
+        "stage": "Continuation of original swimming coaching",
+        "pause": "Ordinary sport and family scene. No new romance here.",
+        "leadMilestones": "Supported float and breathing drill; functional coaching contact only"
+      },
+      "beats": [
+        {
+          "id": "E69-01",
+          "title": "The Existing Coach",
+          "pair": "Raj × Dhika",
+          "slot": "5:00 PM · Poolside",
+          "description": "Raj checks Dhika's existing ability and agrees on a supervised lesson.",
+          "actionNames": [
+            "Swimming Coach Reunion",
+            "Safety Assessment"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        },
+        {
+          "id": "E69-02",
+          "title": "Confidence in the Water",
+          "pair": "Raj × Dhika",
+          "slot": "5:20 PM · Pool",
+          "description": "They practise breathing and a supported float before independent practice.",
+          "actionNames": [
+            "Breathing Drill",
+            "Safety-Assisted Float",
+            "Stroke Practice"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        },
+        {
+          "id": "E69-03",
+          "title": "Sharmi's Encouragement",
+          "pair": "Sharmi × Dhika × Raj",
+          "slot": "5:55 PM · Pool steps",
+          "description": "Sharmi encourages Dhika to improve her swimming rather than comparing bodies or personal relationships.",
+          "actionNames": [
+            "Friendly Encouragement",
+            "Skill Reflection"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        },
+        {
+          "id": "E69-04",
+          "title": "A Short Report to John",
+          "pair": "Dhika × John",
+          "slot": "8:30 PM · Home",
+          "description": "Dhika is pleased she stayed calm in the pool; John responds supportively.",
+          "actionNames": [
+            "Marital Check-In",
+            "Progress Update"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        }
+      ]
+    },
+    {
+      "number": 70,
+      "title": "THE UNSIGNED RECEIPT",
+      "schedule": "Day 22 · Saturday · afternoon/evening home",
+      "plotEngine": "A clue from an earlier package allows a concrete investigation without assigning Stranger's identity to Leo, Chotu, twins or service workers.",
+      "highestMilestone": "No physical encounter; messages and records only",
+      "boundary": "Unknown sender/age/identity. No sexual storyline involving Stranger until an adult identity and mutual consent are established.",
+      "achievement": "John and Dhika list exactly what is seen, remembered, reported and inferred; the mystery gains structure.",
+      "hook": "A normal gym day returns after a rest period; Nisha's marriage enters focus.",
+      "status": "PROPOSED / SLOW-BURN REVISION",
+      "pacing": {
+        "lead": "Dhika × John / Stranger (unidentified)",
+        "track": "Stranger mystery",
+        "stage": "Evidence review, no identity reveal",
+        "pause": "No erotic milestone; the unknown sender remains unknown.",
+        "leadMilestones": "No physical encounter; messages and records only"
+      },
+      "beats": [
+        {
+          "id": "E70-01",
+          "title": "The Three Envelopes",
+          "pair": "Dhika × John",
+          "slot": "3:00 PM · Home",
+          "description": "They compare original notes and the latest receipt without assuming the same person sent every parcel.",
+          "actionNames": [
+            "Message Review",
+            "Receipt Comparison",
+            "Evidence Timeline"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        },
+        {
+          "id": "E70-02",
+          "title": "What John Only Read",
+          "pair": "Dhika × John",
+          "slot": "4:00 PM · Home",
+          "description": "They distinguish John's direct observations from the messages he read and the private encounters he only heard about.",
+          "actionNames": [
+            "Reported vs Witnessed Check",
+            "Privacy Discussion"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        },
+        {
+          "id": "E70-03",
+          "title": "A Delivery Route, Not a Face",
+          "pair": "Dhika × John",
+          "slot": "8:30 PM · Home",
+          "description": "A dispatch clue narrows the route, but supplies no identity or confirmed physical encounter.",
+          "actionNames": [
+            "Delivery Reference",
+            "Unresolved Clue"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        }
+      ]
+    },
+    {
+      "number": 71,
+      "title": "WHEN LEO IS NOT THERE",
+      "schedule": "Day 24 · Monday · gym morning, Nisha home evening; Day 23 Sunday rest",
+      "plotEngine": "Nisha trains without Leo after a day off. The story asks what the gym partnership means to her and what she wants from married life.",
+      "highestMilestone": "Spousal conversation and self-reflection; no new intimacy",
+      "boundary": "Nisha is married; imagined attraction is not performed action, and no one spies on her.",
+      "achievement": "Kabir becomes a person with needs and perspective rather than an absent husband invented to permit an affair.",
+      "hook": "Kabir physically returns next, with an independent role before any three-couple gathering.",
+      "status": "PROPOSED / SLOW-BURN REVISION",
+      "pacing": {
+        "lead": "Nisha × Kabir; Leo absent",
+        "track": "Marriage and private reflection",
+        "stage": "Personal tension without physical escalation",
+        "pause": "A full no-intimacy episode between gym pair emotional beats.",
+        "leadMilestones": "Spousal conversation and self-reflection; no new intimacy"
+      },
+      "beats": [
+        {
+          "id": "E71-01",
+          "title": "The Empty Training Slot",
+          "pair": "Nisha (solo); Dhika/Sharmi elsewhere",
+          "slot": "6:45 AM · Gym",
+          "description": "Nisha completes an independent workout instead of relying on Leo.",
+          "actionNames": [
+            "Solo Workout",
+            "Routine Change"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        },
+        {
+          "id": "E71-02",
+          "title": "A Thought She Does Not Act On",
+          "pair": "Nisha",
+          "slot": "7:50 AM · Locker area",
+          "description": "Nisha notices how much she missed having a training companion, without concluding it must be romantic.",
+          "actionNames": [
+            "Self-Reflection",
+            "Imagined Interaction",
+            "Emotional Ambiguity"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        },
+        {
+          "id": "E71-03",
+          "title": "Kabir on the Phone",
+          "pair": "Nisha × Kabir remotely",
+          "slot": "8:00 PM · Nisha home",
+          "description": "Kabir calls, asks about her training and study progress, and shares plans to return.",
+          "actionNames": [
+            "Marital Conversation",
+            "Travel Plans",
+            "Emotional Check-In"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        }
+      ]
+    },
+    {
+      "number": 72,
+      "title": "KABIR RETURNS",
+      "schedule": "Day 25 · Tuesday · 7:00–9:00 PM Nisha/Kabir home",
+      "plotEngine": "Nisha's husband comes back into the story as a full adult character with his own habits, concerns and relationship expectations.",
+      "highestMilestone": "Marital embrace and private talk; no new sexual act",
+      "boundary": "Kabir's consent is not inferred from Nisha's friendships; his name and occupation are still proposed.",
+      "achievement": "The third married couple has personal substance before group games or cheating complications.",
+      "hook": "A future invitation from Sharmi invites the couple into a wider social group, not an immediate intimacy contest.",
+      "status": "PROPOSED / SLOW-BURN REVISION",
+      "pacing": {
+        "lead": "Nisha × Kabir",
+        "track": "Married couple",
+        "stage": "Spousal return, expectations",
+        "pause": "No Leo encounter, no Uncle contact, no game scene.",
+        "leadMilestones": "Marital embrace and private talk; no new sexual act"
+      },
+      "beats": [
+        {
+          "id": "E72-01",
+          "title": "The Door After Work",
+          "pair": "Kabir × Nisha",
+          "slot": "7:00 PM · Married couple home",
+          "description": "Kabir arrives home after a work trip; Nisha greets him warmly.",
+          "actionNames": [
+            "Homecoming Hug",
+            "Familiar Conversation"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        },
+        {
+          "id": "E72-02",
+          "title": "Two Different Calendars",
+          "pair": "Kabir × Nisha",
+          "slot": "7:45 PM · Dinner",
+          "description": "They compare Nisha's new tuition schedule, gym mornings and his work commitments.",
+          "actionNames": [
+            "Marriage Calendar",
+            "Expectation Discussion"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        },
+        {
+          "id": "E72-03",
+          "title": "The Name Leo",
+          "pair": "Nisha × Kabir",
+          "slot": "8:20 PM · Home",
+          "description": "Nisha refers naturally to Leo as her long-standing workout partner. Kabir does not react as if he has been deliberately deceived.",
+          "actionNames": [
+            "Gym Partner Disclosure",
+            "Trust Conversation"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        }
+      ]
+    },
+    {
+      "number": 73,
+      "title": "THE THIRD COUPLE INVITATION",
+      "schedule": "Day 27 · Thursday · invitation messages and planning only",
+      "plotEngine": "Sharmi invites Kabir and Nisha for a three-couple dinner. The event is not squeezed into the same episode as invitation, and all couples' schedules must align.",
+      "highestMilestone": "Ordinary greetings and planning; no physical intimacy",
+      "boundary": "No partner swapping or compulsory affection as part of any invitation.",
+      "achievement": "A social network is built before adult games occur.",
+      "hook": "The actual three-couple gathering happens later, in a separate chapter.",
+      "status": "PROPOSED / SLOW-BURN REVISION",
+      "pacing": {
+        "lead": "Sharmi × Raj; Dhika × John; Nisha × Kabir",
+        "track": "Three married couples",
+        "stage": "Social invitation and practical arrangements",
+        "pause": "Planning only: no party and no physical milestone.",
+        "leadMilestones": "Ordinary greetings and planning; no physical intimacy"
+      },
+      "beats": [
+        {
+          "id": "E73-01",
+          "title": "Sharmi's Invitation",
+          "pair": "Sharmi × Raj",
+          "slot": "12:00 PM · Sharmi/Raj home",
+          "description": "Sharmi proposes a small dinner with John/Dhika and Kabir/Nisha; Raj confirms the evening works.",
+          "actionNames": [
+            "Invitation Plan",
+            "Couple Check-In"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        },
+        {
+          "id": "E73-02",
+          "title": "Dhika Says Yes",
+          "pair": "Dhika × John",
+          "slot": "5:30 PM · Phone",
+          "description": "Dhika and John agree to join as dinner guests; John is not assigned any observation duties.",
+          "actionNames": [
+            "Dinner Acceptance",
+            "Marriage Expectations"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        },
+        {
+          "id": "E73-03",
+          "title": "Kabir and Nisha Check Their Time",
+          "pair": "Nisha × Kabir",
+          "slot": "8:00 PM · Home",
+          "description": "They agree to attend together and bring a familiar party-game idea.",
+          "actionNames": [
+            "Invitation Acceptance",
+            "Social Planning"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        }
+      ]
+    },
+    {
+      "number": 74,
+      "title": "THREE COUPLES, ONE TABLE",
+      "schedule": "Day 29 · Saturday · 7:30–10:00 PM Sharmi/Raj home",
+      "plotEngine": "A dinner game centres on what people know versus imagine about their partners. Nobody is compelled to touch or swap partners. After one meaningful confession, the game stops.",
+      "highestMilestone": "Mutual partner affection and one voluntary personal confession; no sexual activity",
+      "boundary": "Participation and any same-sex flirtation are independent choices; no default audience for intimacy.",
+      "achievement": "Nisha and Kabir are integrated into the social circle; the wives develop independent friendship dynamics.",
+      "hook": "The neighbour Uncle subplot begins on a different day at a society sports event.",
+      "status": "PROPOSED / SLOW-BURN REVISION",
+      "pacing": {
+        "lead": "John × Dhika; Raj × Sharmi; Kabir × Nisha",
+        "track": "Couple social game",
+        "stage": "First group interaction, emotional boundary",
+        "pause": "End on social warmth and uncertainty. No all-cast intimacy chain.",
+        "leadMilestones": "Mutual partner affection and one voluntary personal confession; no sexual activity"
+      },
+      "beats": [
+        {
+          "id": "E74-01",
+          "title": "The Six Arrive",
+          "pair": "Three married couples",
+          "slot": "7:30 PM · Dining room",
+          "description": "Guests meet over food; Kabir learns Dhika and Sharmi's personalities outside gym.",
+          "actionNames": [
+            "Group Introduction",
+            "Dinner Conversation"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        },
+        {
+          "id": "E74-02",
+          "title": "Truth Without Forfeit",
+          "pair": "Three married couples",
+          "slot": "8:15 PM · Living room",
+          "description": "A voluntary question game explores trust and mistaken assumptions, not forced physical acts.",
+          "actionNames": [
+            "Truth Question",
+            "Playful Banter",
+            "Separate Consent Check"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        },
+        {
+          "id": "E74-03",
+          "title": "Nisha's Honest Answer",
+          "pair": "Nisha × Kabir; group listening",
+          "slot": "9:00 PM · Living room",
+          "description": "Nisha admits balancing gym, tuition and marriage is difficult. Kabir chooses to listen instead of escalating the game.",
+          "actionNames": [
+            "Emotional Confession",
+            "Spousal Reassurance"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        },
+        {
+          "id": "E74-04",
+          "title": "The Game Ends Early",
+          "pair": "Sharmi × Dhika × Nisha",
+          "slot": "9:30 PM · Balcony",
+          "description": "The women talk privately about fitness and friendship; no sexual act is required.",
+          "actionNames": [
+            "Friendship Conversation",
+            "Future Invitation"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        }
+      ]
+    },
+    {
+      "number": 75,
+      "title": "THE STRONG NEIGHBOUR",
+      "schedule": "Day 31 · Monday · 6:00–7:30 PM society event",
+      "plotEngine": "At a society fitness event, Nisha independently meets the physically strong older neighbour Uncle. This is not plumber Iroh and not an instantaneous seduction.",
+      "highestMilestone": "Friendly conversation and physical ability observed; no sexual contact",
+      "boundary": "Nisha married to Kabir; Uncle married to Aunty. No affair presumed, no boundary crossing.",
+      "achievement": "A new slow-burn relationship lane starts with credible shared activity and curiosity while both marriages remain important.",
+      "hook": "Nisha reflects later on the surprising connection, but there is a cooling-off episode before any future physical milestone.",
+      "status": "PROPOSED / SLOW-BURN REVISION",
+      "pacing": {
+        "lead": "Nisha × Neighbour Uncle",
+        "track": "Older neighbour and Nisha",
+        "stage": "First meaningful introduction",
+        "pause": "End with separate departure; no touching and no instant seduction.",
+        "leadMilestones": "Friendly conversation and physical ability observed; no sexual contact"
+      },
+      "beats": [
+        {
+          "id": "E75-01",
+          "title": "The Society Challenge",
+          "pair": "Neighbour Uncle × society members",
+          "slot": "6:00 PM · Community grounds",
+          "description": "Uncle participates in a strength-based community activity and demonstrates sustained fitness.",
+          "actionNames": [
+            "Fitness Demonstration",
+            "Respectful Observation"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        },
+        {
+          "id": "E75-02",
+          "title": "Nisha's First Real Conversation",
+          "pair": "Nisha × Neighbour Uncle",
+          "slot": "6:40 PM · Community grounds",
+          "description": "Nisha compliments his physical discipline and asks about his exercise routine.",
+          "actionNames": [
+            "Friendly Introduction",
+            "Fitness Conversation",
+            "Mutual Compliment"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        },
+        {
+          "id": "E75-03",
+          "title": "Two Marriages in the Background",
+          "pair": "Nisha × Kabir; Uncle × Aunty mentioned",
+          "slot": "7:15 PM · Society exit",
+          "description": "The story acknowledges their separate spouses rather than sidelining them.",
+          "actionNames": [
+            "Spousal Reference",
+            "Independent Departure"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        }
+      ]
+    },
+    {
+      "number": 76,
+      "title": "AFTER THE FIRST LOOK",
+      "schedule": "Day 33 · Wednesday · morning gym / evening marriage scenes",
+      "plotEngine": "An interval episode shows the difference between curiosity, fantasy and action. Nisha reconnects with her existing gym partner Leo while staying grounded in her marriage; no one knows everything she thinks.",
+      "highestMilestone": "Imagined possibilities and ordinary gym partnership; no performed sexual contact",
+      "boundary": "Imagined nude/touch scenarios must stay labeled imagined. No voyeurism, no automatic first sexual act. John watching is a separate future track, not here.",
+      "achievement": "Nisha gains autonomy and complicated emotional motives; Uncle relationship will advance later only after another standalone setup.",
+      "hook": "EP77+ can separately develop woman–woman attraction, Nisha–Uncle follow-up, Stranger evidence or John-observer reflection; no first intercourse automatically scheduled.",
+      "status": "PROPOSED / SLOW-BURN REVISION",
+      "pacing": {
+        "lead": "Nisha; Leo; Kabir",
+        "track": "Nisha's internal conflict",
+        "stage": "Aftermath of older-neighbour introduction",
+        "pause": "A full aftermath episode. Maintain at least one independent day/plot between major meetings.",
+        "leadMilestones": "Imagined possibilities and ordinary gym partnership; no performed sexual contact"
+      },
+      "beats": [
+        {
+          "id": "E76-01",
+          "title": "A Normal Workout",
+          "pair": "Leo × Nisha",
+          "slot": "6:45 AM · Gym",
+          "description": "Leo and Nisha complete routine training; any possible attraction remains unspoken and no gym contact is reclassified as sexual.",
+          "actionNames": [
+            "Partner Workout",
+            "Permission-Based Spotting"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        },
+        {
+          "id": "E76-02",
+          "title": "Nisha's Private Thought",
+          "pair": "Nisha",
+          "slot": "11:00 AM · On her own",
+          "description": "She reflects on the older neighbour's confidence and contrasts it with the routine of her present life; these are thoughts, not events.",
+          "actionNames": [
+            "Imagined Scenario",
+            "Internal Attraction",
+            "Self-Questioning"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        },
+        {
+          "id": "E76-03",
+          "title": "Kabir's Small Gesture",
+          "pair": "Kabir × Nisha",
+          "slot": "8:00 PM · Home",
+          "description": "Kabir notices her quietness and invites an honest conversation about the changes in her routine.",
+          "actionNames": [
+            "Marital Affection",
+            "Emotional Question"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        },
+        {
+          "id": "E76-04",
+          "title": "The Page Turns Elsewhere",
+          "pair": "Dhika × Sharmi remotely",
+          "slot": "9:00 PM · Messages",
+          "description": "Dhika and Sharmi arrange the next gym visit, allowing Nisha's developing track to pause.",
+          "actionNames": [
+            "Ordinary Message",
+            "Next Routine Setup"
+          ],
+          "continuity": "Non-graphic planning; do not infer sex from functional touch or attraction. Source and proposed milestones are separate.",
+          "status": "proposed"
+        }
+      ]
     }
   ],
   "openQuestions": [
@@ -1229,7 +1787,9 @@
     "What does Sharmi choose independently after EP64?",
     "Is the Stranger known to any character? No answer verified yet.",
     "Should the anonymous Stranger's identity be revealed in EP67 or maintained as a longer mystery?",
-    "Confirmed planning revision: Leo (not Bantu/Bobby) is Nisha's established gym partner. Leo–Nisha may develop romantic tension; no sexual intimacy is yet established."
+    "EP77+ separately revisit John observing, with precise observation permissions and an intervening emotional scene.",
+    "EP77+ Nisha–Uncle intimacy is not pre-committed, and women-women romance is a distinct opt-in plot.",
+    "Dhika's first intercourse outside marriage has NOT been locked; old hypothetical EP76 choice is deferred. John-only boundary persists."
   ],
   "progression": {
     "label": "Highest physical progression in EP57–64",
@@ -1301,19 +1861,99 @@
       },
       {
         "number": 65,
-        "relationships": "Leo × Nisha (gym); Dhika × Sharmi (gym); Raj × Dhika (swimming); Nisha × tuition group; Stranger (unresolved)",
-        "highest": "Gym exercise demonstrations and permission-based spotting; Raj's supported swim and coaching; ordinary greetings",
+        "relationships": "Dhika × Sharmi × Nisha",
+        "highest": "Gym introduction, chosen fitness guidance; no sexual contact",
         "status": "none",
-        "level": "Fitness and swimming milestones, no sexual escalation",
-        "note": "Leo is Nisha's existing gym partner, not Bantu/Bobby. Gym/swimming activities are not sexual milestones."
+        "level": "Setup and social comparison",
+        "note": "End after introspection. No romantic escalation; full scene break."
       },
       {
         "number": 66,
-        "relationships": "Leo × Nisha (gym); Dhika × Sharmi (gym); Raj × Dhika (swimming); Nisha × tuition group; Stranger (unresolved)",
-        "highest": "Coached gym session, independent swimming float and guided strokes; no sexual encounter",
+        "relationships": "Leo × John × Dhika",
+        "highest": "Familiar greeting and friendly embrace; no new sexual milestone",
         "status": "none",
-        "level": "Fitness skill progression and independent relationship plotting",
-        "note": "Leo is Nisha's existing gym partner, not Bantu/Bobby. Gym/swimming activities are not sexual milestones."
+        "level": "Old acquaintance reintroduced",
+        "note": "Close at ordinary reunion; no Stranger reveal, no romantic scene."
+      },
+      {
+        "number": 67,
+        "relationships": "Nisha × Leo",
+        "highest": "Agreed partner workout and exercise spotting; no sexual contact",
+        "status": "none",
+        "level": "Existing trust revealed; first ambiguous attraction",
+        "note": "Two non-gym plot days before another Leo–Nisha emotional beat."
+      },
+      {
+        "number": 68,
+        "relationships": "Nisha × Dhika",
+        "highest": "Professional introduction and academic evaluation; no sexual contact",
+        "status": "none",
+        "level": "Independent academic connection",
+        "note": "No intimacy; tuition remains academic. No Leo, Uncle, Stranger or couples' game appearance."
+      },
+      {
+        "number": 69,
+        "relationships": "Raj × Dhika",
+        "highest": "Supported float and breathing drill; functional coaching contact only",
+        "status": "none",
+        "level": "Continuation of original swimming coaching",
+        "note": "Ordinary sport and family scene. No new romance here."
+      },
+      {
+        "number": 70,
+        "relationships": "Dhika × John / Stranger (unidentified)",
+        "highest": "No physical encounter; messages and records only",
+        "status": "none",
+        "level": "Evidence review, no identity reveal",
+        "note": "No erotic milestone; the unknown sender remains unknown."
+      },
+      {
+        "number": 71,
+        "relationships": "Nisha × Kabir; Leo absent",
+        "highest": "Spousal conversation and self-reflection; no new intimacy",
+        "status": "none",
+        "level": "Personal tension without physical escalation",
+        "note": "A full no-intimacy episode between gym pair emotional beats."
+      },
+      {
+        "number": 72,
+        "relationships": "Nisha × Kabir",
+        "highest": "Marital embrace and private talk; no new sexual act",
+        "status": "none",
+        "level": "Spousal return, expectations",
+        "note": "No Leo encounter, no Uncle contact, no game scene."
+      },
+      {
+        "number": 73,
+        "relationships": "Sharmi × Raj; Dhika × John; Nisha × Kabir",
+        "highest": "Ordinary greetings and planning; no physical intimacy",
+        "status": "none",
+        "level": "Social invitation and practical arrangements",
+        "note": "Planning only: no party and no physical milestone."
+      },
+      {
+        "number": 74,
+        "relationships": "John × Dhika; Raj × Sharmi; Kabir × Nisha",
+        "highest": "Mutual partner affection and one voluntary personal confession; no sexual activity",
+        "status": "none",
+        "level": "First group interaction, emotional boundary",
+        "note": "End on social warmth and uncertainty. No all-cast intimacy chain."
+      },
+      {
+        "number": 75,
+        "relationships": "Nisha × Neighbour Uncle",
+        "highest": "Friendly conversation and physical ability observed; no sexual contact",
+        "status": "none",
+        "level": "First meaningful introduction",
+        "note": "End with separate departure; no touching and no instant seduction."
+      },
+      {
+        "number": 76,
+        "relationships": "Nisha; Leo; Kabir",
+        "highest": "Imagined possibilities and ordinary gym partnership; no performed sexual contact",
+        "status": "none",
+        "level": "Aftermath of older-neighbour introduction",
+        "note": "A full aftermath episode. Maintain at least one independent day/plot between major meetings."
       }
     ],
     "pairPeaks": [
@@ -1409,28 +2049,56 @@
         "caveat": "Leo is distinct from Stranger until evidenced."
       },
       {
-        "relationship": "Raj × Dhika (swimming lessons)",
-        "peak": "Safety-based swim support → independent float / guided strokes",
-        "episode": "EP65–66",
+        "relationship": "Nisha × Leo (gym)",
+        "peak": "Established fitness partnership, functional spotting, possible unspoken attraction",
+        "episode": "EP67, EP71, EP76",
         "status": "none",
-        "caveat": "Progression of swimming ability, not a sexual milestone; Raj is a verified earlier coach."
+        "caveat": "Their partnership is proposed backstory; no completed sexual contact."
       },
       {
-        "relationship": "Leo × Nisha (gym); Dhika × Sharmi (joining)",
-        "peak": "Leo–Nisha existing workout partnership; Dhika/Sharmi guided workouts",
-        "episode": "EP65–66",
+        "relationship": "Dhika × Sharmi (gym)",
+        "peak": "Fitness motivation, goal tracking, friendly comparison",
+        "episode": "EP65, EP67, EP76",
         "status": "none",
-        "caveat": "Gym partnership is Leo × Nisha. Bantu/Bobby remain in tuition/other storylines."
+        "caveat": "Gym routine is not sexual intimacy."
       },
       {
-        "relationship": "Dhika × Nisha (adult tuition student)",
-        "peak": "Professional instruction; academic challenges",
-        "episode": "EP65–66",
+        "relationship": "Dhika × Raj (swimming)",
+        "peak": "Supervised breathing and supported float",
+        "episode": "EP69",
         "status": "none",
-        "caveat": "New fictional adult learner, working name, not verified original canon."
+        "caveat": "Established original coach; functional safety support."
+      },
+      {
+        "relationship": "Dhika × Nisha (adult tuition)",
+        "peak": "Diagnostic lesson and academic coaching",
+        "episode": "EP68",
+        "status": "none",
+        "caveat": "Nisha is 25; instruction must remain professional."
+      },
+      {
+        "relationship": "Nisha × Kabir (marriage)",
+        "peak": "Homecoming embrace and emotional conversation",
+        "episode": "EP72, EP76",
+        "status": "none",
+        "caveat": "No new sexual encounter scheduled."
+      },
+      {
+        "relationship": "Nisha × Neighbour Uncle",
+        "peak": "Fitness observation and friendly conversation",
+        "episode": "EP75",
+        "status": "none",
+        "caveat": "Both are married; slow-burn introduction, not an affair."
+      },
+      {
+        "relationship": "Three married couples",
+        "peak": "Dinner and voluntary personal confession",
+        "episode": "EP73–74",
+        "status": "none",
+        "caveat": "No forced group intimacy, swapping or implied partner participation."
       }
     ],
-    "keyDistinction": "EP59 remains the highest proposed adult-intimacy milestone in EP57–66. EP62/EP64 are optional; EP65–66 add recurring gym, swimming and tuition plots with no new sexual escalation."
+    "keyDistinction": "EP65–76 are mostly nonsexual routine, social and emotional setup. No committed new sexual encounter in this stretch. Legacy EP59 observation remains a separate proposed peak; EP62/64 remain optional. Before any future escalation use pause, aftermath and fresh consent."
   },
   "updated": "2026-11-07",
   "charactersProposed": {
@@ -1477,5 +2145,15 @@
       "gymPlot": "May have introduced Dhika/Sharmi to gym access or membership as a practical favor; do not place them in Nisha and Leo's workout pair.",
       "status": "User correction overrides previous draft"
     }
+  },
+  "pacingRevision": {
+    "status": "USER-REQUESTED CORRECTION",
+    "replaces": "Compressed proposed EP65–66 only; no original canon altered",
+    "archivedAt": "content/DHIKA_EP65_66_PACKED_DRAFT_ARCHIVE.json",
+    "strategy": "One central plot engine/episode, actual versus imagined/observed separate, cool-down and emotional aftermath, practical timeline and interleaved storylines",
+    "revisedEpisodes": "EP65–76",
+    "totalNewSceneBeats": 42,
+    "originalEpisodes57to64": "Earlier proposal retained for compatibility; still subject to future scene-level pacing review. No longer treated as automatically approved canon.",
+    "firstOutsideMarriageIntercourse": "Not scheduled or canon-locked; previous discussion suggestion of EP76 was provisional and is superseded by revised EP76 Nisha aftermath"
   }
 }
