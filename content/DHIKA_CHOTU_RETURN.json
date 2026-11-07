@@ -1,0 +1,927 @@
+{
+  "schema": "dhika-chotu-return-v1",
+  "status": "PROPOSED / NOT CANON",
+  "created": "2026-11-07",
+  "title": "Dhika — Chotu Returns: Witness, Rivalry, Repairs & Stranger",
+  "numbering": {
+    "originalSourceLastExplicitEpisode": 41,
+    "mexicoProposal": "42–48",
+    "indiaReturnProposal": "49–51",
+    "twinsPart4Proposal": "52–56",
+    "newArc": "57–64",
+    "legacyEpisodeAnalysis": "1–69 secondary indexing, not automatically equal to author episodes"
+  },
+  "intro": "Source-audited non-graphic plot design covering Dhika–Chotu, Sharmi, John, neighbour Uncle, plumber Iroh, nephew Zuko, unnamed workmen, Leo, twins and the anonymous Stranger. Adult physical actions are labels only; some occur off-page. Neither an anonymous identity nor earlier consent is invented.",
+  "history": [
+    {
+      "topic": "Original source and numbering",
+      "tab": 40,
+      "title": "Birthday Party: A Total Strip-down (author EP41)",
+      "fact": "The original source's last author-numbered chapter is EP41; Chotu, John and twins are already interacting in the household; final dialogue has the 'Unless...' hook.",
+      "source": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.f3pj326c1bpf"
+    },
+    {
+      "topic": "Dhika × Chotu",
+      "tab": 14,
+      "title": "Kissing with Chotu takes up a notch and Movie date",
+      "fact": "Chotu and Dhika already have prolonged affectionate contact and a movie-date thread. Future kiss is not their first.",
+      "source": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.srg3ksimrzjn"
+    },
+    {
+      "topic": "Dhika × Chotu / family",
+      "tab": 23,
+      "title": "Dhika's Orgasm",
+      "fact": "Their past private intimacy is more substantial than kissing; do not reset their relationship to an inexperienced beginning.",
+      "source": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.mfbtyyl1o66p"
+    },
+    {
+      "topic": "John × Dhika × Chotu",
+      "tab": 40,
+      "title": "Birthday party: A Total Strip-down",
+      "fact": "John openly interacts with Chotu around household/birthday plans and knows of earlier close connections, although precise later observation permissions are not established.",
+      "source": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.f3pj326c1bpf"
+    },
+    {
+      "topic": "Sharmi × Dhika",
+      "tab": 33,
+      "title": "The Weekend Retreat",
+      "fact": "Dhika and Sharmi have well-established teasing, private confidences and independent relationship developments.",
+      "source": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.zh3obwyulnct"
+    },
+    {
+      "topic": "Sharmi × Chotu",
+      "tab": 36,
+      "title": "An initiation with Chotu - Part 2",
+      "fact": "Both characters occur in the wider story, but this reviewed original source does not verify the newly planned mutual Sharmi–Chotu sexual relationship.",
+      "source": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.8pkqmyn8an1d"
+    },
+    {
+      "topic": "Neighbour Uncle",
+      "tab": 4,
+      "title": "Dhika catches Uncle",
+      "fact": "Neighbour Uncle has a long household relationship and a complicated history, including past nonconsensual privacy violations; no retrospective consent inferred.",
+      "source": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.x1efj3tu83lc"
+    },
+    {
+      "topic": "Iroh and Zuko",
+      "tab": 35,
+      "title": "The Lust Boils",
+      "fact": "Older plumber Iroh is accompanied by nephew Zuko on a bathroom repair assessment. They are not neighbour Uncle.",
+      "source": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.wv9oycsi166c"
+    },
+    {
+      "topic": "Iroh / bath-tub pending",
+      "tab": 39,
+      "title": "Sexcapades with the Twins part 3 - Day 3",
+      "fact": "Iroh says the desired bathtub was out of stock for one or two months, while tiles, pipes, shower and sink were ready; John had already been informed.",
+      "source": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.rnikcw62o3k5"
+    },
+    {
+      "topic": "Zuko",
+      "tab": 39,
+      "title": "Sexcapades with the Twins part 3 - Day 3",
+      "fact": "Zuko appears as a quieter worker and brings an item requested by Iroh. His personality and role differ from Iroh's.",
+      "source": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.rnikcw62o3k5"
+    },
+    {
+      "topic": "Other workmen",
+      "tab": 37,
+      "title": "Prelude",
+      "fact": "Iroh and two workmen agreed to spend three days working on the earlier repairs; other workers' names are not reliably established here.",
+      "source": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.ih50jyjbxgyc"
+    },
+    {
+      "topic": "Stranger",
+      "tab": 37,
+      "title": "Prelude",
+      "fact": "An anonymous sender of gifts/messages calls himself Stranger. Dhika blocks him after a conversation; John has seen messages. Identity remains unresolved.",
+      "source": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.ih50jyjbxgyc"
+    },
+    {
+      "topic": "Leo",
+      "tab": 25,
+      "title": "A Meetup - John, Dhika, Chotu, Raj, Sharmi, ...Leo",
+      "fact": "Leo is independently established as an adult acquaintance who visits with John. He is not verified as Stranger.",
+      "source": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.cfny9edfu9sf"
+    },
+    {
+      "topic": "Bantu and Bobby",
+      "tab": 38,
+      "title": "Sexcapades with the Twins part 3 - Day 2",
+      "fact": "The twins already have substantial separate and shared history with Dhika and remain relevant after proposed EP52–56; prior stopping limits carry forward.",
+      "source": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.r349hs9w4wlc"
+    }
+  ],
+  "guardrails": [
+    "Original author source ends at EP41; EP42–64 proposals are not published original episodes.",
+    "The original source and reconstructed 69-episode analysis follow different numbering systems; legacy citations are separately identified.",
+    "Dhika and Chotu have existing physical intimacy history: do not call a renewed kiss their first.",
+    "Sharmi–Chotu intimate milestones are new proposals, not verified original canon.",
+    "John can be a viewer only in a separately negotiated context. No secret recording, privacy violations or automatic multi-person participation.",
+    "Neighbour Uncle is different from plumber Iroh and from Zuko; plumber workman names remain unverified.",
+    "The Stranger's identity and the bathtub delivery date remain unresolved until verified or deliberately authored.",
+    "Pappu is a child and appears only in nonsexual family logistics, never in adult intimate contexts.",
+    "Earlier Dhika–John intercourse exclusivity is preserved until explicitly changed.",
+    "Every adult chooses separately. Boundary violations in earlier scenes are not retroactively reclassified as consensual."
+  ],
+  "episodes": [
+    {
+      "number": 57,
+      "title": "THE FAMILIAR DOOR",
+      "schedule": "Day 9 · Dhika/John home → repair calls",
+      "plotEngine": "Chotu comes back naturally through painting and routine family connections. Neighbour Uncle relays Iroh's unresolved bathtub follow-up, while a new unsigned parcel revives the Stranger question.",
+      "highestMilestone": "Chotu–Dhika: Reunion Embrace + Mutual Kiss; no first-time claim.",
+      "boundary": "Chotu is independent; surprise door visits do not authorize intimacy.",
+      "achievement": "Progress in the familiar door: Chotu comes back naturally through painting and routine family connections.",
+      "status": "PROPOSED",
+      "beats": [
+        {
+          "id": "E57-01",
+          "title": "The Painting List",
+          "pair": "Dhika × Chotu",
+          "slot": "Morning · Phone",
+          "description": "Dhika asks Chotu whether the unfinished painting materials are still available; he confirms his return.",
+          "actionNames": [
+            "Return Call",
+            "Painting-Project Callback",
+            "Playful Banter"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E57-02",
+          "title": "Chotu's Familiar Greeting",
+          "pair": "Dhika × Chotu",
+          "slot": "Midday · Front door",
+          "description": "Chotu returns to Dhika and John's household. Their prior kissing history informs a warm greeting.",
+          "actionNames": [
+            "Reunion Hug",
+            "Mutual Kiss",
+            "Affectionate Hand Holding"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E57-03",
+          "title": "John Recognizes the History",
+          "pair": "Dhika × John × Chotu",
+          "slot": "Midday · Living room",
+          "description": "John is present for an ordinary greeting and suggests a private discussion about how the three adults want future meetings handled.",
+          "actionNames": [
+            "Familiar Group Greeting",
+            "Knowledge Check",
+            "Future Meeting Invitation"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E57-04",
+          "title": "Iroh's Pending Order",
+          "pair": "Dhika × Iroh / Neighbour Uncle",
+          "slot": "Afternoon · Repair calls",
+          "description": "Neighbour Uncle helps Dhika contact plumber Iroh; desired bathtub availability and maintenance appointment are checked.",
+          "actionNames": [
+            "Contractor Callback",
+            "Repair Appointment",
+            "Practical Boundary"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E57-05",
+          "title": "Zuko Assigned to Measure",
+          "pair": "Iroh × Zuko × Dhika",
+          "slot": "Afternoon · Phone",
+          "description": "Iroh proposes that Zuko check dimensions/pressure; neither is introduced as a new seduction target.",
+          "actionNames": [
+            "Work Schedule Confirmation",
+            "Professional Introduction"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E57-06",
+          "title": "A Familiar Anonymous Note",
+          "pair": "Dhika × John / Stranger",
+          "slot": "Evening · Parcel",
+          "description": "Another unsigned message resembles the older anonymous gift thread; John and Dhika preserve the note and agree not to guess its sender.",
+          "actionNames": [
+            "Anonymous Message",
+            "Shared Evidence Review",
+            "Mystery Hook"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E57-07",
+          "title": "Sharmi Hears Chotu Returned",
+          "pair": "Sharmi × Dhika",
+          "slot": "Evening · Text",
+          "description": "Sharmi sends playful questions but asks separately before arranging a meeting with Chotu.",
+          "actionNames": [
+            "Friendly Rivalry",
+            "Private Invitation Setup"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        }
+      ],
+      "hook": "Sharmi proposes a playful get-together; John requests a separately agreed observation conversation."
+    },
+    {
+      "number": 58,
+      "title": "TWO WOMEN, ONE OLD FAVOURITE",
+      "schedule": "Day 10 · Sharmi's sitting room → Dhika's home",
+      "plotEngine": "Sharmi and Dhika make a memory-and-honesty challenge, not a contest for physical access. Chotu voices his own choices. Raj and John are informed of the social plans only to the extent actually discussed.",
+      "highestMilestone": "Individual mutual kisses and embracing; Sharmi–Chotu kiss is new proposal, not source canon.",
+      "boundary": "No prize/forfeit on Chotu's body. Sharmi and Dhika do not own each other's history.",
+      "achievement": "Progress in two women, one old favourite: Sharmi and Dhika make a memory-and-honesty challenge, not a contest for physical access.",
+      "status": "PROPOSED",
+      "beats": [
+        {
+          "id": "E58-01",
+          "title": "The Invitation with a Condition",
+          "pair": "Sharmi × Dhika × Chotu",
+          "slot": "Afternoon · Group message",
+          "description": "Sharmi proposes a three-round challenge about who remembers Chotu's preferences and past adventures; Chotu agrees only to conversation.",
+          "actionNames": [
+            "Friendly Challenge",
+            "Three-Way Consent",
+            "Playful Teasing"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E58-02",
+          "title": "The Painting-Memory Round",
+          "pair": "Dhika × Chotu",
+          "slot": "Late afternoon · Sharmi's living room",
+          "description": "Dhika recounts the earlier painting and movie-date events without recasting herself as inexperienced.",
+          "actionNames": [
+            "History Callback",
+            "Private Joke",
+            "Warm Eye Contact"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E58-03",
+          "title": "Sharmi Asks Her Own Question",
+          "pair": "Sharmi × Chotu",
+          "slot": "Late afternoon · Sharmi's home",
+          "description": "Sharmi asks Chotu directly what he wants in a new relationship instead of relying on Dhika's interpretation.",
+          "actionNames": [
+            "Personal Question",
+            "Attraction Discussion"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E58-04",
+          "title": "Two Different Kisses",
+          "pair": "Dhika × Chotu / Sharmi × Chotu",
+          "slot": "Early evening · Separate moments",
+          "description": "Each relationship can have its own openly agreed gesture; Sharmi–Chotu affection is proposed, not already established.",
+          "actionNames": [
+            "Dhika–Chotu Mutual Kiss",
+            "Sharmi–Chotu Mutual Kiss",
+            "Affectionate Embrace"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E58-05",
+          "title": "Chotu Rejects Being a Prize",
+          "pair": "Chotu × Dhika × Sharmi",
+          "slot": "Early evening · Living room",
+          "description": "Chotu reframes the challenge: he will not be awarded to either friend, and they each decide how to proceed.",
+          "actionNames": [
+            "Independent Choice",
+            "Boundary Agreement",
+            "Friendship Reframing"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E58-06",
+          "title": "The Conversation at Home",
+          "pair": "Dhika × John",
+          "slot": "Night · Home",
+          "description": "Dhika tells John why Sharmi's interest in Chotu surprised her and talks about his observation idea.",
+          "actionNames": [
+            "Marital Disclosure",
+            "Reassuring Hug",
+            "Observation Request Discussion"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        }
+      ],
+      "hook": "Dhika asks Chotu whether he would be comfortable meeting with John present."
+    },
+    {
+      "number": 59,
+      "title": "THE CHOSEN WITNESS",
+      "schedule": "Day 11 · Dhika/John home · planned adults-only afternoon",
+      "plotEngine": "John's wish becomes a new explicitly scoped arrangement; Dhika and Chotu decide independently. Their established past means neither kissing nor closeness is labeled first-ever.",
+      "highestMilestone": "Consensual Intimate Observation + Non-Intercourse Intimacy (off-page, proposed); no intercourse.",
+      "boundary": "John cannot authorize Chotu's or Dhika's body. Nobody records or surprises a viewer.",
+      "achievement": "Progress in the chosen witness: John's wish becomes a new explicitly scoped arrangement; Dhika and Chotu decide independently.",
+      "status": "PROPOSED",
+      "beats": [
+        {
+          "id": "E59-01",
+          "title": "The Agreement Before the Visit",
+          "pair": "Dhika × John × Chotu",
+          "slot": "Morning · Planned discussion",
+          "description": "All three discuss why John wants to be present, what Chotu is comfortable with, and what Dhika herself chooses.",
+          "actionNames": [
+            "Observation Proposal",
+            "Separate Consent",
+            "Privacy Agreement"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E59-02",
+          "title": "Old Intimacy, New Circumstances",
+          "pair": "Dhika × Chotu",
+          "slot": "Afternoon · Sitting room",
+          "description": "Dhika names the difference between their private past and a consciously chosen encounter with John present.",
+          "actionNames": [
+            "History Recollection",
+            "Emotional Disclosure"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E59-03",
+          "title": "Dhika Begins on Her Terms",
+          "pair": "Dhika × Chotu",
+          "slot": "Afternoon · Private adults-only room",
+          "description": "Dhika and Chotu choose affectionate contact while John remains a viewer only to the extent agreed.",
+          "actionNames": [
+            "Mutual Kiss",
+            "Sustained Embrace",
+            "Affectionate Touching"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E59-04",
+          "title": "Private Milestone Off-Page",
+          "pair": "Dhika × Chotu × John",
+          "slot": "Afternoon · Private/off-page",
+          "description": "They may agree to non-intercourse adult intimacy with John aware/present. No sexual mechanics are described.",
+          "actionNames": [
+            "Consensual Nude Viewing (Proposed)",
+            "Non-Intercourse Intimacy (Off-Page)",
+            "Agreed Observation"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E59-05",
+          "title": "The Immediate Aftermath",
+          "pair": "Dhika × John",
+          "slot": "Later · Home",
+          "description": "John and Dhika discuss feelings and boundaries instead of assuming that one successful encounter changes everything.",
+          "actionNames": [
+            "Marital Reassurance",
+            "Private Debrief",
+            "Knowledge Update"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E59-06",
+          "title": "Chotu Asks for Independence",
+          "pair": "Dhika × Chotu",
+          "slot": "Evening · Phone",
+          "description": "Chotu asks whether future individual meetings can remain distinct from John's attendance.",
+          "actionNames": [
+            "Individual Relationship Choice",
+            "Private Visit Proposal"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        }
+      ],
+      "hook": "John realizes observing once is not blanket permission; Chotu and Sharmi separately plan a normal date."
+    },
+    {
+      "number": 60,
+      "title": "THE BATHTUB CONTRACT",
+      "schedule": "Day 12 · Dhika's home / contractor appointment",
+      "plotEngine": "Iroh and Zuko return for actual pending fittings, measurements and water-pressure checks while the bathtub remains on backorder unless the dealer confirms stock.",
+      "highestMilestone": "Professional reunion; no sexual milestone with plumbing team.",
+      "boundary": "Neighbour Uncle, Iroh, Zuko and unnamed workers are separate. No voyeurism or contractor entitlement.",
+      "achievement": "Progress in the bathtub contract: Iroh and Zuko return for actual pending fittings, measurements and water-pressure checks while the bathtub remains on backorder unless the dealer confirms stock.",
+      "status": "PROPOSED",
+      "beats": [
+        {
+          "id": "E60-01",
+          "title": "One Month, Maybe Two",
+          "pair": "Dhika × Iroh",
+          "slot": "Morning · Contractor call",
+          "description": "Iroh explains the earlier out-of-stock bathtub and checks whether a replacement is available. Timing remains contingent.",
+          "actionNames": [
+            "Pending-Order Follow-Up",
+            "Stock Verification"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E60-02",
+          "title": "Iroh and the Apprentice",
+          "pair": "Dhika × Iroh × Zuko",
+          "slot": "Late morning · Bathroom",
+          "description": "Iroh inspects the previously completed fixtures. Zuko separately handles measurements and pressure checks.",
+          "actionNames": [
+            "Professional Greeting",
+            "Maintenance Inspection",
+            "Measurements"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E60-03",
+          "title": "The Unnamed Workman",
+          "pair": "Dhika × Iroh × Workman",
+          "slot": "Midday · Home",
+          "description": "A technician attends only if required; his name and earlier individual history are not invented.",
+          "actionNames": [
+            "Service Visit",
+            "Work Log",
+            "Scope Confirmation"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E60-04",
+          "title": "Neighbour Uncle at the Gate",
+          "pair": "Dhika × Neighbour Uncle",
+          "slot": "Midday · Hallway",
+          "description": "Neighbour Uncle offers practical help but must not conflate it with their complicated personal relationship.",
+          "actionNames": [
+            "Repair Coordination",
+            "Familiar Banter",
+            "Personal Boundary"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E60-05",
+          "title": "The Note and the Delivery Slip",
+          "pair": "Dhika × John",
+          "slot": "Afternoon · Home",
+          "description": "Dhika compares dates on anonymous parcels; an address clue emerges but does not identify Stranger.",
+          "actionNames": [
+            "Delivery Evidence Review",
+            "Privacy Concern",
+            "Mystery Lead"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E60-06",
+          "title": "Zuko Notices the Sealed Envelope",
+          "pair": "Zuko × Dhika",
+          "slot": "Afternoon · Doorstep",
+          "description": "Zuko neutrally points out a delivery label while leaving for work; no accusation or intimate inference follows.",
+          "actionNames": [
+            "Practical Observation",
+            "Evidence Preservation"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E60-07",
+          "title": "Two Separate Evening Plans",
+          "pair": "Dhika × Chotu / Sharmi × Chotu",
+          "slot": "Evening · Messages",
+          "description": "Dhika and Sharmi arrange different times to meet Chotu. Their schedules do not overlap.",
+          "actionNames": [
+            "Appointment Planning",
+            "Independent Invitation"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        }
+      ],
+      "hook": "A date with Sharmi prompts Dhika's jealousy; the anonymous sender's location remains unconfirmed."
+    },
+    {
+      "number": 61,
+      "title": "SHARMI'S OWN DATE",
+      "schedule": "Day 13 · Sharmi/Chotu town outing → Dhika/John home",
+      "plotEngine": "Sharmi and Chotu spend independent time together, proving that Dhika is not the only meaningful relationship. Dhika must decide whether jealousy is about Chotu or Sharmi.",
+      "highestMilestone": "Sharmi–Chotu: Voluntary mutual kiss and intimate affection; further adult contact optional off-page.",
+      "boundary": "Sharmi's autonomy, Raj's knowledge, Chotu's choice and Dhika's privacy must be separately tracked.",
+      "achievement": "Progress in sharmi's own date: Sharmi and Chotu spend independent time together, proving that Dhika is not the only meaningful relationship.",
+      "status": "PROPOSED",
+      "beats": [
+        {
+          "id": "E61-01",
+          "title": "The Invitation He Accepts",
+          "pair": "Sharmi × Chotu",
+          "slot": "Late morning · Messages",
+          "description": "Sharmi directly invites Chotu for a low-pressure outing; he accepts.",
+          "actionNames": [
+            "Independent Date Invitation",
+            "Playful Reply"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E61-02",
+          "title": "The Date Without Dhika",
+          "pair": "Sharmi × Chotu",
+          "slot": "Afternoon · Café or film",
+          "description": "Chotu and Sharmi spend time learning their separate compatibility without Dhika present.",
+          "actionNames": [
+            "Flirting",
+            "Hand Holding",
+            "Voluntary Mutual Kiss"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E61-03",
+          "title": "Raj's Honest Check-In",
+          "pair": "Sharmi × Raj",
+          "slot": "Evening · Home",
+          "description": "Sharmi tells Raj what she is ready to share; Raj states his own relationship expectations.",
+          "actionNames": [
+            "Marriage Conversation",
+            "Privacy Boundaries"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E61-04",
+          "title": "Dhika Sees the Invitation Photo",
+          "pair": "Dhika × Sharmi",
+          "slot": "Evening · Chat",
+          "description": "Sharmi shares a normal selfie from the outing. Dhika notices her own unexpected reaction.",
+          "actionNames": [
+            "Friendship Teasing",
+            "Jealousy Recognition"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E61-05",
+          "title": "Chotu and Dhika Talk",
+          "pair": "Dhika × Chotu",
+          "slot": "Night · Phone",
+          "description": "Dhika asks how he experienced Sharmi's invitation without treating him as a possession.",
+          "actionNames": [
+            "Personal Question",
+            "Emotional Confession"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E61-06",
+          "title": "John Suggests an Honest Conversation",
+          "pair": "Dhika × John",
+          "slot": "Night · Home",
+          "description": "John encourages Dhika to ask Sharmi directly rather than speculate.",
+          "actionNames": [
+            "Marital Comfort",
+            "Reassuring Embrace"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        }
+      ],
+      "hook": "A friendship conversation reveals different assumptions about privacy and affection."
+    },
+    {
+      "number": 62,
+      "title": "TWO DIFFERENT TRUTHS",
+      "schedule": "Day 14 · Friends meet / Chotu separate meeting",
+      "plotEngine": "Dhika and Sharmi compare their independent histories honestly. Chotu insists on defining each relationship separately; John and Raj manage their own boundaries without acting as gatekeepers for everyone.",
+      "highestMilestone": "Dhika–Chotu: renewed private adult intimacy possible off-page; Sharmi–Chotu: established new affection continues.",
+      "boundary": "No rivalry that pressures Chotu or any woman into an intimate contest.",
+      "achievement": "Progress in two different truths: Dhika and Sharmi compare their independent histories honestly.",
+      "status": "PROPOSED",
+      "beats": [
+        {
+          "id": "E62-01",
+          "title": "The Coffee Without a Game",
+          "pair": "Dhika × Sharmi",
+          "slot": "Morning · Shared café",
+          "description": "The two friends stop treating their feelings as a scorecard and share what they actually fear losing.",
+          "actionNames": [
+            "Friendship Reconciliation",
+            "Honest Confession"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E62-02",
+          "title": "Chotu's Two Conversations",
+          "pair": "Chotu × Dhika / Sharmi",
+          "slot": "Afternoon · Separate talks",
+          "description": "Chotu makes clear what he values individually; he does not promise identical access to both women.",
+          "actionNames": [
+            "Individual Affection",
+            "Relationship Expectation"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E62-03",
+          "title": "Dhika's New Choice",
+          "pair": "Dhika × Chotu",
+          "slot": "Late afternoon · Private venue",
+          "description": "Dhika and Chotu choose whether to continue their mature private relationship. Any sexual activity stays off-page.",
+          "actionNames": [
+            "Mutual Kiss",
+            "Private Intimacy (Off-Page, Optional)",
+            "Consent Check"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E62-04",
+          "title": "Sharmi's Different Choice",
+          "pair": "Sharmi × Chotu",
+          "slot": "Evening · Phone",
+          "description": "Sharmi opts for a personal date rather than copying Dhika's timeline.",
+          "actionNames": [
+            "Romantic Invitation",
+            "Hand Holding (Future)"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E62-05",
+          "title": "John and Raj Distinguish Knowledge",
+          "pair": "John × Raj",
+          "slot": "Evening · Conversation",
+          "description": "The husbands discuss only information their spouses actually disclosed, without claiming full knowledge.",
+          "actionNames": [
+            "Knowledge Boundary",
+            "Marriage Expectations"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E62-06",
+          "title": "The Stranger Interrupts Again",
+          "pair": "Dhika × John / Stranger",
+          "slot": "Night · Message",
+          "description": "A new anonymous message asks about an old garment gift. They consider whether it is a joke or a privacy concern.",
+          "actionNames": [
+            "Anonymous Text",
+            "Stranger Mystery",
+            "Evidence Preservation"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        }
+      ],
+      "hook": "Anonymous messages reconnect the otherwise independent intimacy and household threads."
+    },
+    {
+      "number": 63,
+      "title": "THE STRANGER'S RECEIPT",
+      "schedule": "Day 15 · Home → records check → neighbouring visit",
+      "plotEngine": "The gift/messaging thread becomes a solvable mystery through delivery history rather than an arbitrary erotic reveal or invasive surveillance.",
+      "highestMilestone": "No new physical escalation; mystery and trust episode.",
+      "boundary": "Do not accuse Leo, twins, Chotu, neighbour Uncle, Iroh or Zuko without evidence.",
+      "achievement": "Progress in the stranger's receipt: The gift/messaging thread becomes a solvable mystery through delivery history rather than an arbitrary erotic reveal or invasive surveillance.",
+      "status": "PROPOSED",
+      "beats": [
+        {
+          "id": "E63-01",
+          "title": "Three Old Notes",
+          "pair": "Dhika × John",
+          "slot": "Morning · Home",
+          "description": "They re-read the earlier anonymous gift note, online messages and latest receipt, noting differences rather than assuming one sender for every event.",
+          "actionNames": [
+            "Evidence Comparison",
+            "Message Timeline"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E63-02",
+          "title": "A Delivery Detail",
+          "pair": "Dhika × Sharmi",
+          "slot": "Afternoon · Ordinary outing",
+          "description": "Sharmi helps Dhika compare parcel records and remembers a past gift but does not invent delivery facts.",
+          "actionNames": [
+            "Friendship Collaboration",
+            "Detective Question"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E63-03",
+          "title": "What Zuko Actually Saw",
+          "pair": "Dhika × Zuko / Iroh",
+          "slot": "Afternoon · Repair visit",
+          "description": "Dhika asks only whether the sealed parcel was delivered during the repair appointment; Zuko can confirm what he saw, not sender identity.",
+          "actionNames": [
+            "Witness Clarification",
+            "Professional Privacy"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E63-04",
+          "title": "Uncle's Caution",
+          "pair": "Dhika × Neighbour Uncle",
+          "slot": "Late afternoon · Corridor",
+          "description": "Neighbour Uncle advises against inventing motives, and acknowledges why a stranger knowing private details would feel unsettling.",
+          "actionNames": [
+            "Neighbour Conversation",
+            "Boundary Acknowledgment"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E63-05",
+          "title": "John Shares His Concern",
+          "pair": "Dhika × John",
+          "slot": "Evening · Home",
+          "description": "John admits his earlier curiosity about blocked messages and agrees not to take unilateral action.",
+          "actionNames": [
+            "Marital Honesty",
+            "Privacy Agreement"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E63-06",
+          "title": "A Clue, Not a Reveal",
+          "pair": "Dhika × John",
+          "slot": "Night · Home",
+          "description": "The new receipt suggests a repeat delivery route but not the sender's identity; unresolved until next evidence arrives.",
+          "actionNames": [
+            "Delivery-Route Lead",
+            "Unresolved Identity Hook"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        }
+      ],
+      "hook": "The source of the gifts might become identifiable by a traceable record, but no suspect is confirmed."
+    },
+    {
+      "number": 64,
+      "title": "THE HOUSE WITH OPEN DOORS",
+      "schedule": "Day 16 · Repair follow-up → adult group evening → separate couples",
+      "plotEngine": "A group gathering closes the return arc, rebalances Dhika–Chotu–Sharmi relationships, and leaves Stranger and the bathtub delivery as carefully scoped longer hooks.",
+      "highestMilestone": "Mutual affection and possible off-page non-intercourse intimacy in separate relationships; no intercourse milestone.",
+      "boundary": "No implicit group consent, no contractor intimacy in work setting, and no unsupported Stranger reveal.",
+      "achievement": "Progress in the house with open doors: A group gathering closes the return arc, rebalances Dhika–Chotu–Sharmi relationships, and leaves Stranger and the bathtub delivery as carefully scoped longer hooks.",
+      "status": "PROPOSED",
+      "beats": [
+        {
+          "id": "E64-01",
+          "title": "Iroh's Final Work List",
+          "pair": "Dhika × Iroh × Zuko",
+          "slot": "Morning · Home",
+          "description": "The plumbing team closes the completed repair items and leaves the missing bathtub order open until stock is verified.",
+          "actionNames": [
+            "Repair Handover",
+            "Outstanding-Order List"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E64-02",
+          "title": "Chotu Finishes the Painting",
+          "pair": "Dhika × Chotu",
+          "slot": "Afternoon · Home",
+          "description": "The long-running painting project finally gets a meaningful partial finish and visual reminder of their history.",
+          "actionNames": [
+            "Painting Completion",
+            "Shared Memory",
+            "Warm Embrace"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E64-03",
+          "title": "Sharmi Brings Her Own Story",
+          "pair": "Dhika × Sharmi × Chotu",
+          "slot": "Early evening · Gathering",
+          "description": "The trio acknowledges that their different connections are real and need not erase the friendship.",
+          "actionNames": [
+            "Shared Conversation",
+            "Playful Rivalry",
+            "Individual Relationship Choices"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E64-04",
+          "title": "John and Raj Join",
+          "pair": "Dhika × John × Raj × Sharmi × Chotu",
+          "slot": "Evening · Living room",
+          "description": "They establish who knew what and avoid accidental overlapping assumptions. Adult discussions stay separate from household care.",
+          "actionNames": [
+            "Group Welcome",
+            "Marriage Disclosure",
+            "Privacy Expectations"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E64-05",
+          "title": "Separate Private Time",
+          "pair": "Dhika × Chotu / Sharmi × Chotu",
+          "slot": "After group meeting · Separate future slots",
+          "description": "Each pair independently decides whether and when to spend private time later; no overlapping encounters are manufactured.",
+          "actionNames": [
+            "Mutual Kiss",
+            "Private Intimacy Discussion",
+            "Future Date Agreement"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E64-06",
+          "title": "Uncle's Unanswered Question",
+          "pair": "Dhika × Neighbour Uncle",
+          "slot": "Night · Hallway",
+          "description": "Neighbour Uncle reminds Dhika of his unrelated unfinished conversation. His history is not subsumed into the plumbing story.",
+          "actionNames": [
+            "Neighbour Follow-Up",
+            "Personal Question"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        },
+        {
+          "id": "E64-07",
+          "title": "One More Envelope",
+          "pair": "Dhika × John / Stranger",
+          "slot": "Night · Home",
+          "description": "A final clue or unsigned message can end the arc only as a hook, not a forced identity reveal.",
+          "actionNames": [
+            "Anonymous Envelope",
+            "Next-Arc Cliffhanger"
+          ],
+          "continuity": "Existing source and character limits remain in force.",
+          "status": "proposed"
+        }
+      ],
+      "hook": "EP65 can resolve whether the Stranger is identifiable and the bathtub finally arrives, while Chotu's choices continue independently."
+    }
+  ],
+  "openQuestions": [
+    "When exactly does the delayed bathtub ship, given the source said one or two months?",
+    "Which aspects of Dhika–Chotu history does John know versus witness?",
+    "What does Sharmi choose independently after EP64?",
+    "Is the Stranger known to any character? No answer verified yet."
+  ]
+}
