@@ -158,8 +158,10 @@ To update the original source, re-export Google Docs and update the nine JSON gr
 
 ## EP65–66 — Gym, Swimming, Adult Tuition, Leo and Stranger (proposed)
 
-[Open latest EP65–66 roadmap](chotu.html?view=roadmap&ep=65) · [Direct EP65 scenes](chotu.html?view=episodes&ep=65) · [EP66 scenes](chotu.html?view=episodes&ep=66)
+[Open EP65](chotu.html?view=episodes&ep=65) · [Open EP66](chotu.html?view=episodes&ep=66) · [History and roadmap](chotu.html?view=roadmap)
 
-- **EP65 — The New Routine:** twins set up Dhika and Sharmi's daily morning gym, Raj resumes his established swimming-coach role, adult new tuition student Nisha (working name, 23) joins, Leo returns through a work visit, and the unresolved Stranger trail produces a new lead.
-- **EP66 — Two Women, One Routine:** sustained gym rivalry, adult tutoring dynamics, Dhika's supervised swimming skill progress, Leo's work-story continuation and receipt-based mystery investigation.
-- Current Chotu continuation: 10 episodes EP57–66, 66 proposed scene beats and 22 original-source historical anchors. Gym and Nisha are new proposals; original Dhika source ends at author EP41. Stranger identity remains unknown.
+- **LOCKED CORRECTION:** Nisha is 25, married, and **Leo is her long-standing gym partner**, not Bantu or Bobby. An eight-month gym partnership is new proposed backstory, not original canon.
+- **Bantu/Bobby:** remain existing tuition students of Dhika, with separate established romantic history; they may recommend a gym membership, but are not Nisha's gym buddies or potential interests in this new setup.
+- **EP65:** Nisha welcomes Dhika and Sharmi to gym while Leo is away; Raj's swimming lessons resume; adult tuition begins; Leo returns with John that evening; Stranger is unresolved.
+- **EP66:** Leo rejoins Nisha's existing gym workout, motivating Dhika/Sharmi; Nisha has separate academic goals; Raj continues coaching; Stranger delivery clue remains unresolved.
+- The Chotu continuation has 10 proposed episodes EP57–66 and 66 scene beats. Original source ends EP41. Older episodes are unchanged.
