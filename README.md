@@ -116,18 +116,23 @@ README.md           These instructions
 ```
 
 
-## Dhika — original universe and Mexico future planner
 
-**Separate from Society Wives:** The site's third collection tile opens the dedicated [Dhika reader](dhika.html?tab=episodes&ep=70).
+## Dhika — original chapters and corrected episode numbering
 
-The new reader includes:
-- **Original Episodes:** Direct links to the original Google Doc's Prologue and 40 further tab positions. Some printed episode numbers differ from tab order; the index does not silently renumber them.
-- **Mexico EP70–76:** Seven days, 51 action-title-level encounters, including 14 India phone/video/message intercuts. Relationship development remains tied to the EP55 / EP68 / EP69 anchors.
-- **Characters / Relationships / India Calls / India Return:** Searchable filters, before-and-after milestones and 15 proposed beats for EP77–79.
-- **Canon & Knowledge:** Continuity constraints, what each character knows, open questions and the original/reconciled source links.
+The third homepage tile opens [Dhika Original Story Reader](dhika.html?tab=original&chapter=0), a dedicated full-text reader, separate from Society Wives prose and Writing Prompts.
 
-**Edit only the Dhika plan:** [content/DHIKA_MEXICO.md](content/DHIKA_MEXICO.md) for readable detailed notes; [content/DHIKA_MEXICO.json](content/DHIKA_MEXICO.json) for the interactive reader's data. They are one-time authored snapshots; editing the Markdown alone does not automatically regenerate JSON.
+- **Source of truth:** [Dhika Forum Episode Index — DOM Extraction](https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.3i71lj73ib3d). Its **Prologue + 40 story tabs** (41 total) have been imported in their exact Google Doc tab order.
+- **Correct author episode numbering:** The final source tab explicitly reads **Episode 41 — Birthday Party: A Total Strip-down**. Since some source episodes span multiple tabs, tab index is not an episode number. The **next proposed episode is EP42**.
+- **Future Mexico proposed arc:** EP42–48, with India video calls; **India return EP49–51**. These are proposals, NOT already published source episodes. Prior planning EP70–79 labels have been superseded.
+- **Older analysis labels EP55, EP68, EP69:** These came from a separate reconstructed ledger and are not author episode numbers. They remain marked as legacy evidence and must be mapped carefully.
+- **Original full text:** Nine JSON groups, content/dhika-source/part-01.json through part-09.json, loaded lazily by the reader. Original wording and line breaks are preserved. Metadata is in content/DHIKA_ORIGINAL_INDEX.json.
+- **Future plot files:** [content/DHIKA_MEXICO.md](content/DHIKA_MEXICO.md) and [content/DHIKA_MEXICO.json](content/DHIKA_MEXICO.json). The latter drives the episode/action interface.
+- **Public access:** Original Google Doc text has been copied into this public GitHub repository at the user's request. Public viewers can read it; the Google Doc itself was not modified.
 
-**Source-of-truth separation:** The original [Dhika Google Doc](https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit) and the saved [Mexico proposed Word document](https://docs.google.com/document/d/1nJjaiWEXdBHYmLtlRoU3uWHw27gBrG_P/edit) were reviewed. The original Google Doc currently contains Prologue plus forty further tabs; later episode anchors use previously reconciled JSON analysis, whose completeness has caveats. EP70–79 remains **PROPOSED, NOT CANON**. This update does not overwrite the original Dhika text or Society Wives' published prose.
+### Dhika reader URLs
 
-**URLs:** [Dhika Mexico Episodes](dhika.html?tab=episodes&ep=70) · [Original episode tab index](dhika.html?tab=original) · [India return](dhika.html?tab=return) · [Relationship ledger](dhika.html?tab=relationships)
+[Original Prologue](dhika.html?tab=original&chapter=0) · [Last source chapter (Author EP41)](dhika.html?tab=original&chapter=40) · [Proposed EP42](dhika.html?tab=episodes&ep=42) · [India Return](dhika.html?tab=return) · [Relationship Ledger](dhika.html?tab=relationships).
+
+### Maintenance
+
+To update the original source, re-export Google Docs and update the nine JSON groups and manifest together; this is not a live automatic sync. Editing the Markdown future plan alone does not automatically update its JSON. Preserve original source versus planning separation.
