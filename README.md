@@ -146,22 +146,26 @@ To update the original source, re-export Google Docs and update the nine JSON gr
 - **Canon protection:** original Google Docs source tabs and story chapter JSON files were not changed. Secondary legacy analysis numbering (1–69) may differ from author numbering and is clearly marked. Adult intimacy references are non-graphic planning tags, frequently off-page, never a claim that future scenes already occurred.
 - **Public publishing:** the GitHub Pages deployment serves the same URLs after the corresponding commit is built; edits to the JSON/Markdown update the reader without changing the link.
 
-## Dhika — Chotu Returns, EP57–66 (history-first future arc)
+## Dhika — Chotu Returns, EP57–76 (history-first future arc)
 
-[Read history and EP57–66 action plans](chotu.html?ep=57) · [Character history tab](chotu.html?view=history) · [Readable plot book](content/DHIKA_CHOTU_RETURN.md) · [JSON data](content/DHIKA_CHOTU_RETURN.json).
+[Read history and EP57–76 action plans](chotu.html?ep=57) · [Character history tab](chotu.html?view=history) · [Readable plot book](content/DHIKA_CHOTU_RETURN.md) · [JSON data](content/DHIKA_CHOTU_RETURN.json).
 
 - Added after Twins Part 4 EP52–56, without changing source EP01–41 or proposed Mexico/India/Twins story data.
 - Includes 22 original-source character history anchors for Dhika, Chotu, Sharmi, John, Raj, Bantu/Bobby, neighbour Uncle, Aunty, Iroh, Zuko, unnamed plumber workmen, Leo, Pappu and the unresolved Stranger.
-- Ten proposed episodes EP57–66, **66 scene beats**, each with plot mechanism, timing, character pair, non-graphic action-name tags, highest milestone, boundaries and forward hook.
+- Twenty proposed episodes EP57–76, **93 scene beats**, each with plot mechanism, timing, character pair, non-graphic action-name tags, highest milestone, boundaries and forward hook.
 - Original author-numbered EP41 is the source endpoint; reconciled evidence EP55–69 is a distinct legacy analysis index and must not be silently mapped to author numbering.
 - Iroh's delayed bathtub delivery remains a contingent subplot; Stranger's identity is explicitly unresolved. Intimate encounters are proposed, voluntary and often off-page, not pasted graphic prose.
 
-## EP65–66 — Gym, Swimming, Adult Tuition, Leo and Stranger (proposed)
 
-[Open EP65](chotu.html?view=episodes&ep=65) · [Open EP66](chotu.html?view=episodes&ep=66) · [History and roadmap](chotu.html?view=roadmap)
+## Dhika Encounter Atlas and paced EP65–76
 
-- **LOCKED CORRECTION:** Nisha is 25, married, and **Leo is her long-standing gym partner**, not Bantu or Bobby. An eight-month gym partnership is new proposed backstory, not original canon.
-- **Bantu/Bobby:** remain existing tuition students of Dhika, with separate established romantic history; they may recommend a gym membership, but are not Nisha's gym buddies or potential interests in this new setup.
-- **EP65:** Nisha welcomes Dhika and Sharmi to gym while Leo is away; Raj's swimming lessons resume; adult tuition begins; Leo returns with John that evening; Stranger is unresolved.
-- **EP66:** Leo rejoins Nisha's existing gym workout, motivating Dhika/Sharmi; Nisha has separate academic goals; Raj continues coaching; Stranger delivery clue remains unresolved.
-- The Chotu continuation has 10 proposed episodes EP57–66 and 66 scene beats. Original source ends EP41. Older episodes are unchanged.
+[Interactive 109-action atlas](encounters.html?view=actions) · [18-character audit checklist](encounters.html?view=characters) · [Source pacing evidence](encounters.html?view=pacing) · [14 relationship lanes](encounters.html?view=lanes) · [EP65–76 visual break map](encounters.html?view=episodes)
+
+- **Revised continuity:** original author episodes end at EP41; after proposed Mexico EP42–48, India EP49–51, Twins Part 4 EP52–56, and earlier Chotu EP57–64, the former crowded EP65–66 is now a **12-episode EP65–76 slow-burn plan**. Original story has not been overwritten.
+- **Action taxonomy:** 109 non-graphic labels, organized by sight/nudity, imagined/recalled/reported, nonsexual touch, kissing, non-penetrative adult intimacy (including masturbation distinctions), John/viewer scenarios, real-world contexts and recovery/boundaries.
+- **Character checklist:** 18 cast entries and 18 source-audit items per eligible adult; checked means reviewed, NOT that any act is proven. Child family-only roles excluded.
+- **EP65–76 revised:** 12 episodes / 42 scene beats, max 4 per episode. Combined with EP57–64, current proposed story planner is 20 episodes / 93 scene beats. Each EP65+ includes a distinct primary track and a separate break/after-effect note.
+- **Leo–Nisha relationship:** Nisha is 25 and married, Leo is her established proposed gym partner. Bantu/Bobby are not Nisha's gym partners or romantic interests in this proposed arc.
+- **John watching:** a separate four-stage possible arc (knowledge, permission, scoped observation, aftermath). No automatic observing, recording, group participation or progression.
+- **Intercourse outside marriage:** earlier EP76 suggestion was conversational and NOT canon-locked. Revised EP76 is Nisha's aftermath; John–Dhika old relationship boundary stays unless explicitly changed.
+- **Retired draft:** [compressed EP65–66 archive](content/DHIKA_EP65_66_PACKED_DRAFT_ARCHIVE.json). Active episode plan: [JSON](content/DHIKA_CHOTU_RETURN.json) and [readable story bible](content/DHIKA_CHOTU_RETURN.md).
