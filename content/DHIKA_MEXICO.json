@@ -1,9 +1,9 @@
 {
   "schema": "dhika-mexico-plan-v1",
-  "title": "Dhika — Mexico 7-day Arc & Return-to-India",
+  "title": "Dhika — Mexico proposal after source EP41; original author numbering",
   "status": "PROPOSED / NOT CANON",
   "updated": "2026-11-07",
-  "intro": "Original Dhika continuity is the foundation. This is a separately authored non-graphic proposed action-title and relationship plan, not finished story prose or an edit of EP01–69.",
+  "intro": "Original Google Doc Prologue + source-tab ordering is now authoritative. Author-numbered EP41 is the latest in this Doc; the Mexico proposal begins EP42. Legacy analysis EP55/68/69 labels are not author episode numbers. The car scene is a previously captured Mexico opening from a separate source extract, not part of this Google Doc; treat the proposed opening as an adaptation, not as already published EP42 prose.",
   "sources": [
     {
       "label": "Original Dhika Google Doc (Prologue + early episode tabs)",
@@ -32,10 +32,10 @@
     }
   ],
   "guardrails": [
-    "Original Dhika EP01–69 remains canon; EP70–79 is a planning proposal, not published story prose.",
-    "Dhika is not reverted to EP01 shyness. Her EP55 relationship initiative and EP68 explicit boundary persist.",
+    "The linked original Google Doc ends with author-numbered EP41. EP42–51 is proposed continuation; legacy analysis IDs 1–69 are not author episode numbers.",
+    "Dhika is not reverted to EP01 shyness. Her Legacy-analysis EP55 relationship initiative and Legacy-analysis EP68 explicit boundary persist.",
     "Sharmi has independent agency and storylines, not merely a jealousy trigger for Dhika.",
-    "EP69 car: Dhika chooses Raj's lap primarily to avoid unwanted closeness to Scott. This is not an invitation to Scott.",
+    "Legacy-analysis EP69 Mexico car: Dhika chooses Raj's lap primarily to avoid unwanted closeness to Scott. This is not an invitation to Scott.",
     "EP69 bartender is unnamed in source; Mateo is a proposed name, not a confirmed source identity.",
     "Neighbour Uncle and plumber Iroh are distinct. Bantu and Bobby are adult twins (22) with different responses.",
     "Raj–Dhika and Sharmi–John had prior kissing and intimate contact before Mexico; not first-ever milestones.",
@@ -47,49 +47,54 @@
   ],
   "canon": [
     {
-      "episode": "EP01",
+      "episode": "Legacy ledger EP01",
       "title": "Best friends and both marriages established",
-      "notes": "Dhika–Sharmi childhood friendship; John–Dhika and Raj–Sharmi marriages; Raj's earlier compliment about Dhika reported."
+      "notes": "Dhika–Sharmi childhood friendship; John–Dhika and Raj–Sharmi marriages; Raj's earlier compliment about Dhika reported. (Legacy ledger label; exact author-episode mapping unverified.)"
     },
     {
-      "episode": "EP09–15",
+      "episode": "Legacy ledger EP09–15",
       "title": "First group closeness",
-      "notes": "Shared outings, teasing and farewell gestures; Raj supports Dhika in pool incident; Sharmi–John familiarity develops."
+      "notes": "Shared outings, teasing and farewell gestures; Raj supports Dhika in pool incident; Sharmi–John familiarity develops. (Legacy ledger label; exact author-episode mapping unverified.)"
     },
     {
-      "episode": "EP24",
+      "episode": "Legacy ledger EP24",
       "title": "Knowledge and disclosure",
-      "notes": "John describes some Sharmi interactions to Dhika; information is partial and not identical for all four."
+      "notes": "John describes some Sharmi interactions to Dhika; information is partial and not identical for all four. (Legacy ledger label; exact author-episode mapping unverified.)"
     },
     {
-      "episode": "EP32–33",
+      "episode": "Legacy ledger EP32–33",
       "title": "Birthday and relationship milestones",
-      "notes": "Dhika–Raj cheek kiss and friendship shifts; Sharmi–Dhika kissing requires episode-specific boundary review."
+      "notes": "Dhika–Raj cheek kiss and friendship shifts; Sharmi–Dhika kissing requires episode-specific boundary review. (Legacy ledger label; exact author-episode mapping unverified.)"
     },
     {
-      "episode": "EP43–44",
+      "episode": "Legacy ledger EP43–44",
       "title": "Cross-couple kissing gains context",
-      "notes": "Party/game kisses and reactions; some initiations and stop requests differ; do not flatten to blanket agreement."
+      "notes": "Party/game kisses and reactions; some initiations and stop requests differ; do not flatten to blanket agreement. (Legacy ledger label; exact author-episode mapping unverified.)"
     },
     {
-      "episode": "EP47–49",
+      "episode": "Legacy ledger EP47–49",
       "title": "Resort closeness and observation",
-      "notes": "Dhika–Raj swimming/support and kissing; Sharmi–John familiar affection; Dhika sees Raj–Sharmi private marital scene."
+      "notes": "Dhika–Raj swimming/support and kissing; Sharmi–John familiar affection; Dhika sees Raj–Sharmi private marital scene. (Legacy ledger label; exact author-episode mapping unverified.)"
     },
     {
-      "episode": "EP54–55",
+      "episode": "Legacy ledger EP54–55",
       "title": "Established mutual intimacy",
-      "notes": "Dhika repeatedly initiates Raj kisses; Sharmi initiates John closeness; non-intercourse intimate contact and complex reactions already occur."
+      "notes": "Dhika repeatedly initiates Raj kisses; Sharmi initiates John closeness; non-intercourse intimate contact and complex reactions already occur. (Legacy ledger label; exact author-episode mapping unverified.)"
     },
     {
-      "episode": "EP68",
+      "episode": "Legacy ledger EP68",
       "title": "Boundary stated",
-      "notes": "Dhika retains an explicit John-only intercourse boundary. Do not transform prior sexual contact into intercourse."
+      "notes": "Dhika retains an explicit John-only intercourse boundary. Do not transform prior sexual contact into intercourse. (Legacy ledger label; exact author-episode mapping unverified.)"
     },
     {
-      "episode": "EP69",
+      "episode": "Legacy ledger EP69",
       "title": "Mexico car cliffhanger",
-      "notes": "Raj and Dhika are helped by Scott after road breakdown. Crowded car creates discomfort; she chooses Raj's lap. Opening pool-bar teaser timing is not established."
+      "notes": "Raj and Dhika are helped by Scott after road breakdown. Crowded car creates discomfort; she chooses Raj's lap. Opening pool-bar teaser timing is not established. (Legacy ledger label; exact author-episode mapping unverified.)"
+    },
+    {
+      "episode": "Source author EP41",
+      "title": "Birthday Party — A Total Strip-down",
+      "notes": "The final Google Doc tab is explicitly numbered 41 and ends with Dhika and John's 'Unless...' conversation, which sets the next-chapter open hook."
     }
   ],
   "characters": [
@@ -98,7 +103,7 @@
       "role": "Lead — evolving from earlier reserve to deliberate decision-making",
       "current": "By EP69 experienced in flirting, choosing private affection and explicitly naming limits. EP01 personality cannot be reused as a reset.",
       "mexico": "Negotiates Scott's intrusion; takes initiative with Raj; shares selective confidences with Sharmi; answers twins and Uncle with her own controlled humor.",
-      "next": "At EP77 decides what John knows and how home-world visits resume.",
+      "next": "At EP49 decides what John knows and how home-world visits resume.",
       "boundaries": "John-only intercourse at EP68; specific permissions are scene-bound."
     },
     {
@@ -106,7 +111,7 @@
       "role": "Co-lead — expressive, spontaneous, socially assertive",
       "current": "Established private and public chemistry with John, independent marriage with Raj and complex friendship with Dhika.",
       "mexico": "Tests Scott's manners; engages Mateo; initiates John meetings; tells Raj about her own changes.",
-      "next": "At EP77 redefines her own rules with Raj instead of copying Dhika.",
+      "next": "At EP49 redefines her own rules with Raj instead of copying Dhika.",
       "boundaries": "Every new intimate act requires her own choice and the other person's participation."
     },
     {
@@ -174,7 +179,7 @@
         "Raj"
       ],
       "baseline": "Existing repeated mutual kisses and intimate contact by EP55; their familiarity is already substantial.",
-      "mexico": "She chooses planned meetings; reciprocal affection, private conversation and proposed voluntary nude viewing in EP75.",
+      "mexico": "She chooses planned meetings; reciprocal affection, private conversation and proposed voluntary nude viewing in EP47.",
       "limit": "No intercourse; John does not automatically know every private detail.",
       "status": "canon + proposed"
     },
@@ -185,7 +190,7 @@
         "John"
       ],
       "baseline": "Repeated kissing and touching before Mexico, including EP54–55.",
-      "mexico": "Sharmi plans private time and a proposed consensual full-nudity moment in EP74.",
+      "mexico": "Sharmi plans private time and a proposed consensual full-nudity moment in EP46.",
       "limit": "No intercourse in current proposal; Raj's automatic approval is not assumed.",
       "status": "canon + proposed"
     },
@@ -196,7 +201,7 @@
         "John"
       ],
       "baseline": "Established marriage and sexual relationship; uneven knowledge of previous encounters.",
-      "mexico": "EP70 disclosure, EP72 boundaries, EP76 marriage decisions and India-return conversation.",
+      "mexico": "EP42 disclosure, EP44 boundaries, EP48 marriage decisions and India-return conversation.",
       "limit": "Only directly shared information should enter John's knowledge ledger.",
       "status": "canon + proposed"
     },
@@ -207,7 +212,7 @@
         "Raj"
       ],
       "baseline": "Established marriage, shared social context and intimacy.",
-      "mexico": "EP72 check-in, EP74 direct discussion of Scott and John, EP76 personal home rules.",
+      "mexico": "EP44 check-in, EP46 direct discussion of Scott and John, EP48 personal home rules.",
       "limit": "Not forced to adopt John–Dhika's exact arrangement.",
       "status": "canon + proposed"
     },
@@ -219,7 +224,7 @@
       ],
       "baseline": "No established romance; Scott appears in EP69 as Raj's acquaintance.",
       "mexico": "She approaches Scott by choice and tests whether his manner is respectful; possible reunion invitation.",
-      "limit": "No kiss or sexual contact completed in EP70–76 proposal.",
+      "limit": "No kiss or sexual contact completed in EP42–76 proposal.",
       "status": "proposed"
     },
     {
@@ -291,687 +296,763 @@
   ],
   "episodes": [
     {
-      "number": 70,
+      "number": 42,
       "day": 1,
       "title": "THE THIRD SEAT",
       "schedule": "After-midnight rainy drive → resort return → next morning (scenes continue directly from EP69)",
       "beats": [
         {
-          "id": "E70-01",
+          "id": "E42-01",
           "title": "Protective Lap Hold",
           "pair": "Dhika × Raj",
           "type": "resort",
           "continuity": "EP69 discomfort remains real; she is confident in speaking for herself.",
           "status": "proposed",
-          "description": "Scott’s cramped rear-seat arrangement is resolved. Dhika voices her discomfort and decides how she wants to sit. Raj listens rather than interpreting her choice as an invitation."
+          "description": "Scott’s cramped rear-seat arrangement is resolved. Dhika voices her discomfort and decides how she wants to sit. Raj listens rather than interpreting her choice as an invitation.",
+          "legacyId": "E70-01"
         },
         {
-          "id": "E70-02",
+          "id": "E42-02",
           "title": "The Unfinished Challenge",
           "pair": "Dhika × Scott",
           "type": "resort",
           "continuity": "A future relationship, if any, must be earned rather than assumed.",
           "status": "proposed",
-          "description": "Scott attempts familiar banter; Dhika answers with humor but makes distance and tone clear. He can back off gracefully."
+          "description": "Scott attempts familiar banter; Dhika answers with humor but makes distance and tone clear. He can back off gracefully.",
+          "legacyId": "E70-02"
         },
         {
-          "id": "E70-03",
+          "id": "E42-03",
           "title": "The Familiar Embrace",
           "pair": "Dhika × Raj",
           "type": "resort",
           "continuity": "Not a first attraction milestone.",
           "status": "proposed",
-          "description": "At resort, Dhika thanks Raj and initiates an affectionate embrace. Their prior kissing history is present in the subtext."
+          "description": "At resort, Dhika thanks Raj and initiates an affectionate embrace. Their prior kissing history is present in the subtext.",
+          "legacyId": "E70-03"
         },
         {
-          "id": "E70-04",
+          "id": "E42-04",
           "title": "The Waiting Kiss",
           "pair": "Sharmi × John",
           "type": "resort",
           "continuity": "Her earlier relationship with John remains active.",
           "status": "proposed",
-          "description": "John and Sharmi are among the awaiting group and share familiar affection; Sharmi notices how late Raj and Dhika arrive."
+          "description": "John and Sharmi are among the awaiting group and share familiar affection; Sharmi notices how late Raj and Dhika arrive.",
+          "legacyId": "E70-04"
         },
         {
-          "id": "E70-05",
+          "id": "E42-05",
           "title": "Two Different Disclosures",
           "pair": "Dhika × John / Dhika × Sharmi",
           "type": "resort",
           "continuity": "Track who hears what and when.",
           "status": "proposed",
-          "description": "Dhika tells John the car-safety problem and talks more privately with Sharmi about Scott and Raj. The two accounts need not have identical details."
+          "description": "Dhika tells John the car-safety problem and talks more privately with Sharmi about Scott and Raj. The two accounts need not have identical details.",
+          "legacyId": "E70-05"
         },
         {
-          "id": "E70-06",
+          "id": "E42-06",
           "title": "The Morning Repair Call",
           "pair": "Neighbour Uncle × Dhika",
           "type": "india_call",
           "continuity": "The home-world arc remains alive without presuming a sexual invitation.",
           "status": "proposed",
-          "description": "In India, Uncle video-calls about a real plumbing/maintenance decision. Dhika checks he is free to talk, answers the practical question, then teases him lightly about missing her daily instructions."
+          "description": "In India, Uncle video-calls about a real plumbing/maintenance decision. Dhika checks he is free to talk, answers the practical question, then teases him lightly about missing her daily instructions.",
+          "legacyId": "E70-06"
         }
       ],
-      "hook": "Sharmi decides she wants to meet Scott on her own terms—not as an extension of Dhika’s uncomfortable car scene."
+      "hook": "Sharmi decides she wants to meet Scott on her own terms—not as an extension of Dhika’s uncomfortable car scene.",
+      "legacyAnalysisNumber": 70
     },
     {
-      "number": 71,
+      "number": 43,
       "day": 2,
       "title": "TWO WOMEN, ONE BARTENDER",
       "schedule": "Resort breakfast → poolside afternoon → music-event invitation",
       "beats": [
         {
-          "id": "E71-01",
+          "id": "E43-01",
           "title": "First Bold Compliment",
           "pair": "Mateo × Sharmi",
           "type": "resort",
           "continuity": "Sharmi has independent agency and a new connection.",
           "status": "proposed",
-          "description": "Sharmi introduces herself playfully; Mateo engages respectfully rather than immediately choosing a woman."
+          "description": "Sharmi introduces herself playfully; Mateo engages respectfully rather than immediately choosing a woman.",
+          "legacyId": "E71-01"
         },
         {
-          "id": "E71-02",
+          "id": "E43-02",
           "title": "The Familiar Face",
           "pair": "Mateo × Dhika",
           "type": "resort",
           "continuity": "This is not an invented first-ever sighting.",
           "status": "proposed",
-          "description": "Dhika recognizes the bartender from the earlier stay. She starts a short personal conversation about his music recommendations."
+          "description": "Dhika recognizes the bartender from the earlier stay. She starts a short personal conversation about his music recommendations.",
+          "legacyId": "E71-02"
         },
         {
-          "id": "E71-03",
+          "id": "E43-03",
           "title": "Flirting Competition",
           "pair": "Dhika × Sharmi",
           "type": "resort",
           "continuity": "No EP01 personality reset.",
           "status": "proposed",
-          "description": "Sharmi challenges Dhika to be the one to ask a question first. Dhika calmly does it and teases her friend back."
+          "description": "Sharmi challenges Dhika to be the one to ask a question first. Dhika calmly does it and teases her friend back.",
+          "legacyId": "E71-03"
         },
         {
-          "id": "E71-04",
+          "id": "E43-04",
           "title": "Poolside Affection",
           "pair": "Sharmi × John",
           "type": "resort",
           "continuity": "Continuation, not origin story.",
           "status": "proposed",
-          "description": "Their established kissing/affection dynamic continues; any further contact is mutually checked."
+          "description": "Their established kissing/affection dynamic continues; any further contact is mutually checked.",
+          "legacyId": "E71-04"
         },
         {
-          "id": "E71-05",
+          "id": "E43-05",
           "title": "The Woman Who Talks Back",
           "pair": "Sharmi × Scott",
           "type": "resort",
           "continuity": "Cautious interest, not instant approval.",
           "status": "proposed",
-          "description": "Sharmi challenges Scott’s overfamiliar manner while learning about his work. He responds by giving her space."
+          "description": "Sharmi challenges Scott’s overfamiliar manner while learning about his work. He responds by giving her space.",
+          "legacyId": "E71-05"
         },
         {
-          "id": "E71-06",
+          "id": "E43-06",
           "title": "Two Faces on One Screen",
           "pair": "Bantu + Bobby × Dhika",
           "type": "india_call",
           "continuity": "Bantu = expressive, Bobby = reserved; no covert camera exposure or fabricated consent.",
           "status": "proposed",
-          "description": "The twins call from India. Bantu opens with a bold holiday compliment; Bobby adds a quieter personal question. Dhika deliberately teases *each differently*, with Sharmi briefly entering frame to poke fun at the trio."
+          "description": "The twins call from India. Bantu opens with a bold holiday compliment; Bobby adds a quieter personal question. Dhika deliberately teases *each differently*, with Sharmi briefly entering frame to poke fun at the trio.",
+          "legacyId": "E71-06"
         },
         {
-          "id": "E71-07",
+          "id": "E43-07",
           "title": "Who Was on the Call?",
           "pair": "Dhika × John",
           "type": "india_call",
           "continuity": "Maintain knowledge ledger.",
           "status": "proposed",
-          "description": "John sees the call notification afterward and asks casually. Dhika explains without pretending all prior twin history is known to him."
+          "description": "John sees the call notification afterward and asks casually. Dhika explains without pretending all prior twin history is known to him.",
+          "legacyId": "E71-07"
         }
       ],
-      "hook": "Mateo invites Dhika and Sharmi to an open resort music event; both can decline without consequence."
+      "hook": "Mateo invites Dhika and Sharmi to an open resort music event; both can decline without consequence.",
+      "legacyAnalysisNumber": 71
     },
     {
-      "number": 72,
+      "number": 44,
       "day": 3,
       "title": "THE COUPLES’ GAME",
       "schedule": "Morning excursion → sunset conversation → separate late-evening video/voice messages",
       "beats": [
         {
-          "id": "E72-01",
+          "id": "E44-01",
           "title": "The Hot-Tub Memory",
           "pair": "Dhika × Raj",
           "type": "resort",
           "continuity": "Earned intimacy and boundaries coexist.",
           "status": "proposed",
-          "description": "They directly reference EP54–55. Dhika explains which parts she remembers fondly and which parts still need care."
+          "description": "They directly reference EP54–55. Dhika explains which parts she remembers fondly and which parts still need care.",
+          "legacyId": "E72-01"
         },
         {
-          "id": "E72-02",
+          "id": "E44-02",
           "title": "The Unfinished Question",
           "pair": "Sharmi × John",
           "type": "resort",
           "continuity": "Avoid secret relationship upgrade without discussion.",
           "status": "proposed",
-          "description": "Sharmi asks John whether the relationship is only a holiday interlude. He gives an honest, non-magical answer."
+          "description": "Sharmi asks John whether the relationship is only a holiday interlude. He gives an honest, non-magical answer.",
+          "legacyId": "E72-02"
         },
         {
-          "id": "E72-03",
+          "id": "E44-03",
           "title": "The Boundary Conversation",
           "pair": "Dhika × John",
           "type": "resort",
           "continuity": "EP68 remains binding until Dhika changes it herself.",
           "status": "proposed",
-          "description": "Dhika reaffirms her established intercourse limit and describes what she wants from honesty and affection. John does not answer for her."
+          "description": "Dhika reaffirms her established intercourse limit and describes what she wants from honesty and affection. John does not answer for her.",
+          "legacyId": "E72-03"
         },
         {
-          "id": "E72-04",
+          "id": "E44-04",
           "title": "The Marriage Check-in",
           "pair": "Sharmi × Raj",
           "type": "resort",
           "continuity": "Sharmi and Raj are characters, not props.",
           "status": "proposed",
-          "description": "They discuss parallel attraction without equating being spouses with permitting any specific third-party encounter."
+          "description": "They discuss parallel attraction without equating being spouses with permitting any specific third-party encounter.",
+          "legacyId": "E72-04"
         },
         {
-          "id": "E72-05",
+          "id": "E44-05",
           "title": "The Private Agreement",
           "pair": "All four",
           "type": "resort",
           "continuity": "Future encounters have explicit context.",
           "status": "proposed",
-          "description": "Each person states expectations for invitations, disclosures and privacy; agreement is individual and revisable."
+          "description": "Each person states expectations for invitations, disclosures and privacy; agreement is individual and revisable.",
+          "legacyId": "E72-05"
         },
         {
-          "id": "E72-06",
+          "id": "E44-06",
           "title": "The Voice-Note Callback",
           "pair": "Bantu × Dhika",
           "type": "india_call",
           "continuity": "Retains their distinctive teasing rhythm.",
           "status": "proposed",
-          "description": "Bantu sends a playful voice message referencing her holiday confidence. Dhika answers with a witty recording, not an exaggerated embarrassed reaction."
+          "description": "Bantu sends a playful voice message referencing her holiday confidence. Dhika answers with a witty recording, not an exaggerated embarrassed reaction.",
+          "legacyId": "E72-06"
         },
         {
-          "id": "E72-07",
+          "id": "E44-07",
           "title": "The Missed Call",
           "pair": "Neighbour Uncle × Dhika",
           "type": "india_call",
-          "continuity": "Sets up EP73 callback; no invented emergency.",
+          "continuity": "Sets up EP45 callback; no invented emergency.",
           "status": "proposed",
-          "description": "An incoming India call goes unanswered during the couples’ discussion. Later Uncle texts a mundane update and a cheeky “you’ve forgotten home” remark."
+          "description": "An incoming India call goes unanswered during the couples’ discussion. Later Uncle texts a mundane update and a cheeky “you’ve forgotten home” remark.",
+          "legacyId": "E72-07"
         }
       ],
-      "hook": "Dhika and Sharmi each make a *separate* planned private meeting choice rather than stumbling into the same coincidence."
+      "hook": "Dhika and Sharmi each make a *separate* planned private meeting choice rather than stumbling into the same coincidence.",
+      "legacyAnalysisNumber": 72
     },
     {
-      "number": 73,
+      "number": 45,
       "day": 4,
       "title": "BEHIND CLOSED DOORS",
       "schedule": "Poolside daytime → two separate private meetings → late evening",
       "beats": [
         {
-          "id": "E73-01",
+          "id": "E45-01",
           "title": "Private Room Invitation",
           "pair": "Dhika × Raj",
           "type": "resort",
           "continuity": "Milestone is voluntary planning, not her first kiss.",
           "status": "proposed",
-          "description": "Dhika invites Raj to talk privately. She initiates an affectionate kiss and makes clear she chose the meeting."
+          "description": "Dhika invites Raj to talk privately. She initiates an affectionate kiss and makes clear she chose the meeting.",
+          "legacyId": "E73-01"
         },
         {
-          "id": "E73-02",
+          "id": "E45-02",
           "title": "Mutual Kissing Session",
           "pair": "Dhika × Raj",
           "type": "resort",
           "continuity": "No assumed intercourse.",
           "status": "proposed",
-          "description": "The existing kissing relationship continues off-page, with attention to how they respond afterward."
+          "description": "The existing kissing relationship continues off-page, with attention to how they respond afterward.",
+          "legacyId": "E73-02"
         },
         {
-          "id": "E73-03",
+          "id": "E45-03",
           "title": "Clothing and Privacy Conversation",
           "pair": "Dhika × Raj",
           "type": "resort",
           "continuity": "Request, negotiation and completion are separate tags.",
           "status": "proposed",
-          "description": "They discuss changing clothes, privacy and a possible later viewing encounter. Dhika does not have to decide immediately."
+          "description": "They discuss changing clothes, privacy and a possible later viewing encounter. Dhika does not have to decide immediately.",
+          "legacyId": "E73-03"
         },
         {
-          "id": "E73-04",
+          "id": "E45-04",
           "title": "Sharmi’s Private Invitation",
           "pair": "Sharmi × John",
           "type": "resort",
           "continuity": "John’s agency and Sharmi’s initiative both tracked.",
           "status": "proposed",
-          "description": "Sharmi arranges private time and reaffirms mutual affection with John."
+          "description": "Sharmi arranges private time and reaffirms mutual affection with John.",
+          "legacyId": "E73-04"
         },
         {
-          "id": "E73-05",
+          "id": "E45-05",
           "title": "The Two Closed Doors",
           "pair": "Dhika × Sharmi",
           "type": "resort",
           "continuity": "Friendship survives beyond competition.",
           "status": "proposed",
-          "description": "Later, the two friends compare how it felt to *choose* private meetings; they need not share every detail."
+          "description": "Later, the two friends compare how it felt to *choose* private meetings; they need not share every detail.",
+          "legacyId": "E73-05"
         },
         {
-          "id": "E73-06",
+          "id": "E45-06",
           "title": "The Call She Answers Alone",
           "pair": "Neighbour Uncle × Dhika",
           "type": "india_call",
           "continuity": "Confident Dhika: warm but direct, privacy self-controlled.",
           "status": "proposed",
-          "description": "Dhika returns Uncle’s video call while dressed normally in her room. The call covers the repaired bathroom and a playful callback to their complicated earlier history. She redirects if the teasing becomes too presumptuous."
+          "description": "Dhika returns Uncle’s video call while dressed normally in her room. The call covers the repaired bathroom and a playful callback to their complicated earlier history. She redirects if the teasing becomes too presumptuous.",
+          "legacyId": "E73-06"
         },
         {
-          "id": "E73-07",
+          "id": "E45-07",
           "title": "The Quiet Follow-up",
           "pair": "Bobby × Dhika",
           "type": "india_call",
           "continuity": "Separate Bobby from Bantu; neither message proves a deeper encounter.",
           "status": "proposed",
-          "description": "Bobby separately messages about the holiday photo she voluntarily posted; Dhika replies with a personalized teasing line."
+          "description": "Bobby separately messages about the holiday photo she voluntarily posted; Dhika replies with a personalized teasing line.",
+          "legacyId": "E73-07"
         }
       ],
-      "hook": "Both cross-couples have a negotiated basis for the next day; no “first intimacy” reset."
+      "hook": "Both cross-couples have a negotiated basis for the next day; no “first intimacy” reset.",
+      "legacyAnalysisNumber": 73
     },
     {
-      "number": 74,
+      "number": 46,
       "day": 5,
       "title": "THE UNCOVERED TRUTH",
       "schedule": "Private meetings → group check-in → separate India call",
       "beats": [
         {
-          "id": "E74-01",
+          "id": "E46-01",
           "title": "Private Undressing Agreement",
           "pair": "Sharmi × John",
           "type": "resort",
           "continuity": "Agreed proposal precedes any change.",
           "status": "proposed",
-          "description": "John and Sharmi explicitly discuss a greater degree of private vulnerability. Neither spouse’s approval replaces their own agreement."
+          "description": "John and Sharmi explicitly discuss a greater degree of private vulnerability. Neither spouse’s approval replaces their own agreement.",
+          "legacyId": "E74-01"
         },
         {
-          "id": "E74-02",
+          "id": "E46-02",
           "title": "Consensual Full Nudity",
           "pair": "Sharmi × John",
           "type": "resort",
           "continuity": "No intercourse planned. Verify whether this is truly new for this pair.",
           "status": "proposed",
-          "description": "Proposed private full-viewing milestone; action kept off-page / non-graphic. They later describe emotional meaning, not anatomical detail."
+          "description": "Proposed private full-viewing milestone; action kept off-page / non-graphic. They later describe emotional meaning, not anatomical detail.",
+          "legacyId": "E74-02"
         },
         {
-          "id": "E74-03",
+          "id": "E46-03",
           "title": "The Vulnerability Request",
           "pair": "Dhika × Raj",
           "type": "resort",
           "continuity": "A request is not a completed scene.",
           "status": "proposed",
-          "description": "Raj asks whether Dhika would ever want a similar voluntary experience. Dhika gives an actual answer, not an assumed yes."
+          "description": "Raj asks whether Dhika would ever want a similar voluntary experience. Dhika gives an actual answer, not an assumed yes.",
+          "legacyId": "E74-03"
         },
         {
-          "id": "E74-04",
+          "id": "E46-04",
           "title": "The Jealousy Comparison",
           "pair": "Dhika × Sharmi",
           "type": "resort",
           "continuity": "Neither woman copies the other by default.",
           "status": "proposed",
-          "description": "Sharmi shares her change of comfort level; Dhika responds with friendly rivalry and an independent assessment."
+          "description": "Sharmi shares her change of comfort level; Dhika responds with friendly rivalry and an independent assessment.",
+          "legacyId": "E74-04"
         },
         {
-          "id": "E74-05",
+          "id": "E46-05",
           "title": "The First Personal Admission",
           "pair": "Sharmi × Scott",
           "type": "resort",
           "continuity": "Optional later flirtation; no invented kiss.",
           "status": "proposed",
-          "description": "Sharmi candidly admits interest in further conversation with Scott, but asks him to respect group boundaries."
+          "description": "Sharmi candidly admits interest in further conversation with Scott, but asks him to respect group boundaries.",
+          "legacyId": "E74-05"
         },
         {
-          "id": "E74-06",
+          "id": "E46-06",
           "title": "The Group Holiday Call",
           "pair": "Bantu + Bobby × Dhika / Sharmi",
           "type": "india_call",
           "continuity": "Private meets remain private; the twins have differentiated reactions.",
           "status": "proposed",
-          "description": "A brief twins video call. Bantu asks about the trip; Bobby notices Dhika sounds unusually self-assured. Sharmi joins and makes a playful comment. No hotel-room private activity is shown on video."
+          "description": "A brief twins video call. Bantu asks about the trip; Bobby notices Dhika sounds unusually self-assured. Sharmi joins and makes a playful comment. No hotel-room private activity is shown on video.",
+          "legacyId": "E74-06"
         },
         {
-          "id": "E74-07",
+          "id": "E46-07",
           "title": "The Off-Camera Conversation",
           "pair": "Sharmi × Raj",
           "type": "india_call",
           "continuity": "Husband knowledge must be updated only after conversation.",
           "status": "proposed",
-          "description": "After ending the call, Sharmi has a direct conversation with Raj about John, Scott and what she wants to disclose."
+          "description": "After ending the call, Sharmi has a direct conversation with Raj about John, Scott and what she wants to disclose.",
+          "legacyId": "E74-07"
         }
       ],
-      "hook": "Dhika decides whether she personally wants a private viewing encounter with Raj tomorrow—not because Sharmi did."
+      "hook": "Dhika decides whether she personally wants a private viewing encounter with Raj tomorrow—not because Sharmi did.",
+      "legacyAnalysisNumber": 74
     },
     {
-      "number": 75,
+      "number": 47,
       "day": 6,
       "title": "THE LINE DHIKA CHOOSES",
       "schedule": "Dhika-led private meeting → afternoon resort activities → India call",
       "beats": [
         {
-          "id": "E75-01",
+          "id": "E47-01",
           "title": "Dhika’s Private Invitation",
           "pair": "Dhika × Raj",
           "type": "resort",
           "continuity": "She is an experienced, self-directed character.",
           "status": "proposed",
-          "description": "Dhika sends the invitation herself and names her priorities before they meet."
+          "description": "Dhika sends the invitation herself and names her priorities before they meet.",
+          "legacyId": "E75-01"
         },
         {
-          "id": "E75-02",
+          "id": "E47-02",
           "title": "Consensual Nude Viewing",
           "pair": "Dhika × Raj",
           "type": "resort",
           "continuity": "Confirm prior viewing history before naming this a first; no intercourse.",
           "status": "proposed",
-          "description": "Proposed limited private full-viewing milestone, recorded neutrally and off-page. Neither side assumes it licenses further acts."
+          "description": "Proposed limited private full-viewing milestone, recorded neutrally and off-page. Neither side assumes it licenses further acts.",
+          "legacyId": "E75-02"
         },
         {
-          "id": "E75-03",
+          "id": "E47-03",
           "title": "Renewed Mutual Kiss",
           "pair": "Dhika × Raj",
           "type": "resort",
           "continuity": "Affection with continuity.",
           "status": "proposed",
-          "description": "A familiar kiss follows conversation; both articulate how the relationship changed rather than repeating EP55 beat for beat."
+          "description": "A familiar kiss follows conversation; both articulate how the relationship changed rather than repeating EP55 beat for beat.",
+          "legacyId": "E75-03"
         },
         {
-          "id": "E75-04",
+          "id": "E47-04",
           "title": "The Intercourse Boundary",
           "pair": "Dhika × Raj",
           "type": "resort",
           "continuity": "EP68 retained.",
           "status": "proposed",
-          "description": "Dhika says plainly that her John-only intercourse boundary has not changed. Raj acknowledges it."
+          "description": "Dhika says plainly that her John-only intercourse boundary has not changed. Raj acknowledges it.",
+          "legacyId": "E75-04"
         },
         {
-          "id": "E75-05",
+          "id": "E47-05",
           "title": "The Morning-After Meaning",
           "pair": "Sharmi × John",
           "type": "resort",
           "continuity": "Two couples evolve in parallel, not interchangeably.",
           "status": "proposed",
-          "description": "Their own prior day experience prompts discussion of affection, jealousy and the future."
+          "description": "Their own prior day experience prompts discussion of affection, jealousy and the future.",
+          "legacyId": "E75-05"
         },
         {
-          "id": "E75-06",
+          "id": "E47-06",
           "title": "The Husbands’ Conversation",
           "pair": "Raj × John",
           "type": "resort",
           "continuity": "Knowledge remains individual and bounded.",
           "status": "proposed",
-          "description": "Raj and John talk honestly about what each is prepared to know, while acknowledging nobody speaks for Dhika or Sharmi."
+          "description": "Raj and John talk honestly about what each is prepared to know, while acknowledging nobody speaks for Dhika or Sharmi.",
+          "legacyId": "E75-06"
         },
         {
-          "id": "E75-07",
+          "id": "E47-07",
           "title": "The Interrupted Post-Meeting Call",
           "pair": "Neighbour Uncle × Dhika",
           "type": "india_call",
           "continuity": "Protect timelines: no hidden witness, no surprise nude video view.",
           "status": "proposed",
-          "description": "Uncle rings *after* Dhika and Raj finish their private time, asking when they return. Dhika jokes he misses her instructions more than her; she does not disclose private hotel-room events."
+          "description": "Uncle rings *after* Dhika and Raj finish their private time, asking when they return. Dhika jokes he misses her instructions more than her; she does not disclose private hotel-room events.",
+          "legacyId": "E75-07"
         },
         {
-          "id": "E75-08",
+          "id": "E47-08",
           "title": "The House-Return Tease",
           "pair": "Dhika × Uncle",
           "type": "india_call",
-          "continuity": "Seeds EP78 practical visit + personal subtext.",
+          "continuity": "Seeds EP50 practical visit + personal subtext.",
           "status": "proposed",
-          "description": "Uncle mentions the house will need her inspection. Dhika responds playfully that she will be the judge when home."
+          "description": "Uncle mentions the house will need her inspection. Dhika responds playfully that she will be the judge when home.",
+          "legacyId": "E75-08"
         }
       ],
-      "hook": "Sharmi knows Dhika made an independent choice; what John and Raj know is tracked separately."
+      "hook": "Sharmi knows Dhika made an independent choice; what John and Raj know is tracked separately.",
+      "legacyAnalysisNumber": 75
     },
     {
-      "number": 76,
+      "number": 48,
       "day": 7,
       "title": "SIX PEOPLE, FOUR DECISIONS",
       "schedule": "Last-day resort activity → farewell dinner → return messages",
       "beats": [
         {
-          "id": "E76-01",
+          "id": "E48-01",
           "title": "Everyone Knows Something",
           "pair": "Six adults",
           "type": "resort",
           "continuity": "Keep a genuine knowledge ledger.",
           "status": "proposed",
-          "description": "All six attend a farewell dinner. Each has different information; nothing is forced into a unanimous group confession."
+          "description": "All six attend a farewell dinner. Each has different information; nothing is forced into a unanimous group confession.",
+          "legacyId": "E76-01"
         },
         {
-          "id": "E76-02",
+          "id": "E48-02",
           "title": "The Playful Switch",
           "pair": "Sharmi × Mateo",
           "type": "resort",
           "continuity": "Mateo is not a prize or an interchangeable new man.",
           "status": "proposed",
-          "description": "Sharmi teases Mateo about how often Dhika has spoken to him; Dhika answers confidently."
+          "description": "Sharmi teases Mateo about how often Dhika has spoken to him; Dhika answers confidently.",
+          "legacyId": "E76-02"
         },
         {
-          "id": "E76-03",
+          "id": "E48-03",
           "title": "The Unexpected Respect",
           "pair": "Dhika × Scott",
           "type": "resort",
           "continuity": "A possible respectful acquaintance, not presumed romance.",
           "status": "proposed",
-          "description": "Scott demonstrates improved boundaries and recognizes Dhika as someone who will confront him. His earlier behaviour is not erased."
+          "description": "Scott demonstrates improved boundaries and recognizes Dhika as someone who will confront him. His earlier behaviour is not erased.",
+          "legacyId": "E76-03"
         },
         {
-          "id": "E76-04",
+          "id": "E48-04",
           "title": "The Familiar Partners Return",
           "pair": "Dhika × Raj / Sharmi × John",
           "type": "resort",
           "continuity": "Neither pair starts from zero.",
           "status": "proposed",
-          "description": "Both cross-couples share affectionate farewell moments, grounded in already established history."
+          "description": "Both cross-couples share affectionate farewell moments, grounded in already established history.",
+          "legacyId": "E76-04"
         },
         {
-          "id": "E76-05",
+          "id": "E48-05",
           "title": "The Marriage Conversations",
           "pair": "Dhika × John / Sharmi × Raj",
           "type": "resort",
           "continuity": "No automatic blanket group permission.",
           "status": "proposed",
-          "description": "Each married couple makes a personal, non-identical plan for future disclosure, trust and home routines."
+          "description": "Each married couple makes a personal, non-identical plan for future disclosure, trust and home routines.",
+          "legacyId": "E76-05"
         },
         {
-          "id": "E76-06",
+          "id": "E48-06",
           "title": "The Next Invitation",
           "pair": "Scott × Sharmi / Mateo × Dhika",
           "type": "resort",
           "continuity": "Two optional cross-border hooks, not completed kisses.",
           "status": "proposed",
-          "description": "Scott floats an optional later reunion; Mateo offers a way to stay in touch. Nothing is accepted automatically."
+          "description": "Scott floats an optional later reunion; Mateo offers a way to stay in touch. Nothing is accepted automatically.",
+          "legacyId": "E76-06"
         },
         {
-          "id": "E76-07",
+          "id": "E48-07",
           "title": "Flight-Day Video Message",
           "pair": "Bantu + Bobby × Dhika",
           "type": "india_call",
           "continuity": "Twin reunion seeded; future scene still open.",
           "status": "proposed",
-          "description": "The twins ask when Dhika returns. Bantu jokes about meeting at the airport; Bobby asks whether she has had fun. Dhika does not promise an unplanned airport pickup."
+          "description": "The twins ask when Dhika returns. Bantu jokes about meeting at the airport; Bobby asks whether she has had fun. Dhika does not promise an unplanned airport pickup.",
+          "legacyId": "E76-07"
         },
         {
-          "id": "E76-08",
+          "id": "E48-08",
           "title": "The House Keys and the Question",
           "pair": "Neighbour Uncle × Dhika",
           "type": "india_call",
-          "continuity": "Direct bridge to EP78 without exposing hotel-room details.",
+          "continuity": "Direct bridge to EP50 without exposing hotel-room details.",
           "status": "proposed",
-          "description": "Uncle sends a practical update and a half-playful question about what Mexico changed. Dhika replies that he can ask her after she returns."
+          "description": "Uncle sends a practical update and a half-playful question about what Mexico changed. Dhika replies that he can ask her after she returns.",
+          "legacyId": "E76-08"
         },
         {
-          "id": "E76-09",
+          "id": "E48-09",
           "title": "The Two-Women Pact",
           "pair": "Dhika × Sharmi",
           "type": "india_call",
           "continuity": "Preserves two female leads and emotional differentiation.",
           "status": "proposed",
-          "description": "Both friends agree to support one another without demanding identical romance or shared secrets."
+          "description": "Both friends agree to support one another without demanding identical romance or shared secrets.",
+          "legacyId": "E76-09"
         }
       ],
-      "hook": "Arrival in India leads to EP77 “The Rules We Bring Home”, not an instant continuation of Mexico intimacy."
+      "hook": "Arrival in India leads to EP49 “The Rules We Bring Home”, not an instant continuation of Mexico intimacy.",
+      "legacyAnalysisNumber": 76
     }
   ],
   "returnEpisodes": [
     {
-      "number": 77,
+      "number": 49,
       "title": "THE RULES WE BRING HOME",
       "schedule": "Arrival / first home evening",
       "beats": [
         {
-          "id": "E77-01",
+          "id": "E49-01",
           "title": "Airport Return and Real Life",
           "description": "All four meet ordinary travel, work and family obligations before any private reunion.",
           "pair": "India return ensemble",
           "type": "return",
           "continuity": "",
-          "status": "proposed"
+          "status": "proposed",
+          "legacyId": "E77-01"
         },
         {
-          "id": "E77-02",
+          "id": "E49-02",
           "title": "Twin Messages Become Reunion Plans",
           "description": "Bantu and Bobby invite Dhika to catch up; Dhika chooses a time consistent with her schedule.",
           "pair": "India return ensemble",
           "type": "return",
           "continuity": "",
-          "status": "proposed"
+          "status": "proposed",
+          "legacyId": "E77-02"
         },
         {
-          "id": "E77-03",
+          "id": "E49-03",
           "title": "Dhika × John",
           "description": "What Changed in Mexico — Dhika speaks with John about her own choices; no automatic assumption he knows the entire Raj history.",
           "pair": "India return ensemble",
           "type": "return",
           "continuity": "",
-          "status": "proposed"
+          "status": "proposed",
+          "legacyId": "E77-03"
         },
         {
-          "id": "E77-04",
+          "id": "E49-04",
           "title": "Sharmi × Raj",
           "description": "Their Own Rules — Sharmi and Raj separately clarify what happens next with John and with Scott.",
           "pair": "India return ensemble",
           "type": "return",
           "continuity": "",
-          "status": "proposed"
+          "status": "proposed",
+          "legacyId": "E77-04"
         },
         {
-          "id": "E77-05",
+          "id": "E49-05",
           "title": "The First Home-World Callback",
           "description": "The neighbour Uncle’s practical maintenance request becomes the next appointment, not an unannounced night visit.",
           "pair": "India return ensemble",
           "type": "return",
           "continuity": "",
-          "status": "proposed"
+          "status": "proposed",
+          "legacyId": "E77-05"
         }
       ],
-      "hook": ""
+      "hook": "",
+      "legacyAnalysisNumber": 77
     },
     {
-      "number": 78,
+      "number": 50,
       "title": "UNCLE NOTICES THE CHANGE",
       "schedule": "Neighbour hallway / repair follow-up",
       "beats": [
         {
-          "id": "E78-01",
+          "id": "E50-01",
           "title": "Dhika × Uncle",
           "description": "The Familiar Doorway — Dhika arrives confident, prepared to discuss the repairs, and teasingly asks why he was so eager to see her.",
           "pair": "India return ensemble",
           "type": "return",
           "continuity": "",
-          "status": "proposed"
+          "status": "proposed",
+          "legacyId": "E78-01"
         },
         {
-          "id": "E78-02",
+          "id": "E50-02",
           "title": "Uncle",
           "description": "Genuine Help vs Personal Motive — His practical contribution stays real; if he hints at something more, Dhika evaluates it on its own merits.",
           "pair": "India return ensemble",
           "type": "return",
           "continuity": "",
-          "status": "proposed"
+          "status": "proposed",
+          "legacyId": "E78-02"
         },
         {
-          "id": "E78-03",
+          "id": "E50-03",
           "title": "Sharmi × Dhika",
           "description": "The Friend Who Reads Her — Sharmi notices Dhika no longer reacts with the same default embarrassment and asks what changed.",
           "pair": "India return ensemble",
           "type": "return",
           "continuity": "",
-          "status": "proposed"
+          "status": "proposed",
+          "legacyId": "E78-03"
         },
         {
-          "id": "E78-04",
+          "id": "E50-04",
           "title": "John",
           "description": "Partial Awareness — John notices the repair visit but only knows what has actually been disclosed.",
           "pair": "India return ensemble",
           "type": "return",
           "continuity": "",
-          "status": "proposed"
+          "status": "proposed",
+          "legacyId": "E78-04"
         },
         {
-          "id": "E78-05",
+          "id": "E50-05",
           "title": "Iroh",
           "description": "Professional Return Seed — If the plumber is involved, keep Iroh separate from neighbour Uncle and track his own availability.",
           "pair": "India return ensemble",
           "type": "return",
           "continuity": "",
-          "status": "proposed"
+          "status": "proposed",
+          "legacyId": "E78-05"
         }
       ],
-      "hook": ""
+      "hook": "",
+      "legacyAnalysisNumber": 78
     },
     {
-      "number": 79,
+      "number": 51,
       "title": "THE TWINS’ INVITATION",
       "schedule": "College/work timetable / neighbourhood visits",
       "beats": [
         {
-          "id": "E79-01",
+          "id": "E51-01",
           "title": "Bantu",
           "description": "The First Holiday Compliment — Bantu greets Dhika with his usual confidence; she responds with a sharper playful comeback.",
           "pair": "India return ensemble",
           "type": "return",
           "continuity": "",
-          "status": "proposed"
+          "status": "proposed",
+          "legacyId": "E79-01"
         },
         {
-          "id": "E79-02",
+          "id": "E51-02",
           "title": "Bobby",
           "description": "The Different Reaction — Bobby is quieter and asks about the trip rather than copying Bantu’s teasing.",
           "pair": "India return ensemble",
           "type": "return",
           "continuity": "",
-          "status": "proposed"
+          "status": "proposed",
+          "legacyId": "E79-02"
         },
         {
-          "id": "E79-03",
+          "id": "E51-03",
           "title": "Dhika",
           "description": "A Clearer Boundary, Not a Shy Reset — Dhika can enjoy teasing while controlling conversation and access; her history with each twin differs.",
           "pair": "India return ensemble",
           "type": "return",
           "continuity": "",
-          "status": "proposed"
+          "status": "proposed",
+          "legacyId": "E79-03"
         },
         {
-          "id": "E79-04",
+          "id": "E51-04",
           "title": "Sharmi × John",
           "description": "The Unfinished Mexico Message — A message prompts their next explicit discussion; Raj and Dhika do not automatically know the contents.",
           "pair": "India return ensemble",
           "type": "return",
           "continuity": "",
-          "status": "proposed"
+          "status": "proposed",
+          "legacyId": "E79-04"
         },
         {
-          "id": "E79-05",
+          "id": "E51-05",
           "title": "Raj × Dhika",
           "description": "Post-Holiday Call — Raj checks in on Dhika. Both refer to Mexico without treating it as a secret promise of future intercourse.",
           "pair": "India return ensemble",
           "type": "return",
           "continuity": "",
-          "status": "proposed"
+          "status": "proposed",
+          "legacyId": "E79-05"
         }
       ],
-      "hook": ""
+      "hook": "",
+      "legacyAnalysisNumber": 79
     }
   ],
   "knowledge": [
@@ -1023,6 +1104,11 @@
   ],
   "decisions": [
     {
+      "topic": "New numbering and source position",
+      "state": "corrected",
+      "question": "Doc ends with author EP41. Mexico plan now EP42–48, India bridge EP49–51. Legacy EP55/68/69 references require mapping before treating them as author numbers."
+    },
+    {
       "topic": "Mateo's identity",
       "state": "proposed",
       "question": "Keep unnamed resort bartender as Mateo, or rename after further EP69 source review?"
@@ -1061,7 +1147,9 @@
   "editorial": {
     "method": "User-supplied original Google Doc and previously saved proposal; episode-specific earlier/later anchors reviewed with analysis caveat",
     "representation": "Structured, non-graphic fictional planning",
-    "notIncluded": "Not copying explicit prose; EP01–69 original not rewritten"
+    "notIncluded": "Not copying explicit prose; EP01–69 original not rewritten",
+    "sourceHierarchy": "Original Doc tab order and embedded author number 41 > legacy per-beat analysis numbering",
+    "originalSourceDocumentRevision": "AHj4eMRElorhUhPhw-Ja76elRZZssO4oYWC9alS3ih5YotyJPsfNK0KtlU4KHYz0MHe7uxZmjxF69725UJTlggUmDVJ1CXT1xXksuopJ4Vs"
   },
   "originalTabs": [
     {
@@ -1069,292 +1157,387 @@
       "tabId": "t.3i71lj73ib3d",
       "title": "Prologue",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.3i71lj73ib3d",
-      "sourceStatus": "original Google Doc tab"
+      "part": 1,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 1,
       "tabId": "t.1mqqwwl4zwey",
       "title": "The Little Bra cups",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.1mqqwwl4zwey",
-      "sourceStatus": "original Google Doc tab"
+      "part": 1,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": 1
     },
     {
       "tabIndex": 2,
       "tabId": "t.g88v2w9o4s5e",
       "title": "Chotu Babu intro",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.g88v2w9o4s5e",
-      "sourceStatus": "original Google Doc tab"
+      "part": 1,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 3,
       "tabId": "t.hmusjjn8muw2",
       "title": "Dhika's first show",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.hmusjjn8muw2",
-      "sourceStatus": "original Google Doc tab"
+      "part": 1,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 4,
       "tabId": "t.x1efj3tu83lc",
       "title": "Dhika catches Uncle",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.x1efj3tu83lc",
-      "sourceStatus": "original Google Doc tab"
+      "part": 1,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 5,
       "tabId": "t.am1gl9ljieqo",
       "title": "Accidental slip show to the Twins",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.am1gl9ljieqo",
-      "sourceStatus": "original Google Doc tab"
+      "part": 2,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 6,
       "tabId": "t.5kiu6sd4j0rx",
       "title": "Playing with Chotu backfires a little",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.5kiu6sd4j0rx",
-      "sourceStatus": "original Google Doc tab"
+      "part": 2,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 7,
       "tabId": "t.1pscf8coab80",
       "title": "Second accident and the cock twitch",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.1pscf8coab80",
-      "sourceStatus": "original Google Doc tab"
+      "part": 2,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 8,
       "tabId": "t.camx0t4f4sz5",
       "title": "Sexcapades with the twins part 1",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.camx0t4f4sz5",
-      "sourceStatus": "original Google Doc tab"
+      "part": 2,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 9,
       "tabId": "t.yrvrd96s2pcs",
       "title": "Dhika teasing Chotu part 1",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.yrvrd96s2pcs",
-      "sourceStatus": "original Google Doc tab"
+      "part": 2,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 10,
       "tabId": "t.4rac1skujach",
       "title": "Dhika teasing Chotu part 2...... and first cum",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.4rac1skujach",
-      "sourceStatus": "original Google Doc tab"
+      "part": 3,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": 1
     },
     {
       "tabIndex": 11,
       "tabId": "t.pvzqcetr9elp",
       "title": "Meeting Raj and Sharmi; Bantu's wish getting fulfi",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.pvzqcetr9elp",
-      "sourceStatus": "original Google Doc tab"
+      "part": 3,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 12,
       "tabId": "t.xn02i32wnfvc",
       "title": "Bantu's dare move and Bobby sees her in just towel",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.xn02i32wnfvc",
-      "sourceStatus": "original Google Doc tab"
+      "part": 3,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 13,
       "tabId": "t.z2g6xgj439nn",
       "title": "Dhika's kiss and Dinner at Raj and Sharmi's",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.z2g6xgj439nn",
-      "sourceStatus": "original Google Doc tab"
+      "part": 3,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 14,
       "tabId": "t.srg3ksimrzjn",
       "title": "Kissing with Chotu takes up a notch and Movie date",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.srg3ksimrzjn",
-      "sourceStatus": "original Google Doc tab"
+      "part": 3,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 15,
       "tabId": "t.zf8s6aom80yy",
       "title": "Cock caught between the feet",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.zf8s6aom80yy",
-      "sourceStatus": "original Google Doc tab"
+      "part": 4,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 16,
       "tabId": "t.f5fvodwwo9nk",
       "title": "Braless T shirt; Drenching thighs",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.f5fvodwwo9nk",
-      "sourceStatus": "original Google Doc tab"
+      "part": 4,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 17,
       "tabId": "t.upuryzuajvlx",
       "title": "Flashing panty and setting stage to Swiss",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.upuryzuajvlx",
-      "sourceStatus": "original Google Doc tab"
+      "part": 4,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 18,
       "tabId": "t.x72521kctnyf",
       "title": "Swiss - Day 1: Groping shower with twins and Bitin",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.x72521kctnyf",
-      "sourceStatus": "original Google Doc tab"
+      "part": 4,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 19,
       "tabId": "t.mbwq95667scy",
       "title": "Swiss - Day 2: Dressing game and Twins' first cum.",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.mbwq95667scy",
-      "sourceStatus": "original Google Doc tab"
+      "part": 4,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 20,
       "tabId": "t.24nrunugt9py",
       "title": "Swiss - Day 3: Letters to John and dismayed Twins",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.24nrunugt9py",
-      "sourceStatus": "original Google Doc tab"
+      "part": 5,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 21,
       "tabId": "t.nfb6ssr2kp2m",
       "title": "Swiss - Day 4: Touching a cock and Twins drenching",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.nfb6ssr2kp2m",
-      "sourceStatus": "original Google Doc tab"
+      "part": 5,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 22,
       "tabId": "t.6fm0bykzke5g",
       "title": "Swiss - Day 5: Kissing bra and Rubbing the cum all",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.6fm0bykzke5g",
-      "sourceStatus": "original Google Doc tab"
+      "part": 5,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 23,
       "tabId": "t.mfbtyyl1o66p",
       "title": "Dhika's Orgasm",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.mfbtyyl1o66p",
-      "sourceStatus": "original Google Doc tab"
+      "part": 5,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 24,
       "tabId": "t.qalv541oe3oc",
       "title": "Revelation",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.qalv541oe3oc",
-      "sourceStatus": "original Google Doc tab"
+      "part": 5,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 25,
       "tabId": "t.cfny9edfu9sf",
       "title": "A Meetup - John, Dhika, Chotu, Raj, Sharmi, ...Leo",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.cfny9edfu9sf",
-      "sourceStatus": "original Google Doc tab"
+      "part": 6,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 26,
       "tabId": "t.9g8kkb24f4e1",
       "title": "Movie date with Chotu; drenching cheeks",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.9g8kkb24f4e1",
-      "sourceStatus": "original Google Doc tab"
+      "part": 6,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 27,
       "tabId": "t.gawdlrmtn7ev",
       "title": "Sexcapades with the twins part 2 - Day 1",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.gawdlrmtn7ev",
-      "sourceStatus": "original Google Doc tab"
+      "part": 6,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 28,
       "tabId": "t.3rcdnin6xwet",
       "title": "Sexcapades with the twins part 2 - Day 2: First mi",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.3rcdnin6xwet",
-      "sourceStatus": "original Google Doc tab"
+      "part": 6,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 29,
       "tabId": "t.ec6po1hq58du",
       "title": "Sexcapades with the twins part 2 - Day 3: First na",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.ec6po1hq58du",
-      "sourceStatus": "original Google Doc tab"
+      "part": 6,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 30,
       "tabId": "t.ad0bwnjq621o",
       "title": "Aftermath... An evening with Porn and Uncle's cock",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.ad0bwnjq621o",
-      "sourceStatus": "original Google Doc tab"
+      "part": 7,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 31,
       "tabId": "t.65nfaxu0u64j",
       "title": "A Week before the Weekend Retreat",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.65nfaxu0u64j",
-      "sourceStatus": "original Google Doc tab"
+      "part": 7,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 32,
       "tabId": "t.u6hiuimbfwgv",
       "title": "An initiation with Chotu - Part 1",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.u6hiuimbfwgv",
-      "sourceStatus": "original Google Doc tab"
+      "part": 7,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": 33
     },
     {
       "tabIndex": 33,
       "tabId": "t.zh3obwyulnct",
       "title": "The Weekend Retreat",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.zh3obwyulnct",
-      "sourceStatus": "original Google Doc tab"
+      "part": 7,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": 34
     },
     {
       "tabIndex": 34,
       "tabId": "t.dm7qtlia5bgt",
       "title": "The Emotional Turmoil",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.dm7qtlia5bgt",
-      "sourceStatus": "original Google Doc tab"
+      "part": 7,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 35,
       "tabId": "t.wv9oycsi166c",
       "title": "The Lust Boils",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.wv9oycsi166c",
-      "sourceStatus": "original Google Doc tab"
+      "part": 8,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": 36
     },
     {
       "tabIndex": 36,
       "tabId": "t.8pkqmyn8an1d",
       "title": "An initiation with Chotu - Part 2 ( The Lust Boils",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.8pkqmyn8an1d",
-      "sourceStatus": "original Google Doc tab"
+      "part": 8,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": 37
     },
     {
       "tabIndex": 37,
       "tabId": "t.ih50jyjbxgyc",
       "title": "Prelude",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.ih50jyjbxgyc",
-      "sourceStatus": "original Google Doc tab"
+      "part": 8,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": null
     },
     {
       "tabIndex": 38,
       "tabId": "t.r349hs9w4wlc",
       "title": "Sexcapades with the Twins part 3 - Day 2",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.r349hs9w4wlc",
-      "sourceStatus": "original Google Doc tab"
+      "part": 8,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": 39
     },
     {
       "tabIndex": 39,
       "tabId": "t.rnikcw62o3k5",
       "title": "Sexcapades with the Twins part 3 - Day 3",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.rnikcw62o3k5",
-      "sourceStatus": "original Google Doc tab"
+      "part": 8,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": 40
     },
     {
       "tabIndex": 40,
       "tabId": "t.f3pj326c1bpf",
       "title": "Birthday party: A Total Strip-down",
       "sourceLink": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.f3pj326c1bpf",
-      "sourceStatus": "original Google Doc tab"
+      "part": 9,
+      "sourceStatus": "original Google Doc tab",
+      "explicitAuthorEpisodeNumber": 41
     }
   ],
   "canonCoverage": {
     "originalDocumentTabs": 41,
-    "includes": "Prologue plus 40 numbered tab positions",
-    "warning": "Tab position, chapter title and embedded numbering are not always aligned. Use source tab links; do not silently renumber. EP41–69 original source text is not contained in this Google Doc."
+    "includes": "Prologue plus 40 additional tabs",
+    "lastSourceAuthorNumber": 41,
+    "warning": "Original tabs and original author episode numbers do not align one-to-one. Analysis episode numbering 1–69 is a separate legacy index; it must not override author numbering."
+  },
+  "numberingCorrection": {
+    "appliesTo": "Source Doc EP41 last explicit author episode; proposed continuation EP42",
+    "sourceChapterCount": 41,
+    "sourceStoryTabs": 40,
+    "lastAuthorEpisode": 41,
+    "nextProposedEpisode": 42,
+    "legacyNumbering": "Earlier reconciled EP55, EP68 and EP69 labels are analysis IDs and not author episode numbers; do not merge them with this source's author numbering",
+    "mexicoOldRange": "70–76",
+    "mexicoNewRange": "42–48",
+    "returnOldRange": "77–79",
+    "returnNewRange": "49–51"
   }
 }
