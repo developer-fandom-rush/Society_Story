@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#101821"><title>Dhika · Encounter Atlas & Slow-Burn Planner</title>
-<meta name="description" content="Dhika episode planning: 187 non-graphic action/scenario labels, 18-character continuity checklists, source-grounded pacing and revised EP65–76 roadmap.">
+<meta name="description" content="Dhika episode planning: 187 non-graphic action labels plus 116 adult-scene theme labels, 18-character continuity checklists, source-grounded pacing and revised EP65–76 roadmap.">
 <style>
 :root{--bg:#101821;--panel:#192733;--raised:#223442;--line:#394d58;--text:#f5eee6;--muted:#aec0c9;--gold:#ecc092;--mint:#b7ddcd}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:14px/1.6 system-ui,-apple-system,Segoe UI,Arial,sans-serif}a{color:var(--gold)}button,input,select{font:inherit}button{cursor:pointer}button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
@@ -15,7 +15,7 @@ header{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-betw
 <header><a href="./dhika.html?tab=original&chapter=0" class="brand">DHIKA · Story Lab</a><nav><a href="./dhika.html?tab=original&chapter=40">Original EP41</a><a href="./twins.html?ep=52">Twins Part 4</a><a href="./chotu.html?view=roadmap&ep=65">Episode Plans</a><a class="current" href="./encounters.html">Encounter Atlas</a></nav></header>
 <div class="hero"><div class="eyebrow">Source-audited planning · action labels, not graphic prose</div><h1>Encounter Atlas & Slow-Burn Planner</h1><p>Every encounter can be actual, sighted, imagined, recalled, reported, declined, interrupted or witnessed. Review action names and character knowledge separately, then plan a meaningful pause before the next escalation.</p><span class="tag">PROPOSED FRAMEWORK · ORIGINAL CANON UNCHANGED</span></div>
 <main class="wrap"><div class="tabs">
-<button data-v="actions">Action Library</button><button data-v="characters">Character Checklists</button><button data-v="pacing">Pacing & Source Evidence</button><button data-v="lanes">Relationship Lanes</button><button data-v="episodes">EP65–76 Slow-Burn Plan</button><button data-v="evidence">69-EP Evidence Audit</button><button data-v="penetration">Penetrative Names Only</button>
+<button data-v="actions">Action Library</button><button data-v="characters">Character Checklists</button><button data-v="pacing">Pacing & Source Evidence</button><button data-v="lanes">Relationship Lanes</button><button data-v="episodes">EP65–76 Slow-Burn Plan</button><button data-v="evidence">69-EP Evidence Audit</button><button data-v="penetration">Penetrative Names Only</button><button data-v="themes">Positions & Adult Scenarios</button>
 </div><div id="page"><p class="notice">Loading encounter library…</p></div><div class="footer">Original source ends at author EP41. EP42 onward is proposed writing-planning material. Checkbox progress is stored only in this browser on this device (where supported), not synchronized to GitHub. Sexual contact descriptions are non-graphic classifications, not choreography or proof that an act occurred.</div></main>
 <script>
 (function(){
@@ -26,8 +26,8 @@ function esc(x){return String(x==null?"":x).replace(/&/g,"&amp;").replace(/</g,"
 function safeStoreGet(key){try{return localStorage.getItem(key)||""}catch(e){return ""}}
 function safeStoreSet(key,value){try{localStorage.setItem(key,value)}catch(e){}}
 function choose(v){if(view!==v){query='';actionMode='all';family='all'}view=v;var url=new URL(location.href);url.searchParams.set("view",v);history.pushState(null,"",url);render()}
-function root(){if(!SYS)return;var u=new URLSearchParams(location.search),v=u.get("view");view=["actions","characters","pacing","lanes","episodes","evidence","penetration"].includes(v)?v:"actions";render()}
-function render(){document.querySelectorAll("[data-v]").forEach(function(b){b.classList.toggle("active",b.getAttribute("data-v")===view)});if(view==="actions")renderActions();else if(view==="characters")renderCharacters();else if(view==="pacing")renderPacing();else if(view==="lanes")renderLanes();else if(view==="episodes")renderEpisodes();else if(view==="evidence")renderEvidence();else renderPenetration()}
+function root(){if(!SYS)return;var u=new URLSearchParams(location.search),v=u.get("view");view=["actions","characters","pacing","lanes","episodes","evidence","penetration","themes"].includes(v)?v:"actions";render()}
+function render(){document.querySelectorAll("[data-v]").forEach(function(b){b.classList.toggle("active",b.getAttribute("data-v")===view)});if(view==="actions")renderActions();else if(view==="characters")renderCharacters();else if(view==="pacing")renderPacing();else if(view==="lanes")renderLanes();else if(view==="episodes")renderEpisodes();else if(view==="evidence")renderEvidence();else if(view==="penetration")renderPenetration();else renderThemes()}
 function renderActions(){
 var cats=[...new Set(SYS.actions.map(function(x){return x.family}))];
 var modes=[...new Set(SYS.actions.map(function(x){return x.mode}))];
@@ -86,6 +86,21 @@ function renderPenetration(){
 var names=SYS.penetrativeNamesOnly||[];
 var html='<div class="eyebrow">GENERIC CLINICAL CLASSIFICATION · NOT CANON CLAIMS</div><h2>Penetrative Action Names Only</h2><p class="notice">Separate from non-penetrative encounters; these are category names, not events verified in Dhika.</p><ol class="only-names">'+names.map(function(n){return '<li>'+esc(n)+'</li>'}).join('')+'</ol>';
 el("page").innerHTML=html;
+}
+
+
+function renderThemes(){
+var theme=SYS.adultSceneTaxonomy||{},cats=theme.categories||[];
+var html='<div class="eyebrow">ADULT-SCENE CLASSIFICATION · NOT CANON CLAIMS</div><h2>Positions, Observers, Group Dynamics &amp; Settings</h2>';
+html+='<p class="notice"><strong>'+cats.reduce(function(n,c){return n+c.items.length},0)+' labels in '+cats.length+' distinct scene axes.</strong> A position is not an act; voyeurism is an observer role; group sex refers to participants; BDSM requires negotiated consent; public and forbidden are context labels, not automatic sexual acts.</p>';
+html+='<div class="controls"><input id="tq" type="search" value="'+esc(query)+'" placeholder="Find positions, voyeurism, orgy, BDSM, public, forbidden…" aria-label="Search adult scenario taxonomy"><select id="tf"><option value="all">All scene themes</option>'+cats.map(function(c){return '<option '+(family===c.key?'selected':'')+' value="'+esc(c.key)+'">'+esc(c.title)+'</option>'}).join('')+'</select></div>';
+var shown=cats.filter(function(c){return family==="all"||c.key===family}).map(function(c){return {...c,items:c.items.filter(function(a){return !query||[a.name,a.id,c.title,c.description].join(" ").toLowerCase().includes(query)})}}).filter(function(c){return c.items.length>0});
+html+='<div class="cards">'+shown.map(function(c){return '<article class="card"><div class="eyebrow">'+esc(c.id)+' · '+c.items.length+' tags</div><h3>'+esc(c.title)+'</h3><p>'+esc(c.description)+'</p><div>'+c.items.map(function(a){return '<span class="chip" title="'+esc(a.id)+'">'+esc(a.name)+'</span>'}).join("")+'</div></article>'}).join('')+'</div>';
+html+='<div class="notice"><strong>Boundaries:</strong> Consensual voyeurism differs from spying; unauthorized sharing is a violation; public places with unwilling bystanders are not consent-based scenes. Rough/BDSM categories require individual agreement, stopping rules and aftercare. “Forbidden” is a fictional adult relationship conflict, never permission for coercion, underage activity or familial abuse.</div>';
+html+='<div class="notice"><strong>How to use in the episode ledger:</strong> Track separate fields: physical act, position (if any), number of participants, observer status, location, relationship context, actual vs imagined vs proposed, consent/stop, and aftermath. <a href="./encounters.html?view=penetration">Penetrative action names remain a separate tab</a>.</div>';
+el("page").innerHTML=html;
+el("tq").oninput=function(){query=this.value.trim().toLowerCase();renderThemes();var q=el("tq");q.focus();q.setSelectionRange(q.value.length,q.value.length)};
+el("tf").onchange=function(){family=this.value;renderThemes()};
 }
 
 function renderEpisodes(){
