@@ -178,3 +178,10 @@ To update the original source, re-export Google Docs and update the nine JSON gr
 - Expanded 109 high-level labels to **187** non-graphic action/scenario classifications, including sight angle, clothing change, solo actual vs imagined vs reported, partial/full exposure, video/film observation, covered/external physical contact, and aftermath/pacing.
 - Added 25 cited secondary beat examples with exact EP/beat IDs and evidence kinds, plus a separate **names-only** list of generic penetrative categories (not claims about Dhika canon).
 - Existing 18-character checklists, 14 relationship lanes, and revised EP65–76 slow-burn schedule remain intact.
+
+## Adult positions and scene themes — separate taxonomy
+
+[Browse 116 adult-only position, observer and context labels](encounters.html?view=themes) · [Penetrative act names only](encounters.html?view=penetration) · [full encounter atlas](content/DHIKA_ENCOUNTER_SYSTEM.md).
+
+- 116 scenario tags across 8 distinct axes: positions, consensual observation/voyeurism, group configurations, BDSM/rough dynamics, private/public locations, forbidden/socially taboo adult-relationship conflicts, physical act versus outcome, and consent/privacy checks.
+- These are categories, **not verified Dhika canon** and not all penetrative physical acts. Unconsented observation and unauthorized recording are flagged privacy violations, never approved scenarios.
