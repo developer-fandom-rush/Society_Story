@@ -95,8 +95,8 @@
 | S11 | Breast-focused kissing / oral contact | Non-penetrative | Name only; separate from oral-genital activity | Framework / no direct source claim |
 | S12 | Breast-focused friction (titjob) | Non-penetrative | Neutral name only, off-page | Framework / no direct source claim |
 | S13 | Non-penetrative body-to-body friction | Non-penetrative | Adult consensual category without mechanics | Framework / no direct source claim |
-| S14 | External oral-genital contact | Non-penetrative if strictly external | Oral-genital category may involve penetration; track precisely; no mechanics | Framework / no direct source claim |
-| S15 | Oral sexual contact (blowjob label) | May not be strictly non-penetrative | Distinguish from strictly no-penetration rule; name only, off-page | Framework / no direct source claim |
+| S14 | External oral-genital contact | Non-penetrative if strictly external | Contact must remain external, without insertion. Specific consent still required. | Framework / no direct source claim |
+| S15 | Oral sexual contact (blowjob label) | Requires penetration clarification | Oral sex may involve oral penetration; do not count as strictly non-penetrative without scope evidence. | Framework / no direct source claim |
 | S16 | Sexual climax without penetration | Outcome | Not required for a milestone or plot advancement | Framework / no direct source claim |
 | S17 | Sexual contact proposed but declined | Boundary | A proposed act is not performed | Framework / no direct source claim |
 | S18 | Sexual contact discussed, not performed | Discussion | Future candidate; no physical milestone | Framework / no direct source claim |
