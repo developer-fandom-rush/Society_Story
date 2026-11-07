@@ -114,3 +114,20 @@ episode4.html       Episode 04 Writing Studio
 .nojekyll           GitHub Pages compatibility
 README.md           These instructions
 ```
+
+
+## Dhika — original universe and Mexico future planner
+
+**Separate from Society Wives:** The site's third collection tile opens the dedicated [Dhika reader](dhika.html?tab=episodes&ep=70).
+
+The new reader includes:
+- **Original Episodes:** Direct links to the original Google Doc's Prologue and 40 further tab positions. Some printed episode numbers differ from tab order; the index does not silently renumber them.
+- **Mexico EP70–76:** Seven days, 51 action-title-level encounters, including 14 India phone/video/message intercuts. Relationship development remains tied to the EP55 / EP68 / EP69 anchors.
+- **Characters / Relationships / India Calls / India Return:** Searchable filters, before-and-after milestones and 15 proposed beats for EP77–79.
+- **Canon & Knowledge:** Continuity constraints, what each character knows, open questions and the original/reconciled source links.
+
+**Edit only the Dhika plan:** [content/DHIKA_MEXICO.md](content/DHIKA_MEXICO.md) for readable detailed notes; [content/DHIKA_MEXICO.json](content/DHIKA_MEXICO.json) for the interactive reader's data. They are one-time authored snapshots; editing the Markdown alone does not automatically regenerate JSON.
+
+**Source-of-truth separation:** The original [Dhika Google Doc](https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit) and the saved [Mexico proposed Word document](https://docs.google.com/document/d/1nJjaiWEXdBHYmLtlRoU3uWHw27gBrG_P/edit) were reviewed. The original Google Doc currently contains Prologue plus forty further tabs; later episode anchors use previously reconciled JSON analysis, whose completeness has caveats. EP70–79 remains **PROPOSED, NOT CANON**. This update does not overwrite the original Dhika text or Society Wives' published prose.
+
+**URLs:** [Dhika Mexico Episodes](dhika.html?tab=episodes&ep=70) · [Original episode tab index](dhika.html?tab=original) · [India return](dhika.html?tab=return) · [Relationship ledger](dhika.html?tab=relationships)
