@@ -181,7 +181,8 @@
     "Every adult chooses separately. Boundary violations in earlier scenes are not retroactively reclassified as consensual.",
     "The new female tuition student Nisha (25, married; working name) is a proposed adult academic character, not present in original canon; do not romanticize teacher–student pressure.",
     "Raj was an existing swimming coach; all pool coaching is an explicitly supervised safety/skills activity.",
-    "Gym setup and schedules are new proposals. Daily means regular scheduled morning attendance, with appropriate flexibility/rest."
+    "Gym setup and schedules are new proposals. Daily means regular scheduled morning attendance, with appropriate flexibility/rest.",
+    "Leo and married Nisha are the established gym duo for ~8 months, as a NEW PROPOSED backstory. Twins have NO pre-established Nisha gym partnership or romance."
   ],
   "episodes": [
     {
@@ -980,41 +981,40 @@
       "number": 65,
       "title": "THE NEW ROUTINE",
       "schedule": "India Day 17 / Monday · Gym 6:45 AM → college → Raj's pool 5:00 PM → tuition 6:30 PM → Leo's arrival 8:30 PM",
-      "plotEngine": "Five tracks are connected by a realistic workday: twins show Dhika and Sharmi an adult-access gym and help set up a voluntary morning routine; Raj resumes swimming coaching; a 23-year-old female learner joins tuition; Leo returns through an ordinary work trip; the Stranger thread gets a new lead without a forced identity reveal.",
-      "highestMilestone": "Gym: coached stretching / spotting by request; Pool: Raj's safety-assisted swim; tuition/Leo: ordinary greetings; no new sexual milestone.",
-      "boundary": "All new gym members and learners are adults; workout assistance and swimming safety support are not consent to intimacy. Tuition has no romantic obligations. Leo is not assumed to be Stranger.",
-      "achievement": "Daily gym routine proposed and trial scheduled; Raj's regular swimming instruction begins again; new adult female learner joins the academic circle; Leo re-enters the household plot; Stranger remains unresolved.",
+      "plotEngine": "Bantu and Bobby help Dhika and Sharmi find gym membership options, but Nisha's established workout partner is Leo, not either twin. Nisha attends the gym while Leo is away and says he is returning. Raj resumes his existing swimming lessons; Nisha (25, married) independently joins tuition; Leo arrives for a work-related visit at 8:30 PM, and Stranger's anonymous-gift trail remains unresolved.",
+      "highestMilestone": "Nisha × Dhika/Sharmi: gym demonstration and friendly motivation; Raj × Dhika: swimming practice; Leo returns socially; no new sexual milestone.",
+      "boundary": "Nisha and Leo are existing gym partners only in this proposed continuation. Twins facilitate membership but do NOT train with Nisha or have a pre-existing Nisha romance. Professional tuition and workout instruction remain separate.",
+      "achievement": "Dhika and Sharmi begin their fitness routine in Nisha's gym circle; Nisha reveals she and Leo already train regularly together. Leo's evening return tees up their reunion the next morning, Raj's swim lessons continue, and adult tuition is independently introduced.",
       "status": "PROPOSED",
       "beats": [
         {
           "id": "E65-01",
-          "title": "The Gym Offer",
-          "pair": "Bantu × Bobby × Nisha × Dhika × Sharmi",
+          "title": "The Gym Introduction",
+          "pair": "Dhika × Sharmi × Nisha; Bantu/Bobby (membership referral only)",
           "slot": "6:45 AM · Gym reception",
-          "description": "Bantu and Bobby introduce Dhika and Sharmi to their existing 25-year-old married gym friend Nisha, who has trained with the twins for eight months. Nisha confidently demonstrates the class routine; Dhika/Sharmi choose gym membership schedules.",
+          "description": "Bantu and Bobby have recommended gym membership options to Dhika and Sharmi, but are not present as Nisha's gym partners. Nisha, an experienced married 25-year-old member, welcomes both and mentions that her usual workout partner Leo is away on a short trip.",
           "actionNames": [
-            "Established Gym Friendship Introduction",
-            "Workout Demonstration",
-            "Membership Invitation",
-            "Schedule Agreement",
-            "Individual Preference Check"
+            "Gym Membership Referral",
+            "First Gym Meeting",
+            "Workout Introduction",
+            "Leo Name Mention"
           ],
-          "continuity": "A new proposed gym setup, not established historical canon.",
+          "continuity": "Nisha's existing partner is Leo; twins only help with access. Leo returns later in EP65.",
           "status": "proposed"
         },
         {
           "id": "E65-02",
-          "title": "Two Coaches, Not Two Owners",
-          "pair": "Bantu × Bobby × Nisha × Dhika × Sharmi",
+          "title": "Nisha's Workout Demonstration",
+          "pair": "Nisha × Dhika × Sharmi",
           "slot": "7:05 AM · Gym floor",
-          "description": "Bantu suggests a lively circuit, Bobby emphasizes form, and Nisha's established athletic competence visibly motivates both women. Any hands-on spotting must be requested.",
+          "description": "Nisha shows her own workout routine, suggests safe beginner modifications and invites the women to choose their preferred intensity. Leo's usual spot beside her remains empty because his return is scheduled for evening.",
           "actionNames": [
             "Warm-Up",
             "Mobility Practice",
-            "Exercise Demonstration",
-            "Permission-Based Spotting"
+            "Workout Demonstration",
+            "Permission-Based Form Correction"
           ],
-          "continuity": "Adult gym arrangement does not create access to anybody's body.",
+          "continuity": "Leo, not Bantu/Bobby, is Nisha's established workout partner; workout guidance is not flirtation consent.",
           "status": "proposed"
         },
         {
@@ -1049,16 +1049,15 @@
         {
           "id": "E65-05",
           "title": "The New Female Learner",
-          "pair": "Dhika × Bantu × Bobby × Nisha (new adult student)",
+          "pair": "Dhika × Nisha; Bantu/Bobby as existing tuition students",
           "slot": "6:30 PM · Dhika's tuition study space",
-          "description": "Nisha, 25 and married, already knows Bantu/Bobby as eight-month gym friends. She joins Dhika's academic tuition circle separately, with professional boundaries and a genuine learning goal.",
+          "description": "Married Nisha (25) separately signs up for adult academic tuition. Bantu and Bobby are already Dhika's students; Nisha does not know them as workout partners and their interactions here are academic.",
           "actionNames": [
-            "New Student Introduction",
-            "Study-Level Assessment",
-            "Academic Question Round",
+            "New Adult Student Introduction",
+            "Academic Level Assessment",
             "Timetable Agreement"
           ],
-          "continuity": "User-locked 25 and married; academic tuition is professional. Gym friendship predates the class.",
+          "continuity": "Gym partnership Leo × Nisha; tuition teacher Dhika; Bantu and Bobby only prior tuition attendees.",
           "status": "proposed"
         },
         {
@@ -1066,14 +1065,14 @@
           "title": "Leo Returns with John",
           "pair": "Leo × John × Dhika",
           "slot": "8:30 PM · Dhika–John home",
-          "description": "Leo arrives with a legitimate work-related visit after his prior travel and acquaintance with the household. Dhika welcomes him as an existing friend, not a new character.",
+          "description": "Leo returns with John from work travel in the evening. During the ordinary household conversation, Dhika realizes that the gym regular Nisha mentioned earlier is Leo's long-standing workout friend; Leo confirms they usually train together.",
           "actionNames": [
             "Familiar Greeting",
-            "Travel Recap",
-            "Work Visit Setup",
+            "Work Travel Recap",
+            "Gym Friendship Reveal",
             "Shared Dinner"
           ],
-          "continuity": "Leo's prior connection is verified; his return timing is newly planned.",
+          "continuity": "He did not appear at the gym this morning: arrival occurs 8:30 PM. Gym partnership with Nisha is a new proposal, not original canon.",
           "status": "proposed"
         },
         {
@@ -1092,39 +1091,39 @@
           "status": "proposed"
         }
       ],
-      "hook": "Next morning the gym challenge begins; Nisha returns for her first full study session, while Leo's separate work agenda and the anonymous delivery record raise new questions."
+      "hook": "Leo returns that evening. EP66 morning: Dhika and Sharmi discover Leo is Nisha's already-established gym partner and must reconsider their assumptions."
     },
     {
       "number": 66,
       "title": "TWO WOMEN, ONE ROUTINE",
       "schedule": "India Day 18 / Tuesday · Gym 6:45 AM → college → tuition 4:45 PM → Raj pool 6:00 PM → Leo/Stranger developments 8:30 PM",
-      "plotEngine": "The new weekly routine is tested rather than introduced all at once. Dhika and Sharmi compete on fitness progress, Bobby/Bantu differentiate coaching styles, Nisha becomes a meaningful adult academic character, Raj's second swimming lesson tests independence, and Leo's return intersects with but does not resolve the Stranger mystery.",
-      "highestMilestone": "Gym: Partner Workout + Permission-Based Form Correction; Pool: Independent Float / Short Assisted Swim; Leo: Familiar Greeting / Trust Conversation; no new sexual milestone.",
-      "boundary": "New adult student remains an academic character. Raj's swimming assistance is safety-based. Leo is not declared the anonymous sender. Daily workouts need rest days and feasible scheduling.",
-      "achievement": "Morning gym proves sustainable; Dhika swims with less assistance; Nisha gains an independent subplot; Sharmi and Dhika's friendly rivalry gains practical stakes; Stranger investigation gains a verifiable paper trail.",
+      "plotEngine": "Leo rejoins his established gym partner Nisha for the morning workout. Dhika and Sharmi discover their eight-month gym friendship and measure themselves against Nisha's athletic confidence. Nisha's afternoon tuition session remains separate from the gym; Raj coaches swimming later; the Stranger's delivery trail stays unresolved.",
+      "highestMilestone": "Leo × Nisha: gym partner workout and agreed technique assistance; Dhika/Sharmi: guided exercise; Dhika × Raj: independent floating skill; no new sexual milestone.",
+      "boundary": "Nisha is married to Kabir, and Leo is a gym partner rather than confirmed lover. Bantu/Bobby are not Nisha's gym partners. No profession-related or workout contact equals intimate permission.",
+      "achievement": "Nisha–Leo existing gym duo is visibly established, Dhika and Sharmi gain recurring fitness motivation, Nisha has her own academic goals and married-life pressures, and Leo's social return adds tension without confusing him with Stranger.",
       "status": "PROPOSED",
       "beats": [
         {
           "id": "E66-01",
-          "title": "The First Real Workout",
-          "pair": "Dhika × Sharmi × Nisha × Bantu × Bobby",
+          "title": "Leo and Nisha's Familiar Routine",
+          "pair": "Leo × Nisha × Dhika × Sharmi",
           "slot": "6:45 AM · Gym",
-          "description": "The group begins the morning program. Nisha leads by example as a long-established gym regular and friend of the twins; Dhika and Sharmi each choose manageable intensity.",
+          "description": "Nisha and Leo resume their familiar gym session after his return the previous night. They exchange practiced workout cues; Dhika and Sharmi realize they already know each other well. The women choose beginner-friendly exercises.",
           "actionNames": [
+            "Established Gym Partner Reunion",
             "Warm-Up",
-            "Resistance Training",
-            "Exercise Demonstration",
-            "Permission-Based Spotting"
+            "Partner Workout",
+            "Guided Exercise"
           ],
-          "continuity": "This is the first full proposed scheduled gym day after EP65's trial.",
+          "continuity": "Leo was absent at EP65 morning gym, returned EP65 evening, and attends EP66 morning. No Bantu/Bobby gym participation.",
           "status": "proposed"
         },
         {
           "id": "E66-02",
           "title": "The Friendly Scoreboard",
-          "pair": "Sharmi × Dhika",
+          "pair": "Sharmi × Dhika × Nisha",
           "slot": "7:35 AM · Gym",
-          "description": "They create a four-week goal board for consistency and improving technique. Sharmi leads in one exercise, Dhika in another, avoiding a fixed winner.",
+          "description": "Dhika and Sharmi create a four-week fitness goal board, inspired by Nisha's athletic discipline. Nisha encourages individual targets instead of a contest over attractiveness.",
           "actionNames": [
             "Fitness Goal Tracking",
             "Friendly Competition",
@@ -1135,31 +1134,31 @@
         },
         {
           "id": "E66-03",
-          "title": "Bantu and Bobby Disagree",
-          "pair": "Bantu × Bobby × Nisha × Dhika × Sharmi",
+          "title": "Leo and Nisha's Training Debate",
+          "pair": "Leo × Nisha × Dhika × Sharmi",
           "slot": "7:45 AM · Gym café",
-          "description": "Bantu suggests high-energy paired workouts, Bobby prefers careful technique, and Nisha negotiates a balanced split based on her existing training experience; Dhika and Sharmi choose.",
+          "description": "Leo prefers a challenging strength circuit while Nisha emphasizes gradual progress and proper form for the newcomers. Dhika and Sharmi decide which workout structure suits them.",
           "actionNames": [
+            "Partner Training Discussion",
             "Workout Plan Debate",
-            "Schedule Negotiation",
-            "Independent Choice"
+            "Independent Exercise Choice"
           ],
-          "continuity": "Keep brothers' different personalities; no one controls the women's schedules.",
+          "continuity": "Bantu/Bobby do not appear in Nisha's gym sessions; twins remain part of a separate tuition/home track.",
           "status": "proposed"
         },
         {
           "id": "E66-04",
           "title": "Nisha's First Full Lesson",
-          "pair": "Dhika × Nisha × Bantu × Bobby",
+          "pair": "Dhika × Nisha; Bantu and Bobby (existing separate tuition group)",
           "slot": "4:45 PM · Tuition",
-          "description": "Nisha, a married 25-year-old, joins a full academic session after already being established at the gym with the twins. She asks advanced questions and pursues her own learning goals.",
+          "description": "Married Nisha (25) joins a full academic tuition session. She meets Dhika's existing students Bantu/Bobby in that capacity, not through a supposed gym friendship with them.",
           "actionNames": [
             "Academic Debate",
             "Study Exercise",
             "Teacher Feedback",
             "Homework Assignment"
           ],
-          "continuity": "Academic instruction and gym friendship are separate; no intimacy-for-grade or teacher pressure.",
+          "continuity": "Nisha's gym partner is Leo; studying with twins does not imply personal intimacy.",
           "status": "proposed"
         },
         {
@@ -1182,7 +1181,7 @@
           "title": "Leo's Ordinary Explanation",
           "pair": "Leo × John × Dhika",
           "slot": "8:15 PM · Home",
-          "description": "Leo explains his work visit and mentions who knows about his return. Dhika asks about his previous travel without accusing him of anonymous gifting.",
+          "description": "After training with Nisha in the morning, Leo discusses his work travel with John and Dhika that evening. He does not know Stranger's identity merely because he returned around the time another message appeared.",
           "actionNames": [
             "Travel Catch-Up",
             "Work Agenda Discussion",
@@ -1208,20 +1207,20 @@
         {
           "id": "E66-08",
           "title": "Four Different Invitations",
-          "pair": "Sharmi × Dhika × Raj × Bantu × Bobby",
+          "pair": "Dhika × Sharmi × Raj × Leo × Nisha; Bantu/Bobby (tuition planning only)",
           "slot": "9:30 PM · Text thread",
-          "description": "Raj confirms two supervised swim sessions per week; the twins suggest weekday gym access, and Dhika/Sharmi agree on a practical recurring routine that does not collide with tuition.",
+          "description": "Raj confirms supervised swimming classes; Leo and Nisha offer flexible gym times; Dhika and Sharmi choose their schedule; Bantu/Bobby's tuition slots are fixed independently.",
           "actionNames": [
             "Weekly Calendar Lock",
-            "Swim Class Agreement",
-            "Gym Membership Planning",
+            "Swim Lesson Agreement",
+            "Gym Session Planning",
             "Tuition Slot Confirmation"
           ],
-          "continuity": "Same shared timeline for all characters.",
+          "continuity": "No overlapping availability or treating the twins as Nisha's gym partners.",
           "status": "proposed"
         }
       ],
-      "hook": "EP67 can test gym rivalry under a weekend group event, introduce Nisha's independent story and make the Stranger receipt lead more consequential without retroactively inventing identity."
+      "hook": "EP67 may explore Leo–Nisha's attraction and Kabir's marriage perspective while Dhika and Sharmi increase fitness confidence; Stranger remains an independent mystery."
     }
   ],
   "openQuestions": [
@@ -1230,7 +1229,7 @@
     "What does Sharmi choose independently after EP64?",
     "Is the Stranger known to any character? No answer verified yet.",
     "Should the anonymous Stranger's identity be revealed in EP67 or maintained as a longer mystery?",
-    "Nisha is locked 25 and married, with 8-month fitness friendship with twins. Proposed husband Kabir details still open to later discussion."
+    "Confirmed planning revision: Leo (not Bantu/Bobby) is Nisha's established gym partner. Leo–Nisha may develop romantic tension; no sexual intimacy is yet established."
   ],
   "progression": {
     "label": "Highest physical progression in EP57–64",
@@ -1302,19 +1301,19 @@
       },
       {
         "number": 65,
-        "relationships": "Dhika × Sharmi × Twins; Raj × Dhika; Nisha × tuition group; Leo × John/Dhika; Stranger (unknown)",
+        "relationships": "Leo × Nisha (gym); Dhika × Sharmi (gym); Raj × Dhika (swimming); Nisha × tuition group; Stranger (unresolved)",
         "highest": "Gym exercise demonstrations and permission-based spotting; Raj's supported swim and coaching; ordinary greetings",
         "status": "none",
         "level": "Fitness and swimming milestones, no sexual escalation",
-        "note": "Every gym/swim contact is functional and agreed; new adult student is professional; Leo/Stranger are not conflated."
+        "note": "Leo is Nisha's existing gym partner, not Bantu/Bobby. Gym/swimming activities are not sexual milestones."
       },
       {
         "number": 66,
-        "relationships": "Dhika × Sharmi × Twins; Raj × Dhika; Nisha × tuition group; Leo × John/Dhika; Stranger (unknown)",
+        "relationships": "Leo × Nisha (gym); Dhika × Sharmi (gym); Raj × Dhika (swimming); Nisha × tuition group; Stranger (unresolved)",
         "highest": "Coached gym session, independent swimming float and guided strokes; no sexual encounter",
         "status": "none",
         "level": "Fitness skill progression and independent relationship plotting",
-        "note": "Stranger's identity remains unresolved; tuition and swimming routines develop grounded stakes."
+        "note": "Leo is Nisha's existing gym partner, not Bantu/Bobby. Gym/swimming activities are not sexual milestones."
       }
     ],
     "pairPeaks": [
@@ -1417,11 +1416,11 @@
         "caveat": "Progression of swimming ability, not a sexual milestone; Raj is a verified earlier coach."
       },
       {
-        "relationship": "Dhika × Sharmi × Bantu/Bobby (gym)",
-        "peak": "Shared strength workout; technique demonstration; optional spotting",
+        "relationship": "Leo × Nisha (gym); Dhika × Sharmi (joining)",
+        "peak": "Leo–Nisha existing workout partnership; Dhika/Sharmi guided workouts",
         "episode": "EP65–66",
         "status": "none",
-        "caveat": "New everyday activity, not a sexual scene."
+        "caveat": "Gym partnership is Leo × Nisha. Bantu/Bobby remain in tuition/other storylines."
       },
       {
         "relationship": "Dhika × Nisha (adult tuition student)",
@@ -1439,17 +1438,17 @@
       "age": 25,
       "relationshipStatus": "married",
       "spouse": "Kabir Malhotra (29, proposed)",
-      "role": "Fitness regular and new adult tuition learner",
+      "role": "Experienced fitness regular; independent adult tuition student",
       "gymExperience": "3 years strength training (proposed)",
-      "twinsHistory": "Bantu/Bobby regular gym partners for 8 months (proposed)",
       "independentTraits": [
         "confident",
         "competitive",
         "academically ambitious",
         "decides her own workout and private relationships"
       ],
-      "characterArc": "Gym friendship with twins, friendship/rivalry with Dhika and Sharmi, marriage tension; separate older neighbour Uncle connection possible, not yet an act.",
-      "status": "Age and marriage user-locked; name/academic goal/husband details are provisional"
+      "characterArc": "A confident, married gym regular whose established workout partnership with Leo develops possible romantic tension; Dhika and Sharmi join her fitness circle. Separate slow-burn neighbour Uncle connection, marriage to Kabir and academic tuition remain distinct.",
+      "status": "Age and marriage user-locked; name/academic goal/husband details are provisional",
+      "gymPartner": "Leo — established regular workout partner for approximately eight months (new proposed history, not original canon)"
     },
     "Kabir Malhotra": {
       "age": 29,
@@ -1463,6 +1462,20 @@
       "relationshipStatus": "married to Aunty",
       "arc": "Physically active/strong (new proposal); independent slow-burn acquaintance with married Nisha, with both marriages and consent constraints in view.",
       "status": "Strength is new user-directed plot detail; Iroh is different character"
+    },
+    "Leo": {
+      "age": "adult (source indicates ~25–26, exact continuity to be checked)",
+      "relationshipStatus": "Unconfirmed in original source",
+      "role": "Nisha's existing regular gym partner (new proposed connection); old acquaintance of Dhika/John (source verified)",
+      "gymHistory": "Nisha and Leo have trained together for ~8 months; twins are not their gym partners",
+      "characterArc": "Leo's return lets Dhika and Sharmi meet his established athletic friendship with married Nisha. Possible romance/adultery tension grows through adult choices, separately from Stranger identity.",
+      "status": "Gym connection is new user-directed proposal. Original Leo and Stranger identities remain distinct unless proved."
+    },
+    "Bantu and Bobby": {
+      "role": "Dhika's existing academic tuition students and separate Twins Part 4 relationship track",
+      "nishaConnection": "No established gym-partner or romantic connection to Nisha. They are NOT gym regular partners with Nisha.",
+      "gymPlot": "May have introduced Dhika/Sharmi to gym access or membership as a practical favor; do not place them in Nisha and Leo's workout pair.",
+      "status": "User correction overrides previous draft"
     }
   }
 }
