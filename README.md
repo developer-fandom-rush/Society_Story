@@ -159,13 +159,22 @@ To update the original source, re-export Google Docs and update the nine JSON gr
 
 ## Dhika Encounter Atlas and paced EP65–76
 
-[Interactive 109-action atlas](encounters.html?view=actions) · [18-character audit checklist](encounters.html?view=characters) · [Source pacing evidence](encounters.html?view=pacing) · [14 relationship lanes](encounters.html?view=lanes) · [EP65–76 visual break map](encounters.html?view=episodes)
+[Interactive 187-action atlas](encounters.html?view=actions) · [18-character audit checklist](encounters.html?view=characters) · [Source pacing evidence](encounters.html?view=pacing) · [14 relationship lanes](encounters.html?view=lanes) · [EP65–76 visual break map](encounters.html?view=episodes)
 
 - **Revised continuity:** original author episodes end at EP41; after proposed Mexico EP42–48, India EP49–51, Twins Part 4 EP52–56, and earlier Chotu EP57–64, the former crowded EP65–66 is now a **12-episode EP65–76 slow-burn plan**. Original story has not been overwritten.
-- **Action taxonomy:** 109 non-graphic labels, organized by sight/nudity, imagined/recalled/reported, nonsexual touch, kissing, non-penetrative adult intimacy (including masturbation distinctions), John/viewer scenarios, real-world contexts and recovery/boundaries.
+- **Action taxonomy:** 187 non-graphic labels, organized by sight/nudity, imagined/recalled/reported, nonsexual touch, kissing, non-penetrative adult intimacy (including masturbation distinctions), John/viewer scenarios, real-world contexts and recovery/boundaries.
 - **Character checklist:** 18 cast entries and 18 source-audit items per eligible adult; checked means reviewed, NOT that any act is proven. Child family-only roles excluded.
 - **EP65–76 revised:** 12 episodes / 42 scene beats, max 4 per episode. Combined with EP57–64, current proposed story planner is 20 episodes / 93 scene beats. Each EP65+ includes a distinct primary track and a separate break/after-effect note.
 - **Leo–Nisha relationship:** Nisha is 25 and married, Leo is her established proposed gym partner. Bantu/Bobby are not Nisha's gym partners or romantic interests in this proposed arc.
 - **John watching:** a separate four-stage possible arc (knowledge, permission, scoped observation, aftermath). No automatic observing, recording, group participation or progression.
 - **Intercourse outside marriage:** earlier EP76 suggestion was conversational and NOT canon-locked. Revised EP76 is Nisha's aftermath; John–Dhika old relationship boundary stays unless explicitly changed.
 - **Retired draft:** [compressed EP65–66 archive](content/DHIKA_EP65_66_PACKED_DRAFT_ARCHIVE.json). Active episode plan: [JSON](content/DHIKA_CHOTU_RETURN.json) and [readable story bible](content/DHIKA_CHOTU_RETURN.md).
+
+## Expanded 69-episode encounter audit (2026-11-07)
+
+[**Open 187 action labels**](encounters.html?view=actions) · [69-episode evidence examples](encounters.html?view=evidence) · [penetrative action names only](encounters.html?view=penetration) · [complete readable atlas](content/DHIKA_ENCOUNTER_SYSTEM.md).
+
+- Reconciled secondary index covers 69 episodes and 4,855 beat entries. The user-supplied index explicitly warns it is not proof every original source line has been fully captured or paraphrased accurately; do not merge this with the author-tab EP01–41 endpoint or the future proposed numbering.
+- Expanded 109 high-level labels to **187** non-graphic action/scenario classifications, including sight angle, clothing change, solo actual vs imagined vs reported, partial/full exposure, video/film observation, covered/external physical contact, and aftermath/pacing.
+- Added 25 cited secondary beat examples with exact EP/beat IDs and evidence kinds, plus a separate **names-only** list of generic penetrative categories (not claims about Dhika canon).
+- Existing 18-character checklists, 14 relationship lanes, and revised EP65–76 slow-burn schedule remain intact.
