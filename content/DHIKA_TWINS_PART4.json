@@ -1,0 +1,664 @@
+{
+  "schema": "dhika-twins-part4-v1",
+  "title": "Sexcapades with the Twins — Part 4 (Five-Part Plot)",
+  "status": "PROPOSED / NOT CANON",
+  "updated": "2026-11-07",
+  "numbering": {
+    "sourceLastAuthorEpisode": 41,
+    "mexico": "42–48",
+    "indiaReturn": "49–51",
+    "twinsPart4": "52–56",
+    "previousProposal": "79–83",
+    "warning": "Legacy reconciled analysis IDs 1–69 and original author episode numbers are not automatically equivalent."
+  },
+  "intro": "Five proposed chapters after India return: plot engine, exact non-graphic action names, distinct Bantu/Bobby boundaries, John's knowledge, Sharmi–John and Sharmi–Chotu sideplots, and next hooks.",
+  "sourceCaveat": "Original source Google Doc ends at author episode 41. Legacy EP60–68 references are secondary analysis labels requiring author-number mapping before canon claims.",
+  "boundaries": {
+    "Bantu": "Legacy EP65–67 includes ignored stop requests. Rebuilding trust must be demonstrated; no implicit permission.",
+    "Bobby": "Distinct bond and private live-video milestone in legacy EP68. No recording, sharing or transferring consent.",
+    "Dhika": "Leads her own decisions; John-only intercourse limit remains; one act never grants another.",
+    "John": "Knowledge and desire to observe are separate from others' agreement.",
+    "Sharmi": "Independent attractions with John and Chotu; private calls cannot secretly include the twins."
+  },
+  "episodes": [
+    {
+      "number": 52,
+      "part": "4A",
+      "title": "THE RULES ARE HERS",
+      "schedule": "India Day 4 · home → twins’ residence → home",
+      "plotEngine": "Five-card game and outfit choices: this time Dhika sets the conditions, after speaking individually with both brothers.",
+      "highestMilestone": "Individual mutual kisses and affectionate touching — no new sexual milestone.",
+      "achievement": "Dhika controls the game; Bantu acknowledges past stops; Bobby retains his separate privacy history.",
+      "boundary": "No clothing forfeit or physical penalty. Bantu must respect every stop; Bobby’s video history is not shared consent.",
+      "hook": "Sharmi and John request a private call; the second card addresses privacy.",
+      "legacyProposalNumber": 79,
+      "beats": [
+        {
+          "id": "E52-01",
+          "title": "The Mexico Suitcase",
+          "pair": "Dhika × Bantu × Bobby",
+          "slot": "Afternoon, twins’ living room",
+          "description": "Dhika presents Mexico outfit options; each twin suggests something different, and she makes the final choice.",
+          "actionNames": [
+            "Outfit Selection",
+            "Playful Compliment",
+            "Verbal Teasing"
+          ],
+          "continuity": "Swiss game callback; clothing is never permission.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E52-02",
+          "title": "Five Cards, One Rule-Maker",
+          "pair": "Dhika × Bantu × Bobby",
+          "slot": "Afternoon, living room",
+          "description": "Dhika proposes five meetings—style, privacy, history, negotiated closeness and consequences—with an opt-out for each.",
+          "actionNames": [
+            "Game Proposal",
+            "Individual Consent Check",
+            "Stop-Word Agreement"
+          ],
+          "continuity": "A game never overrides a stop.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E52-03",
+          "title": "Bantu's Unfinished Apology",
+          "pair": "Dhika × Bantu",
+          "slot": "Afternoon, separate talk",
+          "description": "Dhika raises Bantu's earlier ignored limits; he must demonstrate changed behavior.",
+          "actionNames": [
+            "Boundary Reckoning",
+            "Apology",
+            "Agreement to Stop Immediately"
+          ],
+          "continuity": "Legacy EP65–67 records refusal and stop issues.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E52-04",
+          "title": "Bobby's Own Terms",
+          "pair": "Dhika × Bobby",
+          "slot": "Afternoon, separate talk",
+          "description": "Bobby discusses his independent relationship and the privacy of the older video milestone.",
+          "actionNames": [
+            "Private Video Callback",
+            "No-Recording Rule",
+            "Separate Permission"
+          ],
+          "continuity": "Legacy EP68 private viewing belonged to Bobby alone.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E52-05",
+          "title": "Two Different Welcomes",
+          "pair": "Dhika × Bantu × Bobby",
+          "slot": "Late afternoon, common room",
+          "description": "Dhika chooses separate affectionate greetings without pretending either twin is new to her.",
+          "actionNames": [
+            "Individual Greeting Hugs",
+            "Bantu–Dhika Mutual Kiss",
+            "Bobby–Dhika Mutual Kiss"
+          ],
+          "continuity": "Kissing is established, not a first.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E52-06",
+          "title": "The Outfit Reveal",
+          "pair": "Dhika × Bantu × Bobby",
+          "slot": "Late afternoon, common room",
+          "description": "Dhika wears the outfit she selected and limits the activity to a style game.",
+          "actionNames": [
+            "Voluntary Outfit Reveal",
+            "Verbal Flirting",
+            "Clothing Boundary"
+          ],
+          "continuity": "No surprise touching.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E52-07",
+          "title": "John's Requested View",
+          "pair": "Dhika × John",
+          "slot": "Evening, home",
+          "description": "John asks about observing a future mutually agreed affectionate encounter; Dhika will check with both twins.",
+          "actionNames": [
+            "Observation Request",
+            "Marriage Disclosure",
+            "Permission Discussion"
+          ],
+          "continuity": "John's wish is not others' consent.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E52-08",
+          "title": "Call Chotu Back",
+          "pair": "Dhika × Chotu / Sharmi",
+          "slot": "Evening, phone",
+          "description": "Dhika asks about Chotu returning. Sharmi later considers her own invitation.",
+          "actionNames": [
+            "Return Phone Call",
+            "Playful Banter",
+            "Independent Invitation Setup"
+          ],
+          "continuity": "Chotu has an independent earlier history.",
+          "status": "PROPOSED / NOT CANON"
+        }
+      ]
+    },
+    {
+      "number": 53,
+      "part": "4B",
+      "title": "THE PRIVATE SCREEN",
+      "schedule": "India Day 5 · twins’ home / separate Sharmi–John video call",
+      "plotEngine": "The second card defines who can view what. Sharmi–John’s independent off-page milestone sparks Dhika’s self-comparison.",
+      "highestMilestone": "Dhika–twins: familiar affectionate touching; parallel Sharmi–John: Oral Sexual Contact (off-page, proposed).",
+      "achievement": "Private viewer permissions established; Dhika’s reaction becomes a motivated plot beat, not an automatic act.",
+      "boundary": "No screen sharing to the twins, no recording, no surprise audience.",
+      "hook": "Third card: deliberate shared privacy and separate individual limits.",
+      "legacyProposalNumber": 80,
+      "beats": [
+        {
+          "id": "E53-01",
+          "title": "Card Two: Who Can See?",
+          "pair": "Dhika × Bantu × Bobby",
+          "slot": "Afternoon, twins' home",
+          "description": "Dhika decides privately whether to join any call; neither brother is entitled to watch.",
+          "actionNames": [
+            "Video Privacy Rules",
+            "No-Recording Agreement",
+            "Individual Consent Check"
+          ],
+          "continuity": "Bobby's earlier viewing cannot be reused without permission.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E53-02",
+          "title": "Bantu Must Pause",
+          "pair": "Dhika × Bantu",
+          "slot": "Afternoon, hallway",
+          "description": "At Dhika’s request Bantu pauses immediately, proving he understands a limit.",
+          "actionNames": [
+            "Boundary Question",
+            "Respectful Pause",
+            "Hand Holding"
+          ],
+          "continuity": "His earlier ignored stops must matter.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E53-03",
+          "title": "Bobby's Independent Welcome",
+          "pair": "Dhika × Bobby",
+          "slot": "Afternoon, sitting room",
+          "description": "Bobby asks for distinct attention; Dhika initiates chosen affectionate contact.",
+          "actionNames": [
+            "Mutual Kiss",
+            "Hand Holding",
+            "Affectionate Embrace"
+          ],
+          "continuity": "He is not Bantu’s duplicate.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E53-04",
+          "title": "The Shared Embrace",
+          "pair": "Dhika × Bantu × Bobby",
+          "slot": "Late afternoon, common room",
+          "description": "A familiar three-person affectionate moment follows on Dhika's chosen terms.",
+          "actionNames": [
+            "Shared Embrace",
+            "Alternating Mutual Kisses",
+            "Affectionate Touching"
+          ],
+          "continuity": "Earlier legacy EP62–63 shared kisses are already established.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E53-05",
+          "title": "Sharmi's Invitation",
+          "pair": "Sharmi × John × Dhika",
+          "slot": "Early evening, video call",
+          "description": "Sharmi and John agree to a private call; Dhika accepts privately without making the twins viewers.",
+          "actionNames": [
+            "Private Video Invitation",
+            "Separate Permission",
+            "Voluntary Observation"
+          ],
+          "continuity": "Video participation is specific to this call.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E53-06",
+          "title": "John and Sharmi's Off-Page Milestone",
+          "pair": "Sharmi × John",
+          "slot": "Early evening, separate location",
+          "description": "A non-graphic adult-intimacy label is recorded; mechanics are not depicted or narrated.",
+          "actionNames": [
+            "Oral Sexual Contact (Off-Page, Proposed)"
+          ],
+          "continuity": "Not claimed as verified original-source history.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E53-07",
+          "title": "Dhika's Comparison",
+          "pair": "Dhika",
+          "slot": "After the call",
+          "description": "She wonders about Sharmi's confidence, and what she personally wants from Bantu and Bobby.",
+          "actionNames": [
+            "Jealousy Recognition",
+            "Private Reflection",
+            "Independent Decision"
+          ],
+          "continuity": "An emotional reaction does not authorize contact.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E53-08",
+          "title": "What the Twins Want",
+          "pair": "Dhika × Bantu × Bobby",
+          "slot": "Evening, sitting room",
+          "description": "Dhika asks each brother separately what they want beyond now-routine kisses.",
+          "actionNames": [
+            "Individual Preference Question",
+            "Relationship Expectations Discussion"
+          ],
+          "continuity": "The third card remains voluntary.",
+          "status": "PROPOSED / NOT CANON"
+        }
+      ]
+    },
+    {
+      "number": 54,
+      "part": "4C",
+      "title": "THE SHARED PRIVACY CARD",
+      "schedule": "India Day 6 · twins’ residence / separate Sharmi–Chotu call",
+      "plotEngine": "Rework Swiss outfit and chicken-game stakes into voluntary shared privacy; Sharmi and Chotu create a parallel relationship shift.",
+      "highestMilestone": "Consensual Shared Nudity (off-page) + Navel Kissing (renewed, by agreement).",
+      "achievement": "Deliberate shared-privacy agreement rather than accidental viewing or an invented first.",
+      "boundary": "Individual stop conditions, no filming, no pressure, no automatic sexual access.",
+      "hook": "John is separately invited for a limited future affectionate meeting; Sharmi explores Uncle contact.",
+      "legacyProposalNumber": 81,
+      "beats": [
+        {
+          "id": "E54-01",
+          "title": "Card Three: No Outfit Forfeit",
+          "pair": "Dhika × Bantu × Bobby",
+          "slot": "Afternoon, common room",
+          "description": "The older dressing-game history is revisited without punishing anyone for refusing.",
+          "actionNames": [
+            "Outfit-Choice Challenge",
+            "Verbal Teasing",
+            "No-Forfeit Rule"
+          ],
+          "continuity": "Swiss and chicken-game contexts must remain distinct.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E54-02",
+          "title": "Past Games Compared",
+          "pair": "Dhika × Bantu × Bobby",
+          "slot": "Afternoon, seated conversation",
+          "description": "They compare Swiss and later parties, including intimacy already accomplished and limits later asserted.",
+          "actionNames": [
+            "Swiss History Callback",
+            "Intimacy History Discussion"
+          ],
+          "continuity": "Do not rebrand older mutual kisses as new.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E54-03",
+          "title": "Bantu's Separate Boundary",
+          "pair": "Dhika × Bantu",
+          "slot": "Afternoon, separate conversation",
+          "description": "He confirms stopping immediately when asked.",
+          "actionNames": [
+            "Consent Negotiation",
+            "Stop-Word Reaffirmation"
+          ],
+          "continuity": "Legacy stop violations cannot be erased.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E54-04",
+          "title": "Bobby's Separate Boundary",
+          "pair": "Dhika × Bobby",
+          "slot": "Afternoon, separate conversation",
+          "description": "Bobby discusses his own privacy and clothing comfort without deferring to Bantu.",
+          "actionNames": [
+            "Privacy Agreement",
+            "Clothing-Choice Consent"
+          ],
+          "continuity": "Legacy EP68 pertains to Bobby specifically.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E54-05",
+          "title": "Deliberate Shared Privacy",
+          "pair": "Dhika × Bantu × Bobby",
+          "slot": "Late afternoon, private/off-page",
+          "description": "All three separately choose a higher degree of private viewing; no body details described.",
+          "actionNames": [
+            "Private Undressing Agreement",
+            "Consensual Shared Nudity (Off-Page)",
+            "No Recording"
+          ],
+          "continuity": "Not the first exposure, but newly planned.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E54-06",
+          "title": "Navel Affection Callback",
+          "pair": "Dhika × Bantu × Bobby",
+          "slot": "Late afternoon, private/off-page",
+          "description": "A familiar navel-focused affection category is revisited only if mutually wanted.",
+          "actionNames": [
+            "Navel Kissing (Consensual)",
+            "Affectionate Touching",
+            "Stop-Word Check"
+          ],
+          "continuity": "Earlier surprises did not imply standing consent.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E54-07",
+          "title": "Sharmi's Kissing Question",
+          "pair": "Sharmi × Chotu × Dhika",
+          "slot": "Evening, separate call",
+          "description": "Sharmi asks what Dhika taught Chotu about kissing; Dhika takes the call privately without the twins watching.",
+          "actionNames": [
+            "Video-Call Teasing",
+            "Sharmi–Chotu Mutual Kiss",
+            "Call Privacy Agreement"
+          ],
+          "continuity": "Sharmi–Chotu kiss is proposed.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E54-08",
+          "title": "After the Video Call",
+          "pair": "Sharmi × Chotu",
+          "slot": "Evening, Sharmi's place",
+          "description": "A separate adult intimate encounter can occur after the call, kept fully off-page.",
+          "actionNames": [
+            "Manual Sexual Contact (Off-Page, Proposed)"
+          ],
+          "continuity": "Dhika does not know the off-call details unless told.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E54-09",
+          "title": "What Dhika Knows",
+          "pair": "Dhika × Bantu × Bobby",
+          "slot": "Night, twins’ home",
+          "description": "Dhika names her own jealousy and curiosity without revealing others' private details.",
+          "actionNames": [
+            "Jealousy Recognition",
+            "Personal Reflection",
+            "Relationship Conversation"
+          ],
+          "continuity": "Knowledge stays bounded by witnessed facts.",
+          "status": "PROPOSED / NOT CANON"
+        }
+      ]
+    },
+    {
+      "number": 55,
+      "part": "4D",
+      "title": "BEYOND THE FAMILIAR KISS",
+      "schedule": "India Day 7 · twins’ home → John visit → Sharmi’s separate evening",
+      "plotEngine": "A negotiated renewal of familiar non-intercourse intimacy, followed by a separate John-witnessed affectionate encounter.",
+      "highestMilestone": "Breast-Focused Oral Intimacy (off-page) + Manual Sexual Contact (off-page); renewed categories, not first ever.",
+      "achievement": "Two separately agreed relationships and shared familiarity; John witnesses only the agreed affectionate portion.",
+      "boundary": "No sexual-contact viewing by John under current plan. Each twin must agree independently. No intercourse.",
+      "hook": "The fifth card determines continuing boundaries; Sharmi and Chotu may arrange a separate meeting with Uncle.",
+      "legacyProposalNumber": 82,
+      "beats": [
+        {
+          "id": "E55-01",
+          "title": "Card Four: Not a Prize",
+          "pair": "Dhika × Bantu × Bobby",
+          "slot": "Afternoon, sitting room",
+          "description": "Dhika clarifies that an outfit challenge or past favor never obliges new physical contact.",
+          "actionNames": [
+            "Intimacy Request Discussion",
+            "Individual Consent Check",
+            "No-Forfeit Rule"
+          ],
+          "continuity": "No game-based entitlement.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E55-02",
+          "title": "Bantu's Behavior Test",
+          "pair": "Dhika × Bantu",
+          "slot": "Afternoon, individual conversation",
+          "description": "Bantu respects a pause without persuasion.",
+          "actionNames": [
+            "Respectful Pause",
+            "Hand Holding",
+            "Boundary Confirmation"
+          ],
+          "continuity": "Trust follows consistent action.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E55-03",
+          "title": "Bobby's Independent Choice",
+          "pair": "Dhika × Bobby",
+          "slot": "Afternoon, individual conversation",
+          "description": "Bobby states preferences separately, including privacy.",
+          "actionNames": [
+            "Preference Disclosure",
+            "Mutual Kiss",
+            "Separate Agreement"
+          ],
+          "continuity": "Earlier private video is not blanket permission.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E55-04",
+          "title": "Off-Page Renewal",
+          "pair": "Dhika × Bantu × Bobby",
+          "slot": "Afternoon, private/off-page",
+          "description": "Previously established non-intercourse intimacy categories can return by renewed mutual decision; no erotic choreography is described.",
+          "actionNames": [
+            "Breast-Focused Oral Intimacy (Off-Page)",
+            "Manual Sexual Contact (Off-Page)",
+            "Consent Check"
+          ],
+          "continuity": "Legacy EP41/60–61/67 contain related earlier evidence; number mapping unverified.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E55-05",
+          "title": "John's Visit Is Later",
+          "pair": "Dhika × John × Bantu × Bobby",
+          "slot": "Late afternoon, common room",
+          "description": "John arrives after the private time and learns the agreed scope of his visit.",
+          "actionNames": [
+            "Observation Agreement",
+            "Privacy Recheck",
+            "Explicit Scope"
+          ],
+          "continuity": "No voyeurism or hidden cameras.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E55-06",
+          "title": "Affection John Can Observe",
+          "pair": "Dhika × John × Bantu × Bobby",
+          "slot": "Late afternoon, common room",
+          "description": "John witnesses chosen affectionate greetings and familiar mutual kisses only.",
+          "actionNames": [
+            "Consensual Observation",
+            "Shared Embrace",
+            "Mutual Kissing"
+          ],
+          "continuity": "A witness does not control future consent.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E55-07",
+          "title": "Husband–Wife Debrief",
+          "pair": "Dhika × John",
+          "slot": "Evening, home",
+          "description": "They discuss what was chosen, what was not, and the continued John-only intercourse boundary.",
+          "actionNames": [
+            "Marital Embrace",
+            "Emotional Disclosure",
+            "Marriage Discussion"
+          ],
+          "continuity": "The earlier boundary remains until changed by Dhika.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E55-08",
+          "title": "Sharmi's Separate Invitation",
+          "pair": "Sharmi × Chotu × Neighbour Uncle",
+          "slot": "Evening, Sharmi's home",
+          "description": "Sharmi initiates a separate meeting; they discuss their independent existing links and future possibilities.",
+          "actionNames": [
+            "Private Group Invitation",
+            "Attraction Discussion",
+            "Relationship Boundary Check"
+          ],
+          "continuity": "No three-person encounter is asserted as completed.",
+          "status": "PROPOSED / NOT CANON"
+        }
+      ]
+    },
+    {
+      "number": 56,
+      "part": "4E",
+      "title": "THE PACT, NOT THE PRIZE",
+      "schedule": "India Day 8 · twins’ home → Dhika–John home",
+      "plotEngine": "End the game with independent relationship choices, not mandatory physical escalation; preserve future adult-intimacy candidates as undecided.",
+      "highestMilestone": "Shared Non-Intercourse Intimacy (off-page, proposed); Oral-Genital Contact remains FUTURE CANDIDATE, NOT ACCOMPLISHED.",
+      "achievement": "Dhika decides what continues as shared and separate meetings; John and twins know only what they were told.",
+      "boundary": "No intercourse proposed. Prior stops persist; new action categories remain future decisions, not assumed events.",
+      "hook": "EP57 can explore Dhika × Chotu jealousy/disclosure; EP58 Sharmi × Chotu × Uncle independently.",
+      "legacyProposalNumber": 83,
+      "beats": [
+        {
+          "id": "E56-01",
+          "title": "Card Five: No Automatic Prize",
+          "pair": "Dhika × Bantu × Bobby",
+          "slot": "Morning, twins’ home",
+          "description": "Dhika rejects an escalation contest; all decide how to continue respectfully.",
+          "actionNames": [
+            "Choice Without Obligation",
+            "Shared Relationship Discussion"
+          ],
+          "continuity": "Today's card gives no automatic permission.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E56-02",
+          "title": "Bantu's New Promise",
+          "pair": "Dhika × Bantu",
+          "slot": "Late morning, individual conversation",
+          "description": "Dhika names what she likes in his energy and what she will never accept again.",
+          "actionNames": [
+            "Emotional Disclosure",
+            "Respectful Hug",
+            "Boundary Reaffirmation"
+          ],
+          "continuity": "Stop-related accountability continues.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E56-03",
+          "title": "Bobby's Individual Place",
+          "pair": "Dhika × Bobby",
+          "slot": "Late morning, separate conversation",
+          "description": "Bobby requests occasional individual time; Dhika answers on her own terms.",
+          "actionNames": [
+            "Hand Holding",
+            "Mutual Kiss",
+            "Separate Visit Proposal"
+          ],
+          "continuity": "The brothers need not share all private moments.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E56-04",
+          "title": "Shared Meeting, If Rechosen",
+          "pair": "Dhika × Bantu × Bobby",
+          "slot": "Afternoon, private/off-page",
+          "description": "Familiar non-intercourse intimacy can continue by a fresh joint choice; no mechanics are depicted.",
+          "actionNames": [
+            "Shared Non-Intercourse Intimacy (Off-Page, Proposed)",
+            "Consent Check",
+            "Withdrawal Available"
+          ],
+          "continuity": "Not a first and not intercourse.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E56-05",
+          "title": "An Open Future Candidate",
+          "pair": "Dhika × Bantu × Bobby",
+          "slot": "Afternoon, discussion",
+          "description": "New oral-genital intimacy is mentioned only as a possible later issue to discuss; this EP does not show or complete it.",
+          "actionNames": [
+            "Oral-Genital Contact — FUTURE CANDIDATE, NOT DONE",
+            "Intimacy Boundary Discussion"
+          ],
+          "continuity": "Open hook, not a completed milestone.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E56-06",
+          "title": "Sharmi's Separate Secret",
+          "pair": "Sharmi × Chotu × Neighbour Uncle",
+          "slot": "Evening, Sharmi’s place",
+          "description": "Sharmi considers how her new Chotu relationship fits her older Uncle history; nothing becomes known to Dhika automatically.",
+          "actionNames": [
+            "Private Invitation",
+            "Group Attraction Discussion",
+            "Future Relationship Hook"
+          ],
+          "continuity": "Separate timeline and knowledge.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E56-07",
+          "title": "John and Dhika Review the Pact",
+          "pair": "Dhika × John",
+          "slot": "Night, home",
+          "description": "They discuss earlier agreements, the observed affection and next visits.",
+          "actionNames": [
+            "Marital Hug",
+            "Disclosure",
+            "Relationship Agreement"
+          ],
+          "continuity": "John-only intercourse boundary stays.",
+          "status": "PROPOSED / NOT CANON"
+        },
+        {
+          "id": "E56-08",
+          "title": "Chotu Calls Dhika",
+          "pair": "Dhika × Chotu",
+          "slot": "Night, phone",
+          "description": "Dhika now has a reason to ask Chotu what his new Sharmi relationship means.",
+          "actionNames": [
+            "Phone Check-In",
+            "Jealousy Recognition",
+            "Unanswered Question"
+          ],
+          "continuity": "Setup for next planned episode.",
+          "status": "PROPOSED / NOT CANON"
+        }
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Does a later episode include new oral-genital contact? It is not achieved in EP56.",
+    "Should John ever observe sexual intimacy? Current EP55 limits viewing to affection.",
+    "How do Sharmi, Chotu and neighbour Uncle develop their separate relationship after EP56?"
+  ]
+}
