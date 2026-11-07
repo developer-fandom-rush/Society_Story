@@ -8,7 +8,9 @@
     "actions": 187,
     "characters": 18,
     "checklistFields": 18,
-    "relationshipLanes": 14
+    "relationshipLanes": 14,
+    "sceneTaxonomyCategories": 8,
+    "sceneTaxonomyLabels": 116
   },
   "modalities": [
     "actual",
@@ -3577,5 +3579,665 @@
     "Penetrative oral–anal contact",
     "Simultaneous multi-partner penetration"
   ],
-  "penetrationNote": "Generic clinical action names for categorization only; none of these are asserted to occur in original Dhika source. Some oral sex or genital touching is non-penetrative; do not reclassify without explicit evidence."
+  "penetrationNote": "Generic clinical action names for categorization only; none of these are asserted to occur in original Dhika source. Some oral sex or genital touching is non-penetrative; do not reclassify without explicit evidence.",
+  "adultSceneTaxonomy": {
+    "version": "v1",
+    "status": "GENERAL NON-GRAPHIC CLASSIFICATION ONLY; NO NEW STORY CANON",
+    "scope": "All adult characters and situations; labels for planning and reference, not erotic instructions.",
+    "categories": [
+      {
+        "key": "positions",
+        "title": "Sexual position labels",
+        "description": "Position describes arrangement, not whether penetration or consent occurred.",
+        "items": [
+          {
+            "id": "T01-01",
+            "name": "Face-to-face / missionary",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T01-02",
+            "name": "Partner-on-top",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T01-03",
+            "name": "Reverse partner-on-top",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T01-04",
+            "name": "Rear-entry position",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T01-05",
+            "name": "Side-lying / spooning position",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T01-06",
+            "name": "Seated face-to-face",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T01-07",
+            "name": "Seated rear-facing",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T01-08",
+            "name": "Standing face-to-face",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T01-09",
+            "name": "Standing rear-facing",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T01-10",
+            "name": "Kneeling configuration",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T01-11",
+            "name": "Bed-edge position",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T01-12",
+            "name": "Reclining configuration",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T01-13",
+            "name": "Side-by-side configuration",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T01-14",
+            "name": "Partner-supported standing position",
+            "status": "generic category / not Dhika canon"
+          }
+        ],
+        "id": "T01"
+      },
+      {
+        "key": "observer",
+        "title": "Observation, voyeurism & exhibitionism",
+        "description": "Observing and being observed are distinct roles. Voyeurism without consent is a privacy violation, not a consensual game.",
+        "items": [
+          {
+            "id": "T02-01",
+            "name": "Consensual in-room watching",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T02-02",
+            "name": "Consensual remote viewing",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T02-03",
+            "name": "Consensual group observation",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T02-04",
+            "name": "Consensual exhibitionism",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T02-05",
+            "name": "Cuckolding / hotwifing (agreed relationship scenario)",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T02-06",
+            "name": "Observer-only role",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T02-07",
+            "name": "Observer joins after separate permission",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T02-08",
+            "name": "Mutual viewing",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T02-09",
+            "name": "Agreed nude photography",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T02-10",
+            "name": "Agreed video recording",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T02-11",
+            "name": "Agreed one-to-one live video",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T02-12",
+            "name": "Accidental witness (not consent)",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T02-13",
+            "name": "Non-consensual voyeurism (boundary violation)",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T02-14",
+            "name": "Unauthorized image-sharing (privacy violation)",
+            "status": "generic category / not Dhika canon"
+          }
+        ],
+        "id": "T02"
+      },
+      {
+        "key": "group",
+        "title": "Multiple-partner relationship configurations",
+        "description": "Participant count does not authorize anything; every person can consent or decline independently.",
+        "items": [
+          {
+            "id": "T03-01",
+            "name": "Threesome / three-adult encounter",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T03-02",
+            "name": "Foursome / four-adult encounter",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T03-03",
+            "name": "Group sex / orgy (all adults)",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T03-04",
+            "name": "Consensual partner swapping",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T03-05",
+            "name": "Swinging / consensual couple exchange",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T03-06",
+            "name": "Mixed-gender adult encounter",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T03-07",
+            "name": "Same-gender adult encounter",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T03-08",
+            "name": "Two couples with separate encounters",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T03-09",
+            "name": "Parallel couples in separate rooms",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T03-10",
+            "name": "Group game without sexual contact",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T03-11",
+            "name": "Shared intimacy with observer only",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T03-12",
+            "name": "Polyamorous relationship context",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T03-13",
+            "name": "Consensual non-monogamy discussion",
+            "status": "generic category / not Dhika canon"
+          }
+        ],
+        "id": "T03"
+      },
+      {
+        "key": "bdsm",
+        "title": "BDSM, consensual power exchange & kink",
+        "description": "Broad context labels only; no acts are presumed. Discuss limits, safe words, aftercare and power imbalance.",
+        "items": [
+          {
+            "id": "T04-01",
+            "name": "Dominance/submission role-play",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T04-02",
+            "name": "Power-exchange agreement",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T04-03",
+            "name": "Consensual bondage/restraint",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T04-04",
+            "name": "Sensation play",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T04-05",
+            "name": "Consensual impact play",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T04-06",
+            "name": "Role-play scenario",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T04-07",
+            "name": "Light consensual roughness",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T04-08",
+            "name": "Consensual rough sex (high-level category)",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T04-09",
+            "name": "Command/permission role-play",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T04-10",
+            "name": "Mutually agreed control game",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T04-11",
+            "name": "Scene negotiation",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T04-12",
+            "name": "Stop word / stop signal",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T04-13",
+            "name": "Aftercare and emotional check-in",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T04-14",
+            "name": "Boundary renegotiation",
+            "status": "generic category / not Dhika canon"
+          }
+        ],
+        "id": "T04"
+      },
+      {
+        "key": "location",
+        "title": "Private and public-location contexts",
+        "description": "A location is setting, not a physical action. Real bystanders cannot be made involuntary participants.",
+        "items": [
+          {
+            "id": "T05-01",
+            "name": "Private bedroom",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T05-02",
+            "name": "Private hotel or resort suite",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T05-03",
+            "name": "Private vacation setting",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T05-04",
+            "name": "Private home living room (adults only)",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T05-05",
+            "name": "Private bathroom / shower",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T05-06",
+            "name": "Private swimming pool",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T05-07",
+            "name": "Private gym changing area (privacy protected)",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T05-08",
+            "name": "Private rented venue",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T05-09",
+            "name": "Car in a private lawful setting",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T05-10",
+            "name": "Balcony / terrace with privacy",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T05-11",
+            "name": "Outdoors on private secluded property",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T05-12",
+            "name": "Public-place fantasy (not enacted)",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T05-13",
+            "name": "Public location with bystanders (legal/privacy concern)",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T05-14",
+            "name": "Risk of accidental public exposure",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T05-15",
+            "name": "Workplace / institutional setting (power-boundary concern)",
+            "status": "generic category / not Dhika canon"
+          }
+        ],
+        "id": "T05"
+      },
+      {
+        "key": "taboo",
+        "title": "Forbidden, secret or socially taboo relationship contexts",
+        "description": "These are relationship themes, not consent exceptions. Illegal, underage, familial abuse or coercion are not romantic game choices.",
+        "items": [
+          {
+            "id": "T06-01",
+            "name": "Consensual adultery / extramarital affair",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T06-02",
+            "name": "Secret adult romance",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T06-03",
+            "name": "Marital jealousy and temptation",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T06-04",
+            "name": "Friends-to-lovers conflict",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T06-05",
+            "name": "Former partner reunion",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T06-06",
+            "name": "Love triangle / rivalry",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T06-07",
+            "name": "Consensual open-marriage discussion",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T06-08",
+            "name": "Competing relationship expectations",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T06-09",
+            "name": "Older-adult age-gap attraction (both adults)",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T06-10",
+            "name": "Neighbour relationship tension",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T06-11",
+            "name": "Social-status difference",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T06-12",
+            "name": "Employer/employee power-imbalance concern",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T06-13",
+            "name": "Teacher/adult-learner power-imbalance concern",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T06-14",
+            "name": "Marriage disclosure and consequence",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T06-15",
+            "name": "Forbidden-feeling fantasy only",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T06-16",
+            "name": "Relationship betrayal and repair",
+            "status": "generic category / not Dhika canon"
+          }
+        ],
+        "id": "T06"
+      },
+      {
+        "key": "modes",
+        "title": "Physical act and outcome (separate axes)",
+        "description": "Actual act, position, spectator, location, number of people and relationship drama must be logged in separate fields.",
+        "items": [
+          {
+            "id": "T07-01",
+            "name": "Non-penetrative intimacy",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T07-02",
+            "name": "Vaginal penetration category",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T07-03",
+            "name": "Anal penetration category",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T07-04",
+            "name": "Digital penetration category",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T07-05",
+            "name": "Toy penetration category",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T07-06",
+            "name": "Oral contact — non-penetrative external",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T07-07",
+            "name": "Oral contact — penetration possible",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T07-08",
+            "name": "Sexual contact only imagined",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T07-09",
+            "name": "Sexual contact only recalled",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T07-10",
+            "name": "Sexual contact reported by another character",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T07-11",
+            "name": "Explicitly off-page intimacy",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T07-12",
+            "name": "Encounter proposed, not performed",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T07-13",
+            "name": "Encounter declined / stopped",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T07-14",
+            "name": "No new sexual contact",
+            "status": "generic category / not Dhika canon"
+          }
+        ],
+        "id": "T07"
+      },
+      {
+        "key": "safety",
+        "title": "Consent, evidence, privacy and recovery checks",
+        "description": "Narrative consent and reality checkboxes must not be collapsed into a heat score.",
+        "items": [
+          {
+            "id": "T08-01",
+            "name": "All participants confirmed adults",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T08-02",
+            "name": "All participants agree individually",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T08-03",
+            "name": "Viewer consent and scope confirmed",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T08-04",
+            "name": "Recording consent independently confirmed",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T08-05",
+            "name": "No unknowing public bystanders",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T08-06",
+            "name": "No coercive pressure or authority leverage",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T08-07",
+            "name": "Stop immediately respected",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T08-08",
+            "name": "Privacy of photos/messages respected",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T08-09",
+            "name": "Contraception and STI discussion when relevant",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T08-10",
+            "name": "Safe-word/stop signal when relevant",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T08-11",
+            "name": "Physical and emotional aftercare",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T08-12",
+            "name": "Spousal disclosure or non-disclosure consequences",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T08-13",
+            "name": "Consent can be withdrawn",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T08-14",
+            "name": "Actual vs imagined vs recalled verified",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T08-15",
+            "name": "Confirmed canon vs future proposal separated",
+            "status": "generic category / not Dhika canon"
+          },
+          {
+            "id": "T08-16",
+            "name": "Break episode / timeline gap logged",
+            "status": "generic category / not Dhika canon"
+          }
+        ],
+        "id": "T08"
+      }
+    ],
+    "distinctions": [
+      "Penetrative act is a physical-act category; positions describe arrangement; group size describes participants; BDSM describes negotiated dynamics; location describes setting; taboo/adultery describes relationship tension; voyeurism describes an observer role.",
+      "Consent is person-specific and act-specific; one activity does not authorize another.",
+      "Unconsented voyeurism, image distribution or public exposure involving uninvolved bystanders are harm/privacy concerns, not approved erotic game beats.",
+      "Adults-only; no minors, coercion or nonconsensual sexual acts as fantasy checklists.",
+      "All category names are generic possibilities. Neither the 69-episode reconstructed secondary index nor original author EP01–41 is being asserted to contain each.",
+      "John watching in a proposed storyline requires consent from both observed partners and John, with separate recording permissions and an aftermath beat.",
+      "Forbidden in this taxonomy means socially taboo adult relationships with independent informed consent; never infer legality or consent from secrecy."
+    ]
+  }
 }
