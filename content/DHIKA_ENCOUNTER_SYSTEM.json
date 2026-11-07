@@ -7,7 +7,8 @@
     "families": 8,
     "actions": 109,
     "characters": 18,
-    "checklistFields": 18
+    "checklistFields": 18,
+    "relationshipLanes": 14
   },
   "modalities": [
     "actual",
@@ -2479,5 +2480,155 @@
     "lastAuthorEpisode": 41,
     "mainDoc": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit",
     "exampleMethod": "Original tab text checked; observations are high-level analytic paraphrases, not literal quoted instructions or source author-declared rules."
-  }
+  },
+  "relationshipLanes": [
+    {
+      "name": "Dhika × Chotu",
+      "status": "Existing source history + future proposals",
+      "foundation": "Many physical and emotional milestones already occurred before original author EP41.",
+      "plannedWindows": "Earlier proposed EP57–59 and optional EP62; no new event automatically added in EP65–76.",
+      "next": "After a separate conversation and disclosure checkpoint.",
+      "pause": "At least one independent emotional/ordinary-life scene after any new intimacy.",
+      "risk": "Don't reset to first kiss or force intercourse."
+    },
+    {
+      "name": "John witnessing Dhika × Chotu",
+      "status": "Proposed observer scenario, not original first",
+      "foundation": "John knows some history; hearing, reading, imagining and watching differ.",
+      "plannedWindows": "Earlier EP59 proposed agreed viewing; no repeated witness scene locked for EP65–76.",
+      "next": "Future separate request → all adults' consent → scoped viewing → private debrief.",
+      "pause": "Observation is its own event; no immediate repeat or broader permission.",
+      "risk": "No surprise audience, recording or automatic participation."
+    },
+    {
+      "name": "Dhika × Bantu",
+      "status": "Distinct established relationship",
+      "foundation": "Complex intimacy and consent history; prior stops must matter.",
+      "plannedWindows": "Separate Twins Part 4 EP52–56 proposal.",
+      "next": "Future one-on-one meeting after boundaries addressed.",
+      "pause": "Space apart and demonstrated trust repair.",
+      "risk": "Not Nisha's gym partner or implicit shared twin permission."
+    },
+    {
+      "name": "Dhika × Bobby",
+      "status": "Distinct established relationship",
+      "foundation": "Separate affectionate and private-video history.",
+      "plannedWindows": "Separate Twins Part 4 EP52–56 proposal.",
+      "next": "Independent preferences and privacy re-check.",
+      "pause": "One full ordinary scene before future private viewing.",
+      "risk": "Bobby's permissions not transferable to Bantu."
+    },
+    {
+      "name": "Sharmi × Chotu",
+      "status": "Independent romance proposed",
+      "foundation": "Not a confirmed completed sexual relationship in original author source.",
+      "plannedWindows": "Earlier EP58/61 proposal.",
+      "next": "Another separate date after her friendship discussion with Dhika.",
+      "pause": "No same-scene race with Dhika's intimacy.",
+      "risk": "Chotu is not a prize in a contest."
+    },
+    {
+      "name": "Nisha × Leo",
+      "status": "New proposed gym partnership",
+      "foundation": "Nisha married 25; Leo her established gym partner ~8 months (new backstory).",
+      "plannedWindows": "EP65 name mentioned → EP66 Leo returns → EP67 gym together → EP71 absence → EP76 normal workout.",
+      "next": "Attraction may be acknowledged in a separate later episode, not automatically acted upon.",
+      "pause": "Gym routine and marriage scenes between each emotional beat.",
+      "risk": "No Nisha × Bantu/Bobby gym pairing; technique spotting is not sexual consent."
+    },
+    {
+      "name": "Nisha × Kabir",
+      "status": "User-locked married couple, husband details provisional",
+      "foundation": "Husband has independent perspective; not a villain invented to permit cheating.",
+      "plannedWindows": "EP68 check-in → EP71 call → EP72 homecoming → EP74 confession → EP76 follow-up.",
+      "next": "Marriage conversation before any major relationship decision.",
+      "pause": "Give each spouse a normal-life episode apart from gym/drama.",
+      "risk": "No automatic group-game permission."
+    },
+    {
+      "name": "Nisha × Neighbour Uncle",
+      "status": "New slow-burn possible connection",
+      "foundation": "Uncle older married neighbour, not plumber Iroh; Nisha married to Kabir.",
+      "plannedWindows": "EP75 first meaningful society-event chat → EP76 private reflection without contact.",
+      "next": "Future standalone conversation after time away; flirtation only if both adults freely choose.",
+      "pause": "EP76 is explicit no-contact recovery.",
+      "risk": "No immediate seduction or assumed affair."
+    },
+    {
+      "name": "Dhika × Sharmi × Nisha (women's friendship)",
+      "status": "New group social dynamics",
+      "foundation": "Dhika/Sharmi original friends; Nisha new independent gym member.",
+      "plannedWindows": "EP65 gym introduction → EP67 workout comparison → EP74 separate balcony talk.",
+      "next": "Future friendship or same-sex romantic possibility only after its own development.",
+      "pause": "Do not make every group scene sexual.",
+      "risk": "Any women-women kiss needs separate intentional consent."
+    },
+    {
+      "name": "Dhika × Raj (swimming)",
+      "status": "Original coaching relation confirmed",
+      "foundation": "Raj already helped Dhika swim in original source.",
+      "plannedWindows": "EP69 supervised continuation only.",
+      "next": "Next skill-focused session on a different day if scheduled.",
+      "pause": "Swimming is a standalone practical scene, not a seduction slot.",
+      "risk": "Safety support must not be sexualized as automatic consent."
+    },
+    {
+      "name": "Dhika × Nisha (tuition)",
+      "status": "New academic relationship",
+      "foundation": "Nisha 25 adult, academically ambitious; Dhika established teacher.",
+      "plannedWindows": "EP68 first professional diagnostic; later sessions not scheduled automatically.",
+      "next": "Follow-up homework review after ordinary interval.",
+      "pause": "Avoid overlap with every gym meeting.",
+      "risk": "No intimacy-for-grade, authority pressure or assumed gym romance."
+    },
+    {
+      "name": "John–Dhika / Raj–Sharmi / Kabir–Nisha",
+      "status": "Three married couples, new social group",
+      "foundation": "First two marriages established, third user-requested new marriage.",
+      "plannedWindows": "EP73 invitation only → EP74 dinner and question game → subsequent independent partner conversations.",
+      "next": "Only later, if all choose, discuss voluntary romantic games as a separate event.",
+      "pause": "At least one non-game episode between gatherings.",
+      "risk": "No forced swapping, compulsory sexual action or viewer entitlement."
+    },
+    {
+      "name": "Stranger × Dhika / John",
+      "status": "Unidentified sender, mystery only",
+      "foundation": "Anonymous messages and gifts verified, identity and age not verified.",
+      "plannedWindows": "EP70 evidence review. Leo's return is independent.",
+      "next": "Source-grounded identity evidence before any interpersonal revelation.",
+      "pause": "Interleave normal life; don't place a new note after every sexual scene.",
+      "risk": "No sexual attribution to unknown identity."
+    },
+    {
+      "name": "Neighbour Uncle vs Iroh/Zuko/workmen",
+      "status": "Two different tracks",
+      "foundation": "Neighbour Uncle is not plumber Iroh. Iroh/Zuko are a real repair crew, with delayed bathtub.",
+      "plannedWindows": "Uncle appears EP75 society event; repair team scheduling remains elsewhere.",
+      "next": "Bath order follow-up only when calendar/dealer supports it.",
+      "pause": "Never treat tradespeople's work contact as sex setup automatically.",
+      "risk": "Don't merge identities or invent unnamed workers' motivations."
+    }
+  ],
+  "futureJohnObserverExample": [
+    {
+      "stage": "Knowledge audit",
+      "event": "John and Dhika separate what he witnessed, heard, read or imagined.",
+      "status": "Future candidate only"
+    },
+    {
+      "stage": "Observer invitation",
+      "event": "Dhika, Chotu and John separately agree on whether observation is wanted, and its limits.",
+      "status": "Future candidate only"
+    },
+    {
+      "stage": "One scoped encounter",
+      "event": "Optional chosen viewing (affection or off-page intimacy) with named audience and no recording.",
+      "status": "Not scheduled"
+    },
+    {
+      "stage": "Aftermath / break",
+      "event": "John and Dhika discuss impact privately; Chotu retains his own space. No immediate second scene.",
+      "status": "Future candidate only"
+    }
+  ]
 }
