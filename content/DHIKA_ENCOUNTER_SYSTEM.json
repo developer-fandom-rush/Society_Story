@@ -4,8 +4,8 @@
   "updated": "2026-11-07",
   "intro": "Comprehensive non-graphic action-label vocabulary for sight/touch/imagined/recalled/actual/solo/observer contexts, character-wise continuity checks and staged recovery pacing. Not a how-to or explicit prose generator.",
   "counts": {
-    "families": 8,
-    "actions": 109,
+    "families": 14,
+    "actions": 187,
     "characters": 18,
     "checklistFields": 18,
     "relationshipLanes": 14
@@ -792,6 +792,708 @@
       "label": "Knowledge correction",
       "mode": "Continuity",
       "note": "What one character knows, witnessed, imagined or heard"
+    },
+    {
+      "id": "X001",
+      "family": "Clothing and sight microevents",
+      "label": "Pallu repositioning changes visibility",
+      "mode": "Self / viewed",
+      "note": "Clothing movement creates a new view; track who actually saw it",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E01-29"
+    },
+    {
+      "id": "X002",
+      "family": "Clothing and sight microevents",
+      "label": "Unfastened blouse or missing hook",
+      "mode": "Self / possible sight",
+      "note": "Clothing adjustment or concern, not proof of another viewer",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E04-45"
+    },
+    {
+      "id": "X003",
+      "family": "Clothing and sight microevents",
+      "label": "Reflected underwear or bra view",
+      "mode": "Mirror sight",
+      "note": "A reflected glimpse differs from direct sight",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E05-49"
+    },
+    {
+      "id": "X004",
+      "family": "Clothing and sight microevents",
+      "label": "Reach-up exposes waist or navel",
+      "mode": "Accidental sight",
+      "note": "Shelf/arm movement briefly changes coverage",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E03-09"
+    },
+    {
+      "id": "X005",
+      "family": "Clothing and sight microevents",
+      "label": "Leaning or bending changes neckline",
+      "mode": "Accidental sight",
+      "note": "Posture-related visibility, not an invitation",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E01-31"
+    },
+    {
+      "id": "X006",
+      "family": "Clothing and sight microevents",
+      "label": "Robe loosening in laughter",
+      "mode": "Accidental sight",
+      "note": "Unintended clothing state; response separately recorded",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E31-22"
+    },
+    {
+      "id": "X007",
+      "family": "Clothing and sight microevents",
+      "label": "Towel adjusted for privacy",
+      "mode": "Self / coverage",
+      "note": "Restoring privacy is an action, not sexual escalation",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E52-29"
+    },
+    {
+      "id": "X008",
+      "family": "Clothing and sight microevents",
+      "label": "Robe intentionally opened",
+      "mode": "Self / chosen exposure",
+      "note": "Deliberate clothing choice differs from accidental shift",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E67-037"
+    },
+    {
+      "id": "X009",
+      "family": "Clothing and sight microevents",
+      "label": "Clothing becomes translucent in rain",
+      "mode": "Environmental sight",
+      "note": "Wet fabric changes coverage and awareness",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E20-075"
+    },
+    {
+      "id": "X010",
+      "family": "Clothing and sight microevents",
+      "label": "Swimwear coverage shifts in water",
+      "mode": "Environmental sight",
+      "note": "Water movement can change visibility; record separate observation",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E41-23"
+    },
+    {
+      "id": "X011",
+      "family": "Clothing and sight microevents",
+      "label": "Dress lifted at hem",
+      "mode": "Clothing movement",
+      "note": "Track clothing layer and permission separately",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E23-019"
+    },
+    {
+      "id": "X012",
+      "family": "Clothing and sight microevents",
+      "label": "Photograph captures a particular clothing state",
+      "mode": "Image",
+      "note": "Image shares a past moment, not ongoing physical access",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E41-02"
+    },
+    {
+      "id": "X013",
+      "family": "Clothing and sight microevents",
+      "label": "Underwear edge or waistband contact",
+      "mode": "Boundary-specific touch",
+      "note": "External garment contact; no internal penetration inferred",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E67-092"
+    },
+    {
+      "id": "X014",
+      "family": "Clothing and sight microevents",
+      "label": "Changing clothing off camera or alone",
+      "mode": "Self / privacy",
+      "note": "Changing garment state is not necessarily seen by anyone",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E52-29"
+    },
+    {
+      "id": "X015",
+      "family": "Sight lines, images, and witnesses",
+      "label": "Self-appraisal in mirror",
+      "mode": "Self sight",
+      "note": "Character looks at their own appearance",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E01-29"
+    },
+    {
+      "id": "X016",
+      "family": "Sight lines, images, and witnesses",
+      "label": "Another person's mirror-angle view",
+      "mode": "Reflected sight",
+      "note": "Observer identity and knowledge must be specific",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E05-49"
+    },
+    {
+      "id": "X017",
+      "family": "Sight lines, images, and witnesses",
+      "label": "Unexpected doorway view",
+      "mode": "Accidental sight",
+      "note": "Do not assume view was desired or reciprocated",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E31-22"
+    },
+    {
+      "id": "X018",
+      "family": "Sight lines, images, and witnesses",
+      "label": "Seeing only the garment contour",
+      "mode": "Clothed sight",
+      "note": "Shape through clothing is not nudity",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E05-49"
+    },
+    {
+      "id": "X019",
+      "family": "Sight lines, images, and witnesses",
+      "label": "Direct partial nudity versus full view",
+      "mode": "Sight distinction",
+      "note": "Record exact amount shown, no blanket viewing claim",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E56-44"
+    },
+    {
+      "id": "X020",
+      "family": "Sight lines, images, and witnesses",
+      "label": "Live-video frame uncertainty",
+      "mode": "Video uncertainty",
+      "note": "A character wonders what camera reveals; not proof viewer saw it",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E07-102"
+    },
+    {
+      "id": "X021",
+      "family": "Sight lines, images, and witnesses",
+      "label": "Request to stay on video camera",
+      "mode": "Verbal request",
+      "note": "A requested video view is not a granted permission",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E08-074"
+    },
+    {
+      "id": "X022",
+      "family": "Sight lines, images, and witnesses",
+      "label": "Photo received versus photo forwarded",
+      "mode": "Digital media",
+      "note": "Intended recipient and redistribution need separate records",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E41-02"
+    },
+    {
+      "id": "X023",
+      "family": "Sight lines, images, and witnesses",
+      "label": "Unexpected video call or termination",
+      "mode": "Interruption",
+      "note": "A call can interrupt an encounter or camera view",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E18-045"
+    },
+    {
+      "id": "X024",
+      "family": "Sight lines, images, and witnesses",
+      "label": "Watching a depiction on screen, not real encounter",
+      "mode": "Media depiction",
+      "note": "Fictional/filmed sexual actions are not character acts",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E48-44"
+    },
+    {
+      "id": "X025",
+      "family": "Sight lines, images, and witnesses",
+      "label": "Witness's later minimization of duration",
+      "mode": "Reported / unreliable",
+      "note": "Words about viewing length differ from actual sight evidence",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E48-67"
+    },
+    {
+      "id": "X026",
+      "family": "Solo actions and interior states",
+      "label": "Unintentional body self-caress",
+      "mode": "Self touch",
+      "note": "Gentle touch without claiming masturbation",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E04-09"
+    },
+    {
+      "id": "X027",
+      "family": "Solo actions and interior states",
+      "label": "Genital self-touch, actual",
+      "mode": "Solo sexual act",
+      "note": "Direct self-directed contact, not imagination",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E04-09"
+    },
+    {
+      "id": "X028",
+      "family": "Solo actions and interior states",
+      "label": "Self-touch stopped through guilt",
+      "mode": "Solo stop",
+      "note": "Recorded break and emotional consequence",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E04-10"
+    },
+    {
+      "id": "X029",
+      "family": "Solo actions and interior states",
+      "label": "Masturbation confirmed by narration",
+      "mode": "Solo sexual act",
+      "note": "Separate from mere arousal or fantasy",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E56-19"
+    },
+    {
+      "id": "X030",
+      "family": "Solo actions and interior states",
+      "label": "Past solo self-touch only reported",
+      "mode": "Reported past",
+      "note": "Do not add an actual current-event occurrence",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E42-04"
+    },
+    {
+      "id": "X031",
+      "family": "Solo actions and interior states",
+      "label": "Spontaneous bodily arousal without touch",
+      "mode": "Internal state",
+      "note": "Physical response is not a performed sexual action",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E56-54"
+    },
+    {
+      "id": "X032",
+      "family": "Solo actions and interior states",
+      "label": "Arousal while watching, no self-contact verified",
+      "mode": "Internal / observer",
+      "note": "Keep physiological response distinct from touching",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E56-48"
+    },
+    {
+      "id": "X033",
+      "family": "Solo actions and interior states",
+      "label": "Orgasm explicitly stated",
+      "mode": "Outcome",
+      "note": "Outcome logged only when verified; not always by penetration",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E29-62"
+    },
+    {
+      "id": "X034",
+      "family": "Solo actions and interior states",
+      "label": "Climax not verified despite bodily reaction",
+      "mode": "Uncertain outcome",
+      "note": "Do not infer orgasm merely from high intensity",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E23-078"
+    },
+    {
+      "id": "X035",
+      "family": "Solo actions and interior states",
+      "label": "Earlier orgasm recounted, not current",
+      "mode": "Reported past",
+      "note": "Avoid double-counting historical climax",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E39-04"
+    },
+    {
+      "id": "X036",
+      "family": "Solo actions and interior states",
+      "label": "Private self-reflection after an intimate episode",
+      "mode": "Aftermath",
+      "note": "Internal evaluation may be the whole next episode",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E04-10"
+    },
+    {
+      "id": "X037",
+      "family": "High-intensity non-penetrative contact",
+      "label": "Extended mutually chosen kissing",
+      "mode": "Kissing",
+      "note": "Distinguish from a brief kiss and later recollection",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E23-015"
+    },
+    {
+      "id": "X038",
+      "family": "High-intensity non-penetrative contact",
+      "label": "Kissing while clothing stays on",
+      "mode": "Clothed intimacy",
+      "note": "No nudity or genital penetration implied",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E11-52"
+    },
+    {
+      "id": "X039",
+      "family": "High-intensity non-penetrative contact",
+      "label": "Clothed body-to-body friction",
+      "mode": "Non-penetrative contact",
+      "note": "Contact through fabric; distinguish each partner's activity",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E11-52"
+    },
+    {
+      "id": "X040",
+      "family": "High-intensity non-penetrative contact",
+      "label": "Navel-focused kissing",
+      "mode": "Non-penetrative kissing",
+      "note": "Character- and consent-specific repeat motif",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E41-20"
+    },
+    {
+      "id": "X041",
+      "family": "High-intensity non-penetrative contact",
+      "label": "Navel kissing after an objection",
+      "mode": "Boundary violation",
+      "note": "An objection is not erased by later continuation",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E23-048"
+    },
+    {
+      "id": "X042",
+      "family": "High-intensity non-penetrative contact",
+      "label": "Breast or nipple contact through clothing",
+      "mode": "Covered intimate touch",
+      "note": "Covered contact differs from bare contact",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E41-23"
+    },
+    {
+      "id": "X043",
+      "family": "High-intensity non-penetrative contact",
+      "label": "Consensual bare breast contact",
+      "mode": "Bare intimate touch",
+      "note": "Additional distinct permission compared with clothed viewing",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E56-52"
+    },
+    {
+      "id": "X044",
+      "family": "High-intensity non-penetrative contact",
+      "label": "Foot contact over clothing",
+      "mode": "Non-penetrative touch",
+      "note": "External contact classification, not vaginal/anal penetration",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E23-057"
+    },
+    {
+      "id": "X045",
+      "family": "High-intensity non-penetrative contact",
+      "label": "Thigh or leg massage",
+      "mode": "Massage",
+      "note": "Scope and stopping point must be identified",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E12-11"
+    },
+    {
+      "id": "X046",
+      "family": "High-intensity non-penetrative contact",
+      "label": "Hip or waist holding",
+      "mode": "Proximity / touch",
+      "note": "Practical support versus intimate touching is context-dependent",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E69-086"
+    },
+    {
+      "id": "X047",
+      "family": "High-intensity non-penetrative contact",
+      "label": "Swimming rescue contact",
+      "mode": "Functional touch",
+      "note": "Urgent safety hold is not consent to subsequent intimacy",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E14-26"
+    },
+    {
+      "id": "X048",
+      "family": "High-intensity non-penetrative contact",
+      "label": "Sustained kissing and covered touching together",
+      "mode": "Compound contact",
+      "note": "One continuous encounter can contain multiple different labels",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E23-021"
+    },
+    {
+      "id": "X049",
+      "family": "High-intensity non-penetrative contact",
+      "label": "Clothing being adjusted during mutual contact",
+      "mode": "Clothing / touch",
+      "note": "Record changes without assuming permission for deeper contact",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E23-017"
+    },
+    {
+      "id": "X050",
+      "family": "High-intensity non-penetrative contact",
+      "label": "Chest or torso caress, external",
+      "mode": "Non-penetrative touch",
+      "note": "Anatomical region noted without choreography",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E56-47"
+    },
+    {
+      "id": "X051",
+      "family": "High-intensity non-penetrative contact",
+      "label": "Touch withdrawn or redirected",
+      "mode": "Stop / boundary",
+      "note": "A hand moved away matters as much as previous contact",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E41-31"
+    },
+    {
+      "id": "X052",
+      "family": "High-intensity non-penetrative contact",
+      "label": "Partner proximity and physical response",
+      "mode": "Close contact",
+      "note": "Physiological reaction alone does not imply action or permission",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E23-078"
+    },
+    {
+      "id": "X053",
+      "family": "Encounter games and settings",
+      "label": "Clothing-choice game without forfeit",
+      "mode": "Game scene",
+      "note": "Clothing remains voluntarily chosen",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E36-25"
+    },
+    {
+      "id": "X054",
+      "family": "Encounter games and settings",
+      "label": "Biscuit-based proximity game",
+      "mode": "Game scene",
+      "note": "Record action, invitation and whether it stops",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E36-25"
+    },
+    {
+      "id": "X055",
+      "family": "Encounter games and settings",
+      "label": "Chicken challenge abandoned",
+      "mode": "Game stop",
+      "note": "Withdrawal from game limits that interaction",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E40-11"
+    },
+    {
+      "id": "X056",
+      "family": "Encounter games and settings",
+      "label": "Poolside affectionate contact",
+      "mode": "Pool scene",
+      "note": "Water/garment/consent all tracked separately",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E41-20"
+    },
+    {
+      "id": "X057",
+      "family": "Encounter games and settings",
+      "label": "Bathroom or shower privacy transition",
+      "mode": "Privacy scene",
+      "note": "Being in bathroom is a setting, not blanket permission",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E04-09"
+    },
+    {
+      "id": "X058",
+      "family": "Encounter games and settings",
+      "label": "Painting task creates proximity",
+      "mode": "Work scene",
+      "note": "Practical task separate from later individual choice",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E03-74"
+    },
+    {
+      "id": "X059",
+      "family": "Encounter games and settings",
+      "label": "Gift dress fittings and reactions",
+      "mode": "Gift/clothing scene",
+      "note": "Clothing choice and photo audience are separate",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E07-88"
+    },
+    {
+      "id": "X060",
+      "family": "Encounter games and settings",
+      "label": "Rain-soaked travel or waiting",
+      "mode": "Weather scene",
+      "note": "Wet clothing is not permission for intimate viewing",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E20-075"
+    },
+    {
+      "id": "X061",
+      "family": "Encounter games and settings",
+      "label": "Film-viewing and imagined comparison",
+      "mode": "Media scene",
+      "note": "Film action is not live character intimacy",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E48-44"
+    },
+    {
+      "id": "X062",
+      "family": "Encounter games and settings",
+      "label": "Partner massage with a clear limit",
+      "mode": "Massage scene",
+      "note": "A touch request needs a scope; can end without intimacy",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E12-11"
+    },
+    {
+      "id": "X063",
+      "family": "Encounter games and settings",
+      "label": "Car ride with playful touch",
+      "mode": "Travel scene",
+      "note": "Short social touch should not be promoted to a sexual milestone",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E15-24"
+    },
+    {
+      "id": "X064",
+      "family": "Encounter games and settings",
+      "label": "Doorbell interrupts intimacy",
+      "mode": "Interruption",
+      "note": "One event is paused; later resumption needs separate choice",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E67-001"
+    },
+    {
+      "id": "X065",
+      "family": "Encounter games and settings",
+      "label": "Birthday/family event with separate adult discussion",
+      "mode": "Social scene",
+      "note": "Family events never put minors into adult intimacy contexts",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E67-001"
+    },
+    {
+      "id": "X066",
+      "family": "Encounter games and settings",
+      "label": "Remote call or camera framing scene",
+      "mode": "Digital scene",
+      "note": "A call's presence does not prove full nudity was visible",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E08-004"
+    },
+    {
+      "id": "X067",
+      "family": "Continuity and emotional consequences",
+      "label": "Actual action then private memory",
+      "mode": "Recollection",
+      "note": "Do not log memory as a new contact",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E69-001"
+    },
+    {
+      "id": "X068",
+      "family": "Continuity and emotional consequences",
+      "label": "Remembered kiss while preparing another activity",
+      "mode": "Recollection",
+      "note": "Memory has different time than current scene",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E03-74"
+    },
+    {
+      "id": "X069",
+      "family": "Continuity and emotional consequences",
+      "label": "One sustained encounter with distinct micro-actions",
+      "mode": "Event structure",
+      "note": "Multiple actions can share one encounter ID",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E23-021"
+    },
+    {
+      "id": "X070",
+      "family": "Continuity and emotional consequences",
+      "label": "Stop or withdrawal inside a high-heat scene",
+      "mode": "Boundary",
+      "note": "Continue source audit without romanticizing ignored refusal",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E41-31"
+    },
+    {
+      "id": "X071",
+      "family": "Continuity and emotional consequences",
+      "label": "Guilt changes the next decision",
+      "mode": "Aftermath",
+      "note": "Self-stopped activity has a consequence",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E04-10"
+    },
+    {
+      "id": "X072",
+      "family": "Continuity and emotional consequences",
+      "label": "Observer says less than they actually saw",
+      "mode": "Knowledge mismatch",
+      "note": "Reported view length is a claim, not verified scope",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E48-67"
+    },
+    {
+      "id": "X073",
+      "family": "Continuity and emotional consequences",
+      "label": "One partner only reports a past event",
+      "mode": "Reported",
+      "note": "Current physical milestone remains unchanged",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E42-04"
+    },
+    {
+      "id": "X074",
+      "family": "Continuity and emotional consequences",
+      "label": "Narration teaser not time-ordered current action",
+      "mode": "Flashback / teaser",
+      "note": "Do not splice teaser into next live scene",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E69-001"
+    },
+    {
+      "id": "X075",
+      "family": "Continuity and emotional consequences",
+      "label": "Separate character's response to earlier contact",
+      "mode": "Aftermath",
+      "note": "Emotional state does not create additional touching",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E56-54"
+    },
+    {
+      "id": "X076",
+      "family": "Continuity and emotional consequences",
+      "label": "Social invitation followed by days of separation",
+      "mode": "Pacing",
+      "note": "A meeting does not require same-episode physical escalation",
+      "origin": "planning framework only",
+      "evidenceRef": null
+    },
+    {
+      "id": "X077",
+      "family": "Continuity and emotional consequences",
+      "label": "Voluntary game ending before escalation",
+      "mode": "Stop",
+      "note": "End-of-game outcome can be emotional not sexual",
+      "origin": "69-episode reconciled secondary index",
+      "evidenceRef": "E40-11"
+    },
+    {
+      "id": "X078",
+      "family": "Continuity and emotional consequences",
+      "label": "John directly witnesses versus hears later",
+      "mode": "Observer distinction",
+      "note": "These are distinct knowledge states with separate permissions",
+      "origin": "planning framework only",
+      "evidenceRef": null
     }
   ],
   "characters": [
@@ -2630,5 +3332,248 @@
       "event": "John and Dhika discuss impact privately; Chotu retains his own space. No immediate second scene.",
       "status": "Future candidate only"
     }
-  ]
+  ],
+  "review69": {
+    "status": "SECONDARY INDEX REVIEW, NOT VERBATIM COMPLETE-CANON CERTIFICATION",
+    "series": "Dhika",
+    "episodesIndexed": 69,
+    "beatsIndexed": 4855,
+    "analysisBasis": "Reconciled episode ledger index and spot-checked individual episode JSON files (EP04, EP23, EP41, EP56, EP67 and EP69). Existing original Docs source imports only author-labeled EP01–41. The 69-episode raw story was not independently re-read in full in this pass.",
+    "indexUrl": "https://drive.google.com/file/d/1ae-FOUYUVE6YEg33DFUYb0om2EXzCoGw/view",
+    "episodeSourceFolder": "https://drive.google.com/drive/folders/1JY54z7dLHV1AgwNzeXvtIu1HdnqL-VFE",
+    "kindTypes": [
+      "actual",
+      "self",
+      "gaze",
+      "imagined",
+      "recollection",
+      "reported_past",
+      "verbal"
+    ],
+    "counts": {
+      "actual": 1835,
+      "self": 630,
+      "gaze": 571,
+      "imagined": 151,
+      "recollection": 216,
+      "reported_past": 131,
+      "verbal": 1321
+    },
+    "caution": "An indexed label can be an action, appearance or recalled fact. Kind is preserved, high heat is subjective and cannot imply consent. Gaps/ambiguities remain. EvidenceRef is a secondary beat ID, not proof of original verbatim line.",
+    "spotChecks": [
+      {
+        "id": "E04-09",
+        "episode": 4,
+        "summary": "Actual solo self-touch",
+        "kind": "self",
+        "point": "Confirmed self-directed action in secondary index; not imagined.",
+        "sourceType": "secondary index"
+      },
+      {
+        "id": "E04-10",
+        "episode": 4,
+        "summary": "Solo contact stopped by guilt",
+        "kind": "self",
+        "point": "The stop is a distinct event and should not be overlooked.",
+        "sourceType": "secondary index"
+      },
+      {
+        "id": "E11-52",
+        "episode": 11,
+        "summary": "Clothed friction during a kiss",
+        "kind": "actual",
+        "point": "Sustained covered-body intimacy, no penetration inferred.",
+        "sourceType": "secondary index"
+      },
+      {
+        "id": "E12-11",
+        "episode": 12,
+        "summary": "Proposed leg massage",
+        "kind": "verbal",
+        "point": "Offer only; don't label as accomplished massage.",
+        "sourceType": "secondary index"
+      },
+      {
+        "id": "E14-26",
+        "episode": 14,
+        "summary": "Raj's swimming rescue",
+        "kind": "actual",
+        "point": "Safety contact, not sexual permission.",
+        "sourceType": "secondary index"
+      },
+      {
+        "id": "E20-075",
+        "episode": 20,
+        "summary": "Rain changes top coverage",
+        "kind": "self",
+        "point": "Environmental wardrobe change and awareness; no other person's view proven.",
+        "sourceType": "secondary index"
+      },
+      {
+        "id": "E23-015",
+        "episode": 23,
+        "summary": "Extended kiss initiation",
+        "kind": "actual",
+        "point": "The same sustained encounter includes multiple micro-actions.",
+        "sourceType": "secondary index"
+      },
+      {
+        "id": "E23-021",
+        "episode": 23,
+        "summary": "Kissing and covered contact continue",
+        "kind": "actual",
+        "point": "Continuation, not a new encounter after every motion.",
+        "sourceType": "secondary index"
+      },
+      {
+        "id": "E23-048",
+        "episode": 23,
+        "summary": "Navel kiss after objection",
+        "kind": "actual",
+        "point": "Consent concern—do not romanticize an objection.",
+        "sourceType": "secondary index"
+      },
+      {
+        "id": "E23-057",
+        "episode": 23,
+        "summary": "Foot contact over clothing",
+        "kind": "actual",
+        "point": "Distinct external contact, not penetration.",
+        "sourceType": "secondary index"
+      },
+      {
+        "id": "E23-078",
+        "episode": 23,
+        "summary": "Bodily response without verified climax",
+        "kind": "self",
+        "point": "High intensity should not become a confirmed orgasm.",
+        "sourceType": "secondary index"
+      },
+      {
+        "id": "E31-22",
+        "episode": 31,
+        "summary": "Robe shifts during laughter",
+        "kind": "actual",
+        "point": "Unexpected visibility requires observer and response check.",
+        "sourceType": "secondary index"
+      },
+      {
+        "id": "E36-25",
+        "episode": 36,
+        "summary": "Biscuit-based game setup",
+        "kind": "actual",
+        "point": "Game proximity is a setting, not automatic intimacy.",
+        "sourceType": "secondary index"
+      },
+      {
+        "id": "E40-11",
+        "episode": 40,
+        "summary": "Chicken challenge ends",
+        "kind": "actual",
+        "point": "Voluntary withdrawal/stop is its own outcome.",
+        "sourceType": "secondary index"
+      },
+      {
+        "id": "E41-02",
+        "episode": 41,
+        "summary": "Photo intentionally shared",
+        "kind": "actual",
+        "point": "Intended audience matters; forwarding is separate.",
+        "sourceType": "secondary index"
+      },
+      {
+        "id": "E41-23",
+        "episode": 41,
+        "summary": "Intimate contact through swimwear",
+        "kind": "actual",
+        "point": "Covered contact differs from bare contact.",
+        "sourceType": "secondary index"
+      },
+      {
+        "id": "E41-31",
+        "episode": 41,
+        "summary": "Hand redirected away",
+        "kind": "actual",
+        "point": "Specific physical boundary matters.",
+        "sourceType": "secondary index"
+      },
+      {
+        "id": "E48-44",
+        "episode": 48,
+        "summary": "Filmed oral depiction watched",
+        "kind": "gaze",
+        "point": "Depiction on screen; do not classify as viewer's own sex act.",
+        "sourceType": "secondary index"
+      },
+      {
+        "id": "E48-67",
+        "episode": 48,
+        "summary": "Viewing duration minimized verbally",
+        "kind": "verbal",
+        "point": "A character's verbal account may differ from observed duration.",
+        "sourceType": "secondary index"
+      },
+      {
+        "id": "E56-19",
+        "episode": 56,
+        "summary": "Narrator-confirmed solo masturbation",
+        "kind": "actual",
+        "point": "Solo act distinguished from a memory or fantasy.",
+        "sourceType": "secondary index"
+      },
+      {
+        "id": "E56-44",
+        "episode": 56,
+        "summary": "Partial exposure after robe shift",
+        "kind": "actual",
+        "point": "Nudity may be partial; sighted and touched are separate.",
+        "sourceType": "secondary index"
+      },
+      {
+        "id": "E56-54",
+        "episode": 56,
+        "summary": "Internal response to touching",
+        "kind": "self",
+        "point": "Bodily reaction is not extra touch.",
+        "sourceType": "secondary index"
+      },
+      {
+        "id": "E67-001",
+        "episode": 67,
+        "summary": "Doorbell interrupts intimate contact",
+        "kind": "actual",
+        "point": "One interrupted moment, then normal-life handoff.",
+        "sourceType": "secondary index"
+      },
+      {
+        "id": "E67-037",
+        "episode": 67,
+        "summary": "Self-directed robe opening",
+        "kind": "self",
+        "point": "Intentional self action; specific audience still needs verification.",
+        "sourceType": "secondary index"
+      },
+      {
+        "id": "E69-001",
+        "episode": 69,
+        "summary": "Poolside opening teaser is a recollection",
+        "kind": "recollection",
+        "point": "Not a fresh present-time physical encounter.",
+        "sourceType": "secondary index"
+      }
+    ]
+  },
+  "penetrativeNamesOnly": [
+    "Penile–vaginal penetration",
+    "Penile–anal penetration",
+    "Digital vaginal penetration",
+    "Digital anal penetration",
+    "Vaginal penetration with a sex toy",
+    "Anal penetration with a sex toy",
+    "Penetrative oral–penile contact",
+    "Penetrative oral–vaginal contact",
+    "Penetrative oral–anal contact",
+    "Simultaneous multi-partner penetration"
+  ],
+  "penetrationNote": "Generic clinical action names for categorization only; none of these are asserted to occur in original Dhika source. Some oral sex or genital touching is non-penetrative; do not reclassify without explicit evidence."
 }
