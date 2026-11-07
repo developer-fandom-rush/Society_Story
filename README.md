@@ -145,3 +145,13 @@ To update the original source, re-export Google Docs and update the nine JSON gr
 - **Reader:** standalone `twins.html`, linked from the main `dhika.html` navigation. Five parts, 41 proposed scenes, per-scene non-graphic action names, search, character filters, per-part highest milestone, plot mechanism, boundary notes and next hooks.
 - **Canon protection:** original Google Docs source tabs and story chapter JSON files were not changed. Secondary legacy analysis numbering (1–69) may differ from author numbering and is clearly marked. Adult intimacy references are non-graphic planning tags, frequently off-page, never a claim that future scenes already occurred.
 - **Public publishing:** the GitHub Pages deployment serves the same URLs after the corresponding commit is built; edits to the JSON/Markdown update the reader without changing the link.
+
+## Dhika — Chotu Returns, EP57–64 (history-first future arc)
+
+[Read history and EP57–64 action plans](chotu.html?ep=57) · [Character history tab](chotu.html?view=history) · [Readable plot book](content/DHIKA_CHOTU_RETURN.md) · [JSON data](content/DHIKA_CHOTU_RETURN.json).
+
+- Added after Twins Part 4 EP52–56, without changing source EP01–41 or proposed Mexico/India/Twins story data.
+- Includes 18 original-source character history anchors for Dhika, Chotu, Sharmi, John, Raj, Bantu/Bobby, neighbour Uncle, Aunty, Iroh, Zuko, unnamed plumber workmen, Leo, Pappu and the unresolved Stranger.
+- Eight proposed episodes EP57–64, **51 scene beats**, each with plot mechanism, timing, character pair, non-graphic action-name tags, highest milestone, boundaries and forward hook.
+- Original author-numbered EP41 is the source endpoint; reconciled evidence EP55–69 is a distinct legacy analysis index and must not be silently mapped to author numbering.
+- Iroh's delayed bathtub delivery remains a contingent subplot; Stranger's identity is explicitly unresolved. Intimate encounters are proposed, voluntary and often off-page, not pasted graphic prose.
