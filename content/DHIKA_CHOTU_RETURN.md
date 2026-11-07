@@ -479,3 +479,45 @@ Original author chapter ends EP41. Mexico 42–48; India return 49–51; twins P
 - Which aspects of Dhika–Chotu history does John know versus witness?
 - What does Sharmi choose independently after EP64?
 - Is the Stranger known to any character? No answer verified yet.
+
+## Physical progression — episode-wise and character-pair-wise
+
+> **PROPOSED / NOT CANON.** Optional milestones are not completed. Labels do not depict graphic action.
+
+| Episode | Pair / participants | Highest physical milestone | Status |
+|---|---|---|---|
+| EP57 | Dhika × Chotu | Reunion Hug; Mutual Kiss; Affectionate Hand Holding | proposed |
+| EP58 | Dhika × Chotu; Sharmi × Chotu | Separate Mutual Kisses; Sustained Embraces | proposed |
+| EP59 | Dhika × Chotu; John as observer | Consensual Nude Viewing; Non-Intercourse Sexual Intimacy (Off-Page); Agreed Observation | proposed |
+| EP60 | Dhika × Iroh; Dhika × Zuko; Neighbour Uncle; workmen | Professional Greeting; Repair Inspection; Familiar Banter | none |
+| EP61 | Sharmi × Chotu | Hand Holding; Voluntary Mutual Kiss; Affectionate Touching | proposed |
+| EP62 | Dhika × Chotu; Sharmi × Chotu | Renewed Private Non-Intercourse Intimacy (Off-Page) | optional |
+| EP63 | Dhika × John; Stranger; Iroh/Zuko/Uncle | No intimate physical action; Trust Conversation; Mystery Evidence Check | none |
+| EP64 | Dhika × Chotu; Sharmi × Chotu | Separate Mutual Kisses; Affectionate Reunion; Future Intimacy Discussion | optional |
+
+### Pair-wise peaks
+
+| Relationship | Highest proposed milestone | Episode | Status |
+|---|---|---|---|
+| Dhika × Chotu | Non-Intercourse Sexual Intimacy (Off-Page), John observing by agreement | EP59 | proposed |
+| Sharmi × Chotu | Mutual Kiss; Hand Holding; Intimate Affection | EP58 / EP61 | proposed |
+| Dhika × Chotu × John | Agreed Intimate Observation; Consensual Nude Viewing (Off-Page) | EP59 | proposed |
+| Dhika × Sharmi × Chotu | Separate kisses with Chotu; Playful Rivalry; Honest Conversation | EP58 / EP62 | proposed |
+| Dhika × John | Marital Embrace; Reassurance; Private Debrief | EP59 / EP62 | proposed |
+| Sharmi × Raj | Relationship Conversation; Expectations and Boundaries | EP61 | none |
+| Dhika × Neighbour Uncle | Familiar Banter; Repair Coordination; Personal Question | EP60 / EP64 | none |
+| Dhika × Iroh | Professional Greeting; Maintenance Inspection | EP60 / EP64 | none |
+| Dhika × Zuko | Professional Greeting; Measurements; Witness Clarification | EP60 / EP63 | none |
+| Dhika × Workmen | Contractor Visit; Work Log | EP60 | none |
+| Dhika × Stranger | Anonymous Message; Mystery Lead; No Physical Encounter | EP57 / EP63 / EP64 | none |
+| Dhika × Bantu/Bobby | No new EP57–64 physical milestone; prior Part 4 continues | EP52–56 (separate arc) | none |
+| Dhika × Leo | No new physical encounter | None in EP57–64 | none |
+
+**Milestone check:** EP59 is the arc's highest committed proposal. EP62/EP64 further intimacy is optional and must not count as achieved; EP60/EP63 intentionally have no sexual escalation.
+
+### UI navigation
+
+- [Interactive Episode Roadmap](../chotu.html?view=roadmap) — 8 episode plot mechanisms, scene order, action labels, milestones and next hooks.
+- [Scene-by-Scene Plan](../chotu.html?view=episodes&ep=57) — 51 detailed scene entries with participants and action names.
+- [Highest Physical Progression](../chotu.html?view=progression) — episode and character-pair peaks, including optional/none distinction.
+- [Source-Grounded Character History](../chotu.html?view=history) — 18 original source anchors.
