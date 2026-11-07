@@ -1,0 +1,426 @@
+{
+  "schema": "dhika-original-tabs-v1",
+  "docId": "1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo",
+  "sourceTitle": "Dhika Forum Episode Index — DOM Extraction",
+  "sourceRevision": "AHj4eMRElorhUhPhw-Ja76elRZZssO4oYWC9alS3ih5YotyJPsfNK0KtlU4KHYz0MHe7uxZmjxF69725UJTlggUmDVJ1CXT1xXksuopJ4Vs",
+  "orderedBy": "original Google Docs tab index, strictly",
+  "sourceTabCount": 41,
+  "storyTabCount": 40,
+  "lastExplicitAuthorEpisodeNumber": 41,
+  "nextEpisodeNumber": 42,
+  "numberingPolicy": "Original tabs are not one-to-one with author episode numbers. Tab index is display order; explicit episode number appears only when printed in that tab. Do not derive episode number from tab position. After author-numbered EP41, the next planned chapter begins EP42.",
+  "sourceContentPolicy": "Complete Google Docs text transferred verbatim into part-01..part-09 JSON; no spelling or age changes.",
+  "sourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit",
+  "tabs": [
+    {
+      "tabOrder": 0,
+      "title": "Prologue",
+      "tabId": "t.3i71lj73ib3d",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.3i71lj73ib3d",
+      "chunk": 1,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 1288,
+      "kind": "prologue"
+    },
+    {
+      "tabOrder": 1,
+      "title": "The Little Bra cups",
+      "tabId": "t.1mqqwwl4zwey",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.1mqqwwl4zwey",
+      "chunk": 1,
+      "explicitAuthorEpisodeNumber": 1,
+      "characters": 5806,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 2,
+      "title": "Chotu Babu intro",
+      "tabId": "t.g88v2w9o4s5e",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.g88v2w9o4s5e",
+      "chunk": 1,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 8653,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 3,
+      "title": "Dhika's first show",
+      "tabId": "t.hmusjjn8muw2",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.hmusjjn8muw2",
+      "chunk": 1,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 12462,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 4,
+      "title": "Dhika catches Uncle",
+      "tabId": "t.x1efj3tu83lc",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.x1efj3tu83lc",
+      "chunk": 1,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 10181,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 5,
+      "title": "Accidental slip show to the Twins",
+      "tabId": "t.am1gl9ljieqo",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.am1gl9ljieqo",
+      "chunk": 2,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 12692,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 6,
+      "title": "Playing with Chotu backfires a little",
+      "tabId": "t.5kiu6sd4j0rx",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.5kiu6sd4j0rx",
+      "chunk": 2,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 10161,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 7,
+      "title": "Second accident and the cock twitch",
+      "tabId": "t.1pscf8coab80",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.1pscf8coab80",
+      "chunk": 2,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 20104,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 8,
+      "title": "Sexcapades with the twins part 1",
+      "tabId": "t.camx0t4f4sz5",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.camx0t4f4sz5",
+      "chunk": 2,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 16681,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 9,
+      "title": "Dhika teasing Chotu part 1",
+      "tabId": "t.yrvrd96s2pcs",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.yrvrd96s2pcs",
+      "chunk": 2,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 24249,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 10,
+      "title": "Dhika teasing Chotu part 2...... and first cum",
+      "tabId": "t.4rac1skujach",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.4rac1skujach",
+      "chunk": 3,
+      "explicitAuthorEpisodeNumber": 1,
+      "characters": 27601,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 11,
+      "title": "Meeting Raj and Sharmi; Bantu's wish getting fulfi",
+      "tabId": "t.pvzqcetr9elp",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.pvzqcetr9elp",
+      "chunk": 3,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 26509,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 12,
+      "title": "Bantu's dare move and Bobby sees her in just towel",
+      "tabId": "t.xn02i32wnfvc",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.xn02i32wnfvc",
+      "chunk": 3,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 23030,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 13,
+      "title": "Dhika's kiss and Dinner at Raj and Sharmi's",
+      "tabId": "t.z2g6xgj439nn",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.z2g6xgj439nn",
+      "chunk": 3,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 24503,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 14,
+      "title": "Kissing with Chotu takes up a notch and Movie date",
+      "tabId": "t.srg3ksimrzjn",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.srg3ksimrzjn",
+      "chunk": 3,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 33296,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 15,
+      "title": "Cock caught between the feet",
+      "tabId": "t.zf8s6aom80yy",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.zf8s6aom80yy",
+      "chunk": 4,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 32867,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 16,
+      "title": "Braless T shirt; Drenching thighs",
+      "tabId": "t.f5fvodwwo9nk",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.f5fvodwwo9nk",
+      "chunk": 4,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 30708,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 17,
+      "title": "Flashing panty and setting stage to Swiss",
+      "tabId": "t.upuryzuajvlx",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.upuryzuajvlx",
+      "chunk": 4,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 18679,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 18,
+      "title": "Swiss - Day 1: Groping shower with twins and Bitin",
+      "tabId": "t.x72521kctnyf",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.x72521kctnyf",
+      "chunk": 4,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 25908,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 19,
+      "title": "Swiss - Day 2: Dressing game and Twins' first cum.",
+      "tabId": "t.mbwq95667scy",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.mbwq95667scy",
+      "chunk": 4,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 25991,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 20,
+      "title": "Swiss - Day 3: Letters to John and dismayed Twins",
+      "tabId": "t.24nrunugt9py",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.24nrunugt9py",
+      "chunk": 5,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 14081,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 21,
+      "title": "Swiss - Day 4: Touching a cock and Twins drenching",
+      "tabId": "t.nfb6ssr2kp2m",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.nfb6ssr2kp2m",
+      "chunk": 5,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 29670,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 22,
+      "title": "Swiss - Day 5: Kissing bra and Rubbing the cum all",
+      "tabId": "t.6fm0bykzke5g",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.6fm0bykzke5g",
+      "chunk": 5,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 30136,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 23,
+      "title": "Dhika's Orgasm",
+      "tabId": "t.mfbtyyl1o66p",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.mfbtyyl1o66p",
+      "chunk": 5,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 28316,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 24,
+      "title": "Revelation",
+      "tabId": "t.qalv541oe3oc",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.qalv541oe3oc",
+      "chunk": 5,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 18734,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 25,
+      "title": "A Meetup - John, Dhika, Chotu, Raj, Sharmi, ...Leo",
+      "tabId": "t.cfny9edfu9sf",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.cfny9edfu9sf",
+      "chunk": 6,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 44711,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 26,
+      "title": "Movie date with Chotu; drenching cheeks",
+      "tabId": "t.9g8kkb24f4e1",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.9g8kkb24f4e1",
+      "chunk": 6,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 20291,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 27,
+      "title": "Sexcapades with the twins part 2 - Day 1",
+      "tabId": "t.gawdlrmtn7ev",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.gawdlrmtn7ev",
+      "chunk": 6,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 31952,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 28,
+      "title": "Sexcapades with the twins part 2 - Day 2: First mi",
+      "tabId": "t.3rcdnin6xwet",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.3rcdnin6xwet",
+      "chunk": 6,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 34416,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 29,
+      "title": "Sexcapades with the twins part 2 - Day 3: First na",
+      "tabId": "t.ec6po1hq58du",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.ec6po1hq58du",
+      "chunk": 6,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 20949,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 30,
+      "title": "Aftermath... An evening with Porn and Uncle's cock",
+      "tabId": "t.ad0bwnjq621o",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.ad0bwnjq621o",
+      "chunk": 7,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 18429,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 31,
+      "title": "A Week before the Weekend Retreat",
+      "tabId": "t.65nfaxu0u64j",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.65nfaxu0u64j",
+      "chunk": 7,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 21596,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 32,
+      "title": "An initiation with Chotu - Part 1",
+      "tabId": "t.u6hiuimbfwgv",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.u6hiuimbfwgv",
+      "chunk": 7,
+      "explicitAuthorEpisodeNumber": 33,
+      "characters": 26368,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 33,
+      "title": "The Weekend Retreat",
+      "tabId": "t.zh3obwyulnct",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.zh3obwyulnct",
+      "chunk": 7,
+      "explicitAuthorEpisodeNumber": 34,
+      "characters": 30607,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 34,
+      "title": "The Emotional Turmoil",
+      "tabId": "t.dm7qtlia5bgt",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.dm7qtlia5bgt",
+      "chunk": 7,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 26046,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 35,
+      "title": "The Lust Boils",
+      "tabId": "t.wv9oycsi166c",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.wv9oycsi166c",
+      "chunk": 8,
+      "explicitAuthorEpisodeNumber": 36,
+      "characters": 13999,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 36,
+      "title": "An initiation with Chotu - Part 2 ( The Lust Boils",
+      "tabId": "t.8pkqmyn8an1d",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.8pkqmyn8an1d",
+      "chunk": 8,
+      "explicitAuthorEpisodeNumber": 37,
+      "characters": 30896,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 37,
+      "title": "Prelude",
+      "tabId": "t.ih50jyjbxgyc",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.ih50jyjbxgyc",
+      "chunk": 8,
+      "explicitAuthorEpisodeNumber": null,
+      "characters": 35439,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 38,
+      "title": "Sexcapades with the Twins part 3 - Day 2",
+      "tabId": "t.r349hs9w4wlc",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.r349hs9w4wlc",
+      "chunk": 8,
+      "explicitAuthorEpisodeNumber": 39,
+      "characters": 19641,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 39,
+      "title": "Sexcapades with the Twins part 3 - Day 3",
+      "tabId": "t.rnikcw62o3k5",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.rnikcw62o3k5",
+      "chunk": 8,
+      "explicitAuthorEpisodeNumber": 40,
+      "characters": 14011,
+      "kind": "story_tab"
+    },
+    {
+      "tabOrder": 40,
+      "title": "Birthday party: A Total Strip-down",
+      "tabId": "t.f3pj326c1bpf",
+      "canonicalSourceUrl": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.f3pj326c1bpf",
+      "chunk": 9,
+      "explicitAuthorEpisodeNumber": 41,
+      "characters": 21829,
+      "kind": "story_tab"
+    }
+  ]
+}
