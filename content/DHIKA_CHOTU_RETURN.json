@@ -951,5 +951,169 @@
     "Which aspects of Dhika–Chotu history does John know versus witness?",
     "What does Sharmi choose independently after EP64?",
     "Is the Stranger known to any character? No answer verified yet."
-  ]
+  ],
+  "progression": {
+    "label": "Highest physical progression in EP57–64",
+    "scope": "Only this proposed arc, not all historical sexual acts. Proposal ≠ published canon. Optional ≠ completed.",
+    "episodes": [
+      {
+        "number": 57,
+        "relationships": "Dhika × Chotu",
+        "highest": "Reunion Hug; Mutual Kiss; Affectionate Hand Holding",
+        "status": "proposed",
+        "level": "Existing affection renewed",
+        "note": "No first-time claim; Chotu's historical intimacy with Dhika is already deeper."
+      },
+      {
+        "number": 58,
+        "relationships": "Dhika × Chotu; Sharmi × Chotu",
+        "highest": "Separate Mutual Kisses; Sustained Embraces",
+        "status": "proposed",
+        "level": "New Sharmi–Chotu relationship milestone",
+        "note": "Dhika–Chotu kiss is familiar; Sharmi–Chotu kiss is new only within this proposed arc."
+      },
+      {
+        "number": 59,
+        "relationships": "Dhika × Chotu; John as observer",
+        "highest": "Consensual Nude Viewing; Non-Intercourse Sexual Intimacy (Off-Page); Agreed Observation",
+        "status": "proposed",
+        "level": "Arc's highest definite physical proposal",
+        "note": "John observes only as agreed. No intercourse and no secret recording. Do not rebrand Dhika–Chotu's other past sexual acts as first-time."
+      },
+      {
+        "number": 60,
+        "relationships": "Dhika × Iroh; Dhika × Zuko; Neighbour Uncle; workmen",
+        "highest": "Professional Greeting; Repair Inspection; Familiar Banter",
+        "status": "none",
+        "level": "No new sexual milestone",
+        "note": "A genuine contractor follow-up; all parties remain distinct."
+      },
+      {
+        "number": 61,
+        "relationships": "Sharmi × Chotu",
+        "highest": "Hand Holding; Voluntary Mutual Kiss; Affectionate Touching",
+        "status": "proposed",
+        "level": "Independent romantic development",
+        "note": "Additional private adult intimacy was mentioned as optional; it is not a committed completed milestone."
+      },
+      {
+        "number": 62,
+        "relationships": "Dhika × Chotu; Sharmi × Chotu",
+        "highest": "Renewed Private Non-Intercourse Intimacy (Off-Page)",
+        "status": "optional",
+        "level": "Not yet locked",
+        "note": "Dhika–Chotu activity may occur privately only after a fresh choice. No proof of Sharmi–Chotu sexual escalation beyond new affection."
+      },
+      {
+        "number": 63,
+        "relationships": "Dhika × John; Stranger; Iroh/Zuko/Uncle",
+        "highest": "No intimate physical action; Trust Conversation; Mystery Evidence Check",
+        "status": "none",
+        "level": "Mystery and relationship trust",
+        "note": "Stranger is not physically identified, and professional visits are not sexual."
+      },
+      {
+        "number": 64,
+        "relationships": "Dhika × Chotu; Sharmi × Chotu",
+        "highest": "Separate Mutual Kisses; Affectionate Reunion; Future Intimacy Discussion",
+        "status": "optional",
+        "level": "Relationship continuation, no compulsory escalation",
+        "note": "Further off-page non-intercourse intimacy is future/optional and is not recorded as completed."
+      }
+    ],
+    "pairPeaks": [
+      {
+        "relationship": "Dhika × Chotu",
+        "peak": "Non-Intercourse Sexual Intimacy (Off-Page), John observing by agreement",
+        "episode": "EP59",
+        "status": "proposed",
+        "caveat": "Existing Chotu–Dhika kisses/intimacy predate this arc; new feature is explicit agreed observation."
+      },
+      {
+        "relationship": "Sharmi × Chotu",
+        "peak": "Mutual Kiss; Hand Holding; Intimate Affection",
+        "episode": "EP58 / EP61",
+        "status": "proposed",
+        "caveat": "This is a new proposed bond, not a verified original-canon completed sexual relationship."
+      },
+      {
+        "relationship": "Dhika × Chotu × John",
+        "peak": "Agreed Intimate Observation; Consensual Nude Viewing (Off-Page)",
+        "episode": "EP59",
+        "status": "proposed",
+        "caveat": "John acts only within negotiated observer scope; no intercourse."
+      },
+      {
+        "relationship": "Dhika × Sharmi × Chotu",
+        "peak": "Separate kisses with Chotu; Playful Rivalry; Honest Conversation",
+        "episode": "EP58 / EP62",
+        "status": "proposed",
+        "caveat": "No three-person sexual contact is planned; Chotu is not a prize."
+      },
+      {
+        "relationship": "Dhika × John",
+        "peak": "Marital Embrace; Reassurance; Private Debrief",
+        "episode": "EP59 / EP62",
+        "status": "proposed",
+        "caveat": "Their marriage is established, but there is no new marital sexual milestone in this arc."
+      },
+      {
+        "relationship": "Sharmi × Raj",
+        "peak": "Relationship Conversation; Expectations and Boundaries",
+        "episode": "EP61",
+        "status": "none",
+        "caveat": "No new physical milestone in EP57–64."
+      },
+      {
+        "relationship": "Dhika × Neighbour Uncle",
+        "peak": "Familiar Banter; Repair Coordination; Personal Question",
+        "episode": "EP60 / EP64",
+        "status": "none",
+        "caveat": "Historical neighbour relationship is not equivalent to plumber Iroh."
+      },
+      {
+        "relationship": "Dhika × Iroh",
+        "peak": "Professional Greeting; Maintenance Inspection",
+        "episode": "EP60 / EP64",
+        "status": "none",
+        "caveat": "No new sexual milestone."
+      },
+      {
+        "relationship": "Dhika × Zuko",
+        "peak": "Professional Greeting; Measurements; Witness Clarification",
+        "episode": "EP60 / EP63",
+        "status": "none",
+        "caveat": "No new sexual milestone, no stranger identity assumption."
+      },
+      {
+        "relationship": "Dhika × Workmen",
+        "peak": "Contractor Visit; Work Log",
+        "episode": "EP60",
+        "status": "none",
+        "caveat": "Workmen remain unnamed in the reviewed primary source."
+      },
+      {
+        "relationship": "Dhika × Stranger",
+        "peak": "Anonymous Message; Mystery Lead; No Physical Encounter",
+        "episode": "EP57 / EP63 / EP64",
+        "status": "none",
+        "caveat": "Identity unresolved."
+      },
+      {
+        "relationship": "Dhika × Bantu/Bobby",
+        "peak": "No new EP57–64 physical milestone; prior Part 4 continues",
+        "episode": "EP52–56 (separate arc)",
+        "status": "none",
+        "caveat": "See Twins reader for that separate planned progression."
+      },
+      {
+        "relationship": "Dhika × Leo",
+        "peak": "No new physical encounter",
+        "episode": "None in EP57–64",
+        "status": "none",
+        "caveat": "Leo is distinct from Stranger until evidenced."
+      }
+    ],
+    "keyDistinction": "EP59 is the arc's highest committed proposal. EP62/EP64 further intimacy is optional and must not count as achieved; EP60/EP63 intentionally have no sexual escalation."
+  }
 }
