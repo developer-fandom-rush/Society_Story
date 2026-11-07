@@ -166,13 +166,6 @@
       "title": "Birthday party: A Total Strip-down",
       "fact": "Pappu is a child in ordinary family care and birthday events only; he is not present for adult intimacy in the proposed scenes.",
       "source": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.f3pj326c1bpf"
-    },
-    {
-      "topic": "Gym routine (new proposal, not canon)",
-      "tab": null,
-      "title": "No gym source verified in the checked original episodes",
-      "fact": "Daily Dhika–Sharmi gym sessions and the twins' gym set-up are new EP65+ additions; do not describe them as long-established canon.",
-      "source": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.65nfaxu0u64j"
     }
   ],
   "guardrails": [
@@ -1404,10 +1397,10 @@
       },
       {
         "relationship": "Dhika × Bantu/Bobby",
-        "peak": "No new EP57–64 physical milestone; prior Part 4 continues",
-        "episode": "EP52–56 (separate arc)",
+        "peak": "No new sexual milestone in EP57–66; EP65–66 adds an exercise routine",
+        "episode": "EP52–56 (prior separate intimacy arc), EP65–66 (fitness)",
         "status": "none",
-        "caveat": "See Twins reader for that separate planned progression."
+        "caveat": "New gym meetings are nonsexual and should not be counted as sexual progression."
       },
       {
         "relationship": "Dhika × Leo",
@@ -1439,5 +1432,6 @@
       }
     ],
     "keyDistinction": "EP59 remains the highest proposed adult-intimacy milestone in EP57–66. EP62/EP64 are optional; EP65–66 add recurring gym, swimming and tuition plots with no new sexual escalation."
-  }
+  },
+  "updated": "2026-11-07"
 }
