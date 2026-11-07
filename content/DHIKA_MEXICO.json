@@ -1,0 +1,1066 @@
+{
+  "schema": "dhika-mexico-plan-v1",
+  "title": "Dhika — Mexico 7-day Arc & Return-to-India",
+  "status": "PROPOSED / NOT CANON",
+  "updated": "2026-11-07",
+  "intro": "Original Dhika continuity is the foundation. This is a separately authored non-graphic proposed action-title and relationship plan, not finished story prose or an edit of EP01–69.",
+  "sources": [
+    {
+      "label": "Original Dhika Google Doc (Prologue + early episode tabs)",
+      "url": "https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.3i71lj73ib3d",
+      "type": "source"
+    },
+    {
+      "label": "Proposed Mexico + India Word document",
+      "url": "https://docs.google.com/document/d/1nJjaiWEXdBHYmLtlRoU3uWHw27gBrG_P/edit",
+      "type": "proposal"
+    },
+    {
+      "label": "Episode 55 reconciled analysis",
+      "url": "https://drive.google.com/file/d/1GzmZkxpeaRmQmM86Vz9zlc1_iD-IcXZe/view",
+      "type": "secondary analysis"
+    },
+    {
+      "label": "Episode 68 reconciled analysis",
+      "url": "https://drive.google.com/file/d/1YxnyA6xfa1sflGygN7bXaYtWt_Uy9mn8/view",
+      "type": "secondary analysis"
+    },
+    {
+      "label": "Episode 69 reconciled analysis",
+      "url": "https://drive.google.com/file/d/17UimHdOXCBL2Ek1AkWFVBeOhWlNFd1AJ/view",
+      "type": "secondary analysis"
+    }
+  ],
+  "guardrails": [
+    "Original Dhika EP01–69 remains canon; EP70–79 is a planning proposal, not published story prose.",
+    "Dhika is not reverted to EP01 shyness. Her EP55 relationship initiative and EP68 explicit boundary persist.",
+    "Sharmi has independent agency and storylines, not merely a jealousy trigger for Dhika.",
+    "EP69 car: Dhika chooses Raj's lap primarily to avoid unwanted closeness to Scott. This is not an invitation to Scott.",
+    "EP69 bartender is unnamed in source; Mateo is a proposed name, not a confirmed source identity.",
+    "Neighbour Uncle and plumber Iroh are distinct. Bantu and Bobby are adult twins (22) with different responses.",
+    "Raj–Dhika and Sharmi–John had prior kissing and intimate contact before Mexico; not first-ever milestones.",
+    "Private nudity/viewing in EP74–75 is proposed and off-page, not a claim that it was new in every prior relationship.",
+    "Dhika's John-only intercourse boundary remains unless she makes an explicit, informed choice in future prose.",
+    "No third-party knowledge is automatic: each disclosure must be shown to reach its recipient.",
+    "India callers never accidentally view private hotel scenes; phone calls connect legitimate logistical and social threads.",
+    "Return timeline must account for travel, jobs, family and existing story commitments before reunion encounters."
+  ],
+  "canon": [
+    {
+      "episode": "EP01",
+      "title": "Best friends and both marriages established",
+      "notes": "Dhika–Sharmi childhood friendship; John–Dhika and Raj–Sharmi marriages; Raj's earlier compliment about Dhika reported."
+    },
+    {
+      "episode": "EP09–15",
+      "title": "First group closeness",
+      "notes": "Shared outings, teasing and farewell gestures; Raj supports Dhika in pool incident; Sharmi–John familiarity develops."
+    },
+    {
+      "episode": "EP24",
+      "title": "Knowledge and disclosure",
+      "notes": "John describes some Sharmi interactions to Dhika; information is partial and not identical for all four."
+    },
+    {
+      "episode": "EP32–33",
+      "title": "Birthday and relationship milestones",
+      "notes": "Dhika–Raj cheek kiss and friendship shifts; Sharmi–Dhika kissing requires episode-specific boundary review."
+    },
+    {
+      "episode": "EP43–44",
+      "title": "Cross-couple kissing gains context",
+      "notes": "Party/game kisses and reactions; some initiations and stop requests differ; do not flatten to blanket agreement."
+    },
+    {
+      "episode": "EP47–49",
+      "title": "Resort closeness and observation",
+      "notes": "Dhika–Raj swimming/support and kissing; Sharmi–John familiar affection; Dhika sees Raj–Sharmi private marital scene."
+    },
+    {
+      "episode": "EP54–55",
+      "title": "Established mutual intimacy",
+      "notes": "Dhika repeatedly initiates Raj kisses; Sharmi initiates John closeness; non-intercourse intimate contact and complex reactions already occur."
+    },
+    {
+      "episode": "EP68",
+      "title": "Boundary stated",
+      "notes": "Dhika retains an explicit John-only intercourse boundary. Do not transform prior sexual contact into intercourse."
+    },
+    {
+      "episode": "EP69",
+      "title": "Mexico car cliffhanger",
+      "notes": "Raj and Dhika are helped by Scott after road breakdown. Crowded car creates discomfort; she chooses Raj's lap. Opening pool-bar teaser timing is not established."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Dhika",
+      "role": "Lead — evolving from earlier reserve to deliberate decision-making",
+      "current": "By EP69 experienced in flirting, choosing private affection and explicitly naming limits. EP01 personality cannot be reused as a reset.",
+      "mexico": "Negotiates Scott's intrusion; takes initiative with Raj; shares selective confidences with Sharmi; answers twins and Uncle with her own controlled humor.",
+      "next": "At EP77 decides what John knows and how home-world visits resume.",
+      "boundaries": "John-only intercourse at EP68; specific permissions are scene-bound."
+    },
+    {
+      "name": "Sharmi",
+      "role": "Co-lead — expressive, spontaneous, socially assertive",
+      "current": "Established private and public chemistry with John, independent marriage with Raj and complex friendship with Dhika.",
+      "mexico": "Tests Scott's manners; engages Mateo; initiates John meetings; tells Raj about her own changes.",
+      "next": "At EP77 redefines her own rules with Raj instead of copying Dhika.",
+      "boundaries": "Every new intimate act requires her own choice and the other person's participation."
+    },
+    {
+      "name": "John",
+      "role": "Husband — affectionate, curious, not omniscient",
+      "current": "Married to Dhika; prior Sharmi encounters are part of his lived history.",
+      "mexico": "Waits for group, meets Sharmi privately, negotiates boundaries with Dhika, talks to Raj.",
+      "next": "Separate marriage debrief and practical return to home routine.",
+      "boundaries": "Knowledge and consent are separate variables."
+    },
+    {
+      "name": "Raj",
+      "role": "Husband — familiar partner to Dhika, married to Sharmi",
+      "current": "EP55 past with Dhika includes repeated kissing, sexual-touch history and reciprocal responses.",
+      "mexico": "Protects space in Scott's car, attends voluntary meetings with Dhika, discusses Sharmi's agency and his own choices.",
+      "next": "Must not act as though any earlier closeness is automatic permission.",
+      "boundaries": "No intercourse with Dhika under current proposal."
+    },
+    {
+      "name": "Scott",
+      "role": "Newer Mexican contact — Raj's acquaintance",
+      "current": "EP69 familiarity with Raj, but unwelcome proximity and overfamiliar speech to Dhika.",
+      "mexico": "Gets a corrective conversation with Dhika; develops a distinct, optional Sharmi rapport.",
+      "next": "Possible later invitation, not an unearned romance milestone.",
+      "boundaries": "Back off when boundaries are voiced."
+    },
+    {
+      "name": "Mateo",
+      "role": "Proposed name for unnamed resort bartender",
+      "current": "A bartender exists near EP69 pool-bar teaser, but name/identity are unverified.",
+      "mexico": "Casual resort conversation, music recommendation and optional contact exchange.",
+      "next": "No automatic India follow-up; future contact is a separate choice.",
+      "boundaries": "Do not conflate with other unnamed bartender from EP55."
+    },
+    {
+      "name": "Bantu",
+      "role": "Adult twin — expressive, teasing",
+      "current": "Distinct earlier history with Dhika.",
+      "mexico": "Joint video call and personal voice note.",
+      "next": "Invitation that respects actual arrival schedule.",
+      "boundaries": "Does not witness private hotel encounters."
+    },
+    {
+      "name": "Bobby",
+      "role": "Adult twin — restrained, observant",
+      "current": "Distinct earlier history with Dhika.",
+      "mexico": "Joint call plus private follow-up about voluntary photo.",
+      "next": "Own reunion beat, not Bantu's duplicate.",
+      "boundaries": "No inferred access to other people's messages."
+    },
+    {
+      "name": "Uncle",
+      "role": "Retired neighbour — practical help with complicated history",
+      "current": "Not the plumber Iroh; knows local house/repair logistics.",
+      "mexico": "Repair calls and limited teasing that Dhika can redirect.",
+      "next": "A plausible post-arrival repair inspection and personal reaction to an evolved Dhika.",
+      "boundaries": "Call is not permission for exposure or sexual contact."
+    }
+  ],
+  "pairs": [
+    {
+      "label": "Dhika × Raj",
+      "people": [
+        "Dhika",
+        "Raj"
+      ],
+      "baseline": "Existing repeated mutual kisses and intimate contact by EP55; their familiarity is already substantial.",
+      "mexico": "She chooses planned meetings; reciprocal affection, private conversation and proposed voluntary nude viewing in EP75.",
+      "limit": "No intercourse; John does not automatically know every private detail.",
+      "status": "canon + proposed"
+    },
+    {
+      "label": "Sharmi × John",
+      "people": [
+        "Sharmi",
+        "John"
+      ],
+      "baseline": "Repeated kissing and touching before Mexico, including EP54–55.",
+      "mexico": "Sharmi plans private time and a proposed consensual full-nudity moment in EP74.",
+      "limit": "No intercourse in current proposal; Raj's automatic approval is not assumed.",
+      "status": "canon + proposed"
+    },
+    {
+      "label": "Dhika × John",
+      "people": [
+        "Dhika",
+        "John"
+      ],
+      "baseline": "Established marriage and sexual relationship; uneven knowledge of previous encounters.",
+      "mexico": "EP70 disclosure, EP72 boundaries, EP76 marriage decisions and India-return conversation.",
+      "limit": "Only directly shared information should enter John's knowledge ledger.",
+      "status": "canon + proposed"
+    },
+    {
+      "label": "Sharmi × Raj",
+      "people": [
+        "Sharmi",
+        "Raj"
+      ],
+      "baseline": "Established marriage, shared social context and intimacy.",
+      "mexico": "EP72 check-in, EP74 direct discussion of Scott and John, EP76 personal home rules.",
+      "limit": "Not forced to adopt John–Dhika's exact arrangement.",
+      "status": "canon + proposed"
+    },
+    {
+      "label": "Sharmi × Scott",
+      "people": [
+        "Sharmi",
+        "Scott"
+      ],
+      "baseline": "No established romance; Scott appears in EP69 as Raj's acquaintance.",
+      "mexico": "She approaches Scott by choice and tests whether his manner is respectful; possible reunion invitation.",
+      "limit": "No kiss or sexual contact completed in EP70–76 proposal.",
+      "status": "proposed"
+    },
+    {
+      "label": "Dhika × Mateo",
+      "people": [
+        "Dhika",
+        "Mateo"
+      ],
+      "baseline": "EP69 notes unnamed resort bartender; name not canon.",
+      "mexico": "Personal conversation, music invitation and optional stay-in-touch hook.",
+      "limit": "No kiss or sex completed; Mateo is a provisional name.",
+      "status": "proposed"
+    },
+    {
+      "label": "Dhika × Scott",
+      "people": [
+        "Dhika",
+        "Scott"
+      ],
+      "baseline": "EP69 crowded backseat makes Dhika uncomfortable; he is new to her.",
+      "mexico": "Dhika establishes tone, Scott backs off and later earns limited respect.",
+      "limit": "Initial discomfort must not be reframed as desire or consent.",
+      "status": "canon + proposed"
+    },
+    {
+      "label": "Dhika × Bantu",
+      "people": [
+        "Dhika",
+        "Bantu"
+      ],
+      "baseline": "Distinct adult twin, expressive and verbally bold with established earlier story history.",
+      "mexico": "Holiday video-call teasing and individual voice note; future reunion invitation.",
+      "limit": "No private hotel event shown via camera.",
+      "status": "canon + proposed"
+    },
+    {
+      "label": "Dhika × Bobby",
+      "people": [
+        "Dhika",
+        "Bobby"
+      ],
+      "baseline": "Distinct adult twin, quieter than Bantu, with his own Dhika encounter history.",
+      "mexico": "Separate message and personalised conversation; India return invitation.",
+      "limit": "Do not attribute Bantu's remarks or private knowledge to Bobby.",
+      "status": "canon + proposed"
+    },
+    {
+      "label": "Dhika × Uncle",
+      "people": [
+        "Dhika",
+        "Uncle"
+      ],
+      "baseline": "Neighbour Uncle's existing complicated history, separate from plumber Iroh.",
+      "mexico": "Maintenance video calls, light private verbal teasing and post-trip visit setup.",
+      "limit": "No hotel private-view access; permission cannot be inferred from a repair call.",
+      "status": "canon + proposed"
+    },
+    {
+      "label": "Dhika × Sharmi",
+      "people": [
+        "Dhika",
+        "Sharmi"
+      ],
+      "baseline": "Lifelong friendship with teasing, rivalry and prior interactions with diverse boundaries.",
+      "mexico": "Equal agency, confidential debriefs, comparisons and an end-trip pact.",
+      "limit": "Shared friendship is not an obligation to disclose every private detail.",
+      "status": "canon + proposed"
+    }
+  ],
+  "episodes": [
+    {
+      "number": 70,
+      "day": 1,
+      "title": "THE THIRD SEAT",
+      "schedule": "After-midnight rainy drive → resort return → next morning (scenes continue directly from EP69)",
+      "beats": [
+        {
+          "id": "E70-01",
+          "title": "Protective Lap Hold",
+          "pair": "Dhika × Raj",
+          "type": "resort",
+          "continuity": "EP69 discomfort remains real; she is confident in speaking for herself.",
+          "status": "proposed",
+          "description": "Scott’s cramped rear-seat arrangement is resolved. Dhika voices her discomfort and decides how she wants to sit. Raj listens rather than interpreting her choice as an invitation."
+        },
+        {
+          "id": "E70-02",
+          "title": "The Unfinished Challenge",
+          "pair": "Dhika × Scott",
+          "type": "resort",
+          "continuity": "A future relationship, if any, must be earned rather than assumed.",
+          "status": "proposed",
+          "description": "Scott attempts familiar banter; Dhika answers with humor but makes distance and tone clear. He can back off gracefully."
+        },
+        {
+          "id": "E70-03",
+          "title": "The Familiar Embrace",
+          "pair": "Dhika × Raj",
+          "type": "resort",
+          "continuity": "Not a first attraction milestone.",
+          "status": "proposed",
+          "description": "At resort, Dhika thanks Raj and initiates an affectionate embrace. Their prior kissing history is present in the subtext."
+        },
+        {
+          "id": "E70-04",
+          "title": "The Waiting Kiss",
+          "pair": "Sharmi × John",
+          "type": "resort",
+          "continuity": "Her earlier relationship with John remains active.",
+          "status": "proposed",
+          "description": "John and Sharmi are among the awaiting group and share familiar affection; Sharmi notices how late Raj and Dhika arrive."
+        },
+        {
+          "id": "E70-05",
+          "title": "Two Different Disclosures",
+          "pair": "Dhika × John / Dhika × Sharmi",
+          "type": "resort",
+          "continuity": "Track who hears what and when.",
+          "status": "proposed",
+          "description": "Dhika tells John the car-safety problem and talks more privately with Sharmi about Scott and Raj. The two accounts need not have identical details."
+        },
+        {
+          "id": "E70-06",
+          "title": "The Morning Repair Call",
+          "pair": "Neighbour Uncle × Dhika",
+          "type": "india_call",
+          "continuity": "The home-world arc remains alive without presuming a sexual invitation.",
+          "status": "proposed",
+          "description": "In India, Uncle video-calls about a real plumbing/maintenance decision. Dhika checks he is free to talk, answers the practical question, then teases him lightly about missing her daily instructions."
+        }
+      ],
+      "hook": "Sharmi decides she wants to meet Scott on her own terms—not as an extension of Dhika’s uncomfortable car scene."
+    },
+    {
+      "number": 71,
+      "day": 2,
+      "title": "TWO WOMEN, ONE BARTENDER",
+      "schedule": "Resort breakfast → poolside afternoon → music-event invitation",
+      "beats": [
+        {
+          "id": "E71-01",
+          "title": "First Bold Compliment",
+          "pair": "Mateo × Sharmi",
+          "type": "resort",
+          "continuity": "Sharmi has independent agency and a new connection.",
+          "status": "proposed",
+          "description": "Sharmi introduces herself playfully; Mateo engages respectfully rather than immediately choosing a woman."
+        },
+        {
+          "id": "E71-02",
+          "title": "The Familiar Face",
+          "pair": "Mateo × Dhika",
+          "type": "resort",
+          "continuity": "This is not an invented first-ever sighting.",
+          "status": "proposed",
+          "description": "Dhika recognizes the bartender from the earlier stay. She starts a short personal conversation about his music recommendations."
+        },
+        {
+          "id": "E71-03",
+          "title": "Flirting Competition",
+          "pair": "Dhika × Sharmi",
+          "type": "resort",
+          "continuity": "No EP01 personality reset.",
+          "status": "proposed",
+          "description": "Sharmi challenges Dhika to be the one to ask a question first. Dhika calmly does it and teases her friend back."
+        },
+        {
+          "id": "E71-04",
+          "title": "Poolside Affection",
+          "pair": "Sharmi × John",
+          "type": "resort",
+          "continuity": "Continuation, not origin story.",
+          "status": "proposed",
+          "description": "Their established kissing/affection dynamic continues; any further contact is mutually checked."
+        },
+        {
+          "id": "E71-05",
+          "title": "The Woman Who Talks Back",
+          "pair": "Sharmi × Scott",
+          "type": "resort",
+          "continuity": "Cautious interest, not instant approval.",
+          "status": "proposed",
+          "description": "Sharmi challenges Scott’s overfamiliar manner while learning about his work. He responds by giving her space."
+        },
+        {
+          "id": "E71-06",
+          "title": "Two Faces on One Screen",
+          "pair": "Bantu + Bobby × Dhika",
+          "type": "india_call",
+          "continuity": "Bantu = expressive, Bobby = reserved; no covert camera exposure or fabricated consent.",
+          "status": "proposed",
+          "description": "The twins call from India. Bantu opens with a bold holiday compliment; Bobby adds a quieter personal question. Dhika deliberately teases *each differently*, with Sharmi briefly entering frame to poke fun at the trio."
+        },
+        {
+          "id": "E71-07",
+          "title": "Who Was on the Call?",
+          "pair": "Dhika × John",
+          "type": "india_call",
+          "continuity": "Maintain knowledge ledger.",
+          "status": "proposed",
+          "description": "John sees the call notification afterward and asks casually. Dhika explains without pretending all prior twin history is known to him."
+        }
+      ],
+      "hook": "Mateo invites Dhika and Sharmi to an open resort music event; both can decline without consequence."
+    },
+    {
+      "number": 72,
+      "day": 3,
+      "title": "THE COUPLES’ GAME",
+      "schedule": "Morning excursion → sunset conversation → separate late-evening video/voice messages",
+      "beats": [
+        {
+          "id": "E72-01",
+          "title": "The Hot-Tub Memory",
+          "pair": "Dhika × Raj",
+          "type": "resort",
+          "continuity": "Earned intimacy and boundaries coexist.",
+          "status": "proposed",
+          "description": "They directly reference EP54–55. Dhika explains which parts she remembers fondly and which parts still need care."
+        },
+        {
+          "id": "E72-02",
+          "title": "The Unfinished Question",
+          "pair": "Sharmi × John",
+          "type": "resort",
+          "continuity": "Avoid secret relationship upgrade without discussion.",
+          "status": "proposed",
+          "description": "Sharmi asks John whether the relationship is only a holiday interlude. He gives an honest, non-magical answer."
+        },
+        {
+          "id": "E72-03",
+          "title": "The Boundary Conversation",
+          "pair": "Dhika × John",
+          "type": "resort",
+          "continuity": "EP68 remains binding until Dhika changes it herself.",
+          "status": "proposed",
+          "description": "Dhika reaffirms her established intercourse limit and describes what she wants from honesty and affection. John does not answer for her."
+        },
+        {
+          "id": "E72-04",
+          "title": "The Marriage Check-in",
+          "pair": "Sharmi × Raj",
+          "type": "resort",
+          "continuity": "Sharmi and Raj are characters, not props.",
+          "status": "proposed",
+          "description": "They discuss parallel attraction without equating being spouses with permitting any specific third-party encounter."
+        },
+        {
+          "id": "E72-05",
+          "title": "The Private Agreement",
+          "pair": "All four",
+          "type": "resort",
+          "continuity": "Future encounters have explicit context.",
+          "status": "proposed",
+          "description": "Each person states expectations for invitations, disclosures and privacy; agreement is individual and revisable."
+        },
+        {
+          "id": "E72-06",
+          "title": "The Voice-Note Callback",
+          "pair": "Bantu × Dhika",
+          "type": "india_call",
+          "continuity": "Retains their distinctive teasing rhythm.",
+          "status": "proposed",
+          "description": "Bantu sends a playful voice message referencing her holiday confidence. Dhika answers with a witty recording, not an exaggerated embarrassed reaction."
+        },
+        {
+          "id": "E72-07",
+          "title": "The Missed Call",
+          "pair": "Neighbour Uncle × Dhika",
+          "type": "india_call",
+          "continuity": "Sets up EP73 callback; no invented emergency.",
+          "status": "proposed",
+          "description": "An incoming India call goes unanswered during the couples’ discussion. Later Uncle texts a mundane update and a cheeky “you’ve forgotten home” remark."
+        }
+      ],
+      "hook": "Dhika and Sharmi each make a *separate* planned private meeting choice rather than stumbling into the same coincidence."
+    },
+    {
+      "number": 73,
+      "day": 4,
+      "title": "BEHIND CLOSED DOORS",
+      "schedule": "Poolside daytime → two separate private meetings → late evening",
+      "beats": [
+        {
+          "id": "E73-01",
+          "title": "Private Room Invitation",
+          "pair": "Dhika × Raj",
+          "type": "resort",
+          "continuity": "Milestone is voluntary planning, not her first kiss.",
+          "status": "proposed",
+          "description": "Dhika invites Raj to talk privately. She initiates an affectionate kiss and makes clear she chose the meeting."
+        },
+        {
+          "id": "E73-02",
+          "title": "Mutual Kissing Session",
+          "pair": "Dhika × Raj",
+          "type": "resort",
+          "continuity": "No assumed intercourse.",
+          "status": "proposed",
+          "description": "The existing kissing relationship continues off-page, with attention to how they respond afterward."
+        },
+        {
+          "id": "E73-03",
+          "title": "Clothing and Privacy Conversation",
+          "pair": "Dhika × Raj",
+          "type": "resort",
+          "continuity": "Request, negotiation and completion are separate tags.",
+          "status": "proposed",
+          "description": "They discuss changing clothes, privacy and a possible later viewing encounter. Dhika does not have to decide immediately."
+        },
+        {
+          "id": "E73-04",
+          "title": "Sharmi’s Private Invitation",
+          "pair": "Sharmi × John",
+          "type": "resort",
+          "continuity": "John’s agency and Sharmi’s initiative both tracked.",
+          "status": "proposed",
+          "description": "Sharmi arranges private time and reaffirms mutual affection with John."
+        },
+        {
+          "id": "E73-05",
+          "title": "The Two Closed Doors",
+          "pair": "Dhika × Sharmi",
+          "type": "resort",
+          "continuity": "Friendship survives beyond competition.",
+          "status": "proposed",
+          "description": "Later, the two friends compare how it felt to *choose* private meetings; they need not share every detail."
+        },
+        {
+          "id": "E73-06",
+          "title": "The Call She Answers Alone",
+          "pair": "Neighbour Uncle × Dhika",
+          "type": "india_call",
+          "continuity": "Confident Dhika: warm but direct, privacy self-controlled.",
+          "status": "proposed",
+          "description": "Dhika returns Uncle’s video call while dressed normally in her room. The call covers the repaired bathroom and a playful callback to their complicated earlier history. She redirects if the teasing becomes too presumptuous."
+        },
+        {
+          "id": "E73-07",
+          "title": "The Quiet Follow-up",
+          "pair": "Bobby × Dhika",
+          "type": "india_call",
+          "continuity": "Separate Bobby from Bantu; neither message proves a deeper encounter.",
+          "status": "proposed",
+          "description": "Bobby separately messages about the holiday photo she voluntarily posted; Dhika replies with a personalized teasing line."
+        }
+      ],
+      "hook": "Both cross-couples have a negotiated basis for the next day; no “first intimacy” reset."
+    },
+    {
+      "number": 74,
+      "day": 5,
+      "title": "THE UNCOVERED TRUTH",
+      "schedule": "Private meetings → group check-in → separate India call",
+      "beats": [
+        {
+          "id": "E74-01",
+          "title": "Private Undressing Agreement",
+          "pair": "Sharmi × John",
+          "type": "resort",
+          "continuity": "Agreed proposal precedes any change.",
+          "status": "proposed",
+          "description": "John and Sharmi explicitly discuss a greater degree of private vulnerability. Neither spouse’s approval replaces their own agreement."
+        },
+        {
+          "id": "E74-02",
+          "title": "Consensual Full Nudity",
+          "pair": "Sharmi × John",
+          "type": "resort",
+          "continuity": "No intercourse planned. Verify whether this is truly new for this pair.",
+          "status": "proposed",
+          "description": "Proposed private full-viewing milestone; action kept off-page / non-graphic. They later describe emotional meaning, not anatomical detail."
+        },
+        {
+          "id": "E74-03",
+          "title": "The Vulnerability Request",
+          "pair": "Dhika × Raj",
+          "type": "resort",
+          "continuity": "A request is not a completed scene.",
+          "status": "proposed",
+          "description": "Raj asks whether Dhika would ever want a similar voluntary experience. Dhika gives an actual answer, not an assumed yes."
+        },
+        {
+          "id": "E74-04",
+          "title": "The Jealousy Comparison",
+          "pair": "Dhika × Sharmi",
+          "type": "resort",
+          "continuity": "Neither woman copies the other by default.",
+          "status": "proposed",
+          "description": "Sharmi shares her change of comfort level; Dhika responds with friendly rivalry and an independent assessment."
+        },
+        {
+          "id": "E74-05",
+          "title": "The First Personal Admission",
+          "pair": "Sharmi × Scott",
+          "type": "resort",
+          "continuity": "Optional later flirtation; no invented kiss.",
+          "status": "proposed",
+          "description": "Sharmi candidly admits interest in further conversation with Scott, but asks him to respect group boundaries."
+        },
+        {
+          "id": "E74-06",
+          "title": "The Group Holiday Call",
+          "pair": "Bantu + Bobby × Dhika / Sharmi",
+          "type": "india_call",
+          "continuity": "Private meets remain private; the twins have differentiated reactions.",
+          "status": "proposed",
+          "description": "A brief twins video call. Bantu asks about the trip; Bobby notices Dhika sounds unusually self-assured. Sharmi joins and makes a playful comment. No hotel-room private activity is shown on video."
+        },
+        {
+          "id": "E74-07",
+          "title": "The Off-Camera Conversation",
+          "pair": "Sharmi × Raj",
+          "type": "india_call",
+          "continuity": "Husband knowledge must be updated only after conversation.",
+          "status": "proposed",
+          "description": "After ending the call, Sharmi has a direct conversation with Raj about John, Scott and what she wants to disclose."
+        }
+      ],
+      "hook": "Dhika decides whether she personally wants a private viewing encounter with Raj tomorrow—not because Sharmi did."
+    },
+    {
+      "number": 75,
+      "day": 6,
+      "title": "THE LINE DHIKA CHOOSES",
+      "schedule": "Dhika-led private meeting → afternoon resort activities → India call",
+      "beats": [
+        {
+          "id": "E75-01",
+          "title": "Dhika’s Private Invitation",
+          "pair": "Dhika × Raj",
+          "type": "resort",
+          "continuity": "She is an experienced, self-directed character.",
+          "status": "proposed",
+          "description": "Dhika sends the invitation herself and names her priorities before they meet."
+        },
+        {
+          "id": "E75-02",
+          "title": "Consensual Nude Viewing",
+          "pair": "Dhika × Raj",
+          "type": "resort",
+          "continuity": "Confirm prior viewing history before naming this a first; no intercourse.",
+          "status": "proposed",
+          "description": "Proposed limited private full-viewing milestone, recorded neutrally and off-page. Neither side assumes it licenses further acts."
+        },
+        {
+          "id": "E75-03",
+          "title": "Renewed Mutual Kiss",
+          "pair": "Dhika × Raj",
+          "type": "resort",
+          "continuity": "Affection with continuity.",
+          "status": "proposed",
+          "description": "A familiar kiss follows conversation; both articulate how the relationship changed rather than repeating EP55 beat for beat."
+        },
+        {
+          "id": "E75-04",
+          "title": "The Intercourse Boundary",
+          "pair": "Dhika × Raj",
+          "type": "resort",
+          "continuity": "EP68 retained.",
+          "status": "proposed",
+          "description": "Dhika says plainly that her John-only intercourse boundary has not changed. Raj acknowledges it."
+        },
+        {
+          "id": "E75-05",
+          "title": "The Morning-After Meaning",
+          "pair": "Sharmi × John",
+          "type": "resort",
+          "continuity": "Two couples evolve in parallel, not interchangeably.",
+          "status": "proposed",
+          "description": "Their own prior day experience prompts discussion of affection, jealousy and the future."
+        },
+        {
+          "id": "E75-06",
+          "title": "The Husbands’ Conversation",
+          "pair": "Raj × John",
+          "type": "resort",
+          "continuity": "Knowledge remains individual and bounded.",
+          "status": "proposed",
+          "description": "Raj and John talk honestly about what each is prepared to know, while acknowledging nobody speaks for Dhika or Sharmi."
+        },
+        {
+          "id": "E75-07",
+          "title": "The Interrupted Post-Meeting Call",
+          "pair": "Neighbour Uncle × Dhika",
+          "type": "india_call",
+          "continuity": "Protect timelines: no hidden witness, no surprise nude video view.",
+          "status": "proposed",
+          "description": "Uncle rings *after* Dhika and Raj finish their private time, asking when they return. Dhika jokes he misses her instructions more than her; she does not disclose private hotel-room events."
+        },
+        {
+          "id": "E75-08",
+          "title": "The House-Return Tease",
+          "pair": "Dhika × Uncle",
+          "type": "india_call",
+          "continuity": "Seeds EP78 practical visit + personal subtext.",
+          "status": "proposed",
+          "description": "Uncle mentions the house will need her inspection. Dhika responds playfully that she will be the judge when home."
+        }
+      ],
+      "hook": "Sharmi knows Dhika made an independent choice; what John and Raj know is tracked separately."
+    },
+    {
+      "number": 76,
+      "day": 7,
+      "title": "SIX PEOPLE, FOUR DECISIONS",
+      "schedule": "Last-day resort activity → farewell dinner → return messages",
+      "beats": [
+        {
+          "id": "E76-01",
+          "title": "Everyone Knows Something",
+          "pair": "Six adults",
+          "type": "resort",
+          "continuity": "Keep a genuine knowledge ledger.",
+          "status": "proposed",
+          "description": "All six attend a farewell dinner. Each has different information; nothing is forced into a unanimous group confession."
+        },
+        {
+          "id": "E76-02",
+          "title": "The Playful Switch",
+          "pair": "Sharmi × Mateo",
+          "type": "resort",
+          "continuity": "Mateo is not a prize or an interchangeable new man.",
+          "status": "proposed",
+          "description": "Sharmi teases Mateo about how often Dhika has spoken to him; Dhika answers confidently."
+        },
+        {
+          "id": "E76-03",
+          "title": "The Unexpected Respect",
+          "pair": "Dhika × Scott",
+          "type": "resort",
+          "continuity": "A possible respectful acquaintance, not presumed romance.",
+          "status": "proposed",
+          "description": "Scott demonstrates improved boundaries and recognizes Dhika as someone who will confront him. His earlier behaviour is not erased."
+        },
+        {
+          "id": "E76-04",
+          "title": "The Familiar Partners Return",
+          "pair": "Dhika × Raj / Sharmi × John",
+          "type": "resort",
+          "continuity": "Neither pair starts from zero.",
+          "status": "proposed",
+          "description": "Both cross-couples share affectionate farewell moments, grounded in already established history."
+        },
+        {
+          "id": "E76-05",
+          "title": "The Marriage Conversations",
+          "pair": "Dhika × John / Sharmi × Raj",
+          "type": "resort",
+          "continuity": "No automatic blanket group permission.",
+          "status": "proposed",
+          "description": "Each married couple makes a personal, non-identical plan for future disclosure, trust and home routines."
+        },
+        {
+          "id": "E76-06",
+          "title": "The Next Invitation",
+          "pair": "Scott × Sharmi / Mateo × Dhika",
+          "type": "resort",
+          "continuity": "Two optional cross-border hooks, not completed kisses.",
+          "status": "proposed",
+          "description": "Scott floats an optional later reunion; Mateo offers a way to stay in touch. Nothing is accepted automatically."
+        },
+        {
+          "id": "E76-07",
+          "title": "Flight-Day Video Message",
+          "pair": "Bantu + Bobby × Dhika",
+          "type": "india_call",
+          "continuity": "Twin reunion seeded; future scene still open.",
+          "status": "proposed",
+          "description": "The twins ask when Dhika returns. Bantu jokes about meeting at the airport; Bobby asks whether she has had fun. Dhika does not promise an unplanned airport pickup."
+        },
+        {
+          "id": "E76-08",
+          "title": "The House Keys and the Question",
+          "pair": "Neighbour Uncle × Dhika",
+          "type": "india_call",
+          "continuity": "Direct bridge to EP78 without exposing hotel-room details.",
+          "status": "proposed",
+          "description": "Uncle sends a practical update and a half-playful question about what Mexico changed. Dhika replies that he can ask her after she returns."
+        },
+        {
+          "id": "E76-09",
+          "title": "The Two-Women Pact",
+          "pair": "Dhika × Sharmi",
+          "type": "india_call",
+          "continuity": "Preserves two female leads and emotional differentiation.",
+          "status": "proposed",
+          "description": "Both friends agree to support one another without demanding identical romance or shared secrets."
+        }
+      ],
+      "hook": "Arrival in India leads to EP77 “The Rules We Bring Home”, not an instant continuation of Mexico intimacy."
+    }
+  ],
+  "returnEpisodes": [
+    {
+      "number": 77,
+      "title": "THE RULES WE BRING HOME",
+      "schedule": "Arrival / first home evening",
+      "beats": [
+        {
+          "id": "E77-01",
+          "title": "Airport Return and Real Life",
+          "description": "All four meet ordinary travel, work and family obligations before any private reunion.",
+          "pair": "India return ensemble",
+          "type": "return",
+          "continuity": "",
+          "status": "proposed"
+        },
+        {
+          "id": "E77-02",
+          "title": "Twin Messages Become Reunion Plans",
+          "description": "Bantu and Bobby invite Dhika to catch up; Dhika chooses a time consistent with her schedule.",
+          "pair": "India return ensemble",
+          "type": "return",
+          "continuity": "",
+          "status": "proposed"
+        },
+        {
+          "id": "E77-03",
+          "title": "Dhika × John",
+          "description": "What Changed in Mexico — Dhika speaks with John about her own choices; no automatic assumption he knows the entire Raj history.",
+          "pair": "India return ensemble",
+          "type": "return",
+          "continuity": "",
+          "status": "proposed"
+        },
+        {
+          "id": "E77-04",
+          "title": "Sharmi × Raj",
+          "description": "Their Own Rules — Sharmi and Raj separately clarify what happens next with John and with Scott.",
+          "pair": "India return ensemble",
+          "type": "return",
+          "continuity": "",
+          "status": "proposed"
+        },
+        {
+          "id": "E77-05",
+          "title": "The First Home-World Callback",
+          "description": "The neighbour Uncle’s practical maintenance request becomes the next appointment, not an unannounced night visit.",
+          "pair": "India return ensemble",
+          "type": "return",
+          "continuity": "",
+          "status": "proposed"
+        }
+      ],
+      "hook": ""
+    },
+    {
+      "number": 78,
+      "title": "UNCLE NOTICES THE CHANGE",
+      "schedule": "Neighbour hallway / repair follow-up",
+      "beats": [
+        {
+          "id": "E78-01",
+          "title": "Dhika × Uncle",
+          "description": "The Familiar Doorway — Dhika arrives confident, prepared to discuss the repairs, and teasingly asks why he was so eager to see her.",
+          "pair": "India return ensemble",
+          "type": "return",
+          "continuity": "",
+          "status": "proposed"
+        },
+        {
+          "id": "E78-02",
+          "title": "Uncle",
+          "description": "Genuine Help vs Personal Motive — His practical contribution stays real; if he hints at something more, Dhika evaluates it on its own merits.",
+          "pair": "India return ensemble",
+          "type": "return",
+          "continuity": "",
+          "status": "proposed"
+        },
+        {
+          "id": "E78-03",
+          "title": "Sharmi × Dhika",
+          "description": "The Friend Who Reads Her — Sharmi notices Dhika no longer reacts with the same default embarrassment and asks what changed.",
+          "pair": "India return ensemble",
+          "type": "return",
+          "continuity": "",
+          "status": "proposed"
+        },
+        {
+          "id": "E78-04",
+          "title": "John",
+          "description": "Partial Awareness — John notices the repair visit but only knows what has actually been disclosed.",
+          "pair": "India return ensemble",
+          "type": "return",
+          "continuity": "",
+          "status": "proposed"
+        },
+        {
+          "id": "E78-05",
+          "title": "Iroh",
+          "description": "Professional Return Seed — If the plumber is involved, keep Iroh separate from neighbour Uncle and track his own availability.",
+          "pair": "India return ensemble",
+          "type": "return",
+          "continuity": "",
+          "status": "proposed"
+        }
+      ],
+      "hook": ""
+    },
+    {
+      "number": 79,
+      "title": "THE TWINS’ INVITATION",
+      "schedule": "College/work timetable / neighbourhood visits",
+      "beats": [
+        {
+          "id": "E79-01",
+          "title": "Bantu",
+          "description": "The First Holiday Compliment — Bantu greets Dhika with his usual confidence; she responds with a sharper playful comeback.",
+          "pair": "India return ensemble",
+          "type": "return",
+          "continuity": "",
+          "status": "proposed"
+        },
+        {
+          "id": "E79-02",
+          "title": "Bobby",
+          "description": "The Different Reaction — Bobby is quieter and asks about the trip rather than copying Bantu’s teasing.",
+          "pair": "India return ensemble",
+          "type": "return",
+          "continuity": "",
+          "status": "proposed"
+        },
+        {
+          "id": "E79-03",
+          "title": "Dhika",
+          "description": "A Clearer Boundary, Not a Shy Reset — Dhika can enjoy teasing while controlling conversation and access; her history with each twin differs.",
+          "pair": "India return ensemble",
+          "type": "return",
+          "continuity": "",
+          "status": "proposed"
+        },
+        {
+          "id": "E79-04",
+          "title": "Sharmi × John",
+          "description": "The Unfinished Mexico Message — A message prompts their next explicit discussion; Raj and Dhika do not automatically know the contents.",
+          "pair": "India return ensemble",
+          "type": "return",
+          "continuity": "",
+          "status": "proposed"
+        },
+        {
+          "id": "E79-05",
+          "title": "Raj × Dhika",
+          "description": "Post-Holiday Call — Raj checks in on Dhika. Both refer to Mexico without treating it as a secret promise of future intercourse.",
+          "pair": "India return ensemble",
+          "type": "return",
+          "continuity": "",
+          "status": "proposed"
+        }
+      ],
+      "hook": ""
+    }
+  ],
+  "knowledge": [
+    {
+      "name": "Dhika",
+      "knows": "Her own encounters, EP69 Scott incident, what Sharmi willingly says.",
+      "unknown": "Sharmi–John details not shared, Scott's motives, what Uncle inferred in India."
+    },
+    {
+      "name": "Sharmi",
+      "knows": "Her own John and Scott conversations, what Dhika confides, group events.",
+      "unknown": "Every Raj–Dhika private-room detail."
+    },
+    {
+      "name": "John",
+      "knows": "His own Sharmi history and Dhika's direct disclosures.",
+      "unknown": "Automatic full Raj–Dhika encounter inventory."
+    },
+    {
+      "name": "Raj",
+      "knows": "His own Dhika history and specific Sharmi disclosures.",
+      "unknown": "Everything Sharmi told John or Scott."
+    },
+    {
+      "name": "Bantu",
+      "knows": "Holiday details Dhika says during call, visible public photo or screen.",
+      "unknown": "Private resort meetings and Bobby's separate messages."
+    },
+    {
+      "name": "Bobby",
+      "knows": "His own direct messages and shared call.",
+      "unknown": "Bantu's private discussion and any hidden hotel events."
+    },
+    {
+      "name": "Uncle",
+      "knows": "Home repairs, return date, light phone conversation.",
+      "unknown": "Private Mexico encounters or Scott episode details unless told."
+    },
+    {
+      "name": "Scott",
+      "knows": "His own interactions with Raj, Dhika and Sharmi.",
+      "unknown": "Four-person history, marital agreements."
+    },
+    {
+      "name": "Mateo",
+      "knows": "Resort conversations only.",
+      "unknown": "Cross-couple history and future India dynamics."
+    }
+  ],
+  "decisions": [
+    {
+      "topic": "Mateo's identity",
+      "state": "proposed",
+      "question": "Keep unnamed resort bartender as Mateo, or rename after further EP69 source review?"
+    },
+    {
+      "topic": "EP74–75 private-view novelty",
+      "state": "verify",
+      "question": "Check prior visibility scene-by-scene before claiming a first-ever nude-view milestone."
+    },
+    {
+      "topic": "What John learns",
+      "state": "open",
+      "question": "Choose whether Dhika discloses EP75 promptly or keeps specifics for EP77 talk."
+    },
+    {
+      "topic": "What Raj learns",
+      "state": "open",
+      "question": "Choose what Sharmi tells Raj about her proposed private EP74 encounter."
+    },
+    {
+      "topic": "Scott's character direction",
+      "state": "open",
+      "question": "Keep as respectful recurring acquaintance, or a slower optional Sharmi romance without overlooking EP69?"
+    },
+    {
+      "topic": "Home-world visits",
+      "state": "open",
+      "question": "Set exact India arrival and twins/Uncle visit slots so nobody is double-booked."
+    },
+    {
+      "topic": "Original source mismatch",
+      "state": "source caveat",
+      "question": "The linked Google Doc contains Prologue and tabbed early episodes; later EP55/68/69 evidence is from reconciled episode JSON, not verified original prose in that Doc."
+    }
+  ],
+  "editorial": {
+    "method": "User-supplied original Google Doc and previously saved proposal; episode-specific earlier/later anchors reviewed with analysis caveat",
+    "representation": "Structured, non-graphic fictional planning",
+    "notIncluded": "Not copying explicit prose; EP01–69 original not rewritten"
+  }
+}
