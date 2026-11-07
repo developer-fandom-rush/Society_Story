@@ -521,3 +521,166 @@ Original author chapter ends EP41. Mexico 42–48; India return 49–51; twins P
 - [Scene-by-Scene Plan](../chotu.html?view=episodes&ep=57) — 51 detailed scene entries with participants and action names.
 - [Highest Physical Progression](../chotu.html?view=progression) — episode and character-pair peaks, including optional/none distinction.
 - [Source-Grounded Character History](../chotu.html?view=history) — 18 original source anchors.
+
+---
+
+# EP65–66: New Routines and Stranger Mystery
+
+**Status:** PROPOSED, not original canon. Original story last author-labeled EP41; this follows the hypothetical EP57–64 arc.
+
+## Original-source continuity checkpoints
+
+- Raj is already Dhika's swimming coach in [A Week before the Weekend Retreat](https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.65nfaxu0u64j).
+- Bantu/Bobby's tuition sessions with Dhika exist in [their earlier tuition story](https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.pvzqcetr9elp).
+- Leo has an existing work/travel connection with John in [The Emotional Turmoil](https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.dm7qtlia5bgt).
+- Stranger's messages and anonymous identity remain unresolved in [Prelude](https://docs.google.com/document/d/1DRuJKSOep0Eo93ZLCKGK4PxErv6kY2uo4uNZFrxerxo/edit?tab=t.ih50jyjbxgyc).
+- Daily gym, Nisha (23, working name), and these new schedules are proposals, not verified canon.
+
+## EP65: THE NEW ROUTINE
+
+**Timeline:** India Day 17 / Monday · Gym 6:45 AM → college → Raj's pool 5:00 PM → tuition 6:30 PM → Leo's arrival 8:30 PM
+**Plot mechanism:** Five tracks are connected by a realistic workday: twins show Dhika and Sharmi an adult-access gym and help set up a voluntary morning routine; Raj resumes swimming coaching; a 23-year-old female learner joins tuition; Leo returns through an ordinary work trip; the Stranger thread gets a new lead without a forced identity reveal.
+**Achievement:** Daily gym routine proposed and trial scheduled; Raj's regular swimming instruction begins again; new adult female learner joins the academic circle; Leo re-enters the household plot; Stranger remains unresolved.
+**Highest physical progression:** Gym: coached stretching / spotting by request; Pool: Raj's safety-assisted swim; tuition/Leo: ordinary greetings; no new sexual milestone.
+**Boundaries:** All new gym members and learners are adults; workout assistance and swimming safety support are not consent to intimacy. Tuition has no romantic obligations. Leo is not assumed to be Stranger.
+
+### E65-01 — The Gym Offer
+- **Characters:** Bantu × Bobby × Dhika × Sharmi
+- **When/where:** 6:45 AM · Gym reception
+- **Plot:** Twins share the membership plan and invite Dhika and Sharmi to a practical morning routine on weekdays. Sharmi asks for her own schedule and trainer, while Dhika wants a beginner-friendly progression.
+- **Non-graphic action names:** Gym Membership Invitation; Schedule Agreement; Friendly Teasing; Individual Preference Check
+- **Continuity:** A new proposed gym setup, not established historical canon.
+
+### E65-02 — Two Coaches, Not Two Owners
+- **Characters:** Bantu × Bobby × Dhika × Sharmi
+- **When/where:** 7:05 AM · Gym floor
+- **Plot:** Bantu suggests a lively circuit; Bobby proposes simpler technique practice. The women choose their own workout and any physical spotting is requested first.
+- **Non-graphic action names:** Warm-Up; Mobility Practice; Exercise Demonstration; Permission-Based Spotting
+- **Continuity:** Adult gym arrangement does not create access to anybody's body.
+
+### E65-03 — Sharmi's New Challenge
+- **Characters:** Sharmi × Dhika
+- **When/where:** 7:35 AM · Gym exit
+- **Plot:** Sharmi suggests a friendly four-week consistency challenge, measured by attendance and skill progress rather than clothing or intimacy.
+- **Non-graphic action names:** Workout Challenge; Friendly Rivalry; Progress Goal Setting
+- **Continuity:** The women have independent motivations and schedules.
+
+### E65-04 — Raj Returns as Swim Coach
+- **Characters:** Raj × Dhika
+- **When/where:** 5:00 PM · Supervised pool
+- **Plot:** Raj recalls earlier sessions and resumes teaching breathing, floating and stroke basics. Dhika wants to swim independently rather than rely on being rescued.
+- **Non-graphic action names:** Swim Assessment; Breathing Drill; Supported Float (Safety Only); Stroke Practice
+- **Continuity:** Original tab 'A Week before the Weekend Retreat' already calls Raj her swimming coach. Pool contact is practical and permission-based.
+
+### E65-05 — The New Female Learner
+- **Characters:** Dhika × Bantu × Bobby × Nisha (new adult student)
+- **When/where:** 6:30 PM · Dhika's tuition study space
+- **Plot:** Nisha, a 23-year-old postgraduate entrance-exam learner (working name), joins a trial academic tuition session. She asks difficult questions and notices the twins already know Dhika's teaching style.
+- **Non-graphic action names:** New Student Introduction; Study-Level Assessment; Academic Question Round; Timetable Agreement
+- **Continuity:** Nisha's name, age and course are proposed; she is not a canon character. Keep teacher–student conduct professional.
+
+### E65-06 — Leo Returns with John
+- **Characters:** Leo × John × Dhika
+- **When/where:** 8:30 PM · Dhika–John home
+- **Plot:** Leo arrives with a legitimate work-related visit after his prior travel and acquaintance with the household. Dhika welcomes him as an existing friend, not a new character.
+- **Non-graphic action names:** Familiar Greeting; Travel Recap; Work Visit Setup; Shared Dinner
+- **Continuity:** Leo's prior connection is verified; his return timing is newly planned.
+
+### E65-07 — The Sender's Mark
+- **Characters:** Dhika × John / Stranger
+- **When/where:** 9:30 PM · Home
+- **Plot:** The older anonymous parcel ledger reveals a repeat dispatch reference. Dhika and John note it down; the clue alone does not identify the sender or connect him to Leo.
+- **Non-graphic action names:** Anonymous Gift Callback; Delivery Reference Check; Mystery Lead; Privacy Discussion
+- **Continuity:** No accusation based on timing or appearance.
+
+**Next hook:** Next morning the gym challenge begins; Nisha returns for her first full study session, while Leo's separate work agenda and the anonymous delivery record raise new questions.
+
+## EP66: TWO WOMEN, ONE ROUTINE
+
+**Timeline:** India Day 18 / Tuesday · Gym 6:45 AM → college → tuition 4:45 PM → Raj pool 6:00 PM → Leo/Stranger developments 8:30 PM
+**Plot mechanism:** The new weekly routine is tested rather than introduced all at once. Dhika and Sharmi compete on fitness progress, Bobby/Bantu differentiate coaching styles, Nisha becomes a meaningful adult academic character, Raj's second swimming lesson tests independence, and Leo's return intersects with but does not resolve the Stranger mystery.
+**Achievement:** Morning gym proves sustainable; Dhika swims with less assistance; Nisha gains an independent subplot; Sharmi and Dhika's friendly rivalry gains practical stakes; Stranger investigation gains a verifiable paper trail.
+**Highest physical progression:** Gym: Partner Workout + Permission-Based Form Correction; Pool: Independent Float / Short Assisted Swim; Leo: Familiar Greeting / Trust Conversation; no new sexual milestone.
+**Boundaries:** New adult student remains an academic character. Raj's swimming assistance is safety-based. Leo is not declared the anonymous sender. Daily workouts need rest days and feasible scheduling.
+
+### E66-01 — The First Real Workout
+- **Characters:** Dhika × Sharmi × Bantu × Bobby
+- **When/where:** 6:45 AM · Gym
+- **Plot:** The women start the planned week. Dhika chooses a manageable strength circuit while Sharmi tests a harder set; Bantu and Bobby are workout buddies, not authority figures over them.
+- **Non-graphic action names:** Warm-Up; Resistance Training; Exercise Demonstration; Permission-Based Spotting
+- **Continuity:** This is the first full proposed scheduled gym day after EP65's trial.
+
+### E66-02 — The Friendly Scoreboard
+- **Characters:** Sharmi × Dhika
+- **When/where:** 7:35 AM · Gym
+- **Plot:** They create a four-week goal board for consistency and improving technique. Sharmi leads in one exercise, Dhika in another, avoiding a fixed winner.
+- **Non-graphic action names:** Fitness Goal Tracking; Friendly Competition; Shared Encouragement
+- **Continuity:** No clothing-based forfeits or sexual rewards.
+
+### E66-03 — Bantu and Bobby Disagree
+- **Characters:** Bantu × Bobby × Dhika × Sharmi
+- **When/where:** 7:45 AM · Gym café
+- **Plot:** Bantu wants energetic group sessions; Bobby proposes alternating personal-training-free workout days. The women decide the eventual routine.
+- **Non-graphic action names:** Workout Plan Debate; Schedule Negotiation; Independent Choice
+- **Continuity:** Keep brothers' different personalities; no one controls the women's schedules.
+
+### E66-04 — Nisha's First Full Lesson
+- **Characters:** Dhika × Nisha × Bantu × Bobby
+- **When/where:** 4:45 PM · Tuition
+- **Plot:** Nisha challenges a concept in front of the twins and asks Dhika for extra practice material. She becomes a useful rival/friend in study rather than a decorative introduction.
+- **Non-graphic action names:** Academic Debate; Study Exercise; Teacher Feedback; Homework Assignment
+- **Continuity:** Nisha is an adult and her professional relationship with Dhika is maintained.
+
+### E66-05 — Raj's Second Lesson
+- **Characters:** Raj × Dhika
+- **When/where:** 6:00 PM · Pool
+- **Plot:** Building on the earlier rescue/coach history, Raj measures Dhika's breathing and floating progress. She achieves a short independently controlled float before a supervised swim.
+- **Non-graphic action names:** Breathing Drill; Independent Float; Guided Stroke Practice; Safety Check
+- **Continuity:** A milestone in swimming skill, not an erotic escalation.
+
+### E66-06 — Leo's Ordinary Explanation
+- **Characters:** Leo × John × Dhika
+- **When/where:** 8:15 PM · Home
+- **Plot:** Leo explains his work visit and mentions who knows about his return. Dhika asks about his previous travel without accusing him of anonymous gifting.
+- **Non-graphic action names:** Travel Catch-Up; Work Agenda Discussion; Friendly Banter
+- **Continuity:** No proof that Leo is Stranger.
+
+### E66-07 — The Delivery Trail
+- **Characters:** Dhika × John × Sharmi / Stranger
+- **When/where:** 9:00 PM · Group call
+- **Plot:** Dhika shares only nonsensitive details of the delivery reference with John and Sharmi. A vendor account clue narrows the timeline but not the person's identity.
+- **Non-graphic action names:** Evidence Timeline; Delivery Verification Plan; Unresolved Suspect Check
+- **Continuity:** A lead is not a reveal; identity remains unverified.
+
+### E66-08 — Four Different Invitations
+- **Characters:** Sharmi × Dhika × Raj × Bantu × Bobby
+- **When/where:** 9:30 PM · Text thread
+- **Plot:** Raj confirms two supervised swim sessions per week; the twins suggest weekday gym access, and Dhika/Sharmi agree on a practical recurring routine that does not collide with tuition.
+- **Non-graphic action names:** Weekly Calendar Lock; Swim Class Agreement; Gym Membership Planning; Tuition Slot Confirmation
+- **Continuity:** Same shared timeline for all characters.
+
+**Next hook:** EP67 can test gym rivalry under a weekend group event, introduce Nisha's independent story and make the Stranger receipt lead more consequential without retroactively inventing identity.
+
+## EP65–66 physical progression
+
+| Episode | Participants | Highest physical milestone | Status |
+|---|---|---|---|
+| EP65 | Dhika × Sharmi × Twins; Raj × Dhika; Nisha × tuition group; Leo × John/Dhika; Stranger (unknown) | Gym exercise demonstrations and permission-based spotting; Raj's supported swim and coaching; ordinary greetings | none — no sexual escalation |
+| EP66 | Dhika × Sharmi × Twins; Raj × Dhika; Nisha × tuition group; Leo × John/Dhika; Stranger (unknown) | Coached gym session, independent swimming float and guided strokes; no sexual encounter | none — no sexual escalation |
+
+## Shared repeating schedule
+
+| Time | Activity | Cast |
+|---|---|---|
+| 6:45–7:45 AM weekdays | Gym: guided individual workouts and four-week consistency challenge | Dhika, Sharmi; Bantu/Bobby join when their schedule permits |
+| Daytime | Work / college / academic commitments | Dhika, Sharmi, twins, Nisha |
+| Twice weekly evenings | Swimming lessons; supervised, separate from tutoring | Raj, Dhika |
+| Scheduled afternoons/evenings | Adult tuition lessons | Dhika, Bantu, Bobby and Nisha |
+| Workday evenings as available | Leo's work visit and household catch-ups | Leo, John, Dhika |
+| Separately, when new evidence arises | Anonymous-gift investigation | Dhika, John and optionally Sharmi |
+
+## Open decisions
+
+- Is Nisha the final name, and which adult postgraduate/entrance course is she preparing for?
+- Gym ownership: are twins setting up membership access or running training? Current draft uses membership help/workout buddies only.
+- Stranger: no identity reveal in EP65–66. EP67 can evaluate a verifiable evidence trail before deciding who is behind the gifts.
