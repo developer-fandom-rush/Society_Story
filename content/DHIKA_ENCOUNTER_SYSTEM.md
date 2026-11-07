@@ -999,3 +999,168 @@ The 18 cast entries below use review checkboxes. Checking a box indicates the so
 - Penetrative oral–vaginal contact
 - Penetrative oral–anal contact
 - Simultaneous multi-partner penetration
+
+
+## Position, observation, BDSM and scenario taxonomy
+
+> These are generic adult-only, non-graphic scenario/role/position tags, not claims that any such act happened in the original story or that they are all penetrative. Consent and legality are independent of a character's excitement.
+
+### Sexual position labels
+Position describes arrangement, not whether penetration or consent occurred.
+
+- Face-to-face / missionary
+- Partner-on-top
+- Reverse partner-on-top
+- Rear-entry position
+- Side-lying / spooning position
+- Seated face-to-face
+- Seated rear-facing
+- Standing face-to-face
+- Standing rear-facing
+- Kneeling configuration
+- Bed-edge position
+- Reclining configuration
+- Side-by-side configuration
+- Partner-supported standing position
+
+### Observation, voyeurism & exhibitionism
+Observing and being observed are distinct roles. Voyeurism without consent is a privacy violation, not a consensual game.
+
+- Consensual in-room watching
+- Consensual remote viewing
+- Consensual group observation
+- Consensual exhibitionism
+- Cuckolding / hotwifing (agreed relationship scenario)
+- Observer-only role
+- Observer joins after separate permission
+- Mutual viewing
+- Agreed nude photography
+- Agreed video recording
+- Agreed one-to-one live video
+- Accidental witness (not consent)
+- Non-consensual voyeurism (boundary violation)
+- Unauthorized image-sharing (privacy violation)
+
+### Multiple-partner relationship configurations
+Participant count does not authorize anything; every person can consent or decline independently.
+
+- Threesome / three-adult encounter
+- Foursome / four-adult encounter
+- Group sex / orgy (all adults)
+- Consensual partner swapping
+- Swinging / consensual couple exchange
+- Mixed-gender adult encounter
+- Same-gender adult encounter
+- Two couples with separate encounters
+- Parallel couples in separate rooms
+- Group game without sexual contact
+- Shared intimacy with observer only
+- Polyamorous relationship context
+- Consensual non-monogamy discussion
+
+### BDSM, consensual power exchange & kink
+Broad context labels only; no acts are presumed. Discuss limits, safe words, aftercare and power imbalance.
+
+- Dominance/submission role-play
+- Power-exchange agreement
+- Consensual bondage/restraint
+- Sensation play
+- Consensual impact play
+- Role-play scenario
+- Light consensual roughness
+- Consensual rough sex (high-level category)
+- Command/permission role-play
+- Mutually agreed control game
+- Scene negotiation
+- Stop word / stop signal
+- Aftercare and emotional check-in
+- Boundary renegotiation
+
+### Private and public-location contexts
+A location is setting, not a physical action. Real bystanders cannot be made involuntary participants.
+
+- Private bedroom
+- Private hotel or resort suite
+- Private vacation setting
+- Private home living room (adults only)
+- Private bathroom / shower
+- Private swimming pool
+- Private gym changing area (privacy protected)
+- Private rented venue
+- Car in a private lawful setting
+- Balcony / terrace with privacy
+- Outdoors on private secluded property
+- Public-place fantasy (not enacted)
+- Public location with bystanders (legal/privacy concern)
+- Risk of accidental public exposure
+- Workplace / institutional setting (power-boundary concern)
+
+### Forbidden, secret or socially taboo relationship contexts
+These are relationship themes, not consent exceptions. Illegal, underage, familial abuse or coercion are not romantic game choices.
+
+- Consensual adultery / extramarital affair
+- Secret adult romance
+- Marital jealousy and temptation
+- Friends-to-lovers conflict
+- Former partner reunion
+- Love triangle / rivalry
+- Consensual open-marriage discussion
+- Competing relationship expectations
+- Older-adult age-gap attraction (both adults)
+- Neighbour relationship tension
+- Social-status difference
+- Employer/employee power-imbalance concern
+- Teacher/adult-learner power-imbalance concern
+- Marriage disclosure and consequence
+- Forbidden-feeling fantasy only
+- Relationship betrayal and repair
+
+### Physical act and outcome (separate axes)
+Actual act, position, spectator, location, number of people and relationship drama must be logged in separate fields.
+
+- Non-penetrative intimacy
+- Vaginal penetration category
+- Anal penetration category
+- Digital penetration category
+- Toy penetration category
+- Oral contact — non-penetrative external
+- Oral contact — penetration possible
+- Sexual contact only imagined
+- Sexual contact only recalled
+- Sexual contact reported by another character
+- Explicitly off-page intimacy
+- Encounter proposed, not performed
+- Encounter declined / stopped
+- No new sexual contact
+
+### Consent, evidence, privacy and recovery checks
+Narrative consent and reality checkboxes must not be collapsed into a heat score.
+
+- All participants confirmed adults
+- All participants agree individually
+- Viewer consent and scope confirmed
+- Recording consent independently confirmed
+- No unknowing public bystanders
+- No coercive pressure or authority leverage
+- Stop immediately respected
+- Privacy of photos/messages respected
+- Contraception and STI discussion when relevant
+- Safe-word/stop signal when relevant
+- Physical and emotional aftercare
+- Spousal disclosure or non-disclosure consequences
+- Consent can be withdrawn
+- Actual vs imagined vs recalled verified
+- Confirmed canon vs future proposal separated
+- Break episode / timeline gap logged
+
+### Classification boundaries
+
+- Penetrative act is a physical-act category; positions describe arrangement; group size describes participants; BDSM describes negotiated dynamics; location describes setting; taboo/adultery describes relationship tension; voyeurism describes an observer role.
+- Consent is person-specific and act-specific; one activity does not authorize another.
+- Unconsented voyeurism, image distribution or public exposure involving uninvolved bystanders are harm/privacy concerns, not approved erotic game beats.
+- Adults-only; no minors, coercion or nonconsensual sexual acts as fantasy checklists.
+- All category names are generic possibilities. Neither the 69-episode reconstructed secondary index nor original author EP01–41 is being asserted to contain each.
+- John watching in a proposed storyline requires consent from both observed partners and John, with separate recording permissions and an aftermath beat.
+- Forbidden in this taxonomy means socially taboo adult relationships with independent informed consent; never infer legality or consent from secrecy.
+
+**Dedicated UI:** [Positions & adult scenarios](../encounters.html?view=themes). **Separate physical acts:** [Penetrative names only](../encounters.html?view=penetration).
